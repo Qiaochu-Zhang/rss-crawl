@@ -1,0 +1,919 @@
+﻿标题,时间,作者,链接,内容
+OpenAI’s Never-Ending Soap Opera,2026-04-07T00:00:04Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/openais-never-ending-soap-opera,"What’s the bet that OpenAI’s senior management team undergoes a shake-up before the company goes public? On Sunday, The Information
+reported that
+finance chief Sarah Friar has concerns about OpenAI’s readiness to go public and its ability to support its AI server commitments. And on Monday,
+The New Yorker published
+a long profile of CEO Sam Altman that reinforced longstanding questions about his trustworthiness.
+It doesn’t seem likely that these two executives can credibly stand in front of investors together pitching an IPO. Friar seems vulnerable to replacement, given that Altman has frozen her out of some key meetings and demoted her to report to one of his underlings, as our story said. But The New Yorker profile, by reopening questions about Altman’s management style, might suggest the company would be better off if he left.
+Let’s not forget that Anthropic CEO Dario Amodei has taken
+a few subtle
+shots at OpenAI’s approach to risk management. When it comes down to it, investors might decide they prefer someone they can rely on to be careful running OpenAI. After all, the company is spending
+a lot
+of money and taking on
+a lot
+of commitments. As Amodei keeps reminding us, it’s easy to screw things up in a way that leads to financial ruin.
+Still, Altman is a survivor. And for those people paying close attention to OpenAI, The New Yorker piece had little new in it that hadn’t been previously reported elsewhere. As an OpenAI spokesperson told me, “much of the [New Yorker] piece revisits previously reported events through anonymous claims and selective anecdotes sourced from people with clear agendas.” Indeed, the piece could be said to be a win for Altman, effectively clearing him of some particularly seedy allegations that have circulated.
+One of these days, though, OpenAI might want to make itself less of a soap opera.
+Oracle’s Finance Switch
+Normally the appointment of a new chief financial officer isn’t a big story, but Oracle’s announcement of one on Monday was a bit different. That’s because it hasn’t had an executive with that title for more than a decade, since then-CFO Safra Catz took the title of CEO in 2014. Despite changing titles, she appears to have kept the finance responsibilities as she remained “principal financial officer"", the company’s securities filings show.
+Last September, when Catz suddenly stepped down as CEO, Oracle named a longtime operations executive, Doug Kehring, to succeed her as principal financial officer. That put him in the hot seat. Oracle was spending heavily to expand its AI data center cloud business, including by borrowing tens of billions. It seems a strange time for it to appoint someone whose background is more in operations as its top financial executive. In his operations role, Kehring oversaw Oracle’s move to the cloud, for instance, his LinkedIn page says.
+It turns out Oracle just needed time to find the right person. On Monday, the company announced that Hilary Maxson would become CFO, effective immediately. She had been in that role at Schneider Electric, which sells electrical equipment to data centers and other industries. That makes her an ideal person for the Oracle job. The only question is, why didn’t Oracle do the search six months earlier?
+In Other News
+•
+ServiceNow chairman and CEO Bill McDermott saw his compensation climb 37% to nearly $52 million in 2025, according to a regulatory filing Monday, thanks to a 30% higher cash bonus of $3.5 million and $43 million of stock awards."
+Can TensorWave Leapfrog Nvidia’s Big Moat?,2026-04-06T19:01:07Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/can-tensorwave-leapfrog-nvidias-big-moat,"Hello! Anissa here.
+Is Nvidia’s CUDA Vulnerable?
+Jeff Tatarchuk likes to poke the bear. The bear, in this case, is Nvidia. Tatarchuk has every incentive to challenge the chip company’s dominance. He runs startup TensorWave, which rents out AI chips from Nvidia rival Advanced Micro Devices.
+Last year, during Nvidia’s GTC conference, Tatarchuk hosted an event in San Jose, Calif., Beyond CUDA, drawing hundreds of attendees eager to talk about alternatives to Nvidia’s software stack. This year, the event is back—but with a softer tone.
+Tatarchuk renamed it Beyond Summit, and it starts Wednesday, three weeks after Nvidia’s GTC 2026 took over San Jose. The change wasn’t really his idea.
+He said some potential sponsors and attendees were hesitant to be associated with an event that so explicitly positioned itself against Nvidia. In an industry where many companies still depend on Nvidia hardware, even symbolic opposition can carry risk, he said. (I get it: I’ve talked to several companies who worry about their relationship with Nvidia,
+specifically when considering or announcing deals with rival chip companies
+.)
+Tatarchuk himself, however, has mixed feelings about the shift. On one hand, he understands the pressure, and he’s able to host a bigger event this year. On the other, the original name captured the point. Nvidia’s chips dominate AI computing, and CUDA is seen as its moat because it provides all of the software needed to easily run the company’s hardware.
+Even the logistics were a reminder of Nvidia’s gravitational pull. Tatarchuk said he initially planned to host the event in San Jose again but found his previous venue booked out for the next few years—by Nvidia itself. So this year he’s hosting his shindig weeks after GTC, this time in San Francisco.
+Still, the message behind the gathering hasn’t changed. “There is stuff being built outside of the walled gardens of Nvidia,” Tatarchuk said.
+A growing number of AI labs are beginning to experiment with large-scale training on AMD chips, he said—something that until recently was rarely discussed publicly. OpenAI and Meta Platforms, for instance, have recently announced large deals with AMD to use its chips for AI processing.
+Tatarchuk has been increasingly vocal about what he sees as an opening. For the first time in years, he believes customers are willing to at least consider looking beyond CUDA.
+“AI labs are starting to do large-scale training on AMD, which wasn’t really talked about too much before,” he said. “There are so many sophisticated companies that don’t need CUDA.”
+At the same time, a group of startups is emerging to chip away at CUDA’s moat: companies building compilers, kernels, optimization layers and other pieces of the software stack. We’ve named some of these firms in our Top 50 Startups List in
+2024
+and
+2025
+.
+Many of them will be at the TensorWave event, he said.
+Compute Coachella
+Coachella doesn’t start until this weekend—but a version of it is already underway at Stanford University. A new undergraduate course on AI infrastructure has effectively become “Compute Coachella.” It’s sold out and features a speaker lineup rivaling those of top-tier industry conferences.
+There’s no Justin Bieber or Sabrina Carpenter—but if you care about chips, power and models, it’s arguably a stronger event. Nvidia’s Jensen Huang, AMD’s Lisa Su, OpenAI’s Sam Altman, Microsoft’s Satya Nadella and OpenAI co-founder Andrej Karpathy are all slated to speak this semester.
+One reason for the big-name cast could be that the class is taught by Anjney Midha, an early Anthropic investor and former Andreessen Horowitz partner, and Michael Abbott, a former Apple engineering leader who pushed the company to
+build its own cloud service
+. Both are now working on AMP,
+the compute venture we’ve written about
+that aims to make it easier for companies to access infrastructure.
+Presumably the speakers also want to get in front of the students, whose class project is to use limited AMP computing resources over the next 10 weeks to see if they can produce frontier AI research.
+In Other News…
+My colleague Valida Pau and I broke the news of
+Blackstone buying a stake in Rowan Digital Infrastructure
+.
+Microsoft is
+in exclusive talks
+with Chevron and Engine No. 1 about developing a natural gas–fired power plant in Texas for data centers, Bloomberg reported.
+In a video shared by the Tehran Times, a spokesperson for Iran’s Islamic Revolutionary Guard Corps threatened that if the U.S. damaged its power infrastructure, Iran would inflict “complete and utter annihilation” of U.S. and Israeli facilities. It specifically called out OpenAI’s
+Stargate data center in Abu Dhabi
+, sharing photos of U.S. tech leaders announcing the project in 2025. (A spokesperson for OpenAI did not have a comment.)
+CoreWeave and Poolside, a data center startup, previously agreed to partner on a 2 gigawatt West Texas data center,
+but the deal has fallen apart
+, and now Poolside is looking for a new customer, the Financial Times reported."
+The Electric: Honeywell Jumps Into the Race to Develop Electric Aircraft for the Pentagon,2026-04-06T16:00:43Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-honeywell-jumps-race-develop-electric-aircraft-pentagon,"Multiple electric
+aviation startups
+are developing aircraft for combat missions in a race for billions of dollars in orders they expect from the Pentagon and other military buyers amid a boom in defense spending.
+Now, in an escalation of the competition, aviation industry heavyweight Honeywell Aerospace and a partner are developing an autonomous hybrid electric aircraft that would bring down drones well before they reach their targets. The move brings a major defense contractor with $17 billion in sales last year into a nascent industry until now dominated by small fry with virtually no revenue.
+Honeywell’s partner is Odys Aviation, a small Long Beach, Calif., startup that—unlike the mostly short-hop aircraft made by rivals—has developed a long-range hybrid electric aircraft. The plane, called the Laila, lifts off vertically like a helicopter, flies autonomously, has a range of 450 miles and can stay in the air as long as eight hours.
+This range and endurance allows the Laila to detect, track and disable enemy drones soon after they take off, said David Shilliday, vice president of power systems at Honeywell. Odys has flown a prototype in the U.S. and Oman.
+The U.S. currently uses expensive missiles to bring down drones such as Iran’s cheap kamikaze models because, according to Shilliday, it has no airborne system to combat them. Iran has deployed several versions of its Shahed model in swarming attacks across the Persian Gulf, and Russia uses adaptations of the Shahed to attack Ukraine.
+By aiming at military customers, Honeywell and Odys reflect an
+accelerated expansion
+of the electric flying-taxi industry beyond its civilian roots. For years, skeptics have raised doubts about the billions of dollars of investment that have poured into electric vertical takeoff and landing vehicles, or eVTOLs. Startups such as Joby Aviation, Archer Aviation and Beta Technologies have predicted massive consumer demand for short flights including routes between city centers and airports. But some investors have wondered whether the demand would grow large enough to justify the spending.
+The industry’s aggressive move into aircraft for military use makes the business case for eVTOLs more credible. The Trump administration last week requested $1.5 trillion in defense spending in the next fiscal year, a roughly 42% year-on-year increase.
+Honeywell, along with Joby, Archer and some other major electric aviation players, expect the Pentagon to order large numbers of hybrid electric aircraft as soon as later this year in contracts worth billions of dollars.
+And no one appears to be waiting for the Pentagon to formally ask: In December, Archer
+raised $430 million
+in equity to develop autonomous hybrid electric aircraft for the Pentagon with Anduril Industries, which has close ties to the White House. Joby has developed a hybrid electric prototype with defense contractor L3Harris.
+Shilliday said Honeywell’s drone detection system is ready for commercialization in the Laila. Odys—responsible for producing the aircraft itself—said it expects the Laila to be ready by the end of the year.
+“We try and build in advance of the state of need,” Shilliday said. “We try really hard not to wait for [a Pentagon request] before we do that. We try to have it shelf ready for when they’re ready.”
+Both the Archer and Joby hybrid aircraft, at least at this stage, are intended for surveillance and dropping gear in combat zones. Multiple manufacturers have proposed battery-powered drones, responding to President Donald Trump’s
+2025 “Drone Dominance” executive order
+, which seeks the production of some 300,000 one-way kamikaze drones by 2028.
+The Laila, conversely, responds to one of the most vexing and harrowing dimensions of current warfare, which is how to fight the swarms of hundreds of cheap drones that blow up on contact with a target.
+Currently, among the only ways to stop them are missiles fired from the ground or individual interceptor drones. Ukraine makes
+about 1,000 interceptor drones
+per day. Both attack drones as they approach their targets.
+Honeywell, however, has developed an operations and detection system called Samurai, which turns the Laila into something like a mother ship that relies on a turbine engine to take off and land, then engages its batteries to hover quietly for hours. The turbines charge up the batteries when needed, then switch off.
+When a drone attack occurs, AI-driven software aboard Laila can single out each aircraft and select different methods of taking them down, the two companies claim. For instance, Laila could use a microwave burst to burn out drone circuit boards, Honeywell claims. It could strike a drone with a laser. It also could release a small swarm of its own kamikaze drones to crash into the hostile ones.
+The concept behind the aircraft was “Can you take the fight to where the drone starts rather than waiting for it to reach the range of your radar?” Shilliday said.
+Odys originally developed Laila as a civilian cargo plane capable of carrying a payload of 130 pounds, with plans for a larger nine-passenger version some time in the future. The company has not disclosed what it plans to charge for the cargo version. Honeywell similarly had not initially envisioned its system for combat operations but instead to protect installations like football stadiums or military bases from hobbyist or other drones.
+But Honeywell was already in the eVTOL business, supplying flight components for Archer and U.K.-based Vertical Aerospace, for instance.
+Now its eVTOL system is configured to pursue and disable almost any kamikaze drone, most of which fly at less than 125 miles an hour. “There’s nothing about the underlying technology that would limit it,” Shilliday said.
+----
+Noteworthy
+There are early signs that
+the spike in gasoline prices from the Iran war has spilled over to a revival of demand for electric vehicles. Tesla’s European sales
+soared last month
+, as did U.S. sales of Hyundai’s electric Ioniq 5.
+CarGurus reported
+a 31% rise in visitors to its car-purchasing website checking out new EVs in March.
+But sales of large
+electric pickups may not be sharing in this recovery. General Motors
+said it would idle
+a Detroit plant that produces the full-size electric Chevrolet Silverado and the hulking electric GMC Hummer for a month, ending later this month.
+Planned U.S. AI data centers
+are facing delays and cancellations because of a shortage of electrical equipment,
+Bloomberg reported
+. The news agency estimated that almost half of the planned plants could be postponed or killed because the builders cannot find enough transformers, batteries and switching gear. The problem is broader: In a
+report last month
+, energy research firm Wood Mackenzie wrote that as of the end of 2025, U.S. data center builders had plans to install 241 gigawatts of new capacity, but that just a third of those were actually under construction. The firm said it detected signs of a sharp slowdown in construction because of a lack of enough power to serve the new data centers.
+----
+Upcoming events
+Monday, April 27—Financing the AI Revolution
+Join The Information at the New York Stock Exchange to hear top executives and investors discuss how the rapid build-out of AI is reshaping tech, finance and capital markets (
+more details
+)."
+Why SpaceX Has an Uphill Battle Growing Starlink Mobile,2026-04-06T15:00:43Z,Theo Wayt,https://www.theinformation.com/articles/spacex-uphill-battle-growing-starlink-mobile,"SpaceX executives say its Starlink Mobile direct-to-cell service offered through mobile carriers will eventually reach hundreds of millions of customers around the globe, which would help justify SpaceX’s valuation. But right now, the service’s revenue is tiny.
+T-Mobile, for instance, SpaceX’s only mobile partner in the U.S., is offering its customers access to Starlink Mobile in exchange for paying SpaceX a total of around $100 million as it hits service milestones, according to two people with direct knowledge of the deal. That includes an up-front payment worth tens of millions made when T-Mobile originally struck the deal in 2022, as well as additional payments linked to the service’s launch last year.
+That total is a tiny portion of SpaceX’s
+overall revenue
+, which was about $16 billion in 2025. The previously unreported size of the T-Mobile deal shows just how far SpaceX has to go to make Starlink Mobile a significant business. The
+regular Starlink service
+, which uses a separate constellation of satellites to beam internet to terminals rather than phones, remains much larger and is responsible for the vast majority of Starlink revenue.
+The prospects for Starlink Mobile are taking on greater significance now that SpaceX is planning to go public. The company last week reportedly filed confidentially for an IPO. SpaceX CEO Elon Musk claims that the direct-to-cell service is
+helping lift SpaceX’s valuation
+, which the company recently put at $1.25 trillion.
+Inside SpaceX, Musk has talked about the T-Mobile deal as a way to reach millions of potential mobile customers, rather than a large revenue driver at first, one of the people said.
+In public, Musk has described the T-Mobile deal as exclusive in the U.S. for the first year of service, then open to other carriers. “We are starting off working with one carrier in each country but ultimately hope to serve all carriers,” Musk
+said
+in 2024.
+A scale model of the  Starlink V2 satellite on display at T-Mobile’s booth at Mobile World Congress in Barcelona in March. Joan Cros/Getty Images.
+Starlink Mobile beams cellular service directly to phones, offering service in areas not reached by cell towers. The service is more extensive and seamless than satellite features currently offered by Apple on iPhones, which use service from satellite firm Globalstar to offer texting and location services in remote areas.
+Right now the service is a niche offering. In a presentation in March, Starlink chief Michael Nicolls said the mobile service is used by 10 million people a month globally and had connected “over 16 million unique users” in total. The largest number of those are likely in Ukraine, based on statements by Ukrainian carrier Kyivstar, which offers Starlink Mobile there. In March a Kyivstar executive said 5 million customers use Starlink Mobile for text messaging in the country. Kyivstar offers Starlink text messaging for free.
+Nicolls said the company hopes to increase the number of monthly global users to 25 million by the end of this year. But there’s
+uncertainty in the mobile industry
+about consumer demand for Starlink Mobile, given that traditional mobile networks provide reliable service from cell towers in most places where people live and work.
+For Starlink Mobile to make financial sense for carriers, they need to convince users to pay up—T-Mobile currently offers Starlink Mobile as a $10 a month add-on or as a benefit included in more premium plans. T-Mobile hasn’t disclosed precise user figures for its satellite service, but it
+said
+in January that nearly 2 million people had registered for a free beta version it launched in 2025, and that millions of text messages had been sent through the service.
+SpaceX has shown an ambition to expand Starlink Mobile. It has agreed to buy mobile spectrum from EchoStar for $19.6 billion, which the company plans to use for an expanded version of Starlink Mobile that can support video streaming and video calls. This service will operate on Starlink Mobile’s next generation of satellites, which it will launch starting next year, once its
+delayed Starship rocket
+enters service.
+SpaceX bulls envision huge growth for Starlink Mobile on the horizon. In a report published in March, a PitchBook analyst predicted that Starlink Mobile revenue would grow from an estimated $240 million in annualized revenue currently to over $42 billion by 2040.
+Aside from the uncertainty about consumer demand, Starlink Mobile also faces the prospect of growing competition. In the U.S., for instance, AT&T and Verizon have struck partnerships with
+Starlink Mobile rival AST SpaceMobile
+, which aims to start offering service later this year.
+Timotheus Höttges, CEO of Deutsche Telekom, which has a deal to launch Starlink service in Europe in 2028 and is the majority owner of T-Mobile, said in March that the company is
+open to working
+with multiple direct-to-cell service providers. SpaceX also offers Starlink Mobile through deals with other mobile carriers in several other countries including Japan, Canada, Ukraine and Australia."
+Codex and Claude Code Can Work Together,2026-04-06T14:00:43Z,Rocket Drew,https://www.theinformation.com/newsletters/ai-agenda/codex-claude-code-can-work-together,"Forget all the chatter about which AI coding tool is winning the race. The companies behind the leading AI coding tools are learning the benefits of peaceful co-existence.
+On Thursday, for instance,
+Cursor
+announced a new version of its app designed for coding with AI agents from different coding providers simultaneously, including
+Anthropic’s Claude Code
+and
+OpenAI’s Codex
+. OpenAI, meanwhile, last week released a software “plugin” that gives Claude Code customers the ability to use Codex within Claude Code. Codex can review code that Claude wrote or step in if Claude gets stuck.
+“We’ve seen Claude Code users bring in Codex for code review . . . so we thought: why not make that easier?” said
+Romain Huet
+, OpenAI’s head of developer experience, in an X post.
+Cursor engineer
+Samantha Whitmore
+explained the benefits more directly on
+a podcast last month
+, saying even if one coding agent is broadly better than another, “there could be some benefit from having multiple top-tier models involved...they each have strengths and weaknesses.”
+Claude Code seems to be firmly ahead of Codex when it comes to generating revenue. But OpenAI’s plug-in move and comments from some customers of both products suggest the two agents can complement one another, for now.
+The models powering Claude Code lead on some
+standardized tests
+for AI coding, while the models powering Codex lead on others.
+For one thing, some developers say they prefer Claude Code over Codex for designing websites and user interfaces.
+Another strength of Claude Code is planning and developing a new application from scratch, said
+DJ Sampath
+,
+Cisco’s
+senior vice president for AI software and platform.
+But when it comes to adding new features to a large, existing codebase, or rewriting many files, Sampath said he has found Codex to be more effective, especially when powered by
+OpenAI’s GPT-5.4 High
+model.
+GPT-5.4
+also costs about half the price of
+Claude Opus 4.6
+, Anthropic’s most advanced model. And according to
+Cursor’s testing
+, GPT-5.4 can accomplish the same tasks as Opus 4.6 more cheaply. That’s why some customers refer to Codex as a “workhorse” model that excels at tasks involving lots of code. (Some developers say that it can be worth paying extra for Claude’s token usage if it results in better code or a smoother user experience.)
+Because the two models are good at different things, Sampath’s employees often ask one of the models to critique and improve the code produced by the other model. (
+Microsoft
+last week launched a non-coding product that also uses OpenAI and Anthropic models to check each other’s work.)
+That kind of critiquing is catching on.
+Rob Sun
+, founding engineer at
+Dexterity
+, which makes industrial robots for unloading trucks, said he often asks both Claude Code and Codex to come up with a plan for solving the same task, then directs them to review the other’s plan.
+“Claude can execute for X amount of time until it maybe gets stuck. And then I tell Codex to help out,” he said. “And sometimes Codex also has the same issue. And sometimes Codex finds something different, and I'm like, ‘wow, how did Claude not figure that out?’”
+But to get unbiased feedback, Sun has found that it can help to conceal which agent wrote the code. Otherwise, one model can seem too hasty in critiquing work from the other, he said. For example, Sun has told Claude that “this was written by Codex. And then Claude is like, ‘Codex is wrong. It doesn‘t know what it’s thinking,’” Sun said.
+The products can also show different personalities. “Claude has a pretty good personality. It feels like a teammate and it’s excited with you, et cetera. I would say, for example, Codex is a lot more dry,” said OpenAI co-founder
+Andrej Karpathy
+on a podcast
+last month.
+OpenAI has also
+released the ability
+to switch between two personalities for Codex, one it describes as “terse” and another that’s more “empathetic.”
+Here’s what else is going on…
+OpenAI CFO Questions 2026 IPO Readiness
+OpenAI
+CEO
+Sam Altman
+and CFO
+Sarah Friar
+are diverging over the company’s timeline for an initial public offering as Altman pushes for a public debut as early as the fourth quarter,
+The Information reported
+.
+Friar has privately expressed concerns that the AI startup will not be organizationally ready for a 2026 IPO, questioning whether its slowing revenue growth can support Altman’s aggressively escalating $600 billion server spending commitments.
+People on the Move
+OpenAI’s
+CEO of AGI Deployment,
+Fidji Simo
+, is taking
+“several weeks” of medical leave
+. Simo suffers from a chronic condition called
+postural orthostatic tachycardia syndrome
+which has led her to primarily work from her home in southern California since joining OpenAI last August. In her absence, co-founder
+Greg Brockman
+will run the product organization while Chief Strategy Officer
+Jason Kwon
+, Chief Financial Officer
+Sarah Friar
+and Chief Revenue Officer
+Denise Dresser
+will run the business and operations side of the company, Simo said.
+Eric Eyken-Sluyters
+, a
+Salesforce
+sales executive who helped oversee its flagship AI tool,
+Agentforce
+, has
+left the company
+for up-and-coming rival
+Sierra
+, an AI startup founded by OpenAI chair and former Salesforce co-CEO
+Bret Taylor
+.
+Court Watch
+The
+Department of Defense
+on Thursday
+appealed a federal judge’s order
+to temporarily halt the Pentagon’s designation of
+Anthropic
+as a supply chain risk. While the Ninth Circuit reviews the order, the preliminary injunction may still go into effect on Thursday night, unless the Pentagon files—and is granted—a motion for an emergency stay of the injunction.
+Policy Watch
+Anthropic
+filed paperwork to set up a bipartisan political action committee called
+AnthroPAC
+that will be funded exclusively by employees, The Hill reported. Anthropic
+donated $20 million
+to a super PAC in February.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Singapore’s
+GIC
+is in talks to lead an investment in database startup
+Supabase
+at a valuation of about $10 billion, The Information
+reported
+. Supabase is aiming to raise about $500 million in the fundraising round, but the number could change.
+Anthropic
+has acquired AI biotech startup
+Coefficient Bio
+, which was developing a platform that enables AI to run biotech tasks such as planning drug research and development, for roughly $400 million, The Information
+reported
+.
+Galaxea AI
+, a Chinese startup developing humanoid robots, raised $291 million at a $2.9 billion valuation in a Series B+ funding round, with participation from hardware partner
+Lens Technology
+and state-backed funds.
+Xoople
+, which collects training data for AI models from satellites, raised $130 million in Series B funding led by
+Nazca Capital
+.
+Alcatraz
+, which uses AI for facial recognition to allow employees to scan into buildings, raised $50 million in a Series B funding round led by
+BlackPeak Capital
+,
+Cogito Capital
+and
+Taiwania Capital
+.
+Noon
+, which uses AI to help developers and designers collaborate in the same interface, raised $44 million in funding from
+Chemistry
+,
+First Round
+Capital
+,
+Scribble Ventures
+,
+Elevation Capital
+and
+Afore Capital
+.
+Moonbounce
+, an Oakland, Calif.-based startup that aims to control AI behavior, raised $12 million in funding led by
+Amplify Partners
+and
+StepStone Group
+.
+Blackstone
+, the world’s largest alternative asset manager, agreed to acquire a 49% stake in
+Rowan Digital Infrastructure
+, a five-year-old data center developer based in Denver,
+The Information reported
+Thursday.
+OpenAI
+has
+acquired “TBPN,”
+the popular tech news talk show that has become a hit over the last year with an enthusiastic embrace of AI and Silicon Valley.
+Microsoft
+hit an internal goal for sales of its
+Copilot
+AI software in the first three months of 2026, commercial CEO
+Judson Althoff
+told staff on Thursday,
+The Information reported
+. Microsoft also
+released new AI models
+for transcribing audio and generating images.
+Generalist
+, which develops AI foundation models for robotics, released
+Gen-1
+, an AI model designed for industrial tasks that involve manipulation, for instance to fold cloth or pack items in boxes.
+Chinese robotics maker
+UBTech
+is offering up to $18 million annual pay for a new chief scientist, an unusually high pay package for the Chinese AI industry, Bloomberg reported.
+A collection of image models codenamed
+packingtape-alpha
+,
+maskingtape-alpha
+and
+gaffertape-alpha
+appeared on AI testing site
+Arena
+. Before they were removed from Arena, users shared AI-generated images on social media and speculated that they could be forthcoming models from
+OpenAI
+.
+Elon Musk
+is requiring banks, law firms, auditors and advisors working on the initial public offering of
+SpaceX
+to subscribe to
+xAI’s Grok
+, the New York Times reported.
+Meta
+halted its work with data vendor
+Mercor
+after Mercor’s information was exposed in a security leak, Wired reported."
+Meta Employees Vie for AI ‘Token Legend’ Status,2026-04-06T13:00:43Z,Jyoti Mann,https://www.theinformation.com/articles/meta-employees-vie-ai-token-legend-status,"Employees at Meta Platforms who want to show off their AI superuser chops are competing on an internal leaderboard for status as a “Session Immortal”—or, even better, “Token Legend.”
+The rankings, set up by a
+Meta
+employee on its intranet using company data, measure how many tokens—the units of data processed by AI models—employees are burning through. Dubbed “Claudeonomics” after the flagship product of AI startup Anthropic, the leaderboard aggregates AI usage from more than 85,000 Meta employees, listing the top 250 power users.
+The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.
+Tech kingpins are egging them on. Nvidia CEO Jensen Huang
+said
+last month that he would be “deeply alarmed” if an engineer earning $500,000 annually wasn’t using at least $250,000 of AI tokens a year. Meta Chief Technology Officer Andrew Bosworth said at a tech conference in February that one top engineer was spending the equivalent of his salary on AI tokens while boosting his productivity up to 10 times,
+Forbes reported
+. “This is easy money,” he said. “Keep doing it. No limit.”
+Some tech leaders are bragging about their own use of AI to code—and admitting they, too, feel pressure to maximize it. “It’s about tokens,” Andrej Karpathy, a former top AI scientist at Tesla and OpenAI who now leads an AI education startup,
+said on a podcast
+last month. “What is your token throughput and what token throughput do you command?”
+Meta software engineers are increasingly leaning on AI coding tools. In addition to using models from Anthropic, OpenAI and Google, staffers can rely on internally developed tools, including Meta’s version of OpenClaw, called MyClaw, and Manus, which Meta recently acquired.
+Meta CEO Mark Zuckerberg this year issued what an internal memo described as a “bold ask” for engineering teams: Rewrite Meta’s code bases so AI agents can easily understand and modify them.
+“It’s well known that this is a priority and we’re focused on using AI to help employees with their day-to-day work,” a Meta spokesperson said. The company has a separate official dashboard for token usage geared toward software engineers, who are generally the biggest token burners. Employees in other roles can also view their usage. (Zuckerberg and Bosworth weren’t among the top 250 power users, said a person familiar with the statistics.)
+The Claudeonomics dashboard’s competitive dynamic has helped it gain traction internally, two people said. Over a recent 30-day period, total usage on the dashboard topped 60 trillion tokens, according to a copy of it viewed by The Information. The highest-ranked individual user averaged 281 billion tokens, which could cost millions of dollars, depending on the type of model used.
+Employees can track their personal consumption, compare themselves against colleagues and earn gamified rewards ranging from bronze, silver, gold, platinum and emerald badges to achievement titles, which also include “Model Connoisseur” and “Cache Wizard.” Some workers are instructing AI agents to carry out research for hours on end to maximize their token usage, according to two current employees.
+Tokens, which represent chunks of text or other data, influence how much compute an AI task entails. Every prompt and response, such as lines of code, is broken into these units. While the precise ratio can vary significantly, the rule of thumb is that 100 tokens equal about 75 words, making Meta’s recent monthly usage roughly equivalent to 45 trillion words.
+Tokens are also a basis for AI pricing. Rates generally differ for the input tokens models read and the output tokens they generate, with the latter costing more. Based on Anthropic’s most recent
+public pricing
+for the latest version of its Claude Opus model, 4.6, the average price for input and output is about $15 per 1 million tokens. On that basis, 60 trillion tokens would amount to roughly $900 million, though it couldn’t be learned how Meta splits its usage across different models or what prices it pays."
+Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued,2026-04-08T00:00:54Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/anthropics-revenue-growth-suggests-openai-overvalued,"The sooner Anthropic and OpenAI go public, the better—at least then we’d have proper financial disclosure. Both companies’ habit of updating the public on their revenue growth by references to either monthly revenue or annualized revenue, which is (loosely speaking) the last month’s revenue multiplied by 12, is getting old. And it’s not exactly what investors need to know.
+Take Anthropic, which
+revealed Monday afternoon
+that it was now generating annualized revenue at a $30 billion rate, more than double where it was in mid-February. More significantly, that number implies Anthropic has now passed OpenAI, which
+a week ago
+said it was bringing in $2 billion a month in revenue (implicitly $24 billion in annualized revenue). And yet Anthropic raised money in February at a $380 billion valuation, while OpenAI last month finalized a fundraising at an $852 billion value. (For another angle on Anthropic, see our
+Dealmaker column tonight
+).
+OpenAI looks way overvalued, which is bad news for investors in its last round, such as Amazon and SoftBank. They appear to have overpaid!
+To be sure, the OpenAI-Anthropic comparison is more complicated. The two companies don’t calculate revenue in exactly the same way, as my colleague Sri Muppidi
+explained in this piece
+a couple of weeks ago. Anthropic counts all the revenue it gets from its cloud partners’ resale of its models, deducting their share as a sales and marketing expense.
+OpenAI only counts the share of revenue it keeps from sales of its models by Microsoft’s Azure, its original cloud partner, Sri said. That implies OpenAI’s revenue is lower than it would be if it reported on the same basis as Anthropic. (There’s also the possibility that OpenAI increased its annualized revenue in the past week, although that seems a little unlikely.)
+And let’s not forget that the annualized revenue metric is problematic to begin with. How certain is it that one month’s revenue can be extrapolated out over the next year? As
+my colleague Stephanie Palazzolo wrote last week
+, there have been signs that Anthropic’s server capacity may be under strain from all the increased usage. If customers encounter difficulties, they might switch to a different model.
+Still, the question of which company is bigger right now is a little beside the point. It’s undeniable that Anthropic’s focus on business customers has turbocharged its growth, while OpenAI’s chaotic management seems to be holding the company back. Investors in OpenAI’s last round may indeed have overpaid, but there’s still time for the company to turn things around. Right now, though, Anthropic has the wind at its back.
+Tesla’s Sorry Tale
+Elon Musk might have to contend with an intense sibling rivalry fairly soon—between his companies. Everyone is abuzz about the coming IPO for his SpaceX rocket company. News reports are suggesting (somewhat fantastically) it
+could be worth $2 trillion
+when it goes public, expected in the summer.
+Shares of Tesla, meanwhile, have fallen 23% so far this year, dragging down its market capitalization to $1.28 trillion. That’s roughly in line with SpaceX’s last valuation, even though Tesla’s 2025 revenues of around $95 billion were six times SpaceX’s reported revenues of around $16 billion.
+While that might make people think Tesla stock is cheap, that couldn’t be further from the truth. Tesla is still trading at a huge premium to traditional automakers on multiples of sales or profits. And as a bearish report from JPMorgan Chase on Monday pointed out, the stock is 50% higher than it was in June 2022, when its delivery volumes peaked. Since then, expectations for Tesla’s performance have “collapsed for all financial and performance metrics across all time periods through the end of the decade.”
+What has kept Tesla trading at such a premium to the sector is Musk’s promise to expand the electric vehicle maker into the robotaxi and robotics market. Similarly, SpaceX’s valuation is propped up by his (literally) blue-sky vision of traveling to Mars, although investors seem to be even more positive about SpaceX than about Tesla.
+In Other News
+•
+Intel says it’s now involved in a chipmaking project led by Elon Musk’s SpaceX and Tesla.
+• Longtime Microsoft executive Eric Boyd is joining Anthropic as the AI lab’s head of infrastructure, Boyd said on Tuesday.
+• Amazon has reduced the volume of packages it will ship through the U.S. Postal Service to 80% of the current volume, under a new agreement the two sides struck.
+• Anthropic announced on Tuesday that it will be providing access to its
+unreleased Claude Mythos
+model to more than 40 organizations, including Apple, JPMorgan Chase and the Linux Foundation, so they can test their software for security vulnerabilities.
+• Amazon Web Services CEO Matt Garman on Tuesday played down the idea that Anthropic’s highly praised Claude Code tool could undercut existing enterprise software companies. But Garman warned that if incumbent software firms try to “protect what they have and not lean in” to AI, “they’re in trouble.”"
+How Anthropic Could Hit $100 Billion in Annualized Revenue This Year,2026-04-07T23:33:43Z,Sri Muppidi,https://www.theinformation.com/newsletters/dealmaker/anthropic-hit-100-billion-annualized-revenue-year,"What could stop Anthropic now? The maker of the Claude chatbot said Monday it is generating
+more than $30 billion
+in annualized revenue, up from $19 billion about a month ago and more than triple its year-end level. At that pace, the company is on track to surpass its mid-December projection of $32 billion in annualized revenue by the end of this year—and could do so eight months early!
+In fact, Anthropic already beat its conservative year-end annualized revenue goal of $28 billion, according to the projections, which haven’t previously been reported.
+That impressive growth has already likely pushed it ahead of the older and larger OpenAI, whose
+annualized revenue topped $25 billion
+at the end of February. That’s likely even taking into consideration some differences in how the two AI leaders account for sales of their software through cloud partners, as I’ll get into more below.
+Anthropic’s growth rate over the last four months means it could easily outstrip next year’s revenue targets as well, which are shown in our chart. Since December, its annualized revenue has jumped more than three times. If that growth rate continues, it will hit $100 billion in the next three months—and $2 trillion by year end!
+Of course, there are many reasons $2 trillion in revenue—nearly three times Amazon’s revenue last year—is an unreasonable outcome.
+For a start, Anthropic would need a lot more servers to run the AI customers are buying. It just inked a new deal with Broadcom and Google for multiple gigawatts of server capacity starting in 2027. About 3.5 gigawatts could potentially cover an additional $100 billion in revenue, according to newsletter writer Ben Thompson.
+The company wants more compute capacity. Anthropic previously discussed securing at least
+10 GW of capacity
+over the next several years. As a point of reference, Amazon Web Services brought 4 GW of capacity online last year.
+The market for AI, too, is still nascent and couldn’t support $2 trillion in AI sales this year.
+And lastly, growth will slow at some point. It’s likely that Anthropic is in the exponential phase of what’s known as the S-curve. In the last phase, growth slows with market saturation and increased competition.
+The red-hot growth streak does hold enormous ramifications for the company, as well as its competitors and backers.
+For one, Anthropic could potentially become cash flow positive earlier than it has projected. In December, it forecast
+generating cash in 2028
+, two years earlier than
+OpenAI’s projection
+. That’s a good story to tell if Anthropic eventually goes public, which could be
+as soon as the fourth quarter
+.
+On the other hand, the need for expensive compute could drive up inference costs, the expenses of running AI, cutting into cash flow and margins. Already, Anthropic’s gross margins last year were 10 percentage points lower than it had previously expected as
+revenue growth surged and inference costs spiked
+.
+The company may try to strike compute deals and find ways to make inference more efficient to offset these growing pains.
+And Anthropic’s performance will put more pressure on OpenAI to speed up its own revenue growth. OpenAI,
+under senior executive Fidji Simo
+, has been slashing cash-burning projects like video app Sora as it tries to focus on revenue-generating projects and business customers, which are Anthropic’s bread and butter.
+Some
+defenders of OpenAI
+have pointed out that OpenAI’s revenue would look bigger if it followed the same accounting treatment for revenue it gets from selling AI through partners such as Microsoft and Amazon as Anthropic does.
+As I explained in
+this Dealmaker
+, OpenAI counts 20% of the sales of its models through Microsoft Azure as revenue.
+Anthropic, in contrast, counts all of the Claude sales made through
+Amazon Web Services, Microsoft and Google
+as revenue. The difference stems from OpenAI’s longstanding relationship with Microsoft, which has exclusive rights to use OpenAI’s intellectual property and controls the Azure OpenAI service.
+Still, the differences in accounting treatment wouldn’t narrow the revenue gap by much. If OpenAI structured its cloud partnership with Microsoft the same way Anthropic does with Amazon, Microsoft and Google—and accounted for sales through the cloud providers the same way—its annualized revenue would be higher by the low billions of dollars, according to a person with knowledge of OpenAI’s finances.
+Today on TITV
+Anthropic’s Revenue Surge, Meta Employees’ ‘Tokenmaxxing’"
+Microsoft’s GitHub Sees Booming Traffic—and Outages—as AI Agents Flood Platform,2026-04-07T17:30:04Z,Aaron Holmes,https://www.theinformation.com/newsletters/applied-ai/microsofts-github-sees-booming-traffic-outages-ai-agents-flood-platform,"Software developers are using AI agents to crank out more lines of code than is humanly possible, with
+companies like Meta hosting “tokenmaxxing” contests
+to see which coders can spin the AI meter the fastest.
+That trend is leading to a surge in traffic at Microsoft-owned GitHub, which hosts repositories where companies can upload and edit their source code. The AI-driven influx is causing a boom in business and straining GitHub’s servers, according to COO Kyle Daigle.
+GitHub staff celebrated last year when the number of “commits,” or times that users saved new code to their GitHub database, exceeded 1 billion annually for the first time, Daigle said in an interview. Since then, commits have surged to 275 million
+per week
+, and the company is on track for 14 billion commits this year. That represents a roughly 14x increase in traffic from a year prior.
+“Since January, every month, every week almost now has some new peak stat for the highest [usage] rate ever,” Daigle said. He attributed the growth to “both agents and humans,” and also noted that the rise of AI coding tools has led to a rise in humans without deep coding knowledge starting to use GitHub’s platform more.
+Another such metric is “pull requests,” or proposed changes to existing applications that developers are building. The number of pull requests submitted by AI agents on GitHub has swelled from around 4 million in September to over 17 million in March, Daigle said. Public data paints a similar picture: the weekly number of times Claude Code has committed code to public GitHub projects has increased nearly twenty five-fold in the past six months, from around 100,000 to more than 2.5 million last week.
+The surge coincides with the release of new AI agents that have become immensely popular with developers. Those include OpenAI’s Codex, released in February, and Anthropic’s Claude Code, which has been out since last year but saw a surge in usage as Anthropic released newer, more capable models in recent months. Developers also have embraced open source tools like OpenClaw that can harness agents like Codex and Claude to automate work across various applications on a user’s computer.
+It’s not clear how much the surge in traffic at GitHub is translating into new revenue. GitHub charges a flat per-person fee for its paid subscriptions, and charges extra based on how much people use GitHub’s own AI features, but those fees don’t apply to third party agents like Claude Code interacting with GitHub (Daigle didn’t specify how much GitHub’s revenue has grown during that time period, but said that recent updates to its GitHub Copilot tool have led to a rise in sales of that product).
+For now, some developers are grumbling about problems associated with the rise in traffic. OpenClaw founder Peter Steinberger
+complained
+last week that he kept running into limits on how much he could use GitHub’s application programming interface, griping that “this hasn't been designed with agents in mind.”
+GitHub has also seen
+a rise in outages in recent months
+, which the company attributed to spiking traffic as well as its effort to move its applications from its own servers to Microsoft’s Azure cloud.
+GitHub is now racing to meet the surging demand. The business has been rapidly adding new servers and rejiggering its backend software to be more reliable, Daigle said.
+Meanwhile, GitHub faces more competition. Claude Code and Codex have posed new threats to GitHub’s sales of its own GitHub Copilot agent. Former GitHub CEO Thomas Dohmke, who left the company last year, recently founded his own startup that aims to give developers an AI-friendly environment for storing and testing code.
+And OpenAI itself—one of the engines behind the surge in AI generated code—has been considering building its own version of GitHub to use internally,
+The Information previously reported
+, which the startup could look to sell to users of Codex.
+Still, Daigle said stiff competition in the AI coding market isn’t a problem as long as usage of GitHub keeps growing as rapidly as it has.
+“The zeitgeist in this era moves really fast and it leaves a lot of people behind,” Daigle said. “That‘s totally fine because at the end of the day, every one of these tools are pushing their code into GitHub … And that’s been a huge, huge, huge growth driver.”"
+Anthropic’s Compute Crunch Strikes Again,2026-04-07T14:00:04Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/anthropics-compute-crunch-strikes,"Anthropic
+said Monday afternoon
+it had topped
+$30 billion in annualized revenue, implying growth surged 58% since the end of February. It also suggests the maker of the
+Claude
+chatbot may have surpassed
+OpenAI
+, which was generating $25 billion in annualized revenue in February.
+Despite its success, Anthropic isn’t winning any fans in the developer community as it tries to clamp down on people using Claude to power tools like the open-source AI agent
+OpenClaw
+. But the bigger worry may be why it is clamping down in the first place.
+The company on Friday said customers would have to purchase extra capacity—instead of using their existing Claude chatbot subscriptions—if they wanted to use Claude for third-party tools like OpenClaw.
+Developers
+weren’t happy.
+Hamza Mostafa
+, who previously worked on
+OpenAI’s
+agents team, told me he’s been using OpenClaw with Claude since February for tasks like responding to emails and messages. He said he’s never run into usage limits in the past with this approach.
+Now, Mostafa will have to pay for the Claude models through Anthropic’s application programming interface on top of his $200-per-month Claude chatbot subscription, if he wants to continue using them to power his OpenClaw AI agent. (To lessen the pain, Anthropic is also offering customers free one-time credits for extra usage and discounted bundles of extra usage for purchase.)
+Mostafa said he had been considering in recent weeks whether he should cancel his
+ChatGPT
+subscription. Now he’s wondering if he should switch over to OpenAI’s models for OpenClaw instead, he said.
+So what’s driving this? One word: capacity.
+Boris Cherny
+, Anthropic’s Head of
+Claude Code
+, said in a
+post
+that the company had to make the change because its Claude “subscriptions weren't built for the usage patterns of these third-party tools”—in other words, that tools like OpenClaw are overpowering the company’s compute resources.
+This is especially true because of the nature of agents like OpenClaw. Many people are using OpenClaw to automatically run tasks every hour or every few hours, meaning that the models powering the agent are hit with a surge in traffic every hour at the top of the hour. While models accessed through APIs can handle that spike in traffic, chatbots like Claude can’t because they’re more built for users who ask questions intermittently throughout the day.
+“Using Claude subscriptions with third-party tools isn't permitted under our Terms of Service, and they put an outsized strain on our systems,” said an Anthropic spokeswoman. “Capacity is something we manage thoughtfully, and we need to prioritize customers using our core products.”
+More broadly speaking, though, this compute crunch is an issue Anthropic
+has been struggling with in recent months
+, and is likely one that will plague it throughout 2026 since it can take months if not years for new compute capacity to come online.
+So not only is Anthropic struggling to cope with a compute crunch, it now has to face the chance that rival AI labs like OpenAI or
+Google
+could swoop in to steal spillover customers—something that's clearly already happening. Coming as Anthropic prepares to go public, the company suddenly has a lot to worry about.
+Here’s what else is going on…
+Policy Watch
+OpenAI
+suggested possible tax changes and a four-day work week as part of a range of
+potential industrial policies
+to prepare for the arrival of smarter-than-human AI systems it is developing. In a list of both economic and AI safety interventions, OpenAI advocated for workers to use AI to start their own companies, as well as international collaboration on model evaluations and auditing standards for the safety practices of AI companies.
+Court Watch
+OpenAI’s
+chief strategy officer,
+Jason Kwon
+, on Monday
+asked the attorneys general
+for California and Delaware to investigate
+Elon Musk’s
+alleged efforts to undermine OpenAI. OpenAI argues that Musk has attempted to interfere with OpenAI, calling his actions “anti-competitive.”
+People on the Move
+Oracle
+named
+Schneider Electric’s
+former chief financial officer
+Hilary Maxson to be CFO
+, the first time in years the software-and-cloud giant has had a CFO.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Firmus Technologies
+, which builds AI data centers powered by renewable energy in the Asia-Pacific region, raised $505 million at a $5.5 billion valuation in a funding round led by
+Coatue Management
+, with participation from
+Nvidia
+.
+Natter
+, a New York City-based startup that uses AI to help companies run surveys and focus groups, raised $23 million in funding led by
+Renegade Partners
+.
+Beacon Biosignals
+, which uses wearable EEG headsets and AI to analyze brain data for neurological and sleep conditions, raised $11 million in an extension to its Series B funding round. The extension was backed by
+JSL Health
+,
+Palo Santo VC
+,
+Kicker Ventures
+and
+Samsung Next
+.
+NeuBird AI
+, which makes AI agents to detect and resolve IT issues, raised $19.3 million in a funding round led by
+Xora Innovation
+.
+Trent AI
+, a London-based startup that develops AI security software for agents, raised $13 million in seed funding led by
+LocalGlobe
+and
+Cambridge Innovation Capital
+.
+Miravoice
+, which uses AI to conduct automated phone surveys in multiple languages, raised $6.3 million in a seed funding round led by
+Unusual Ventures
+.
+Ridge AI
+, which allows software companies to add AI-powered analytics dashboards to their products, raised $2.6 million in a pre-seed funding round led by
+Madrona
+, with participation from
+TheFounderVC
+.
+Broadcom
+said that it would
+supply Anthropic
+with access to around 3.5 gigawatts of
+Google’s
+tensor processing units starting in 2027. The chip designer’s update, made in a securities filing, expands a previous partnership to supply
+Anthropic
+with about 1 gigawatt worth of TPUs. Broadcom shares jumped 3% after hours.
+Meta
+plans to initially keep some of its upcoming AI models proprietary before open-sourcing them so developers can download and modify them, Axios reported.
+Netflix
+released
+Void
+, short for video object and interaction deletion, an open source AI model for removing objects and their interactions from videos.
+OpenAI
+,
+Anthropic
+and
+Google
+are sharing information with each other through the
+Frontier Model Forum
+in an attempt to detect rivals’ efforts to copy or “distill” the capabilities of their models contrary to their terms of service, Bloomberg reported.
+Adobe Acrobat
+released
+Acrobat Spaces
+, a free tool for students which will allow them to create presentations, flash cards and quizzes from study materials such as PDFs, links and notes."
+Amazon’s Tough Stance on Prices Prompts Brands to Pull Products,2026-04-07T13:00:20Z,Ann Gehan,https://www.theinformation.com/articles/amazons-tough-stance-prices-prompts-brands-pull-products,"Selling on Amazon is getting tougher for some big brands.
+In recent months, Amazon has rebuffed requests from some of the company’s wholesale suppliers to increase what it pays for their inventory, forcing brands to swallow higher costs related to tariffs, and more recently, oil prices, according to people who work with consumer brands like Colgate and Adidas and help them manage their relationships with Amazon.
+One result is that some brands are scaling back what they sell directly through Amazon, the people said, and in some cases, they’re pulling some lower-margin products from the e-commerce giant’s site altogether. In other cases, they’re listing the products through outside sellers that sell on Amazon’s platform, which could increase brands’ costs and eat into their profits.
+Amazon says it works closely with vendors to understand the cost pressures they’re facing, including tariffs and supply chain costs, and factors those into its negotiations. Amazon says its goal is to provide customers the lowest prices across the widest selection.
+Amazon’s hard line with brands may reflect its desire to hold the line on retail prices as much as it can. But it’s also likely part of a bigger strategy aimed at maintaining its profit margins and offsetting the impact of growing sales of low-priced goods like perishable food and paper towels.
+These low-priced goods are not profitable for Amazon to sell. The company’s
+retail chief, Doug Herrington
+, has long cheekily referred to these items as “CRAP,” or “can’t realize a profit.” But Amazon’s strategy has long been to offer those products in hopes of persuading shoppers to return more frequently to the site, when they will also buy more-profitable products.
+That strategy appears to be working. Amazon’s sales of everyday goods grew nearly twice as fast as its sales in all other categories in the U.S. last year and represented one of every three products it sold last year. The company has also been spending to
+make faster deliveries
+on some goods, including same-day and next-day shipping, to keep shoppers hooked.
+So far, this push hasn’t hurt the profitability of its retail business. Operating margins in its North America retail business rose to 6.9% in 2025, up from 6.5% in 2024 and 4.2% in 2023.
+Costly to Ship
+Amazon is likely keen to ensure its margins continue rising. Consultants and vendors who work with Amazon say the company has effectively pulled back from certain products that are not strategically important and are difficult to sell profitably. That pullback includes some low-priced products like canned beverages or heavy items that are expensive to ship.
+Brand consultants interpret Amazon’s actions as a shift away from its “everything store” philosophy.
+“
+Historically Amazon has tried to make everything work. What I mean by that is in terms of all selection,” said Jason Landro, co-CEO of digital marketing agency Nectar, which helps brands including Epson manage their Amazon storefronts and supplier relationships with the e-commerce giant. Now “we see instead…Amazon is moving away from products that really don’t work online,” Landro said.
+In a statement, Amazon said it hadn’t changed its philosophy. “We continue to expand our selection across our store,” a spokesperson said in a statement. As “part of our standard process, we’re continually working with our broad, varied range of valued selling partners in our store on joint business planning, while maintaining broad selection and low prices for customers,” the spokesperson added.
+Two-thirds of the goods available on Amazon are sold by outside merchants. But about one-third of the company’s more than $700 billion in annual retail sales come from items it buys in bulk and resells, typically from big, well-known brands such as Procter & Gamble and Nestlé. Under those arrangements, Amazon sets the price for goods on its site and agrees up front what it will pay brands for them.
+Amazon typically negotiates annually with those big brands over inventory pricing. Some negotiations include agreements that guarantee that Amazon will make a certain profit margin when it sells a brand’s products. That means the brands are responsible for covering the difference between the guaranteed margin and the total cost for Amazon to sell and deliver the products to shoppers.
+That means brands, not Amazon, are on the hook if tariffs or higher transportation costs raise prices they pay for goods, or if Amazon decides to lower the retail price it sells an item for. (Amazon has control over retail pricing for items it buys in bulk from suppliers.) And while very large brands typically sell a wide range of products and therefore have more leverage with Amazon, brands that are only dominant in one or two categories can’t negotiate as effectively, one of the people said.
+Instead of entering into agreements that could leave them on the hook for more payments to Amazon, some of those brands are starting to pare down the range of products they sell to the company wholesale. Since Amazon typically doesn’t allow brands to simultaneously be both wholesale suppliers and sellers on its marketplace for outside merchants, some brands are instead turning to outside resellers to list their goods on Amazon’s marketplace.
+“Brands are realizing that Amazon has evolved—that it’s not only about selection anymore, and that it’s more so about profitability, and then they have to evolve their strategy,” Landro said, adding that some of his clients are starting to move away from having their full product lineup available on Amazon, instead outsourcing the sales of some products to resellers or other outside sellers who can list products on their own.
+Shifting more of Amazon’s sales to outside sellers and away from inventory Amazon buys in bulk could help the e-commerce giant further cut down on costs. Outside sellers have to pay Amazon for services like storage, shipping and advertising, in addition to giving it a cut of their sales. But even that strategy is too costly for some brands—some of the advisers who work with Amazon suppliers said several of their clients have recently decided to stop selling on Amazon altogether."
+Meta Tries to Light a Fire in AI Market,2026-04-09T00:00:29Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/meta-tries-light-fire-ai-market,"Guess what: Meta Platforms is still in the AI model game. You might have forgotten that fact, given that it’s been a little while since we’ve seen much new on the AI front from the Facebook owner. But CEO Mark Zuckerberg
+took to Threads on Wednesday
+to reveal the new model family, known as Muse, and its first member, Spark.
+Meta stock jumped 6.5% on the news, although the market was up strongly, so not all of that was a reaction to the new model. Still, the release is good news. The New York Times
+had reported last month
+that Meta had put off the release of its new models because they fell short of rival models’ performance. Given that Meta spent many billions building a
+new team
+of engineers,
+led by former Scale AI CEO Alexandr Wang
+, any meaningful delay would have been a disaster.
+So will Spark light enough of a fire in the AI market to change Meta’s trajectory? Maybe. Meta seems to be aiming at the consumer market—Zuckerberg noted that the new Meta AI would be “particularly strong” in areas such as “health, social content, shopping, games.” While many consumers are likely already set on their favorite chatbot—most likely OpenAI’s ChatGPT or Google’s Gemini—there may be quite a few still undecided. Meta’s AI chatbot is installed on its social media apps, which reach about 3.5 billion people. That should give it a leg up if it can get some positive buzz for the new AI models.
+That’s a big if, of course. What makes this interesting is what Meta’s success could mean for OpenAI. Right now, the ChatGPT firm’s biggest hope in driving revenue growth may be advertising, seeing as Anthropic seems to have the enterprise market sewn up. But the two companies that know how to sell digital advertising best are Meta and Google. Both are already using their AI tech to turbocharge their ad businesses. If Meta can make progress on the chatbot front, OpenAI will have an even harder time building a decent ad business in ChatGPT.
+Treating Options as Debt
+The high cost of stock compensation has become an even more hotly contested issue this year as investors have turned negative on
+enterprise software firms
+, which are big proponents of stock comp. Here’s an idea that deserves more attention: treating the potential cost of some employee options and restricted stock as debt.
+That’s how the UBS HOLT stock valuation model treats stock compensation that can be exercised but hasn’t been, according to my colleague Ken Brown, who wrote about
+the HOLT model today.
+Imagine if accounting authorities mandated that approach as the standard! It would have quite the impact by inflating companies’ debt levels.
+Consider how it would affect one company, Netflix, which has long leaned heavily on stock options to pay employees. As of Dec. 31, Netflix reported that 127.7 million options were outstanding that had vested, with an average exercise price of $36.07—well below Netflix’s stock price of just below $100.
+Netflix calculated that the total value of these options—the difference between the stock price and the exercise price—was $7.4 billion as of Dec. 31, when the shares were a little lower than they are today. Netflix had about $14.5 billion of regular debt at that point, so if analysts were to treat the option value as extra debt, it would increase the total significantly.
+In Other News
+• ​​
+Meta Platforms has taken down an internal, employee-built leaderboard tracking how many tokens staffers were using. The dashboard, which employees referred to as Claudeonomics, showed companywide total usage over a recent 30-day period of over 60 trillion tokens,
+The Information reported
+on Monday.
+• Former Andreessen Horowitz general partner Anjney Midha has secured $1.3 billion for the first fund for AMP, his newly formed venture firm,
+The Information reported.
+• Perplexity’s annualized revenue run rate has more than doubled since the end of last year to $500 million as of this week, said a person familiar with the situation, as demand for the AI firm’s new agent-based product drives subscription growth.
+• Alibaba Group senior executive Jingren Zhou, who is in charge of AI model development, will stop serving as Alibaba Cloud’s chief technology officer and concentrate on his AI role, according to an internal memo.
+• OpenAI CFO Sarah Friar said in a CNBC interview that the company would reserve a portion of shares it sells in its eventual IPO with individual investors, as SpaceX is doing,
+CNBC reported."
+Nebius in Talks to Buy Israeli AI Startup AI21 After Nvidia Deal Fizzles,2026-04-08T21:39:34Z,Valida Pau,https://www.theinformation.com/articles/nebius-talks-buy-israeli-ai-startup-ai21-nvidia-deal-fizzles,"Nebius, a cloud provider backed by Nvidia with a market cap of $32 billion, is in talks to buy Israeli-based AI startup AI21 Labs, according to people with knowledge of the deal.
+The potential deal would help Amsterdam-based Nebius expand AI services for its customers beyond its main business of renting out servers. AI21 develops large language models and systems for enterprise agents. The Israeli-based startup, last valued at $1.4 billion in 2023, had discussed a sale to Nvidia last year, but the deal didn’t pan out, according to some of the people.
+The discussions are ongoing and the companies may not reach an agreement. The potential acquisition price couldn’t be learned. Nvidia had considered buying AI21 for as much as $3 billion, Israeli news site Calcalist reported in December. The startup also held talks with other large technology suitors, according to one of the people.
+The Nebius talks show the growing ambitions of upstart cloud providers including CoreWeave and Together AI. As demand for servers to run AI has surged over the last three years, they have been trying to diversify their customers and provide more AI tools to these developers.
+“We do not comment on rumours and speculation. Nebius is building a full-stack AI cloud and we continuously evaluate opportunities to expand our platform to give AI builders and enterprises the capabilities they need,” said a Nebius spokesperson. AI21 founder Yoav Shoham declined to comment. A spokesperson for Nvidia didn’t have a comment.
+AI21 Labs was founded in 2017 by Shoham, a Stanford University computer science professor who founded a calendar-scheduling startup acquired by Google; Ori Goshen, who founded telco analytics and network optimization startup CrowdX; and Amnon Shashua, CEO of autonomous driving company Mobileye, which Intel acquired in 2017 and spun out as a separately traded company in 2022.
+As OpenAI’s ChatGPT took off, the startup
+tried to differentiate itself
+by providing models that are smaller and cheaper to run than those of other startups.
+In 2023, the startup generated most of its revenue from Wordtune, an AI writing assistant for consumers,
+The Information reported at the time
+. In the past two years, it has pivoted to focus on building AI systems and specialized AI agents for enterprise customers. It employs about 200 people, according to LinkedIn.
+Nebius was started in 2024 from the non-Russian assets of tech giant Yandex following Western sanctions on Russia in the wake of its invasion of Ukraine. Renamed Nebius, the company listed on the Nasdaq Stock Market in late 2024.
+Revenue has been on a tear as Nebius has signed more large customers. Earlier this year, it announced Meta Platforms
+had struck
+a deal to spend $27 billion
+on its AI data centers over the next five years. Nebius has also been one of
+dozens of customers Nvidia has backed
+over the last few years. In March, Nvidia said it would invest $2 billion in Nebius.
+It has already expanded beyond data centers. In February, it agreed to acquire Israeli startup Tavily, which develops search tools to help autonomous agents navigate the web. It also runs autonomous driving company Avride and ed tech business TripleTen and has stakes in database management startup ClickHouse and data labeling startup Toloka.
+Other cloud and data center providers that have grown rapidly during the AI boom have also been buying software startups. Last year, CoreWeave bought
+Weights & Biases
+, a startup that helps developers build AI applications, for $1.7 billion. In August 2025, data center developer Crusoe purchased a Tel Aviv–based cloud computing startup,
+Atero
+, which develops software to improve the utilization and efficiency of graphics processing units."
+Nvidia Worth $22 Trillion? This Old-School Financial Model Says Yes.,2026-04-08T16:07:45Z,Ken Brown,https://www.theinformation.com/newsletters/the-information-finance/nvidia-worth-22-trillion-old-school-financial-model-says-yes,"Nvidia shares should be worth a lot more than they are now—400% more, to be exact. And most software stocks should be worth less—some a lot less—than they are now. You can find assessments like these all over social media, but in this case, they come from one of the most respected quantitative investing models in finance.
+UBS HOLT is that model, and it has rarely loved a stock as much as it does Nvidia’s. “We think share price should be 400% higher,” said John Talbott, the U.S. head of HOLT’s technology coverage. That would put Nvidia’s market capitalization at a mere $22 trillion (compared with $4.46 trillion on Wednesday morning). It’s a big number for investors to swallow. “That’s the big pushback I get,” he said.
+Talbott is less optimistic about the future of software. Viewed through the HOLT lens, software companies are generally expensive relative to their expected future growth rates. The market generally agrees, the industry lost $2 trillion in market value this year, but HOLT provides a smart framework for understanding software companies and picking potential winners. One winner could be Adobe, whose battered share price implies zero future growth. In this case, the market might be too negative.
+Serious financial analysts have used UBS HOLT for decades because it strips companies down to one critical metric—how much cash they earn on the money they invest in their business. It doesn’t matter whether the company makes semiconductor chips, car tires or hamburgers—the metric is the same: cash flow return on investment.
+CFROI, HOLT argues, improves on commonly used metrics such as return on equity and return on invested capital by stripping out accounting distortions, emphasizing cash flow and adjusting for inflation. It then combines CFROI with the company’s assets and its current and future growth to measure what it’s worth.
+The model is well suited for analyzing tech. One reason is that it assumes every company’s growth rate will fade over time, even Nvidia’s. Every company’s CFROI will also decline until it is in line with that of the average company. HOLT believers will happily show how the model predicted fading growth for Yahoo, Cisco and Sun Microsystems during the dot-com bubble.
+“There comes a time in every tech cycle when today’s winners are not the winners of the future,” said Talbott, who has been a HOLT analyst for nearly 17 years.
+The HOLT model dates back to the 1970s, and the company formed in 1985. Credit Suisse bought it in 2002, and when that bank failed, HOLT landed at UBS. Its 550 clients range from mutual fund managers to sovereign wealth funds. HOLT tracks 20,000 stocks globally.
+Why is HOLT so infatuated with Nvidia? The chip company has delivered some of the best long-term performance ever registered on HOLT’s metrics. The CFROI for the average nonfinancial company is 6%, but Nvidia is at 73%, putting it in the top 0.1% of all companies. And Nvidia’s asset growth, using typical balance sheet numbers such as capital expenditures plus other metrics, is in the top 0.5% of companies. “We’ve never seen anything like this in our system—it’s incredible,” Talbott said.
+Just as important, Nvidia has beaten the fade. Its returns have continued to rise when HOLT’s model predicted they would fall. Nvidia has also focused on growth, which is exactly what a company with such a level of return should do in HOLT’s model. Companies with weak returns should focus on improving profitability rather than growth, HOLT advises.
+HOLT doesn’t issue buy and sell recommendations, and its model better suits broad investment themes rather than individual stocks. But the model offers insights investors might otherwise miss, and it lets its clients plug in their own variables—say, for sales growth—if they think its assumptions are wrong. Analysts looking at Nvidia could, for example, account for the circular financing deals the chipmaker has done with its customers.
+Software is one industry where HOLT stands out, not because of its stock predictions but because the firm is obsessed with the cash companies generate and with making data comparable across the entire market.
+That’s important for software, where stock-based compensation, such as employee stock options and restricted stock, is far higher than it is for the market overall. At companies such as Palantir and CrowdStrike, stock-based compensation equals more than 20% of sales, according to HOLT.
+Stock-based compensation is deducted from official earnings but many companies try to get investors to look at disclosures that ignore it. Companies often don’t include stock-based compensation when they give earnings guidance. That makes it hard to make comparisons across the industry.
+HOLT sees stock-based compensation as an economic cost and deducts that figure from current and projected cash flows. It considers options that can be exercised as debt.
+By making all of the numbers comparable, HOLT’s model helps make sense of an industry in turmoil. It would be easy to say the sell-off in software companies has made some of the stocks cheap. Most of the industry is still growing sales and generating CFROIs above 20%, far higher than the overall market.
+However, HOLT shows the impact of stock-based compensation on the companies’ results, oftentimes making them look less impressive. It also invokes the fade, assuming that the industry’s historic high growth rates won’t last. “The trillion-dollar question is, are we not fading it enough?” said Talbott.
+Combining company fundamentals with market expectations can yield interesting results. HOLT says among large software companies, only Adobe is priced for zero sales growth, while Oracle, Microsoft, Salesforce and Intuit are the only ones investors believe will grow less than 5%. Deep pessimism often precedes good returns.
+Nvidia and the software makers are in some ways the bull and bear cases for AI. If Nvidia keeps crushing it, today’s software growth numbers might in retrospect sound ridiculously optimistic."
+The Startup Building Code Management Software for ‘Tokenmaxxers’,2026-04-08T14:00:54Z,Julia Hornstein,https://www.theinformation.com/newsletters/ai-agenda/startup-building-code-management-software-tokenmaxxers,"Earlier this week, my colleague Jyoti reported
+on the great lengths Meta Platforms engineers
+are going to show off their AI prowess. An employee-created leaderboard tracks who burns through the most AI tokens—part of a broader trend known as
+“tokenmaxxing.”
+The article has sparked a flurry of armchair analysis on how much this strategy could cost
+Meta
+(and potentially benefit
+Anthropic
+), such as
+here
+and
+here
+.
+The drive by companies to use AI for coding could boost demand for tools that help developers organize code generated by AI agents. One startup developing such tools is
+GitButler
+, whose software streamlines how developers coordinate their code alongside AI coding agents. The Berlin-based startup just raised a $17 million Series A led by
+Andreessen Horowitz
+, GitButler CEO
+Scott Chacon
+told me. Existing investors
+A.Capital Ventures
+and
+Fly Ventures
+also participated.
+Tools that help developers see, organize, and track each others’ code changes, known as
+version control systems
+, have been around for the past few decades. But this software wasn’t ready for AI that writes code and works alongside human developers, says Chacon. So three years ago he co-founded the company with startup entrepreneurs
+Anne Leuschner
+and
+Kiril Videlov
+.
+“The thing about writing software now—for software developers—is that you don’t just write it for senior developers and junior developers,” Chacon said, adding that AI agents are “a different type of user persona.”
+Chacon has been immersed in coding tools for some time. In 2008, he co-founded
+GitHub
+, now a popular code repository that lets software engineers store, share and collaborate on computer code.
+A lot has changed since he left the company, now owned by
+Microsoft
+, a decade ago. These days, software engineers are in large part relying on AI agents to bang out more lines of code faster than ever before. As one sign of this drive, commits—or times that users saved new code to their GitHub database— are
+on track to increase 14 times this year from last year
+, The Information reported Tuesday.
+GitButler allows developers and their AI agents to work on multiple different tasks, such as a feature and a bug fix, at the same time and without the constant stopping and starting required by older tools, which may force users to save changes or clear their workspaces before switching tasks.
+In addition to managing code, the startup is also using AI to help developers create notes attached to their changes, known as commit messages, and add context to the changes they make to their code.
+“As development becomes more AI-assisted and increasingly complex, the need for a more intuitive, flexible way to manage change is only growing,” said
+Peter Levine
+, a partner at Andreessen Horowitz, which led the round.
+The startup, which has 12 full time and contract employees, hasn’t decided how it will sell its services yet. Chacon said a handful of developer teams at various tech companies are using the software, and a couple hundred people have been paying $5 a month out of goodwill. “We’ll grandfather all those people in who have been paying for a while” when the company decides on how to monetize, he said.
+GitButler faces some competition for version control tools used with AI agents: One open source project developed called
+Jujutsu
+also aims to simplify how developers organize their work.
+Mercurial
+is
+another free
+source control management tool.
+Here’s what else is going on…
+Court Watch
+Elon Musk
+argued in a new legal filing that
+OpenAI
+CEO
+Sam Altman
+and President
+Greg Brockman
+should be removed
+as officers of OpenAI’s nonprofit wing if Musk wins his lawsuit alleging OpenAI violated its charitable mission.
+Musk’s lawsuit argues that OpenAI wrongfully gained over $100 billion at the expense of its charity. His latest filing said that, if he prevails in his argument, that money should be returned to the nonprofit wing, not given to Musk.
+Overheard
+Amazon Web Services
+CEO
+Matt Garman
+on Tuesday
+played down the idea
+that
+Anthropic’s
+highly-praised
+Claude Code
+tool could undercut existing enterprise software companies. But Garman warned that if incumbent software firms try to “protect what they have and not lean in” to AI, “they’re in trouble.”
+People on the Move
+Longtime
+Microsoft
+executive
+Eric Boyd
+is
+joining Anthropic
+as the AI lab’s head of infrastructure, Boyd said on Tuesday.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Hermeus
+, which builds autonomous military aircraft, raised $350 million at a $1 billion valuation in a Series C funding round led by
+Khosla Ventures
+, with participation from
+Canaan Partners
+,
+Founders Fund
+,
+RTX Ventures
+,
+Bling Capital
+,
+In-Q-Tel
+,
+Cox Enterprises
+,
+Socium Ventures
+,
+Destiny Tech100
+,
+Georgia Tech Foundation
+,
+137
+Ventures
+and
+GSBackers
+.
+Spirit AI
+, which develops foundation models for robotics, raised $140 million in funding led by
+Shunwei Capital
+and
+Yunfeng Fund
+.
+Aria Networks
+, which builds networking systems for AI data centers, raised $125 million in a Series A funding round led by
+Sutter Hill Ventures
+.
+Modus
+, which aims to invest in accounting firms to automate their auditing processes with AI, raised $85 million in combined seed and Series A funding led by
+Lightspeed Venture Partners
+.
+True Footage
+, which uses AI to appraise residential properties, raised $40 million in a Series C funding round led by
+Cox Enterprises
+.
+Mappedin
+, which uses AI and lidar to create and 3D digital maps of indoor spaces like malls, airports and sports stadiums, raised $24.5 million in a funding round led by
+Edison Partners
+.
+Trent AI
+, which develops AI-powered security software that detects vulnerabilities in other AI agent systems, raised $13 million in a seed funding round led by
+LocalGlobe
+and
+Cambridge Innovation Capital
+.
+Anthropic
+announced on Tuesday
+that it will be providing access to its unreleased
+Claude Mythos
+model to more than 40 organizations, including
+Apple
+,
+JPMorgan Chase
+and the
+Linux Foundation
+, so they can test their software for security vulnerabilities. Anthropic says that Claude Mythos is significantly better at identifying and exploiting vulnerabilities compared to prior models.
+Intel
+says
+it’s now involved
+in a chip-making project led by
+Elon Musk’s
+companies
+SpaceX
+and
+Tesla
+, though neither company provided details on how they will work together or a timeline for the project.
+Uber
+announced that it was expanding its
+Amazon Web Services
+contract to run more ride-sharing features on Amazon chips such as
+Graviton
+, as well as begin a new trial testing
+Trainium3
+.
+AI music startup
+Suno’s
+talks over licensing deals with
+Universal Music
+and
+Sony
+have stalled in recent months, the Financial Times reported. One disagreement concerns whether AI-generated songs should be limited to Suno’s app or free to share across the internet.
+Z.ai
+released
+GLM-5.1
+, an open source model designed for agentic coding that the company says achieved a state of the art score on a key test of AI coding capabilities.
+Google
+on Monday released a dictation app called
+“Google AI Edge Eloquent”
+on iOS that can work offline."
+Polygon Labs in Talks to Raise Up to $100 Million for Payments Business,2026-04-08T13:00:09Z,Yueqi Yang,https://www.theinformation.com/articles/polygon-labs-talks-raise-100-million-payments-business,"Polygon Labs, developer of the blockchain that underpins prediction market Polymarket and other crypto platforms, is in early talks with investors to raise as much as $100 million to build a new stablecoin payments business, according to people familiar with the talks.
+The funding discussions come amid a nasty downturn in crypto. The new venture would be a way for Polygon to diversify out of a market that has stalled.
+Polygon has previously raised money by selling its crypto tokens, but this time it aims to sell between $50 million and $100 million in equity in the new stablecoin business to raise cash. Prices of the polygon tokens have fallen 90% from two years ago.
+The company plans to generate revenue through transaction fees while driving volume on the Polygon blockchain.
+There’s no guarantee Polygon will succeed in stablecoin payments, where it would compete with Stripe and Coinbase, as well as startups like Zerohash, Conduit and Mastercard’s BVNK. Polygon hired Stripe’s former head of crypto, John Egan, last September to be its chief product officer. Marc Boiron, the chief executive officer of Polygon Labs, will also lead the new payments business, along with Egan and Mudit Gupta, the chief technology officer of Polygon Labs.
+More crypto companies are trying to become payments and fintech firms as the crypto market
+downturn hits its sixth month
+. The passage of the stablecoin legislation last July made stablecoin payments one of the legitimate use cases for crypto.
+Some crypto companies that tried to profit from meme coins, gaming, and on-chain social media are now going in other directions. The solana blockchain, which took off with meme coin trading, is
+pushing
+to trade real-world assets like stocks and bonds. Coinbase’s Base blockchain is moving away from courting creators to focus on trading assets.
+The downturn also hit fundraising by crypto startups, which fell to about $2.9 billion in the first quarter, down 69% from the prior quarter, according to crypto advisory firm Architect Partners.
+Payments-related deals, however, remain active. Last month, Mastercard announced it would acquire BVNK, a competitor to Bridge, for up to $1.8 billion. In the first quarter, payments-related deals made up 16.4% of total fundraising and 66% of acquisitions by deal value, according to Architect.
+Polygon, founded in 2017, rose to prominence as one of the early blockchains that enabled fast and cheap transactions on the Ethereum network. In 2022, it raised $450 million led by Sequoia Capital India, with participation from SoftBank, Tiger Global Management and others, by selling its polygon tokens.
+More recently, Polymarket, the booming prediction market, has been driving volume on the Polygon blockchain, where its trades are settled. Polymarket makes up nearly half the trading volume on Polygon, according to data from Token Terminal. British fintech Revolut, which uses the Polygon blockchain to move money for users across borders, has processed more than $1.2 billion in stablecoin transfers through Polygon.
+To build out its payments business, Polygon Labs in January agreed to buy two startups, Coinme and Sequence, for a combined $250 million. Coinme provides on-ramp, off-ramp services that allow users to move money into and out of crypto. Sequence provides crypto wallets. The two businesses allow Polygon to handle payments processing for clients rather than referring them to outside vendors. Stripe last year acquired stablecoin platform Bridge and wallet provider Privy.
+Coinbase has also been focusing on stablecoin payments for merchants, though the business
+hasn’t taken off
+. It
+revamped
+its offering last month by shutting down Coinbase Commerce, which allowed merchants globally to accept crypto payments, and transitioning clients in the U.S. and Singapore to a Coinbase Business account. It is also
+building
+infrastructure to support payments by AI agents, one of its top priorities this year."
