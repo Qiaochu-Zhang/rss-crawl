@@ -1,0 +1,253 @@
+﻿标题,时间,作者,链接,内容
+Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued,2026-04-08T00:00:54Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/anthropics-revenue-growth-suggests-openai-overvalued,"The sooner Anthropic and OpenAI go public, the better—at least then we’d have proper financial disclosure. Both companies’ habit of updating the public on their revenue growth by references to either monthly revenue or annualized revenue, which is (loosely speaking) the last month’s revenue multiplied by 12, is getting old. And it’s not exactly what investors need to know.
+Take Anthropic, which
+revealed Monday afternoon
+that it was now generating annualized revenue at a $30 billion rate, more than double where it was in mid-February. More significantly, that number implies Anthropic has now passed OpenAI, which
+a week ago
+said it was bringing in $2 billion a month in revenue (implicitly $24 billion in annualized revenue). And yet Anthropic raised money in February at a $380 billion valuation, while OpenAI last month finalized a fundraising at an $852 billion value. (For another angle on Anthropic, see our
+Dealmaker column tonight
+).
+OpenAI looks way overvalued, which is bad news for investors in its last round, such as Amazon and SoftBank. They appear to have overpaid!
+To be sure, the OpenAI-Anthropic comparison is more complicated. The two companies don’t calculate revenue in exactly the same way, as my colleague Sri Muppidi
+explained in this piece
+a couple of weeks ago. Anthropic counts all the revenue it gets from its cloud partners’ resale of its models, deducting their share as a sales and marketing expense.
+OpenAI only counts the share of revenue it keeps from sales of its models by Microsoft’s Azure, its original cloud partner, Sri said. That implies OpenAI’s revenue is lower than it would be if it reported on the same basis as Anthropic. (There’s also the possibility that OpenAI increased its annualized revenue in the past week, although that seems a little unlikely.)
+And let’s not forget that the annualized revenue metric is problematic to begin with. How certain is it that one month’s revenue can be extrapolated out over the next year? As
+my colleague Stephanie Palazzolo wrote last week
+, there have been signs that Anthropic’s server capacity may be under strain from all the increased usage. If customers encounter difficulties, they might switch to a different model.
+Still, the question of which company is bigger right now is a little beside the point. It’s undeniable that Anthropic’s focus on business customers has turbocharged its growth, while OpenAI’s chaotic management seems to be holding the company back. Investors in OpenAI’s last round may indeed have overpaid, but there’s still time for the company to turn things around. Right now, though, Anthropic has the wind at its back.
+Tesla’s Sorry Tale
+Elon Musk might have to contend with an intense sibling rivalry fairly soon—between his companies. Everyone is abuzz about the coming IPO for his SpaceX rocket company. News reports are suggesting (somewhat fantastically) it
+could be worth $2 trillion
+when it goes public, expected in the summer.
+Shares of Tesla, meanwhile, have fallen 23% so far this year, dragging down its market capitalization to $1.28 trillion. That’s roughly in line with SpaceX’s last valuation, even though Tesla’s 2025 revenues of around $95 billion were six times SpaceX’s reported revenues of around $16 billion.
+While that might make people think Tesla stock is cheap, that couldn’t be further from the truth. Tesla is still trading at a huge premium to traditional automakers on multiples of sales or profits. And as a bearish report from JPMorgan Chase on Monday pointed out, the stock is 50% higher than it was in June 2022, when its delivery volumes peaked. Since then, expectations for Tesla’s performance have “collapsed for all financial and performance metrics across all time periods through the end of the decade.”
+What has kept Tesla trading at such a premium to the sector is Musk’s promise to expand the electric vehicle maker into the robotaxi and robotics market. Similarly, SpaceX’s valuation is propped up by his (literally) blue-sky vision of traveling to Mars, although investors seem to be even more positive about SpaceX than about Tesla.
+In Other News
+•
+Intel says it’s now involved in a chipmaking project led by Elon Musk’s SpaceX and Tesla.
+• Longtime Microsoft executive Eric Boyd is joining Anthropic as the AI lab’s head of infrastructure, Boyd said on Tuesday.
+• Amazon has reduced the volume of packages it will ship through the U.S. Postal Service to 80% of the current volume, under a new agreement the two sides struck.
+• Anthropic announced on Tuesday that it will be providing access to its
+unreleased Claude Mythos
+model to more than 40 organizations, including Apple, JPMorgan Chase and the Linux Foundation, so they can test their software for security vulnerabilities.
+• Amazon Web Services CEO Matt Garman on Tuesday played down the idea that Anthropic’s highly praised Claude Code tool could undercut existing enterprise software companies. But Garman warned that if incumbent software firms try to “protect what they have and not lean in” to AI, “they’re in trouble.”"
+How Anthropic Could Hit $100 Billion in Annualized Revenue This Year,2026-04-07T23:33:43Z,Sri Muppidi,https://www.theinformation.com/newsletters/dealmaker/anthropic-hit-100-billion-annualized-revenue-year,"What could stop Anthropic now? The maker of the Claude chatbot said Monday it is generating
+more than $30 billion
+in annualized revenue, up from $19 billion about a month ago and more than triple its year-end level. At that pace, the company is on track to surpass its mid-December projection of $32 billion in annualized revenue by the end of this year—and could do so eight months early!
+In fact, Anthropic already beat its conservative year-end annualized revenue goal of $28 billion, according to the projections, which haven’t previously been reported.
+That impressive growth has already likely pushed it ahead of the older and larger OpenAI, whose
+annualized revenue topped $25 billion
+at the end of February. That’s likely even taking into consideration some differences in how the two AI leaders account for sales of their software through cloud partners, as I’ll get into more below.
+Anthropic’s growth rate over the last four months means it could easily outstrip next year’s revenue targets as well, which are shown in our chart. Since December, its annualized revenue has jumped more than three times. If that growth rate continues, it will hit $100 billion in the next three months—and $2 trillion by year end!
+Of course, there are many reasons $2 trillion in revenue—nearly three times Amazon’s revenue last year—is an unreasonable outcome.
+For a start, Anthropic would need a lot more servers to run the AI customers are buying. It just inked a new deal with Broadcom and Google for multiple gigawatts of server capacity starting in 2027. About 3.5 gigawatts could potentially cover an additional $100 billion in revenue, according to newsletter writer Ben Thompson.
+The company wants more compute capacity. Anthropic previously discussed securing at least
+10 GW of capacity
+over the next several years. As a point of reference, Amazon Web Services brought 4 GW of capacity online last year.
+The market for AI, too, is still nascent and couldn’t support $2 trillion in AI sales this year.
+And lastly, growth will slow at some point. It’s likely that Anthropic is in the exponential phase of what’s known as the S-curve. In the last phase, growth slows with market saturation and increased competition.
+The red-hot growth streak does hold enormous ramifications for the company, as well as its competitors and backers.
+For one, Anthropic could potentially become cash flow positive earlier than it has projected. In December, it forecast
+generating cash in 2028
+, two years earlier than
+OpenAI’s projection
+. That’s a good story to tell if Anthropic eventually goes public, which could be
+as soon as the fourth quarter
+.
+On the other hand, the need for expensive compute could drive up inference costs, the expenses of running AI, cutting into cash flow and margins. Already, Anthropic’s gross margins last year were 10 percentage points lower than it had previously expected as
+revenue growth surged and inference costs spiked
+.
+The company may try to strike compute deals and find ways to make inference more efficient to offset these growing pains.
+And Anthropic’s performance will put more pressure on OpenAI to speed up its own revenue growth. OpenAI,
+under senior executive Fidji Simo
+, has been slashing cash-burning projects like video app Sora as it tries to focus on revenue-generating projects and business customers, which are Anthropic’s bread and butter.
+Some
+defenders of OpenAI
+have pointed out that OpenAI’s revenue would look bigger if it followed the same accounting treatment for revenue it gets from selling AI through partners such as Microsoft and Amazon as Anthropic does.
+As I explained in
+this Dealmaker
+, OpenAI counts 20% of the sales of its models through Microsoft Azure as revenue.
+Anthropic, in contrast, counts all of the Claude sales made through
+Amazon Web Services, Microsoft and Google
+as revenue. The difference stems from OpenAI’s longstanding relationship with Microsoft, which has exclusive rights to use OpenAI’s intellectual property and controls the Azure OpenAI service.
+Still, the differences in accounting treatment wouldn’t narrow the revenue gap by much. If OpenAI structured its cloud partnership with Microsoft the same way Anthropic does with Amazon, Microsoft and Google—and accounted for sales through the cloud providers the same way—its annualized revenue would be higher by the low billions of dollars, according to a person with knowledge of OpenAI’s finances.
+Today on TITV
+Anthropic’s Revenue Surge, Meta Employees’ ‘Tokenmaxxing’"
+Microsoft’s GitHub Sees Booming Traffic—and Outages—as AI Agents Flood Platform,2026-04-07T17:30:04Z,Aaron Holmes,https://www.theinformation.com/newsletters/applied-ai/microsofts-github-sees-booming-traffic-outages-ai-agents-flood-platform,"Software developers are using AI agents to crank out more lines of code than is humanly possible, with
+companies like Meta hosting “tokenmaxxing” contests
+to see which coders can spin the AI meter the fastest.
+That trend is leading to a surge in traffic at Microsoft-owned GitHub, which hosts repositories where companies can upload and edit their source code. The AI-driven influx is causing a boom in business and straining GitHub’s servers, according to COO Kyle Daigle.
+GitHub staff celebrated last year when the number of “commits,” or times that users saved new code to their GitHub database, exceeded 1 billion annually for the first time, Daigle said in an interview. Since then, commits have surged to 275 million
+per week
+, and the company is on track for 14 billion commits this year. That represents a roughly 14x increase in traffic from a year prior.
+“Since January, every month, every week almost now has some new peak stat for the highest [usage] rate ever,” Daigle said. He attributed the growth to “both agents and humans,” and also noted that the rise of AI coding tools has led to a rise in humans without deep coding knowledge starting to use GitHub’s platform more.
+Another such metric is “pull requests,” or proposed changes to existing applications that developers are building. The number of pull requests submitted by AI agents on GitHub has swelled from around 4 million in September to over 17 million in March, Daigle said. Public data paints a similar picture: the weekly number of times Claude Code has committed code to public GitHub projects has increased nearly twenty five-fold in the past six months, from around 100,000 to more than 2.5 million last week.
+The surge coincides with the release of new AI agents that have become immensely popular with developers. Those include OpenAI’s Codex, released in February, and Anthropic’s Claude Code, which has been out since last year but saw a surge in usage as Anthropic released newer, more capable models in recent months. Developers also have embraced open source tools like OpenClaw that can harness agents like Codex and Claude to automate work across various applications on a user’s computer.
+It’s not clear how much the surge in traffic at GitHub is translating into new revenue. GitHub charges a flat per-person fee for its paid subscriptions, and charges extra based on how much people use GitHub’s own AI features, but those fees don’t apply to third party agents like Claude Code interacting with GitHub (Daigle didn’t specify how much GitHub’s revenue has grown during that time period, but said that recent updates to its GitHub Copilot tool have led to a rise in sales of that product).
+For now, some developers are grumbling about problems associated with the rise in traffic. OpenClaw founder Peter Steinberger
+complained
+last week that he kept running into limits on how much he could use GitHub’s application programming interface, griping that “this hasn't been designed with agents in mind.”
+GitHub has also seen
+a rise in outages in recent months
+, which the company attributed to spiking traffic as well as its effort to move its applications from its own servers to Microsoft’s Azure cloud.
+GitHub is now racing to meet the surging demand. The business has been rapidly adding new servers and rejiggering its backend software to be more reliable, Daigle said.
+Meanwhile, GitHub faces more competition. Claude Code and Codex have posed new threats to GitHub’s sales of its own GitHub Copilot agent. Former GitHub CEO Thomas Dohmke, who left the company last year, recently founded his own startup that aims to give developers an AI-friendly environment for storing and testing code.
+And OpenAI itself—one of the engines behind the surge in AI generated code—has been considering building its own version of GitHub to use internally,
+The Information previously reported
+, which the startup could look to sell to users of Codex.
+Still, Daigle said stiff competition in the AI coding market isn’t a problem as long as usage of GitHub keeps growing as rapidly as it has.
+“The zeitgeist in this era moves really fast and it leaves a lot of people behind,” Daigle said. “That‘s totally fine because at the end of the day, every one of these tools are pushing their code into GitHub … And that’s been a huge, huge, huge growth driver.”"
+Anthropic’s Compute Crunch Strikes Again,2026-04-07T14:00:04Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/anthropics-compute-crunch-strikes,"Anthropic
+said Monday afternoon
+it had topped
+$30 billion in annualized revenue, implying growth surged 58% since the end of February. It also suggests the maker of the
+Claude
+chatbot may have surpassed
+OpenAI
+, which was generating $25 billion in annualized revenue in February.
+Despite its success, Anthropic isn’t winning any fans in the developer community as it tries to clamp down on people using Claude to power tools like the open-source AI agent
+OpenClaw
+. But the bigger worry may be why it is clamping down in the first place.
+The company on Friday said customers would have to purchase extra capacity—instead of using their existing Claude chatbot subscriptions—if they wanted to use Claude for third-party tools like OpenClaw.
+Developers
+weren’t happy.
+Hamza Mostafa
+, who previously worked on
+OpenAI’s
+agents team, told me he’s been using OpenClaw with Claude since February for tasks like responding to emails and messages. He said he’s never run into usage limits in the past with this approach.
+Now, Mostafa will have to pay for the Claude models through Anthropic’s application programming interface on top of his $200-per-month Claude chatbot subscription, if he wants to continue using them to power his OpenClaw AI agent. (To lessen the pain, Anthropic is also offering customers free one-time credits for extra usage and discounted bundles of extra usage for purchase.)
+Mostafa said he had been considering in recent weeks whether he should cancel his
+ChatGPT
+subscription. Now he’s wondering if he should switch over to OpenAI’s models for OpenClaw instead, he said.
+So what’s driving this? One word: capacity.
+Boris Cherny
+, Anthropic’s Head of
+Claude Code
+, said in a
+post
+that the company had to make the change because its Claude “subscriptions weren't built for the usage patterns of these third-party tools”—in other words, that tools like OpenClaw are overpowering the company’s compute resources.
+This is especially true because of the nature of agents like OpenClaw. Many people are using OpenClaw to automatically run tasks every hour or every few hours, meaning that the models powering the agent are hit with a surge in traffic every hour at the top of the hour. While models accessed through APIs can handle that spike in traffic, chatbots like Claude can’t because they’re more built for users who ask questions intermittently throughout the day.
+“Using Claude subscriptions with third-party tools isn't permitted under our Terms of Service, and they put an outsized strain on our systems,” said an Anthropic spokeswoman. “Capacity is something we manage thoughtfully, and we need to prioritize customers using our core products.”
+More broadly speaking, though, this compute crunch is an issue Anthropic
+has been struggling with in recent months
+, and is likely one that will plague it throughout 2026 since it can take months if not years for new compute capacity to come online.
+So not only is Anthropic struggling to cope with a compute crunch, it now has to face the chance that rival AI labs like OpenAI or
+Google
+could swoop in to steal spillover customers—something that's clearly already happening. Coming as Anthropic prepares to go public, the company suddenly has a lot to worry about.
+Here’s what else is going on…
+Policy Watch
+OpenAI
+suggested possible tax changes and a four-day work week as part of a range of
+potential industrial policies
+to prepare for the arrival of smarter-than-human AI systems it is developing. In a list of both economic and AI safety interventions, OpenAI advocated for workers to use AI to start their own companies, as well as international collaboration on model evaluations and auditing standards for the safety practices of AI companies.
+Court Watch
+OpenAI’s
+chief strategy officer,
+Jason Kwon
+, on Monday
+asked the attorneys general
+for California and Delaware to investigate
+Elon Musk’s
+alleged efforts to undermine OpenAI. OpenAI argues that Musk has attempted to interfere with OpenAI, calling his actions “anti-competitive.”
+People on the Move
+Oracle
+named
+Schneider Electric’s
+former chief financial officer
+Hilary Maxson to be CFO
+, the first time in years the software-and-cloud giant has had a CFO.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Firmus Technologies
+, which builds AI data centers powered by renewable energy in the Asia-Pacific region, raised $505 million at a $5.5 billion valuation in a funding round led by
+Coatue Management
+, with participation from
+Nvidia
+.
+Natter
+, a New York City-based startup that uses AI to help companies run surveys and focus groups, raised $23 million in funding led by
+Renegade Partners
+.
+Beacon Biosignals
+, which uses wearable EEG headsets and AI to analyze brain data for neurological and sleep conditions, raised $11 million in an extension to its Series B funding round. The extension was backed by
+JSL Health
+,
+Palo Santo VC
+,
+Kicker Ventures
+and
+Samsung Next
+.
+NeuBird AI
+, which makes AI agents to detect and resolve IT issues, raised $19.3 million in a funding round led by
+Xora Innovation
+.
+Trent AI
+, a London-based startup that develops AI security software for agents, raised $13 million in seed funding led by
+LocalGlobe
+and
+Cambridge Innovation Capital
+.
+Miravoice
+, which uses AI to conduct automated phone surveys in multiple languages, raised $6.3 million in a seed funding round led by
+Unusual Ventures
+.
+Ridge AI
+, which allows software companies to add AI-powered analytics dashboards to their products, raised $2.6 million in a pre-seed funding round led by
+Madrona
+, with participation from
+TheFounderVC
+.
+Broadcom
+said that it would
+supply Anthropic
+with access to around 3.5 gigawatts of
+Google’s
+tensor processing units starting in 2027. The chip designer’s update, made in a securities filing, expands a previous partnership to supply
+Anthropic
+with about 1 gigawatt worth of TPUs. Broadcom shares jumped 3% after hours.
+Meta
+plans to initially keep some of its upcoming AI models proprietary before open-sourcing them so developers can download and modify them, Axios reported.
+Netflix
+released
+Void
+, short for video object and interaction deletion, an open source AI model for removing objects and their interactions from videos.
+OpenAI
+,
+Anthropic
+and
+Google
+are sharing information with each other through the
+Frontier Model Forum
+in an attempt to detect rivals’ efforts to copy or “distill” the capabilities of their models contrary to their terms of service, Bloomberg reported.
+Adobe Acrobat
+released
+Acrobat Spaces
+, a free tool for students which will allow them to create presentations, flash cards and quizzes from study materials such as PDFs, links and notes."
+Amazon’s Tough Stance on Prices Prompts Brands to Pull Products,2026-04-07T13:00:20Z,Ann Gehan,https://www.theinformation.com/articles/amazons-tough-stance-prices-prompts-brands-pull-products,"Selling on Amazon is getting tougher for some big brands.
+In recent months, Amazon has rebuffed requests from some of the company’s wholesale suppliers to increase what it pays for their inventory, forcing brands to swallow higher costs related to tariffs, and more recently, oil prices, according to people who work with consumer brands like Colgate and Adidas and help them manage their relationships with Amazon.
+One result is that some brands are scaling back what they sell directly through Amazon, the people said, and in some cases, they’re pulling some lower-margin products from the e-commerce giant’s site altogether. In other cases, they’re listing the products through outside sellers that sell on Amazon’s platform, which could increase brands’ costs and eat into their profits.
+Amazon says it works closely with vendors to understand the cost pressures they’re facing, including tariffs and supply chain costs, and factors those into its negotiations. Amazon says its goal is to provide customers the lowest prices across the widest selection.
+Amazon’s hard line with brands may reflect its desire to hold the line on retail prices as much as it can. But it’s also likely part of a bigger strategy aimed at maintaining its profit margins and offsetting the impact of growing sales of low-priced goods like perishable food and paper towels.
+These low-priced goods are not profitable for Amazon to sell. The company’s
+retail chief, Doug Herrington
+, has long cheekily referred to these items as “CRAP,” or “can’t realize a profit.” But Amazon’s strategy has long been to offer those products in hopes of persuading shoppers to return more frequently to the site, when they will also buy more-profitable products.
+That strategy appears to be working. Amazon’s sales of everyday goods grew nearly twice as fast as its sales in all other categories in the U.S. last year and represented one of every three products it sold last year. The company has also been spending to
+make faster deliveries
+on some goods, including same-day and next-day shipping, to keep shoppers hooked.
+So far, this push hasn’t hurt the profitability of its retail business. Operating margins in its North America retail business rose to 6.9% in 2025, up from 6.5% in 2024 and 4.2% in 2023.
+Costly to Ship
+Amazon is likely keen to ensure its margins continue rising. Consultants and vendors who work with Amazon say the company has effectively pulled back from certain products that are not strategically important and are difficult to sell profitably. That pullback includes some low-priced products like canned beverages or heavy items that are expensive to ship.
+Brand consultants interpret Amazon’s actions as a shift away from its “everything store” philosophy.
+“
+Historically Amazon has tried to make everything work. What I mean by that is in terms of all selection,” said Jason Landro, co-CEO of digital marketing agency Nectar, which helps brands including Epson manage their Amazon storefronts and supplier relationships with the e-commerce giant. Now “we see instead…Amazon is moving away from products that really don’t work online,” Landro said.
+In a statement, Amazon said it hadn’t changed its philosophy. “We continue to expand our selection across our store,” a spokesperson said in a statement. As “part of our standard process, we’re continually working with our broad, varied range of valued selling partners in our store on joint business planning, while maintaining broad selection and low prices for customers,” the spokesperson added.
+Two-thirds of the goods available on Amazon are sold by outside merchants. But about one-third of the company’s more than $700 billion in annual retail sales come from items it buys in bulk and resells, typically from big, well-known brands such as Procter & Gamble and Nestlé. Under those arrangements, Amazon sets the price for goods on its site and agrees up front what it will pay brands for them.
+Amazon typically negotiates annually with those big brands over inventory pricing. Some negotiations include agreements that guarantee that Amazon will make a certain profit margin when it sells a brand’s products. That means the brands are responsible for covering the difference between the guaranteed margin and the total cost for Amazon to sell and deliver the products to shoppers.
+That means brands, not Amazon, are on the hook if tariffs or higher transportation costs raise prices they pay for goods, or if Amazon decides to lower the retail price it sells an item for. (Amazon has control over retail pricing for items it buys in bulk from suppliers.) And while very large brands typically sell a wide range of products and therefore have more leverage with Amazon, brands that are only dominant in one or two categories can’t negotiate as effectively, one of the people said.
+Instead of entering into agreements that could leave them on the hook for more payments to Amazon, some of those brands are starting to pare down the range of products they sell to the company wholesale. Since Amazon typically doesn’t allow brands to simultaneously be both wholesale suppliers and sellers on its marketplace for outside merchants, some brands are instead turning to outside resellers to list their goods on Amazon’s marketplace.
+“Brands are realizing that Amazon has evolved—that it’s not only about selection anymore, and that it’s more so about profitability, and then they have to evolve their strategy,” Landro said, adding that some of his clients are starting to move away from having their full product lineup available on Amazon, instead outsourcing the sales of some products to resellers or other outside sellers who can list products on their own.
+Shifting more of Amazon’s sales to outside sellers and away from inventory Amazon buys in bulk could help the e-commerce giant further cut down on costs. Outside sellers have to pay Amazon for services like storage, shipping and advertising, in addition to giving it a cut of their sales. But even that strategy is too costly for some brands—some of the advisers who work with Amazon suppliers said several of their clients have recently decided to stop selling on Amazon altogether."

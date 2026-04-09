@@ -1,0 +1,910 @@
+﻿标题,时间,作者,链接,内容
+OpenAI’s Never-Ending Soap Opera,2026-04-07T00:00:04Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/openais-never-ending-soap-opera,"What’s the bet that OpenAI’s senior management team undergoes a shake-up before the company goes public? On Sunday, The Information
+reported that
+finance chief Sarah Friar has concerns about OpenAI’s readiness to go public and its ability to support its AI server commitments. And on Monday,
+The New Yorker published
+a long profile of CEO Sam Altman that reinforced longstanding questions about his trustworthiness.
+It doesn’t seem likely that these two executives can credibly stand in front of investors together pitching an IPO. Friar seems vulnerable to replacement, given that Altman has frozen her out of some key meetings and demoted her to report to one of his underlings, as our story said. But The New Yorker profile, by reopening questions about Altman’s management style, might suggest the company would be better off if he left.
+Let’s not forget that Anthropic CEO Dario Amodei has taken
+a few subtle
+shots at OpenAI’s approach to risk management. When it comes down to it, investors might decide they prefer someone they can rely on to be careful running OpenAI. After all, the company is spending
+a lot
+of money and taking on
+a lot
+of commitments. As Amodei keeps reminding us, it’s easy to screw things up in a way that leads to financial ruin.
+Still, Altman is a survivor. And for those people paying close attention to OpenAI, The New Yorker piece had little new in it that hadn’t been previously reported elsewhere. As an OpenAI spokesperson told me, “much of the [New Yorker] piece revisits previously reported events through anonymous claims and selective anecdotes sourced from people with clear agendas.” Indeed, the piece could be said to be a win for Altman, effectively clearing him of some particularly seedy allegations that have circulated.
+One of these days, though, OpenAI might want to make itself less of a soap opera.
+Oracle’s Finance Switch
+Normally the appointment of a new chief financial officer isn’t a big story, but Oracle’s announcement of one on Monday was a bit different. That’s because it hasn’t had an executive with that title for more than a decade, since then-CFO Safra Catz took the title of CEO in 2014. Despite changing titles, she appears to have kept the finance responsibilities as she remained “principal financial officer"", the company’s securities filings show.
+Last September, when Catz suddenly stepped down as CEO, Oracle named a longtime operations executive, Doug Kehring, to succeed her as principal financial officer. That put him in the hot seat. Oracle was spending heavily to expand its AI data center cloud business, including by borrowing tens of billions. It seems a strange time for it to appoint someone whose background is more in operations as its top financial executive. In his operations role, Kehring oversaw Oracle’s move to the cloud, for instance, his LinkedIn page says.
+It turns out Oracle just needed time to find the right person. On Monday, the company announced that Hilary Maxson would become CFO, effective immediately. She had been in that role at Schneider Electric, which sells electrical equipment to data centers and other industries. That makes her an ideal person for the Oracle job. The only question is, why didn’t Oracle do the search six months earlier?
+In Other News
+•
+ServiceNow chairman and CEO Bill McDermott saw his compensation climb 37% to nearly $52 million in 2025, according to a regulatory filing Monday, thanks to a 30% higher cash bonus of $3.5 million and $43 million of stock awards."
+Can TensorWave Leapfrog Nvidia’s Big Moat?,2026-04-06T19:01:07Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/can-tensorwave-leapfrog-nvidias-big-moat,"Hello! Anissa here.
+Is Nvidia’s CUDA Vulnerable?
+Jeff Tatarchuk likes to poke the bear. The bear, in this case, is Nvidia. Tatarchuk has every incentive to challenge the chip company’s dominance. He runs startup TensorWave, which rents out AI chips from Nvidia rival Advanced Micro Devices.
+Last year, during Nvidia’s GTC conference, Tatarchuk hosted an event in San Jose, Calif., Beyond CUDA, drawing hundreds of attendees eager to talk about alternatives to Nvidia’s software stack. This year, the event is back—but with a softer tone.
+Tatarchuk renamed it Beyond Summit, and it starts Wednesday, three weeks after Nvidia’s GTC 2026 took over San Jose. The change wasn’t really his idea.
+He said some potential sponsors and attendees were hesitant to be associated with an event that so explicitly positioned itself against Nvidia. In an industry where many companies still depend on Nvidia hardware, even symbolic opposition can carry risk, he said. (I get it: I’ve talked to several companies who worry about their relationship with Nvidia,
+specifically when considering or announcing deals with rival chip companies
+.)
+Tatarchuk himself, however, has mixed feelings about the shift. On one hand, he understands the pressure, and he’s able to host a bigger event this year. On the other, the original name captured the point. Nvidia’s chips dominate AI computing, and CUDA is seen as its moat because it provides all of the software needed to easily run the company’s hardware.
+Even the logistics were a reminder of Nvidia’s gravitational pull. Tatarchuk said he initially planned to host the event in San Jose again but found his previous venue booked out for the next few years—by Nvidia itself. So this year he’s hosting his shindig weeks after GTC, this time in San Francisco.
+Still, the message behind the gathering hasn’t changed. “There is stuff being built outside of the walled gardens of Nvidia,” Tatarchuk said.
+A growing number of AI labs are beginning to experiment with large-scale training on AMD chips, he said—something that until recently was rarely discussed publicly. OpenAI and Meta Platforms, for instance, have recently announced large deals with AMD to use its chips for AI processing.
+Tatarchuk has been increasingly vocal about what he sees as an opening. For the first time in years, he believes customers are willing to at least consider looking beyond CUDA.
+“AI labs are starting to do large-scale training on AMD, which wasn’t really talked about too much before,” he said. “There are so many sophisticated companies that don’t need CUDA.”
+At the same time, a group of startups is emerging to chip away at CUDA’s moat: companies building compilers, kernels, optimization layers and other pieces of the software stack. We’ve named some of these firms in our Top 50 Startups List in
+2024
+and
+2025
+.
+Many of them will be at the TensorWave event, he said.
+Compute Coachella
+Coachella doesn’t start until this weekend—but a version of it is already underway at Stanford University. A new undergraduate course on AI infrastructure has effectively become “Compute Coachella.” It’s sold out and features a speaker lineup rivaling those of top-tier industry conferences.
+There’s no Justin Bieber or Sabrina Carpenter—but if you care about chips, power and models, it’s arguably a stronger event. Nvidia’s Jensen Huang, AMD’s Lisa Su, OpenAI’s Sam Altman, Microsoft’s Satya Nadella and OpenAI co-founder Andrej Karpathy are all slated to speak this semester.
+One reason for the big-name cast could be that the class is taught by Anjney Midha, an early Anthropic investor and former Andreessen Horowitz partner, and Michael Abbott, a former Apple engineering leader who pushed the company to
+build its own cloud service
+. Both are now working on AMP,
+the compute venture we’ve written about
+that aims to make it easier for companies to access infrastructure.
+Presumably the speakers also want to get in front of the students, whose class project is to use limited AMP computing resources over the next 10 weeks to see if they can produce frontier AI research.
+In Other News…
+My colleague Valida Pau and I broke the news of
+Blackstone buying a stake in Rowan Digital Infrastructure
+.
+Microsoft is
+in exclusive talks
+with Chevron and Engine No. 1 about developing a natural gas–fired power plant in Texas for data centers, Bloomberg reported.
+In a video shared by the Tehran Times, a spokesperson for Iran’s Islamic Revolutionary Guard Corps threatened that if the U.S. damaged its power infrastructure, Iran would inflict “complete and utter annihilation” of U.S. and Israeli facilities. It specifically called out OpenAI’s
+Stargate data center in Abu Dhabi
+, sharing photos of U.S. tech leaders announcing the project in 2025. (A spokesperson for OpenAI did not have a comment.)
+CoreWeave and Poolside, a data center startup, previously agreed to partner on a 2 gigawatt West Texas data center,
+but the deal has fallen apart
+, and now Poolside is looking for a new customer, the Financial Times reported."
+The Electric: Honeywell Jumps Into the Race to Develop Electric Aircraft for the Pentagon,2026-04-06T16:00:43Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-honeywell-jumps-race-develop-electric-aircraft-pentagon,"Multiple electric
+aviation startups
+are developing aircraft for combat missions in a race for billions of dollars in orders they expect from the Pentagon and other military buyers amid a boom in defense spending.
+Now, in an escalation of the competition, aviation industry heavyweight Honeywell Aerospace and a partner are developing an autonomous hybrid electric aircraft that would bring down drones well before they reach their targets. The move brings a major defense contractor with $17 billion in sales last year into a nascent industry until now dominated by small fry with virtually no revenue.
+Honeywell’s partner is Odys Aviation, a small Long Beach, Calif., startup that—unlike the mostly short-hop aircraft made by rivals—has developed a long-range hybrid electric aircraft. The plane, called the Laila, lifts off vertically like a helicopter, flies autonomously, has a range of 450 miles and can stay in the air as long as eight hours.
+This range and endurance allows the Laila to detect, track and disable enemy drones soon after they take off, said David Shilliday, vice president of power systems at Honeywell. Odys has flown a prototype in the U.S. and Oman.
+The U.S. currently uses expensive missiles to bring down drones such as Iran’s cheap kamikaze models because, according to Shilliday, it has no airborne system to combat them. Iran has deployed several versions of its Shahed model in swarming attacks across the Persian Gulf, and Russia uses adaptations of the Shahed to attack Ukraine.
+By aiming at military customers, Honeywell and Odys reflect an
+accelerated expansion
+of the electric flying-taxi industry beyond its civilian roots. For years, skeptics have raised doubts about the billions of dollars of investment that have poured into electric vertical takeoff and landing vehicles, or eVTOLs. Startups such as Joby Aviation, Archer Aviation and Beta Technologies have predicted massive consumer demand for short flights including routes between city centers and airports. But some investors have wondered whether the demand would grow large enough to justify the spending.
+The industry’s aggressive move into aircraft for military use makes the business case for eVTOLs more credible. The Trump administration last week requested $1.5 trillion in defense spending in the next fiscal year, a roughly 42% year-on-year increase.
+Honeywell, along with Joby, Archer and some other major electric aviation players, expect the Pentagon to order large numbers of hybrid electric aircraft as soon as later this year in contracts worth billions of dollars.
+And no one appears to be waiting for the Pentagon to formally ask: In December, Archer
+raised $430 million
+in equity to develop autonomous hybrid electric aircraft for the Pentagon with Anduril Industries, which has close ties to the White House. Joby has developed a hybrid electric prototype with defense contractor L3Harris.
+Shilliday said Honeywell’s drone detection system is ready for commercialization in the Laila. Odys—responsible for producing the aircraft itself—said it expects the Laila to be ready by the end of the year.
+“We try and build in advance of the state of need,” Shilliday said. “We try really hard not to wait for [a Pentagon request] before we do that. We try to have it shelf ready for when they’re ready.”
+Both the Archer and Joby hybrid aircraft, at least at this stage, are intended for surveillance and dropping gear in combat zones. Multiple manufacturers have proposed battery-powered drones, responding to President Donald Trump’s
+2025 “Drone Dominance” executive order
+, which seeks the production of some 300,000 one-way kamikaze drones by 2028.
+The Laila, conversely, responds to one of the most vexing and harrowing dimensions of current warfare, which is how to fight the swarms of hundreds of cheap drones that blow up on contact with a target.
+Currently, among the only ways to stop them are missiles fired from the ground or individual interceptor drones. Ukraine makes
+about 1,000 interceptor drones
+per day. Both attack drones as they approach their targets.
+Honeywell, however, has developed an operations and detection system called Samurai, which turns the Laila into something like a mother ship that relies on a turbine engine to take off and land, then engages its batteries to hover quietly for hours. The turbines charge up the batteries when needed, then switch off.
+When a drone attack occurs, AI-driven software aboard Laila can single out each aircraft and select different methods of taking them down, the two companies claim. For instance, Laila could use a microwave burst to burn out drone circuit boards, Honeywell claims. It could strike a drone with a laser. It also could release a small swarm of its own kamikaze drones to crash into the hostile ones.
+The concept behind the aircraft was “Can you take the fight to where the drone starts rather than waiting for it to reach the range of your radar?” Shilliday said.
+Odys originally developed Laila as a civilian cargo plane capable of carrying a payload of 130 pounds, with plans for a larger nine-passenger version some time in the future. The company has not disclosed what it plans to charge for the cargo version. Honeywell similarly had not initially envisioned its system for combat operations but instead to protect installations like football stadiums or military bases from hobbyist or other drones.
+But Honeywell was already in the eVTOL business, supplying flight components for Archer and U.K.-based Vertical Aerospace, for instance.
+Now its eVTOL system is configured to pursue and disable almost any kamikaze drone, most of which fly at less than 125 miles an hour. “There’s nothing about the underlying technology that would limit it,” Shilliday said.
+----
+Noteworthy
+There are early signs that
+the spike in gasoline prices from the Iran war has spilled over to a revival of demand for electric vehicles. Tesla’s European sales
+soared last month
+, as did U.S. sales of Hyundai’s electric Ioniq 5.
+CarGurus reported
+a 31% rise in visitors to its car-purchasing website checking out new EVs in March.
+But sales of large
+electric pickups may not be sharing in this recovery. General Motors
+said it would idle
+a Detroit plant that produces the full-size electric Chevrolet Silverado and the hulking electric GMC Hummer for a month, ending later this month.
+Planned U.S. AI data centers
+are facing delays and cancellations because of a shortage of electrical equipment,
+Bloomberg reported
+. The news agency estimated that almost half of the planned plants could be postponed or killed because the builders cannot find enough transformers, batteries and switching gear. The problem is broader: In a
+report last month
+, energy research firm Wood Mackenzie wrote that as of the end of 2025, U.S. data center builders had plans to install 241 gigawatts of new capacity, but that just a third of those were actually under construction. The firm said it detected signs of a sharp slowdown in construction because of a lack of enough power to serve the new data centers.
+----
+Upcoming events
+Monday, April 27—Financing the AI Revolution
+Join The Information at the New York Stock Exchange to hear top executives and investors discuss how the rapid build-out of AI is reshaping tech, finance and capital markets (
+more details
+)."
+Why SpaceX Has an Uphill Battle Growing Starlink Mobile,2026-04-06T15:00:43Z,Theo Wayt,https://www.theinformation.com/articles/spacex-uphill-battle-growing-starlink-mobile,"SpaceX executives say its Starlink Mobile direct-to-cell service offered through mobile carriers will eventually reach hundreds of millions of customers around the globe, which would help justify SpaceX’s valuation. But right now, the service’s revenue is tiny.
+T-Mobile, for instance, SpaceX’s only mobile partner in the U.S., is offering its customers access to Starlink Mobile in exchange for paying SpaceX a total of around $100 million as it hits service milestones, according to two people with direct knowledge of the deal. That includes an up-front payment worth tens of millions made when T-Mobile originally struck the deal in 2022, as well as additional payments linked to the service’s launch last year.
+That total is a tiny portion of SpaceX’s
+overall revenue
+, which was about $16 billion in 2025. The previously unreported size of the T-Mobile deal shows just how far SpaceX has to go to make Starlink Mobile a significant business. The
+regular Starlink service
+, which uses a separate constellation of satellites to beam internet to terminals rather than phones, remains much larger and is responsible for the vast majority of Starlink revenue.
+The prospects for Starlink Mobile are taking on greater significance now that SpaceX is planning to go public. The company last week reportedly filed confidentially for an IPO. SpaceX CEO Elon Musk claims that the direct-to-cell service is
+helping lift SpaceX’s valuation
+, which the company recently put at $1.25 trillion.
+Inside SpaceX, Musk has talked about the T-Mobile deal as a way to reach millions of potential mobile customers, rather than a large revenue driver at first, one of the people said.
+In public, Musk has described the T-Mobile deal as exclusive in the U.S. for the first year of service, then open to other carriers. “We are starting off working with one carrier in each country but ultimately hope to serve all carriers,” Musk
+said
+in 2024.
+A scale model of the  Starlink V2 satellite on display at T-Mobile’s booth at Mobile World Congress in Barcelona in March. Joan Cros/Getty Images.
+Starlink Mobile beams cellular service directly to phones, offering service in areas not reached by cell towers. The service is more extensive and seamless than satellite features currently offered by Apple on iPhones, which use service from satellite firm Globalstar to offer texting and location services in remote areas.
+Right now the service is a niche offering. In a presentation in March, Starlink chief Michael Nicolls said the mobile service is used by 10 million people a month globally and had connected “over 16 million unique users” in total. The largest number of those are likely in Ukraine, based on statements by Ukrainian carrier Kyivstar, which offers Starlink Mobile there. In March a Kyivstar executive said 5 million customers use Starlink Mobile for text messaging in the country. Kyivstar offers Starlink text messaging for free.
+Nicolls said the company hopes to increase the number of monthly global users to 25 million by the end of this year. But there’s
+uncertainty in the mobile industry
+about consumer demand for Starlink Mobile, given that traditional mobile networks provide reliable service from cell towers in most places where people live and work.
+For Starlink Mobile to make financial sense for carriers, they need to convince users to pay up—T-Mobile currently offers Starlink Mobile as a $10 a month add-on or as a benefit included in more premium plans. T-Mobile hasn’t disclosed precise user figures for its satellite service, but it
+said
+in January that nearly 2 million people had registered for a free beta version it launched in 2025, and that millions of text messages had been sent through the service.
+SpaceX has shown an ambition to expand Starlink Mobile. It has agreed to buy mobile spectrum from EchoStar for $19.6 billion, which the company plans to use for an expanded version of Starlink Mobile that can support video streaming and video calls. This service will operate on Starlink Mobile’s next generation of satellites, which it will launch starting next year, once its
+delayed Starship rocket
+enters service.
+SpaceX bulls envision huge growth for Starlink Mobile on the horizon. In a report published in March, a PitchBook analyst predicted that Starlink Mobile revenue would grow from an estimated $240 million in annualized revenue currently to over $42 billion by 2040.
+Aside from the uncertainty about consumer demand, Starlink Mobile also faces the prospect of growing competition. In the U.S., for instance, AT&T and Verizon have struck partnerships with
+Starlink Mobile rival AST SpaceMobile
+, which aims to start offering service later this year.
+Timotheus Höttges, CEO of Deutsche Telekom, which has a deal to launch Starlink service in Europe in 2028 and is the majority owner of T-Mobile, said in March that the company is
+open to working
+with multiple direct-to-cell service providers. SpaceX also offers Starlink Mobile through deals with other mobile carriers in several other countries including Japan, Canada, Ukraine and Australia."
+Codex and Claude Code Can Work Together,2026-04-06T14:00:43Z,Rocket Drew,https://www.theinformation.com/newsletters/ai-agenda/codex-claude-code-can-work-together,"Forget all the chatter about which AI coding tool is winning the race. The companies behind the leading AI coding tools are learning the benefits of peaceful co-existence.
+On Thursday, for instance,
+Cursor
+announced a new version of its app designed for coding with AI agents from different coding providers simultaneously, including
+Anthropic’s Claude Code
+and
+OpenAI’s Codex
+. OpenAI, meanwhile, last week released a software “plugin” that gives Claude Code customers the ability to use Codex within Claude Code. Codex can review code that Claude wrote or step in if Claude gets stuck.
+“We’ve seen Claude Code users bring in Codex for code review . . . so we thought: why not make that easier?” said
+Romain Huet
+, OpenAI’s head of developer experience, in an X post.
+Cursor engineer
+Samantha Whitmore
+explained the benefits more directly on
+a podcast last month
+, saying even if one coding agent is broadly better than another, “there could be some benefit from having multiple top-tier models involved...they each have strengths and weaknesses.”
+Claude Code seems to be firmly ahead of Codex when it comes to generating revenue. But OpenAI’s plug-in move and comments from some customers of both products suggest the two agents can complement one another, for now.
+The models powering Claude Code lead on some
+standardized tests
+for AI coding, while the models powering Codex lead on others.
+For one thing, some developers say they prefer Claude Code over Codex for designing websites and user interfaces.
+Another strength of Claude Code is planning and developing a new application from scratch, said
+DJ Sampath
+,
+Cisco’s
+senior vice president for AI software and platform.
+But when it comes to adding new features to a large, existing codebase, or rewriting many files, Sampath said he has found Codex to be more effective, especially when powered by
+OpenAI’s GPT-5.4 High
+model.
+GPT-5.4
+also costs about half the price of
+Claude Opus 4.6
+, Anthropic’s most advanced model. And according to
+Cursor’s testing
+, GPT-5.4 can accomplish the same tasks as Opus 4.6 more cheaply. That’s why some customers refer to Codex as a “workhorse” model that excels at tasks involving lots of code. (Some developers say that it can be worth paying extra for Claude’s token usage if it results in better code or a smoother user experience.)
+Because the two models are good at different things, Sampath’s employees often ask one of the models to critique and improve the code produced by the other model. (
+Microsoft
+last week launched a non-coding product that also uses OpenAI and Anthropic models to check each other’s work.)
+That kind of critiquing is catching on.
+Rob Sun
+, founding engineer at
+Dexterity
+, which makes industrial robots for unloading trucks, said he often asks both Claude Code and Codex to come up with a plan for solving the same task, then directs them to review the other’s plan.
+“Claude can execute for X amount of time until it maybe gets stuck. And then I tell Codex to help out,” he said. “And sometimes Codex also has the same issue. And sometimes Codex finds something different, and I'm like, ‘wow, how did Claude not figure that out?’”
+But to get unbiased feedback, Sun has found that it can help to conceal which agent wrote the code. Otherwise, one model can seem too hasty in critiquing work from the other, he said. For example, Sun has told Claude that “this was written by Codex. And then Claude is like, ‘Codex is wrong. It doesn‘t know what it’s thinking,’” Sun said.
+The products can also show different personalities. “Claude has a pretty good personality. It feels like a teammate and it’s excited with you, et cetera. I would say, for example, Codex is a lot more dry,” said OpenAI co-founder
+Andrej Karpathy
+on a podcast
+last month.
+OpenAI has also
+released the ability
+to switch between two personalities for Codex, one it describes as “terse” and another that’s more “empathetic.”
+Here’s what else is going on…
+OpenAI CFO Questions 2026 IPO Readiness
+OpenAI
+CEO
+Sam Altman
+and CFO
+Sarah Friar
+are diverging over the company’s timeline for an initial public offering as Altman pushes for a public debut as early as the fourth quarter,
+The Information reported
+.
+Friar has privately expressed concerns that the AI startup will not be organizationally ready for a 2026 IPO, questioning whether its slowing revenue growth can support Altman’s aggressively escalating $600 billion server spending commitments.
+People on the Move
+OpenAI’s
+CEO of AGI Deployment,
+Fidji Simo
+, is taking
+“several weeks” of medical leave
+. Simo suffers from a chronic condition called
+postural orthostatic tachycardia syndrome
+which has led her to primarily work from her home in southern California since joining OpenAI last August. In her absence, co-founder
+Greg Brockman
+will run the product organization while Chief Strategy Officer
+Jason Kwon
+, Chief Financial Officer
+Sarah Friar
+and Chief Revenue Officer
+Denise Dresser
+will run the business and operations side of the company, Simo said.
+Eric Eyken-Sluyters
+, a
+Salesforce
+sales executive who helped oversee its flagship AI tool,
+Agentforce
+, has
+left the company
+for up-and-coming rival
+Sierra
+, an AI startup founded by OpenAI chair and former Salesforce co-CEO
+Bret Taylor
+.
+Court Watch
+The
+Department of Defense
+on Thursday
+appealed a federal judge’s order
+to temporarily halt the Pentagon’s designation of
+Anthropic
+as a supply chain risk. While the Ninth Circuit reviews the order, the preliminary injunction may still go into effect on Thursday night, unless the Pentagon files—and is granted—a motion for an emergency stay of the injunction.
+Policy Watch
+Anthropic
+filed paperwork to set up a bipartisan political action committee called
+AnthroPAC
+that will be funded exclusively by employees, The Hill reported. Anthropic
+donated $20 million
+to a super PAC in February.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Singapore’s
+GIC
+is in talks to lead an investment in database startup
+Supabase
+at a valuation of about $10 billion, The Information
+reported
+. Supabase is aiming to raise about $500 million in the fundraising round, but the number could change.
+Anthropic
+has acquired AI biotech startup
+Coefficient Bio
+, which was developing a platform that enables AI to run biotech tasks such as planning drug research and development, for roughly $400 million, The Information
+reported
+.
+Galaxea AI
+, a Chinese startup developing humanoid robots, raised $291 million at a $2.9 billion valuation in a Series B+ funding round, with participation from hardware partner
+Lens Technology
+and state-backed funds.
+Xoople
+, which collects training data for AI models from satellites, raised $130 million in Series B funding led by
+Nazca Capital
+.
+Alcatraz
+, which uses AI for facial recognition to allow employees to scan into buildings, raised $50 million in a Series B funding round led by
+BlackPeak Capital
+,
+Cogito Capital
+and
+Taiwania Capital
+.
+Noon
+, which uses AI to help developers and designers collaborate in the same interface, raised $44 million in funding from
+Chemistry
+,
+First Round
+Capital
+,
+Scribble Ventures
+,
+Elevation Capital
+and
+Afore Capital
+.
+Moonbounce
+, an Oakland, Calif.-based startup that aims to control AI behavior, raised $12 million in funding led by
+Amplify Partners
+and
+StepStone Group
+.
+Blackstone
+, the world’s largest alternative asset manager, agreed to acquire a 49% stake in
+Rowan Digital Infrastructure
+, a five-year-old data center developer based in Denver,
+The Information reported
+Thursday.
+OpenAI
+has
+acquired “TBPN,”
+the popular tech news talk show that has become a hit over the last year with an enthusiastic embrace of AI and Silicon Valley.
+Microsoft
+hit an internal goal for sales of its
+Copilot
+AI software in the first three months of 2026, commercial CEO
+Judson Althoff
+told staff on Thursday,
+The Information reported
+. Microsoft also
+released new AI models
+for transcribing audio and generating images.
+Generalist
+, which develops AI foundation models for robotics, released
+Gen-1
+, an AI model designed for industrial tasks that involve manipulation, for instance to fold cloth or pack items in boxes.
+Chinese robotics maker
+UBTech
+is offering up to $18 million annual pay for a new chief scientist, an unusually high pay package for the Chinese AI industry, Bloomberg reported.
+A collection of image models codenamed
+packingtape-alpha
+,
+maskingtape-alpha
+and
+gaffertape-alpha
+appeared on AI testing site
+Arena
+. Before they were removed from Arena, users shared AI-generated images on social media and speculated that they could be forthcoming models from
+OpenAI
+.
+Elon Musk
+is requiring banks, law firms, auditors and advisors working on the initial public offering of
+SpaceX
+to subscribe to
+xAI’s Grok
+, the New York Times reported.
+Meta
+halted its work with data vendor
+Mercor
+after Mercor’s information was exposed in a security leak, Wired reported."
+Meta Employees Vie for AI ‘Token Legend’ Status,2026-04-06T13:00:43Z,Jyoti Mann,https://www.theinformation.com/articles/meta-employees-vie-ai-token-legend-status,"Employees at Meta Platforms who want to show off their AI superuser chops are competing on an internal leaderboard for status as a “Session Immortal”—or, even better, “Token Legend.”
+The rankings, set up by a
+Meta
+employee on its intranet using company data, measure how many tokens—the units of data processed by AI models—employees are burning through. Dubbed “Claudeonomics” after the flagship product of AI startup Anthropic, the leaderboard aggregates AI usage from more than 85,000 Meta employees, listing the top 250 power users.
+The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.
+Tech kingpins are egging them on. Nvidia CEO Jensen Huang
+said
+last month that he would be “deeply alarmed” if an engineer earning $500,000 annually wasn’t using at least $250,000 of AI tokens a year. Meta Chief Technology Officer Andrew Bosworth said at a tech conference in February that one top engineer was spending the equivalent of his salary on AI tokens while boosting his productivity up to 10 times,
+Forbes reported
+. “This is easy money,” he said. “Keep doing it. No limit.”
+Some tech leaders are bragging about their own use of AI to code—and admitting they, too, feel pressure to maximize it. “It’s about tokens,” Andrej Karpathy, a former top AI scientist at Tesla and OpenAI who now leads an AI education startup,
+said on a podcast
+last month. “What is your token throughput and what token throughput do you command?”
+Meta software engineers are increasingly leaning on AI coding tools. In addition to using models from Anthropic, OpenAI and Google, staffers can rely on internally developed tools, including Meta’s version of OpenClaw, called MyClaw, and Manus, which Meta recently acquired.
+Meta CEO Mark Zuckerberg this year issued what an internal memo described as a “bold ask” for engineering teams: Rewrite Meta’s code bases so AI agents can easily understand and modify them.
+“It’s well known that this is a priority and we’re focused on using AI to help employees with their day-to-day work,” a Meta spokesperson said. The company has a separate official dashboard for token usage geared toward software engineers, who are generally the biggest token burners. Employees in other roles can also view their usage. (Zuckerberg and Bosworth weren’t among the top 250 power users, said a person familiar with the statistics.)
+The Claudeonomics dashboard’s competitive dynamic has helped it gain traction internally, two people said. Over a recent 30-day period, total usage on the dashboard topped 60 trillion tokens, according to a copy of it viewed by The Information. The highest-ranked individual user averaged 281 billion tokens, which could cost millions of dollars, depending on the type of model used.
+Employees can track their personal consumption, compare themselves against colleagues and earn gamified rewards ranging from bronze, silver, gold, platinum and emerald badges to achievement titles, which also include “Model Connoisseur” and “Cache Wizard.” Some workers are instructing AI agents to carry out research for hours on end to maximize their token usage, according to two current employees.
+Tokens, which represent chunks of text or other data, influence how much compute an AI task entails. Every prompt and response, such as lines of code, is broken into these units. While the precise ratio can vary significantly, the rule of thumb is that 100 tokens equal about 75 words, making Meta’s recent monthly usage roughly equivalent to 45 trillion words.
+Tokens are also a basis for AI pricing. Rates generally differ for the input tokens models read and the output tokens they generate, with the latter costing more. Based on Anthropic’s most recent
+public pricing
+for the latest version of its Claude Opus model, 4.6, the average price for input and output is about $15 per 1 million tokens. On that basis, 60 trillion tokens would amount to roughly $900 million, though it couldn’t be learned how Meta splits its usage across different models or what prices it pays."
+What the Coming Big IPOs Mean for Tech Stocks,2026-04-05T22:00:43Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/coming-big-ipos-mean-tech-stocks,"The first quarter is over, and tech earnings season is only a couple of weeks away. Here’s something worth thinking about: Big tech stocks out of favor with investors—particularly Microsoft, Amazon and Meta Platforms—need to show something striking when they report for the quarter if they want to get out of the doghouse they’re in.
+If they don’t, sentiment is likely to become even more negative. In the next few months, tech investors are going to have the opportunity to put money into SpaceX and later OpenAI and Anthropic. But as
+we’ve pointed out,
+the amount of money those three companies are looking to raise in their public debuts this year is far higher than what the IPO market can typically support. That suggests investors will have to sell existing holdings to participate. (OpenAI’s Chief Financial Officer Sarah Friar doesn’t think the company will be ready to go public this year, as
+we reported today
+).
+Midsize software firms seen as threatened by AI disruption may be most at risk of winding up in the remainder bin. But Microsoft, Amazon and Meta, none of which has its own leading AI model, may not be much better off. Investors have already started to defect from these positions, judging by the first-quarter sell-off in those stocks.
+Microsoft, for instance, is down 23% so far this year, while Meta has fallen 13% and Amazon 9%, according to Koyfin data. Apple and Alphabet, in contrast, are each down between 5% and 6%. Software firms such as Salesforce, ServiceNow and Snowflake fell around 30%. And this is just the first quarter. Given that the Anthropic and OpenAI IPOs likely won’t happen until the fourth quarter, how will these older tech names fare over the next six months?
+SpaceX Starship Delays Pile Up
+For SpaceX, getting the next-generation Starship rocket into commercial service is
+the key to virtually all of the company’s plans
+for future growth, including expanding Starlink service, sending NASA astronauts to the moon and building orbital data centers. But critical tests of Starship keep getting delayed.
+On Friday, SpaceX CEO Elon Musk revealed the latest delay when he said the
+next Starship launch
+would occur in the first two weeks of May. Musk had previously said in January that the next test would occur in March, then pushed back the date to April. Starship has not launched at all since October 2025 and still needs to successfully complete several more tests before it can start making commercial missions. If the next test launch gets delayed yet again, it’s possible it could wind up happening after SpaceX plans to
+go public in June
+.
+You can’t blame SpaceX for being careful—waiting another month is certainly preferable to having a rocket blow up spectacularly right before the IPO. But you’d also think all the delays would concern potential investors. However, many fund managers seem to view the IPO as too big to fail and will buy into anything Musk related regardless of what they actually think of the company, as my colleague
+Cory Weinberg reported this week
+.
+Musk’s other big company, Tesla, still has a gigantic market capitalization of more than $1.1 trillion despite often blowing through deadlines. Based on Musk’s statements, so far in 2026, Tesla should have unveiled an overhauled model of its
+Optimus humanoid robot
+, revealed an updated version of its roadster vehicle and received regulatory approval for its supervised self-driving software in Europe and China. None of those things has happened.
+—Theo Wayt
+In Other News
+•
+Microsoft hit an internal goal for sales of its Copilot AI software in the first three months of 2026, commercial CEO Judson Althoff told staff on Thursday, according to someone who heard the remarks. Althoff did not disclose what the goal was but called it “audacious,“ this person said.
+• OpenAI’s CEO of AGI deployment, Fidji Simo, is taking “several weeks” of medical leave, according to an internal memo seen by The Information. Simo
+suffers from a chronic condition called postural orthostatic tachycardia syndrome
+, which has led her to primarily work from her home in Southern California since joining OpenAI last August (
+more here
+).
+Friday on The Information’s TITV
+Check out
+Friday’s episode of TITV
+in which we debate the likely outcomes of the SpaceX IPO."
+OpenAI CEO and CFO Diverge on IPO Timing,2026-04-05T20:32:09Z,Anissa Gardizy,https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing,"Sam Altman has committed
+OpenAI
+to spend $600 billion in the next five years and privately said he wants to go public as soon as the fourth quarter despite expectations his company will burn more than $200 billion before it starts generating cash.
+Behind the scenes, Sarah Friar, his chief financial officer, has voiced concerns that reflect the tensions and risks inherent in the CEO’s extraordinarily ambitious plans.
+She told some colleagues earlier this year that she didn’t believe the company would be ready to go public in 2026, because of the procedural and organizational work needed and the risks from its spending commitments, according to a person who spoke to her. She said she wasn’t sure yet whether OpenAI would need to pour so much money into obtaining AI servers in the coming years or whether its revenue growth, which has been slowing, would support the commitments, said the person who spoke to her.
+It isn’t clear whether the company’s announcement this week that it had received investment commitments totaling $122 billion has allayed some of her concerns. OpenAI is due to receive the capital in stages, and it mostly will come from Amazon and Nvidia, which supply the cloud servers and chips OpenAI uses. The deal is part of a series of circular financial arrangements involving the biggest AI-related companies.
+Outside OpenAI, Altman, 40, and Friar, 53, have generally presented a united front. That was the case at a dinner for investors that they hosted at Altman’s San Francisco home earlier this year, said one attendee.
+At times, though, their divergent emphases have fueled the perception of strains in their relationship among some people who have worked closely with them since Friar joined OpenAI in June 2024.
+Those people said Altman has excluded her from some conversations related to the company’s financial plans. For instance, in recent months he left Friar out of a conversation about server spending with leaders at one of OpenAI’s top investors, one of these people said. Her absence was noticeable and awkward, given that a previous conversation on the same topic included her, according to an attendee.
+A different person who attended a senior-level meeting at OpenAI with Altman earlier this year said it was unusual that Friar was not invited, as it involved a discussion of major financial decisions.
+In an unusual move for a large company, where CFOs almost always answer directly to the CEO, Friar stopped reporting directly to Altman in August last year and instead began reporting to Fidji Simo, who had joined as head of OpenAI’s applications business. Simo last week told staff she would take a short medical leave.
+A spokesperson for Altman and Friar sent a joint statement from the executives: “We are fully aligned that durable access to compute is at the core of OpenAI’s strategy and a key differentiator as we scale. We have both been directly involved in every consequential compute decision over the past year plus. The $122 billion round locks in the capacity to scale compute aggressively and positions us to become the core infrastructure layer for AI, translating that advantage into sustained leadership across research and products, and making it possible for people around the world and businesses, big and small, to just build things.”
+‘A Hard Job’
+Altman and Friar have starkly different personalities and backgrounds. He has long
+positioned himself as a world-changing visionary in the mold of Steve Jobs and Elon Musk
+.
+She is a former Goldman Sachs equity analyst who later worked in finance at Salesforce, helped Square (now Block) go public and spent around six years as CEO of Nextdoor, a local social network,
+before being replaced as the business struggled
+. She was then
+brought in to OpenAI to help it raise funds and reassure investors
+about what Altman has described as the most capital-intensive company in history.
+Friar “has a hard job,” said someone who works closely with her and Altman. “She is working for a founder with big ambitions who wants to push the envelope as hard as he can on spend.”
+Other Silicon Valley startups have experienced friction between visionary, growth-obsessed founders and risk-averse finance executives brought in to prepare a company for public markets.
+One of the most prominent clashes occurred at Airbnb between CEO Brian Chesky and then-Chief Financial Officer Laurence Tosi over the company’s business strategy and organizational structure. Tosi ultimately departed the company in early 2018, creating a significant leadership vacuum just as Airbnb was preparing for an anticipated IPO, contributing to a broader exodus of executives who were frustrated by the delayed liquidity event. (Chesky successfully took the company public two years later and also became an informal adviser to Altman.)
+OpenAI has had fissures between top executives in the past. In late 2023, two senior executives helped to oust Altman before he negotiated a return. Years before then, several senior leaders fell out with Altman and left to start Anthropic.
+Even with OpenAI’s recent fundraising, Altman and Friar will need to continue to convince investors to hand over tens or hundreds of billions of dollars in capital, and pressure is rising to meet revenue and user goals to support its rising cash burn. Anthropic has become a major threat and already surpassed OpenAI in selling AI models to businesses and app developers, while Google’s Gemini has been chipping away at ChatGPT’s dominance of the consumer chatbot market.
+While OpenAI recently increased its revenue outlook for the next five years by 27%, it
+privately warned investors in February that it will burn more than twice as much cash through 2030 as previously predicted
+.
+In another sign of its financial pressures, OpenAI told investors that its gross profit margins last year were lower than projected due to the company having to buy more expensive compute at the last minute in response to higher than expected demand for its chatbots and models, according to a person with knowledge of the presentation. (Anthropic
+has experienced similar problems
+.)
+Talking to Goldman
+Despite the resistance Friar has expressed to fast-tracking the IPO, OpenAI has begun to lay the groundwork to go public by tapping law firms Cooley and Wachtell Lipton Rosen & Katz and having informal conversations with IPO bankers at Goldman Sachs and Morgan Stanley. Amazon and Nvidia could also sway the timing of a public offering, given their now-sizable interest in the firm. (Altman has privately said he wants OpenAI’s public offering to happen before Anthropic, which is
+discussing an IPO in the fourth quarter of this year
+.)
+If it moves forward, the IPO would be one of the largest in history, and a monumental undertaking for Friar’s finance team and many other groups.
+Publicly, Friar has played down the notion that Altman is steering her into uncomfortable territory.
+“I do get a lot of prompts and pushes from Sam…They definitely sometimes can make me feel like, ‘Oh, okay, I have a lot to do now,’” she said in an interview with the Wall Street Journal in November last year. “But they more inspire me than create anxiety because I’m here at this table because I genuinely think we’re doing something that’s never been done in the world before.”
+At the time, she also said that an IPO “is not on the cards right now” because OpenAI was still trying to “get the company into a state of like constantly stepping up to the scale that we’re at.”
+Sarah Friar at the Allen & Co. conference in 2023, via Getty.
+Several OpenAI employees said they think the company’s aggressive server spending plans will help it stay ahead of rivals.
+After The Information reached out for comment for this article, Friar on Saturday posted photos of herself and the finance team on LinkedIn with a caption congratulating them on completing the firm’s $122 billion fundraising.
+“Cheers to Sam [Altman] and [President] Greg Brockman for seeing it early and acting decisively,” the
+post said
+. “The foresight sets us up for long term success.”
+Cloud Computing Risks
+Altman has said that getting more computing power will help the company produce better technology and ensure it has enough capacity to serve its growing user base. Executives have long complained that OpenAI is constrained by compute and has had to slow the rollout of new products and features as a result.
+After Friar became CFO, Altman tried to reduce OpenAI’s reliance on renting chips from cloud providers, announcing a joint venture with Oracle and SoftBank to develop $500 billion worth of data center capacity in the U.S. OpenAI ultimately shelved its plan to own and operate facilities
+after lenders balked at backing multibillion-dollar projects tied directly to a company with an unproven business model
+that was burning billions in cash annually.
+Instead, at Altman’s direction, OpenAI struck a series of deals to spend more than $600 billion renting servers from Microsoft, Oracle, Amazon and other cloud providers over the next five years.
+OpenAI is “utilizing our [cloud] partners because it’s a way to keep a lighter weight on the balance sheet,” Friar said in an interview earlier this year.
+Still, OpenAI in some cases is committing billions of dollars years in advance to help finance the construction of specially designed data centers for developing new AI models.
+That’s different from traditional cloud computing contracts that require customers to pay only for the server capacity they use, or to guarantee a certain spending amount over the course of a year. Typical cloud customers would rely on firms such as Amazon to build enough data centers rather than need to spur those firms into action.
+Friar has said AI data center development creates a natural pressure because it takes years to construct the facilities OpenAI needs, and the company has to essentially pre-order the capacity.
+“Now, there is definitely a timing mismatch, because I have to make decisions today about making sure we have compute in not even [20]26 or ‘27, but ‘28, ‘29 and ‘30,” Friar said on an OpenAI podcast earlier this year. “If I don’t put in orders today and don’t give the signal to create data centers, it won’t be there, right?”
+In one case, OpenAI agreed to help fund Oracle’s data center development,
+The Information has reported
+, by sharing some of the economic risk. If expenses go over budget, the companies agreed to share in paying the overage costs, for example. It’s unusual for a cloud customer to agree to such a deal term, according to people involved in the deal.
+Amodei’s Swipe
+OpenAI’s $600 billion in commitments aren’t set in stone, however. OpenAI could slow down the construction of some facilities, and therefore its payments, or back out of some deals, two people with direct knowledge of OpenAI’s compute contracts said.
+Last September, Friar recruited Mike Liberatore, who was CFO of Musk’s xAI, now part of SpaceX, to work with her and Brockman on server-related finance deals, according to two people with knowledge of his role.
+Friar’s earlier comments to colleagues about her concerns regarding spending are similar to statements that Altman’s archnemesis, Anthropic CEO Dario Amodei, has made.
+“Even if the technology goes as fast as I suspect that it will, we don’t know exactly how fast it’s going to drive revenue…. But with the way you buy these data centers, if you’re off by a couple years, that can be ruinous,” he said in a Dwarkesh Patel
+podcast
+in February.
+“If I’m just off by a year…or if the growth rate is five times a year instead of 10 times a year, then, you know, you go bankrupt,” Amodei said, adding, in an apparent swipe at OpenAI: “I kind of get the impression that…some of the other companies have not written down the spreadsheet, that they don’t really understand the risk they’re taking.”"
+The Vibe Coding Effect? Apple’s App Store Saw 84% Jump in New Apps in Quarter,2026-04-05T15:00:54Z,Aaron Tilley,https://www.theinformation.com/articles/vibe-coding-effect-apples-app-store-saw-84-jump-new-apps-quarter,"For much of the last decade, the number of new apps launching in Apple’s App Store each year went into a tailspin, falling a whopping 48% between 2016 and 2024, according to data from research firm Sensor Tower. At least that was the case until last year.
+In 2025, the number of new apps that showed up in the App Store globally suddenly exploded, growing 30% to nearly 600,000 compared to 2024, according to Sensor Tower. And the momentum seems to be accelerating. In the first quarter of 2026, new apps published to the App Store globally were up 84% to 235,800 from the same period a year earlier.
+The likely culprit behind the app explosion is the rapid rise of vibe coding tools, powerful AI-assisted coding apps. The best known of those apps is Anthropic’s Claude Code, released as a limited preview in February last year and more broadly in May. OpenAI’s own AI coding tool, Codex, came out as a limited preview in May last year and more broadly in October.
+The AI coding tools have made it possible for nonprogrammers to produce workable apps using written prompts, while allowing people who already have programming skills to produce far more code than they can manually.
+“We’ve seen an explosive growth of new apps over the past year,” said Abraham Yousef, senior insights analyst at Sensor Tower. “It aligns with a broader release of agentic coding tools that remove prior difficulties of creating apps.”
+An
+Apple
+spokesperson said the current wave of fresh app growth demonstrates the ongoing relevance of the App Store and the usefulness of Apple’s robust developer tools.
+Although it’s difficult to determine how many of these new apps developers created using AI, it’s likely most rely on AI tools given how quickly they have been adopted. The majority of new apps appearing in the App Store over the past year are in the productivity category, said Yousef. Photo, video and weather apps are also especially abundant, he said.
+Apple appears to be trying to slow down the explosion of at least one category of new apps: those that allow people to vibe code natively on iOS devices, The Information first
+reported
+. Over the past few months, Apple has stopped developers like Replit from updating their vibe coding apps, and the company
+even removed
+at least one such app, Anything, from the App Store.
+Apple has said it isn’t targeting vibe coding apps specifically. Rather, it is enforcing existing guidelines that prevent an app from rewriting its code in a way that fundamentally changes what it does without approval from the app review team.
+Potentially as a result of the huge increase in apps Apple’s review team has to now scrutinize, app developers have also complained about the rise in review times. Last month, Elon Musk
+posted
+on his social media site, X: “iOS App Review delays are getting ridiculous.”
+An Apple spokesperson denied that review times are getting longer. Apple said the app review team processes 90% of submissions within 48 hours. And over the last 12 weeks, the team has processed more than 200,000 app submissions a week, with an average review time of 1.5 days. The spokesperson also said that while a human has to review every app submission, the company is increasingly using AI tools to assist in the process.
+Still, Apple’s crackdown hasn’t stemmed the flow of apps created using vibe coding tools, which also function on personal computers.
+For example, despite Apple’s impediments, Replit users have built nearly 5,000 apps that have been published to the App Store in the last few months, said a Replit spokesperson. That includes apps like FlashNews: Speed Reader, which helps users catch up on news, and Spark Cleaning, which helps users plan cleaning tasks. Similarly, developers have used Anything to publish thousands of apps to the App Store since it launched last year, said Anything CEO Dhruv Amin.
+The current resurgence of new apps is particularly dramatic given the slump in recent years. According to Yousef, the slowdown was likely due to the rising costs of building high-quality apps prior to the advent of vibe coding tools. Outsize competition from large app developers—such as Meta Platforms and ByteDance—may have spooked other companies from competing in categories like social media, he said.
+But just because the quantity of new apps has exploded doesn’t mean the quality has. There are growing complaints among developers and consumers about the rise of low-quality apps flooding the App Store. All of the dross can make discovering higher-quality apps more challenging for users.
+“There’s many more apps but not necessarily more time to add them to your day,” said Matthew Cassinelli, a consultant specializing in helping app developers integrate with Apple’s AI tools. “Most people are only using a handful of apps.”"
+TBPN’s Lovable Underdog Era Ends,2026-04-04T21:07:51Z,Abram Brown,https://www.theinformation.com/newsletters/the-weekend/tbpns-lovable-underdog-era-ends,"Welcome, Weekenders!
+In this newsletter:
+•
+The Big Read:
+A familiar Silicon Valley foe
+is the mastermind
+behind those explosive chatbot lawsuits
+•
+Tech Culture:
+San Francisco’s
+mecca for mad scientists
+eyes global expansion
+•
+Plus, Recommendations—our weekly pop culture picks:
+“
+The Idiot
+,” “
+Dune Messiah
+” and “
+The AI Doc: Or How I Became an Apocaloptimist
+”
+Many, many, many people
+have had much to say in the last several days about OpenAI
+buying
+TBPN, the tech news livestream co-hosted by Jordi Hays and John Coogan. A good number of journalists took some shots at OpenAI’s purported vow to give the pair editorial independence, with some salvos aimed at the idea that as a pair of industry enthusiasts, Hays and Coogan seldom are critical enough to require editorial independence.
+But journalists can get much meaner, so I’d say TBPN has won some begrudging respect. And from mostly everyone else, the tone was congratulatory.
+The chatter’s quantity and tenor were predictable: Hays and Coogan excel at getting people to talk about them. They also make it real hard to dislike them.
+I suppose I could give them credit for having what the very online crowd might term as an abundance of rizz. I noticed it when I
+wrote about
+TBPN last year, and so did the writers who did subsequent stories about the show for
+The New York Times
+,
+Vanity Fair
+and
+The New Yorker
+. (As I said, the two are very good at generating conversation about themselves.)
+That skill served them well when TBPN was an underdog, with Hays and Coogan the dimpled practitioners of a type of nontraditional media that made traditional media look foolish: winning access to the most important people in tech, who would never speak as readily with a corporate journo.
+Their charisma will seem less endearing deployed at OpenAI, a corporate behemoth, and they’ll need every tiniest ounce of it in their dual role: While they continue doing the show, they’re also becoming in-house marketing strategists, and OpenAI partly did the acquisition because Fidji Simo
+had grown so impressed
+with their publicity talents. They take up the position at a time when public sentiment is cold in general on AI and frosty specifically on OpenAI, which has turned into a focal point of fear and worry over the technology.
+If anyone can convince people to learn to love OpenAI, it’s Hays and Coogan, though it’s a challenge that dwarfs the task of schmoozing about cloud seeding and semiconductors. Even so, if they can make
+printed-out tweets
+into a funny bit, I suppose they have a good chance of knowing how to coach Sam Altman before his next
+late-night appearance
+.
+Still, I couldn’t help but think back on something Hays said to me last year when I asked him if he and Coogan ever planned to get investors. “We could go out, and within an hour, I guarantee you we could raise probably, like, $15 million,” he said. “And I believe that it would destroy us.”
+I won’t try to hazard a guess on the exact odds of TBPN’s destruction at the hands of OpenAI. (They’re not, uh, zero.) I’ll just say it’d be a shame if it happened. Hays and Coogan are enjoyable to watch.
+Am I compromising my journalistic integrity to express such a sentiment? I don’t think so. After all, we live in TBPN’s world now, a realm where the old rules around media, tech, and tech and media have clearly faded and blurred long ago.
+What else from this week…
+Craig Newmark, billionaire Craigslist founder, thinks his fellow billionaires should stop criticizing each other’s philanthropy efforts—and assuming that their plans, and theirs alone, are best. “Making money isn’t proof to me that I know something any better than someone else,” he
+writes
+in a New York Times op-ed. “Wealthy people who believe that they do aren’t as smart as they think.”
+The mall rats of Gen Alpha have coined a new term for
+hanging out at the galleria
+: mallmaxxing.
+In the AI era, the humble chief financial officer has to be more than head bean counter, and over in Redmond, Wash., Amy Hood is “the single person at Microsoft who holds people
+most accountable
+.”
+Maybe David Ellison
+should buy
+Roku next.
+A lot of very fun Apple-turns-50 content: the
+archives
+Tim Cook didn’t even know existed; a
+ranking
+of Apple’s 50 most influential products; Ben Thompson’s Stratechery on Apple’s
+adept integration
+of hardware and software; and yeah, David Pogue’s “
+Apple: The First 50 Years
+,” the kind of book you’ll see carefully positioned in Silicon Valley live shots for years.
+Instagram’s new subscription includes a feature for
+anonymously creeping on
+—sorry, anonymously viewing—someone’s Stories.
+—Abram Brown (
+abe@theinformation.com
+)
+Weekend’s Latest Stories
+The Big Read
+Jay Edelson Made Facebook Pay. Now He’s Coming for Silicon Valley’s AI
+At a time when tech has never seemed more vulnerable in court, a longtime industry foe
+is bringing
+a series of explosive chatbot lawsuits.
+Tech Culture
+Frontier Tower, A Hot Spot for Strange Tech, Plots Global Expansion and New Hotel
+In little more than a year, the 15-story building has become a haven for bleeding-edge techies and managed to go mainstream. Its owners think the model
+is easily replicable
+.
+Listening:
+“
+The Idiot
+”
+Everyone has an annoying cousin. (By my count, I have nearly half a dozen.) But few people’s cousins have pulled the same shenanigans as M. Gessen’s cousin, Allen. Gessen tells all about Alex in “The Idiot,” the latest series from Serial, the New York Times-owned outfit that has consistently produced the finest podcasts over the past decade. And when it comes to Allen, Gessen has much to possibly discuss: They belong to the same boisterous, loving, enveloping clan of Russian-Americans. And Allen, as Gessen puts it, is a serial kidnapper. Actually, Allen is serially felonious. I won’t spoil the full extent of his misdeeds: I have too much respect for Gessen's careful pacing.
+—Abram Brown
+Reading:
+“
+Dune Messiah
+” by Frank Herbert
+Ever since I initially saw Denis Villeneuve’s “Dune: Part One” in 2021, a thought has stuck in my mind, like some spice-induced hallucination: I have no earthly idea how anyone fully followed that movie—or “Dune: Part Two” from 2024—without having read Frank Herbert’s original “Dune” novel. It’s complicated.
+I’d read “Dune” as a teenager, then again during the pandemic to refamiliarize myself with it before seeing Villeneuve’s movies, and I think it helped me appreciate his depth as a master adaptist. So it doesn’t take a mentat to figure out what I’ll say next: Before Villeneuve’s “Dune: Part Three” comes out later this year, it’s worth getting its source material, “Dune Messiah,” a 1969 sequel. It’s only about a fourth of the size of “Dune,” though just as galaxy-brained, dwelling much on the concepts of free will, religious fervor and dictatorial governments. In it, Paul Atreides sits uneasily upon the throne, his empire expanding through the force of an interstellar jihad carried out in his name. There’s a shape-shifter, a prescient fish man in a gas tank, the Bene Gesserit witches, a gruesome disfigurement and an array of interlocking schemes for power. That’s not to mention Paul’s constant struggle to discern the various futures glimpsed through his precognitive abilities, which are greatly amplified. He’d be a real terror on Polymarket.
+—A.B.
+Watching:
+“
+The AI Doc: Or How I Became an Apocaloptimist
+”
+Daniel Roher, the Oscar-winning director of the powerful documentary “Navalny” about doomed Russian opposition leader Alexei Navalny, turns his attention to our chances of surviving a future ruled by AI in his new film, which he co-directed with Charlie Tyrell. Roher clearly embraces his role as a modern Virgil, adroitly leading us through the AI circles of hell, where we unleash a technology that ultimately usurps us. I was taken aback when one of the technologists he interviewed talked about a future where AI treats people as we treat ants today: ignored until bothersome, then squashed without a moment’s hesitation—a particularly compelling demonstration of the apocalyptic part in the “apocaloptimist” subtitle Roher adopted from one of his interview subjects. After the unrelenting gloom, I was as relieved as Roher appeared to be when he finally pivoted to the optimists, who imagine AI as our best bet for solving intractable problems and paving a path to utopia.
+Roher spends a lot of time talking about babies, and for good reason: One of the drivers of his journey is the news that his wife is pregnant with the couple’s first child. One could see the splicing of old family movies and tender words of advice from his own father as slightly manipulative, but I confess I found it incredibly moving that Roher’s wrestling with AI turned out to be part of a broader meditation on what it means to be a good parent.
+The montage of adorable babies he included was almost enough to get me to put myself in the camp of the optimists and stay there until the end. But then Roher sat down for an interview with OpenAI’s Sam Altman, telling him that his deepest fears about the technology relate to impending parenthood. Altman responded by saying he is about to become a father too and is unbothered by the fact that his future child is unlikely to be smarter than the technology his company and others are building.
+When Roher presses him on what will happen if something goes wrong and AI ultimately threatens our existence, Altman reassures Roher the company has a plan. Asked for more details, Altman confesses that the main plan is trusting governments to find a solution. That alone could be enough to leave many of us on the apocalyptic side of the equation.
+—Amy Dockser Marcus"
+"Frontier Tower, A Hot Spot for Strange Tech, Plots Global Expansion and New Hotel",2026-04-04T13:54:32Z,Eli Rosenberg,https://www.theinformation.com/articles/frontier-tower-hot-spot-strange-tech-plots-global-expansion-new-hotel,"Near the corner of Sixth and Market streets in downtown San Francisco, Frontier Tower has become a 15-story haven for the wildest and weirdest thinkers in technology. Floor 11 is full of longevity and health tech enthusiasts. The crypto folks are a floor above, with a lounge full of expensive furniture. AI is on floor 9. And the big event there this weekend is down on floor 8, where a group of biohackers hope to hot-wire the nervous systems of two live lobsters and control their bodies via remote control, one operated by a person, another by an AI agent.
+“Worst-case scenario, we’ll have a good dinner,” said Elliot Roth, who is co-hosting the event and runs an 80-member biology and neurotech community on the floor, complete with a lab stocked with equipment like deep freezers, centrifuges and polymerase chain reaction workstations for DNA study.
+Show up at Frontier Tower enough, and it quickly begins to feel like the type of place that could only exist in San Francisco, where there are seemingly endless numbers of people who will enjoy playing mad scientist with cyborg crustaceans on a Saturday night. The thinking of the building’s owners is more conventional: They’re hungry to expand. They’ve already opened a hotel for Frontier Tower members, and next they want to export the concept behind their thriving co-working and events space in SoMa to locations around the globe.
+“We want to be in every major city across the world,” said Xenofon Kontouris, 33, who manages the tower on behalf of its owners, a trio of German blockchain entrepreneurs. “There are so many things we can add.”
+The owners, Jakob Drzazga, Christian Nagel and Christian Peters, bought the building last April for $10.5 million with a group of investors, a fraction of the $62 million it sold for
+in 2016
+. The three Germans own 49% percent of the building and control the decisions regarding it, Kontouris said. They have not disclosed other investors.
+Soon after the purchase, they began renting space within the tower for shared offices, workspaces and laboratories. It is currently bringing in revenue at a rate of more than $2 million a year, Kontouris said. And even if San Francisco’s commercial real estate market has only just started to show any signs of life, Kontouris thinks it has already tripled in value.
+At first, Frontier Tower was mostly a hit with the fringiest parts of San Francisco’s tech scene, and a lot of that energy remains. As I’ve spent time there, I’ve noticed hallway flyers advertising seminars on levitation, soliciting menstrual blood samples for research and promoting underground parties. Events showcase the unconventional energy of the place: It has hosted robot fight clubs, energy healing circles, and a peptide rave to celebrate the unregulated drugs that people have been self-injecting in San Francisco for their purported abilities to reverse aging and optimize performance.
+Nonetheless, Frontier Tower received a marker of mainstream acceptance when the organizers of the first ClawCon—the summit for OpenClaw enthusiasts—chose the building for its venue amid the first wave of mania around the technology in February.
+Investors and founders like Kevin Rose and Dave Morin attended. So did actor-turned-investor Ashton Kutcher. In all, more than 1,000 people showed up.
+“San Francisco is a bubble of opportunity right now, and the Frontier Tower is one of the kingpins of this moment,” said futurist Robert Scoble, who’s been writing about Silicon Valley since the 1970s.
+The Frontier Tower is keen to keep this momentum going. In the fall, its owners bought the 112-room former Commodore Hotel a half-mile away in Nob Hill. Monthly stays there run from $2,000 to $2,800, based on room location and size. The rooms do not have kitchens, and zoning rules only allow the hotel to offer 28-day stays, so residents have to spend four nights somewhere else before they can return.
+But the owners are interested to see what they can change there legally in their goal of creating more permanent housing options for Frontier Tower members and friends. They are also considering looking for another building to house people for the four-night gaps.
+The Frontier Tower owners have also looked at adding buildings to rent out as co-working spaces in New York, Los Angeles, Austin and Chicago. They hope to expand abroad, too, and have considered cities like London, Rio de Janeiro, Dubai and Hong Kong, Kontouris said. The group has $45 million verbally committed from other investors to spend on real estate, and it hopes to eventually raise $100 million, he said.
+Companies devoted to co-working and members’ clubs have struggled to grow in scope. The most dramatic example was WeWork’s 2023 bankruptcy. More recently, Soho House, which has reached 48 tony clubs around the world after starting in London’s SoHo neighborhood, went public in 2021 but needed
+to sell itself to a group of private investors
+earlier this year. Soho House’s revenue had been increasing, but it hadn’t been able to turn a profit.
+Kontouris said projects outside of San Francisco will be tailored around popular industries in other locales: finance and fashion in New York and energy and defense in Austin, for example.
+“We can’t have a uniform model,” Kontouris said. “But the main idea of trying to build both co-living, co-working and lab space that is accessible by everyone for the same price across the world won’t change.”
+That reduces the need to recreate San Francisco’s tech scene, a tantalizing opportunity that has vexed many people. But it also means Frontier Tower will have to hope it can keep winning over pockets of different industries—a tall task, especially since co-working spaces haven’t regained the popularity they enjoyed before the Covid-19 pandemic.
+Kontouris said Frontier Tower would like to come up with a mechanism where tenants can share partial ownership of the building. Kontouris declined to share specifics about the plans but said the regulatory structure around cryptocurrencies would have to change first.
+At Frontier Tower currently, everyone pays $190 a month for access, and they tend to work from the floor that has already attracted people working on similar projects. The Tower’s leaders have chosen “floor leads,” who plan events and recruit more members, for each level. Each lead gets a 20% cut of the floor’s total dues to use for programming or however they see fit, with the rest going to the tower’s owners, providing an incentive for recruitment.
+Frontier Tower has asked each floor to try to get to 80 members. The AI-centric one is the largest with about double that figure, while the biology lab—the site of Saturday’s lobster-hacking event—is second with around 75 to 80. Overall, the tower has about 750 members.
+Price is part of the appeal. At the biology lab, membership is an additional $160 a month. That’s a steep discount from established biotech labs, where monthly memberships can run thousands of dollars a month. Nor does the Frontier Tower take a slice out of intellectual property rights, as a university or investor might.
+With prices low enough for even the most bootstrapped founders, a growing number of young startups have flocked to the space, including one trying to make a bio-based contact lens, as well as a clinic that offers affordable depression treatments with transcranial magnetic stimulation, which stimulates brain cells with magnetic pulses. Muse Bio, a seven-person startup that is raising its second round of funding, is working on harvesting stem cells from menstrual blood for commercial products and therapeutics.
+Tim Vu, a former researcher at Lawrence Livermore National Laboratory who is working on a product to improve gene therapy, was filling vials with lipids under a fume hood when we spoke to him.
+“It means a lot to me to have an opportunity to explore something at the very beginning before I have to sell my soul to venture capital,” he said.
+He digs Frontier Tower’s ethos. “A lot of it is like, ‘Hey, let’s be batshit crazy.’ Not every batshit-crazy thing works, but when it does, it works out really well.”
+Ming He, who co-leads the Human Flourishing floor, tied with two other floors as the third largest, has been involved with the project since its inception.
+A longtime strategist, He is part of a community of midcareer founders and tech workers who have grown disillusioned with corporate tech. She believes the tower is an answer to a world where institutions are struggling to address what she called a “polycrisis” of mental health and ecological issues wrought by an “extractive capitalist paradigm.”
+She said she’s had an ongoing discussion about the building’s purpose with Frontier Tower’s owners since it opened. The tower has cultivated the aura of a community art project, and she worries that overcommercializing it could ruin the good vibes and drive out the people who have breathed life into the space. If that happens, Frontier Tower would likely become “just another blip in time for San Francisco, which has seen a lot of these projects come and go,” she said.
+For Kontouris, his biggest headache with the building right now is what’s happening on its ground-floor space: It has sat empty since CVS closed a location there in 2019, although the company still holds the lease.
+“Really frustrating, actually,” Kontouris said. “It’s the most important space in the tower, and it’s boarded up and useless.”"
+Amazon Curbs Misleading Markdowns Ahead of Prime Day Sale,2026-04-03T17:16:23Z,Ann Gehan,https://www.theinformation.com/articles/amazon-curbs-misleading-markdowns-ahead-prime-day-sale,"Amazon is taking steps to curb misleading markdowns on its retail site ahead of its annual Prime Day sale this summer, steps that could cut down on eye-popping Prime Day deals while addressing complaints that some discounts are overstated.
+Over the next two months, Amazon will closely track what shoppers have been paying for items in the run-up to the event, according to communications to sellers reviewed by The Information. In doing so, Amazon aims to ensure discounts are based on prices shoppers previously paid instead of inflated prices.
+An Amazon spokesperson confirmed the changes and said the company “is always working to improve the shopping experience and make saving money easy for customers through great deals with validated savings and clear, accurate pricing information.”
+Prime Day discounts have previously attracted scrutiny, with some shoppers alleging that Amazon sellers inflate their prices in the run-up to Prime Day so that deals appear better than they actually are. In a proposed class-action lawsuit last fall, two plaintiffs alleged that sellers used “fictional” list prices to calculate misleading Prime Day discounts and pressure shoppers to make purchases during the sale.
+Later this month, Amazon will introduce new rules governing how sellers can set their list prices, according to the seller communications. The list price is the number sellers display when showing a discount—for example, to show a price has been marked down, a seller might display “Was $100, now $60.” To qualify under the new rules, a list price must reflect a price at which the product was recently sold, either on Amazon or at another retailer.
+Amazon is also adjusting how it calculates “typical price,” another benchmark intended to show customers how good a deal is by displaying what shoppers have recently been paying for items. Until now, Amazon has mostly excluded recent discounts in the run-up to Prime Day from that number. Starting May 18, if an item has been selling for discounted prices for much of the past three months, Amazon will more heavily weight those discounts in the benchmark.
+Together, the changes could curb tactics that can make discounts appear larger than they are, making it harder to frame discounts against inflated or rarely used prices.
+Since its launch in 2015, Prime Day has turned into a critical sales period for Amazon sellers, second only to Black Friday and the holiday shopping period, and has sparked the launch of competing sales events from other retailers like Walmart and Target.
+Amazon doesn’t break out specific revenue figures from the sale, which it expanded last year to take place over four days. But U.S. retailers tracked by Adobe saw $24.1 billion in total online sales during the Prime Day period last year, a more than 30% increase from the prior year.
+This year, Amazon is
+reportedly
+moving its Prime Day event up to late June from its typical July date. That would move the event to the second quarter and make it so that the sale is reflected in the company’s second-quarter earnings. Amazon typically gives some details about its Prime Day results when it releases second-quarter earnings in late July or early August, even though the revenue generated during the sale is accounted for in the third quarter.
+Amazon has added other ways for shoppers to more closely monitor prices on its site. Late last year, it added a price-tracking feature to its Rufus shopping assistant, as well as the ability to set up price alerts and have Rufus make purchases automatically if an item’s price dips below a certain level.
+“We work hard to offer customers great value and savings through a wide range of deals every day, whether it’s a regular shopping day or one of our major deal events,” the Amazon spokesperson said. “The vast majority of our millions of deals offer customers at least the lowest price in the past 30 days, and many during our major deal events offer the lowest price of the year.”"
+Jay Edelson Made Facebook Pay. Now He’s Coming for Silicon Valley’s AI,2026-04-03T16:01:37Z,Andrew Zaleski,https://www.theinformation.com/articles/jay-edelson-made-facebook-pay-now-coming-silicon-valleys-ai,"To a degree, Jay Edelson, the class-action litigator who has made himself a constant thorn in the side of Silicon Valley’s biggest companies, likes to present a laid-back image. No power suits and wing tips for him—he prefers hoodies and sneakers. His constant companion at his Chicago office is Arlo, a white-and-gray sheepadoodle. On workday breaks, he likes to challenge employees at his firm, Edelson PC, to pickleball on a nearby court.
+But it doesn’t take much to rile up Edelson and get him to drop the act, which happens after I suggest that his trillion-dollar opponents might see him as nothing more than a gadfly. “
+Gadfly
+?” Edelson asked, repeating the word in a sardonic tone. “That’s just not how I see myself in the world.” He then described his attitude toward tech in crude terms: “It’s ‘Fuck those guys.’”
+Lately, he’s been going after the industry’s AI ambitions, and he has been plenty busy. In the past year, he has shared in a billion-dollar settlement from Anthropic over copyright infringement and filed
+three
+headline-grabbing
+cases
+against OpenAI and Google regarding their AI chatbots that have quickly come to epitomize this moment of growing unease with the technology. Meanwhile, he is preparing to file another case against OpenAI, possibly as soon as next week, which hasn’t been previously reported. The alleged details are surreal: Edelson’s client, a woman, claims ChatGPT turned her then-boyfriend into a stalker.
+Those events unfolded over a period of about six months in late 2025. According to Edelson, the boyfriend believed he had developed a cure for sleep apnea. After speaking with ChatGPT, he became convinced that the medical industry would try to stop him from popularizing the cure. As he discussed it more with the chatbot, he grew to believe his girlfriend had joined forces with the industry to stymie him, and she began waking daily to a deluge of emails, phone calls and texts from him, including threats of kidnapping and murder, Edelson said. He also allegedly sent messages to family members and colleagues.
+“It’s hard to overstate the impact this had on our client,” said Edelson, who wouldn’t connect me directly with her or reveal the identity of her alleged stalker. “She was under siege.”
+An OpenAI spokesperson wouldn’t comment on the new allegations. And when I asked about the lawsuits Edelson has already filed against the company, the spokesperson wouldn’t comment directly on the matter, instead directing me toward several blog posts, including
+one
+about how OpenAI is “improving ChatGPT’s training to recognize and respond to signs of mental or emotional distress, de-escalate conversations, and guide people toward real-world support.”
+Edelson has spent decades suing Silicon Valley, tangling up Apple, Google, Amazon and many, many other companies in lengthy legal battles. In the 2010s, he mostly concentrated on cases related to user privacy. In 2021, he cemented a reputation for himself as a credible threat to Silicon Valley by scoring a major victory against Facebook. The company agreed to pay $650 million to settle allegations that it had violated Illinois’ Biometric Information Privacy Act, litigation that involved a controversial facial recognition initiative at the company. (That was a major coup for Edelson: Most privacy cases end with $10 million to $20 million settlements.) A few months later, Facebook said it would halt the facial recognition project.
+In mounting a campaign against AI, Edelson has picked an opportune moment. Even as the companies behind the technology are rushing to popularize it, many people look at AI with fear and worry: A recent
+Pew survey
+found just 17% think AI will have a positive effect on the country over the next two decades. Such negative public sentiment is helpful to class-action lawyers like Edelson, who can use it to win over juries and unsettle opponents during settlement negotiations.
+Tech has seldom looked more vulnerable in court than it does right now. Just a week ago, a jury found Meta Platforms and Google liable for a 20-year-old woman’s depression and suicidal thoughts after she said Facebook, Instagram and YouTube had hurt her mental health. The case dwelled on product liability and was a novel way to crack the usual defense used by tech companies, which have long maintained that Section 230 of the federal Communications Decency Act grants them protection against liability for user-generated content.
+“I think that we’ve seen the shift over the last five years: Courts are fed up with these companies, and juries are kind of sick of big tech for doing a lot of damage to society,” said Edelson, who plans to use arguments related to product liability in most of his actions against AI companies.
+Edelson enjoys plenty of support and well-wishers in all the predictable places. Julia Powles, executive director of the UCLA Institute for Technology, Law and Policy, said Edelson’s firm is “doing a tremendous public service” in bringing the stories of people forward in these lawsuits, “pulling us out of intoxicating myths of AI progress.”
+To AI companies, Edelson is hardly a virtuous servant of the public good. If everything goes according to his plan, it’ll view him as its chief legal adversary for the next decade-plus. And even if Edelson and his clients wind up emerging empty-handed, he’ll certainly enjoy the rumble. When I asked him how he felt about OpenAI’s Sam Altman
+previously labeling
+him as a “leech tarted up as a freedom fighter,” he jousted back immediately. Speaking of Altman, he said: “He’s Lex Luthor.”
+An OpenAI spokesperson declined to comment on Edelson’s metaphor.
+Edelson has spent years honing a talent for being a pest.
+After graduating from the University of Michigan’s law school in the mid-1990s, he got a job at Grippo & Elden, a boutique Chicago litigation firm. He didn’t last long there, getting himself fired when he complained to a partner that the firm was doing a time-consuming amount of research for a major client just to bill the hours: Grippo had no use for the information in court.
+“I said to the partner, ‘My job is to work all day, print out a timeline, hand it to you and you throw it in the trash. Is there any way I could just print it out and throw it in my own trash? It would be much more efficient,’” recalled Edelson, acknowledging that the incident “kind of shows my awkwardness in society.”
+Sam Altman’s OpenAI has been a prime target for class-action litigator Jay Edelson.
+(Getty Images)
+In 2000, he co-founded his own shop, Blim & Edelson, right at the peak of the dot-com boom, and became fascinated by the unanswered questions about the fledging technology. Because tech was so new, it was fertile ground for lawsuits.
+“I majored in philosophy in college. It felt like philosophy: What does it mean to own something on the internet? What does online harm mean?” said Edelson. “It was just this crazy opportunity to have a voice in something really important where nobody else cared that much.”
+He won an early case against
+Register.com
+, a domain-registration company, that involved a complicated argument over ads and domain ownership. And in the mid-2000s, his firm’s work mostly focused on scammers hawking free horoscopes—“literally kids in their dorm rooms,” Edelon recalled—who figured out how to secretly charge people through their cellphone plan.
+“It was like a multibillion-dollar-a-year business, which even the cellphone companies didn’t understand,” he said. “We brought hundreds of lawsuits.”
+He founded Edelson PC in 2007. As the internet economy grew, Edelson filed lawsuit after lawsuit—nearly 500 in the last decade alone—with much of that litigation centering on his belief that big tech was grossly violating user privacy by collecting so much personal information. His opponents tend to view him as a hard-headed bulldog.
+“We’ve had straight-up conversations with him where we’ll say, ‘You have to settle or dismiss this. You’re totally wrong on this,’” said John Nadolenco, a Los Angeles attorney who represented Spokeo after Edelson sued the data aggregator in 2010. (Nadolenco won.) “A lot of times they’re true believers: ‘Thanks for that info, but we’re still going to pursue the case.’”
+Still, Edelson has had his share of wins. Two years before his 2021 settlement with Facebook, for instance, he secured the largest jury verdict ever in a privacy case—$925 million—after bringing a class-action suit against a marketing company that bombarded more than 200,000 people with spam robocalls asking them to join an alleged pyramid scheme.
+When Edelson first played around with AI, he didn’t immediately see it as his next target. “When AI came out, it was very clear the whole world was going to change, and I was kind of enthralled by it,” he said. “I was telling other people that their kids should be on ChatGPT all the time.” He also insisted his firm should adopt the technology, and in April 2023 he rolled out an intra-office chatbot, Chattie, built on OpenAI’s GPT-3. It helps employees get relevant information about the firm (how to get expenses reimbursed, what the vacation policy is). Lawyers also use it to stress-test their arguments.
+“What was surprising to us was not just how it would come up with the obvious questions, but how a judge might set up a line of questions that would box in our arguments,” he says. “Good judges do this, and Chattie’s been a surprisingly helpful sparring partner.”
+But he says he started looking aghast at AI when, on something of a whim, he asked ChatGPT to summarize what it knew about him. He said the tool told him his IQ was 160 and he was “very likely” to become president of the U.S. one day. “I was like, ‘This is insane,’” he recalled. “You get sucked into this world where that is the thing that’s giving you the best feedback.” And he figured that feedback loop would be corrosive for some people’s mental health.
+His first major AI case centered around theft of intellectual property. In 2024, he joined four other law firms in representing book publishers and authors against Anthropic, who claimed the startup had used copyrighted material to train its AI. Last August, Anthropic agreed to a $1.5 billion settlement.
+Around that same time, Edelson decided to devote himself fully to finding and bringing cases against AI companies with the help of a small, 10-person team at his firm. He sees his actions against OpenAI and Google as an effort to show how chatbots’ sycophantic nature can harm people.
+CEO Sundar Pichai and Alphabet has also needed to deal with some AI legal battles, including one over Google’s Gemini chatbot brought by Jay Edelson.
+(Getty Images)
+“I think people are going to understand how dangerous it is to unleash AI out in the world without any safety guardrails,” he said. “And I think that kind of awakening for the world is going to be as important as anything else that we do.”
+Of the two cases Edelson has already launched against OpenAI,
+one involves Adam Raine
+, a 16-year-old who committed suicide last spring after he held monthslong conversations with ChatGPT in which he discussed his suicidal thoughts. A few months after his death, his parents contacted Edelson, and last August 2025, they filed the first wrongful death lawsuit against OpenAI, alleging that ChatGPT had coached Raine on how to kill himself. (When asked about the Raine case, an OpenAI spokesperson directed me to public statements published on the company’s website. “Our deepest sympathies are with the Raine family for their unimaginable loss,”
+reads
+a post about mental health-related litigation. “We have safeguards in place to help people, especially teens, when conversations turn sensitive.”)
+The other Edelson-led case against OpenAI comes from the estate of an 83-year-old Connecticut woman, Suzanne Adams. In 2025,
+her 56-year-old son allegedly strangled and beat her
+, then killed himself. The lawsuit alleges he was “mentally unstable” and “engaged in conspiratorial thinking” that people were out to kill him—manias allegedly exacerbated by ChatGPT, which suggested his mother was using a printer in the home “as a surveillance point,” according to the lawsuit.
+OpenAI did not comment directly on the case, but directed The Information to a
+February blog post
+about updates to its efforts regarding mental health: “We are also continuing to advance how our models detect and respond to signs of emotional distress. This includes new evaluation methods that simulate extended mental health-related conversations, helping us better identify potential risks and improve how ChatGPT responds in sensitive moments.”
+Last month, Edelson set his sights on Google, filing
+a lawsuit
+against the company alleging that its Gemini chatbot had contributed to the death of Jonathan Gavalas, a Florida man who committed suicide in October. According to the lawsuit, Gavalas believed Gemini was asking him to find it a physical body to inhabit, and eventually, it allegedly told him he could “cross over” and unite his consciousness with the AI’s by killing himself. Gavalas’ account was flagged 38 times for sensitive content internally at Google but never restricted or suspended, according to Edelson. After Gavalas spent months corresponding with Gemini, his parents found his body, with slit wrists, behind a barricaded door. (In the case, Edelson represents Gavalas’ father.)
+When asked about Gavalas, a Google spokesperson said Gemini had referred him to a crisis hotline and added that the company devotes “significant resources” to strengthening how its AI interacts with people in crisis. “We take this very seriously and will continue to improve our safeguards and invest in this vital work,” the spokesperson said.
+Edelson said he generally receives one or two inquiries a day from people describing how AI chatbots have altered the life of someone they know. It’s not just Americans, either; correspondence comes in from across the world. He doesn’t pick up every case. “It’s not like a paint-by-numbers thing,” he said. He wants to see chat logs that show the chatbot contributed to a user’s mental health issues (not chat logs that show, say, a user coming up with plot points for a novel).
+Edelson is eager to argue his AI cases in front of a jury as much as he can, attracting prolonged media exposure. “We want the country and the international community to have a much better understanding of how AI works and how dangerous it is,” he said. A jury decision puts cases in full public view for as long as possible, and in any settlements, he vows to make sure the outcome includes not just a payout but also “real changes to the platform,” he said.
+In all conversations, Edelson paints his efforts in a noble light. “Our goals are what the client’s goals are, and in each case, the clients want to make something positive happen over the deaths of family members,” he said. “It also means, honestly, having huge jury awards, which are going to disincentivize these companies from being unsafe.” Not to mention a major pay day for him."
+DeepSeek’s New AI Model Will Be a Victory for Huawei,2026-04-03T13:00:52Z,Qianer Liu,https://www.theinformation.com/articles/deepseeks-new-ai-model-will-victory-huawei,"When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies.
+And in preparation for V4’s launch, Chinese tech giants, including Alibaba Group, ByteDance and Tencent Holdings, have placed bulk orders for Huawei’s upcoming chip totaling hundreds of thousands of units, according to five people with direct knowledge of the purchase. They want to sell DeepSeek’s new model through their cloud services and integrate it into their AI applications. As a result, the price for the Ascend 950PR—Huawei’s latest design, slated to begin mass production this month—has gone up 20% in recent weeks, according to the five people.
+Huawei has been working toward this point for years, backed by the Chinese government. Reacting to Washington’s technology embargo, put in place several years ago, Chinese policymakers sped up efforts that included generous subsidies to homegrown chipmakers,
+mandating companies to buy local wherever possible
+, and
+pressing AI model developers to build models that could run on Chinese silicon
+.
+Nvidia
+’s H20, designed specifically for the Chinese market to comply with U.S. export rules, was widely used by Chinese companies to run DeepSeek models in 2025, until
+Beijing banned large tech companies from buying it
+. During Nvidia’s annual GTC conference in March, its CEO, Jensen Huang, said both U.S. and Chinese governments had approved sales of its more powerful H200, but when those chips will arrive in China and in what volume remains unclear.
+That means Huawei is one of the very few options for firms that need to have enough chips on hand when V4 launches. But getting the V4 model ready for Huawei chips hasn’t been easy. DeepSeek’s engineers have long built and run models using Nvidia’s hardware and software. Tools provided by Nvidia have become the default assumption baked into how a model is built.
+Moving a model trained on Nvidia hardware to a different company’s chip requires rewriting pieces of the model’s underlying code and testing carefully to make sure the outputs are still correct and the chip isn’t running slowly.
+DeepSeek has spent the past few months working directly with Huawei and another Chinese chip designer, Cambricon Technologies, to complete that work, according to the two people close to the company. DeepSeek is also working on two additional V4 variants, each optimized for different capabilities and both built to run on Chinese chips, the two people said.
+The effort to ensure that V4 could run on Huawei chips smoothly has contributed to delays in the release of the model from DeepSeek’s original timeframe of this past February. DeepSeek has also been working on improving the model and the infrastructure to run it, including upgrading the chatbot website and application to prepare for a new peak of users, according to two people close to DeepSeek.
+DeepSeek also denied Nvidia early access to V4, a privilege typically allowed chip companies to prepare their software for a major model launch, according to the two people. Only Chinese chip companies, including Huawei, had that early window, giving domestic chips a head start before the model’s public release, the two people added. Reuters first reported that DeepSeek denied Nvidia that access.
+Designing Around Nvidia
+Huawei has spent years trying to establish itself as a viable alternative to Nvidia in China’s AI market. Its chip design arm, HiSilicon, has been developing silicon for more than two decades, focused on a variety of products, including the Kirin mobile processor and Ascend AI accelerator lines.
+Rather than competing head-on with Nvidia in model training, Huawei shifted the focus to inference, the process by which AI models generate answers or perform tasks. The Ascend 950PR was designed specifically for inference, which is easier to do and more in demand. That chip was also built to understand the same programming instructions Nvidia chips use, so engineers can run code they originally wrote for Nvidia hardware on Huawei chips with far less reworking than previously.
+The Ascend 950PR delivers roughly 2.8 times the compute performance of Nvidia’s H20, Zhang Dixuan, head of Huawei’s Ascend Computing Business, said in March at a company event. Huawei’s chip isn’t as powerful as Nvidia’s H200, however. Huawei won’t fully close that gap until the 2027 arrival of the next-generation Ascend 960, which delivers computing capabilities comparable to those of H200 chips, according to research firm Bernstein.
+But China has yet to escape the shadow of the export controls spearheaded by Washington, which curb the country’s ability to import advanced chipmaking tools such as extreme ultraviolet lithography machines and other equipment. This means Huawei continues to face capacity constraints at the facilities of its partner, Semiconductor Manufacturing International Corp., China’s top foundry. (Huawei has not been able to produce its chips at Taiwan Semiconductor Manufacturing Co. due to U.S. sanctions.)
+Washington also blocked the export of advanced high-bandwidth memory, a critical component in AI processors, to China in 2024. Huawei had already started building domestic HBM chips and has plans to mass-produce them this year,
+The Information reported
+. But some early batches of the Ascend 950PR will run on overseas versions of HBM chips, as Huawei needs more time to ramp up memory production, according to two people familiar with the situation. It remains to be seen whether Huawei and SMIC can produce enough chips to fill the orders in time.
+Huawei is due to release the Ascend 950DT, a chip designed for model training, in the fourth quarter."
+Database Startup Supabase in Talks to Double Valuation to $10 Billion,2026-04-03T01:55:21Z,Katie Roof,https://www.theinformation.com/articles/database-startup-supabase-talks-double-valuation-10-billion,"Singapore’s GIC is in talks to lead an investment in database startup Supabase at a valuation of about $10 billion, double the level
+it raised at last fall
+, according to two people with direct knowledge of the discussions.
+Supabase is aiming to raise about $500 million in the fundraising round, but the number could change, they said.
+San Francisco-based Supabase has grown quickly — a year ago its valuation was $2 billion.
+The company, which competes with Google’s Firebase platform, sells database management software to application developers and has benefited from the rise of artificial intelligence-powered coding assistants such as Cursor-maker Anysphere and Lovable, which need databases to support the apps that use their services.
+Supabase and GIC didn’t immediately respond to a request for comment.
+Supabase has a “freemium” business model, with a free service for basic options and a monthly fee for large database storage needs. It builds upon PostgresSQL, an open-source database.
+As of mid-2025, Supabase had reached revenue of about $70 million on an annualized basis, a jump from $20 million the year before.
+Existing investors in Supabase include Accel, Felicis, Coatue Management, Craft Ventures and Y Combinator.
+The startup was founded in 2020 by Paul Copplestone and Ant Wilson."
+Anthropic Acquires Startup Coefficient Bio for About $400 Million,2026-04-03T00:03:44Z,Stephanie Palazzolo,https://www.theinformation.com/articles/anthropic-acquires-startup-coefficient-bio-400-million,"Anthropic
+has acquired AI biotech startup Coefficient Bio for roughly $400 million, according to a person with knowledge of the deal.
+The startup’s team will be joining Anthropic’s healthcare life sciences group, which develops tools for the biotech industry ranging from drug discovery to clinical commercialization, said the person.
+Coefficient Bio, which was founded last fall, was developing a platform that enables AI to run biotech tasks such as planning drug research and development, managing clinical regulatory strategy and identifying new drug opportunities. The company’s cofounders include CEO Aris Theologis, who previously held executive roles at life sciences firms Evozyne and Paragon Biosciences, and Chief Technology Officer Nathan Frey, who was a research scientist at Prescient Design and Genentech, according to their LinkedIn profiles. Coefficient Bio has fewer than ten employees, according to the person.
+The deal, whose precise value couldn’t be learned, comes as Anthropic has doubled down on building AI tools targeting specific industries including finance, cybersecurity and life sciences. That’s in addition to allowing developers to access its Claude models through an application programming interface and its popular coding agent Claude Code.
+In October, Anthropic made improvements to its Claude chatbot, like allowing it to connect to tools such as Benchling and BioRender commonly used by scientists and adding features to automate research tasks, to make it more useful for scientists. In January, Anthropic added new features to automate tasks for scientists like preparing regulatory submissions or drafting clinical trial protocols.
+Anthropic has partnerships with life sciences companies Sanofi, Novo Nordisk, Genmab, AbbVie, the Allen Institute and HHMI. In January, Anthropic also expanded into healthcare, enabling doctors, insurers and healthcare companies to use Claude for medical tasks in a HIPPA-compliant environment.
+Since staffing up its corporate development team last year, Anthropic has
+held discussions with companies
+to boost its efforts in industries such as healthcare and financial services. Anthropic also had discussions last fall with
+early-stage biotech startups
+about data licensing and partnerships.
+Eric Kauderer-Abrams, previously an executive at health and life sciences companies Detect, identifeye, and Liminal Sciences, leads Anthropic’s health care life sciences group."
+Why OpenAI's TBPN Deal is No Joke,2026-04-03T00:00:47Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/openais-tbpn-deal-joke,"OpenAI’s shuttering of Sora wasn’t meant to be the end of its adventures in video generation, it turns out. Instead of using AI to generate videos, OpenAI wants to use videos to drive AI adoption.
+That’s one way of looking at the company’s
+rather startling decision
+on Thursday to buy
+TBPN,
+the Silicon Valley talk show that specializes in schmoozy interviews with tech CEOs. The purchase is confounding in a couple of ways—so much so that some OpenAI employees thought it was a late April Fools’ joke, as we reported
+in this story
+. But it may not be as crazy as all that.
+To be sure, the timing isn’t ideal.
+Just a couple of weeks ago
+, OpenAI senior executive Fidji Simo was telling staffers OpenAI wanted to pursue fewer “side quests” so it could focus more on business customers. In announcing this deal, Simo steps on her own message, even if you accept that this is a one-time purchase that won’t distract management or consume resources
+the way Sora did
+(one apparent example of a sidequest).
+Simo’s justification for the deal was a little silly, to put it mildly. As she explained it, OpenAI needs TBPN’s help in communications, including getting the word out about how AI will change the world. Hmmm. If there’s one thing you
+wouldn’t
+think OpenAI needs, it’s help communicating. After all, the company gets more attention than anyone in the tech business world right now. While there's a lot of chatter about its spending and its missteps in areas like shopping, its core vision about the benefits of AI definitely gets a lot of airtime.
+Still, if you can look past those two quibbles, you can see why the deal might make sense. Simo certainly got it right when she praised TBPN’s “amazing comms and marketing instincts.” TBPN isn’t like The Information, or The Wall Street Journal, or Bloomberg. It’s not a journalism outfit. It is much closer to John Collison’s “Cheeky Pint” podcast—where the Stripe co-founder talks to other tech heavyweights over a beer—or
+the “All-In” podcast
+. And as a schmoozefest, TBPN has been an amazing success, becoming the go-to forum for top executives
+just 18 months after launching
+.
+For the same reason, OpenAI’s promise of editorial independence for TBPN is irrelevant. Independence for what purpose? Can you imagine TBPN doing a hard-hitting piece on OpenAI? It’s not in the show’s DNA.
+That’s fine. There’s a place for techies to talk with other techies. Reporters, let’s face it, often have too much of a gotcha mentality and too little understanding of tech (or business). Tuning in to hear John Collison talking with Elon Musk can be both entertaining and illuminating. Ditto with TBPN.
+Even so, public investors would be better off if CEOs were willing to face real reporters, to answer inconvenient questions away from podcast safe spaces. Avoiding those won’t help either shareholders or executives navigate the world.
+Musk’s Ask
+As
+we predicted on Sunday,
+SpaceX’s confidential IPO filing has prompted a flood of breathless headlines. Leading the pack right now is
+a Bloomberg report
+on Thursday that the Elon Musk rocket firm is now hoping to get a valuation above $2 trillion.
+This is a company that last year generated revenue of about $16 billion by all accounts. The bulk of its revenue comes from its Starlink satellite-delivered internet access service. In what world should SpaceX be valued at $1 trillion, let alone twice that?
+That would be Elon Musk’s world. You have to wonder why he’s stopping at $2 trillion. Why not $10 trillion? If we’re throwing all reason and common sense out the window, let’s go for broke!
+In Other News
+•
+Microsoft on Thursday released three new AI models, building on the small but growing catalog of models it has trained internally as it aims to become more self-sufficient in AI. The three models—MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2—aim to transcribe audio, have spoken conversations and create images, respectively.
+• Tesla delivered 358,000 vehicles in the first quarter, a 6% year-over-year increase, the company said in a
+filing
+on Thursday. But compared with 2024, the quarterly deliveries were down.
+• The Department of Defense on Thursday appealed a federal judge’s order to temporarily halt the Pentagon’s designation of Anthropic as a supply chain risk.
+• ByteDance is helping OpenClaw operate a Chinese version of its ClawHub marketplace, which distributes OpenClaw’s special files that enable AI agents to perform specific tasks."
+Blackstone Extends the Data Center Buying Spree,2026-04-02T23:42:21Z,Valida Pau,https://www.theinformation.com/newsletters/dealmaker/blackstone-extends-data-center-buying-spree,"The AI-driven scramble for compute is still powering red-hot data center acquisitions even as overall technology deals
+slowed
+in the first quarter this year.
+In the latest example, Blackstone, the world’s largest alternative asset manager, agreed to acquire a 49% stake in Rowan Digital Infrastructure, a five-year-old data center developer based in Denver, according to people with knowledge of the deal.
+The agreement, which follows a report by The Information last week that Blackstone was
+nearing a deal for Rowan,
+would likely value the data center company at about $3.8 billion not including debt, and Blackstone is expected to gain strong control rights, according to one of the people.
+Rowan has generally developed data centers that do traditional computing tasks in the U.S. for tech customers, though it has also developed AI centers. Amazon Web Services has rented space at a Rowan data center in Maryland. Rowan has raised more than $4 billion in construction debt since mid-2024 to build data centers across the U.S.
+While valuations for AI-focused data center developers such as CoreWeave and Crusoe
+have exploded in recent years, another group of more mature developers including Rowan and Aligned Data Center carry lower valuations and are attractive to investors and buyers who want to own part of the AI infrastructure boom.
+These developers are also considered less risky bets because they have built data centers for traditional cloud computing as well as AI, so aren't entirely depending on the current boom, some bankers and lawyers who worked on data center deals said.
+Already this year, U.K.-based cloud provider Nscale agreed to buy American Intelligence & Power, a company that is developing a data center complex in West Virginia. And in March an investor consortium including BlackRock’s Global Infrastructure Partners and Swedish private firm EQT agreed to buy energy provider AES for about $10.7 billion in cash.
+Blackstone wasn‘t the only suitor for Rowan. The data center company’s owner, private equity firm Quinbrook Infrastructure Partners, had been in advanced discussions to sell a stake in Rowan to investment firm Sixth Street, but Sixth Street backed out last month, according to one of the people.
+The Rowan deal speaks to Blackstone’s ambition to expand its already sizable data center footprint across the world. The investment giant is among the largest active investors in data centers, with about $130 billion of assets and slightly more than that in development, according to a person familiar with the company. It bought data center developer QTS for about $10 billion five years ago and has since spent billions of dollars expanding the business in the U.S. and Europe. QTS has grown its leased capacity 14-fold after the 2021 takeover.
+In 2024, Blackstone agreed to acquire AirTrunk, an Australia-based developer of large-scale computing facilities, in a deal valued at about $16 billion. AirTrunk develops data centers in Australia, Hong Kong, Japan, Malaysia and Singapore.
+Blackstone’s approach to data center investment is cautious. It often first signs longer-term leases of at least 15 years with hyperscalers that have investment-grade credit ratings, before it starts building the data centers, according to the person familiar with its thinking.
+Blackstone has held early discussions with investors about forming a publicly traded data center investment vehicle, said one person with knowledge of the talks. Instead of going after more speculative raw land or development projects, the new company would invest in already-built and leased data centers, Bloomberg
+reported
+in February.
+“This is not bubble-type work,” Blackstone CEO Schwarzman said in an interview with CNBC last December, brushing off concerns about data center investments. “This is extremely conservative.”"
+Tether Makes Final Push for Fundraising at $500 Billion Valuation,2026-04-02T22:11:12Z,Yueqi Yang,https://www.theinformation.com/articles/tether-makes-final-push-fundraising-500-billion-valuation,"Tether, the world’s biggest stablecoin issuer, is making a last-ditch effort to raise funds at a $500 billion valuation, pressing investors to commit to the deal within the next two weeks, according to people familiar with the matter.
+The company, which is based in El Salvador, has been struggling to raise the funds since late last year because investors have been wary of the valuation. If too few investors agree to meet the deadline, Tether will likely postpone its fundraising effort.
+Tether doesn’t need the money—it had net profits of more than $10 billion in 2025. The company is by far the world’s biggest stablecoin issuer, with $184 billion of its USDT in circulation. Circle’s USDC stablecoin is No. 2 with $77 billion in circulation. Circle’s market cap is $22 billion.
+Last September, Tether CEO Paolo Ardoino
+confirmed
+in an X post that the company was considering raising money to expand its businesses in stablecoins, AI, commodity trading and media by “several orders of magnitude.” Bloomberg had earlier reported that Tether was seeking to raise between $15 billion and $20 billion. In February, Ardoino
+told
+the Financial Times the fundraising size was the “maximum we were ready to sell,” but added that “if we were selling zero, we would be very happy as well.”
+Valuation tops the list of investor concerns. At $500 billion, Tether would be worth more than every U.S. bank except JPMorgan Chase. Tether also faces increased competition in stablecoins. And because it has no plans to go public, investors have no clear way to cash out.
+There’s been a
+big jump
+in the number of stablecoin issuers since a new U.S. law gave the crypto tokens more credibility, and that competition could reduce Tether’s profits. A crypto downturn could also weigh on its profitability because crypto traders are the biggest users of stablecoins.
+Tether is seeking to capitalize on the friendly regulatory environment under President Donald Trump. Tether this year launched a U.S. stablecoin, led by Bo Hines, the former White House crypto adviser. But that token has just $20 million in circulation.
+Tether has been working with Cantor Fitzgerald on the fundraising. Cantor also manages the assets backing Tether’s stablecoin. Howard Lutnick ran the firm until he became U.S. secretary of commerce.
+Arcadian Capital, a Los Angeles–based investment fund, is also working with Tether to introduce investors to the firm and recently hosted dinners with prospective investors, according to the people familiar with the matter. Arcadian, founded by Matthew Nordgren, a former quarterback at the University of Texas at Austin, previously focused on investing in the cannabis industry, according to past disclosures.
+Tether added broker Clear Street to its advisers earlier this year, according to the people. A Clear Street spokesperson confirmed it is advising Tether and declined to comment further.
+Cantor Fitzgerald declined to comment. Tether and Arcadian Capital didn’t respond to requests for comments."
+Why OpenAI’s Fidji Simo Bought the TBPN Podcast Amid Crusade Against ‘Side Quests’,2026-04-02T21:27:54Z,Stephanie Palazzolo,https://www.theinformation.com/articles/openais-fidji-simo-bought-tbpn-podcast-amid-crusade-side-quests,"In recent weeks, Fidji Simo has burst into public view as the
+OpenAI
+executive bringing much-needed discipline to the AI startup, as it inches toward an initial public offering late this year.
+Last month, Simo—who is now CEO of AGI Deployment—delivered the sobering message to the company’s staff that OpenAI can no longer chase “side quests” that distract it from its priorities. In the wake of that, OpenAI killed Sora, a video-generation tool that had sucked up scarce computing resources at the company. Earlier, OpenAI
+scaled back
+an Instant Checkout feature in ChatGPT that Simo had been skeptical of. And the company put its plans to allow ChatGPT to
+generate erotica on hold indefinitely
+.
+It was striking, then, when
+Simo on Thursday announced
+one of the most unusual detours in OpenAI’s history: its acquisition of TBPN, a popular daily tech podcast hosted by John Coogan and Jordi Hays. Simo told OpenAI staffers that the podcasters will maintain their editorial independence, while also advising the company on marketing and communications. The TBPN news was so unexpected that some OpenAI employees thought it was a belated April Fools’ joke.
+“As I’ve been thinking about the future of how we communicate at OpenAI, one thing that’s become clear is that the standard communications playbook just doesn’t apply to us,” Simo wrote in a memo. “We’re not a typical company. We’re driving a really big technological shift.”
+The acquisition of the year-old podcast—which Simo personally spearheaded, according to a person close to her—is an example of how the executive has been willing to take drastic steps to switch up the company’s strategy.
+Simo came up with the idea earlier this year, shortly after the company’s previous chief communications officer, Hannah Wong, had left, the person close to her said. The decision came as OpenAI had suffered some public relations missteps in recent months, ranging from its response to lawsuits alleging that ChatGPT encouraged users to self-harm or commit suicide to comments CEO Sam Altman made on late-night TV that he wouldn’t know how to raise his child without ChatGPT, remarks some people inside OpenAI and in the public saw as out of touch.
+Simo wanted to explore new ways to communicate OpenAI’s mission and the impact and applications of its technology to the public, the person said. In response to questions from OpenAI staffers about the acquisition on Thursday, Simo said in an internal message that she believes OpenAI can do better at communicating publicly about the benefits of its products, according to a person who saw the message.
+The acquisition is the most unconventional move Simo has made since joining OpenAI as CEO of Applications last August, after running Instacart for four years as CEO. During those seven months, she has established herself as the company’s most influential new leader, one who hasn’t been afraid to say no to OpenAI’s habit of launching a growing array of new product initiatives. And she has found her footing at the company without spending much time in person with her colleagues.
+Simo works almost exclusively from a home office in Southern California due to a
+long-standing
+chronic condition called postural orthostatic tachycardia syndrome that
+leaves her
+prone to fatigue and dizziness.
+At times, flare-ups of the condition can cause her to miss meetings, which has been the case in recent weeks, according to a person with knowledge of the absences. They have come at a time when OpenAI has scrambled to respond to new threats. For instance, the company’s biggest startup competitor, Anthropic, has started to close the revenue gap as its popular coding tool, Claude Code, catches on with developers.
+In spite of that, she has played a major role in pushing OpenAI to cut Sora and to avoid other launches of social media products for the foreseeable future, according to a person familiar with her thinking. She was also deeply skeptical of the Instant Checkout feature for ChatGPT. She believed it would take extensive work to build features to support a large number of e-commerce partners, the person said.
+Simo thought it was more urgent to make sure shoppers get current prices and other information when researching products on ChatGPT, the person said. Simo and other executives are still considering what else the company can combine or cut, another person familiar with the matter said.
+Simo likely won’t be able to cut OpenAI’s way to long-term success. She must also show the company can turn the initiatives that it hasn’t shelved into bigger and profitable businesses. Those include an effort to establish advertising from ChatGPT as a meaningful new source of revenue and a push to beat its archrival Anthropic in the booming AI coding category.
+Doing so will require deft people skills from Simo. Most of the 11 co-founders of OpenAI have left the company, many of them following tensions with two of the co-founders who remain, Altman and President Greg Brockman. Simo’s desire to get OpenAI out of social media could put her in opposition to Altman, who for years has told OpenAI employees about his interest in participating in the category. Simo will have to counteract the expansionist tendencies from the top and bring calm to a company that’s had more than its fair share of drama.
+“‘Create new territory’ energy comes from Sam and Greg,” a person who works closely with Simo said. “‘How will we build on that territory in a way that’s sustainable?’ comes from Fidji.”
+“Sam and Fidji are aligned on our priorities,” said an OpenAI spokesperson. “Fidji joined to work closely with Sam and the leadership team to accelerate execution and help scale the company in this next chapter. Any suggestion of a divide is false.”
+Simo will also have to find a way to play nicely with OpenAI’s sprawling research organization, long considered its crown jewel and the source of its most impressive technological breakthroughs. Altman’s willingness in the past to give OpenAI researchers wide latitude—which can help keep them from defecting to rivals—is one reason why the number of OpenAI products has ballooned over time, some current and former employees say.
+Simo’s arrival at the company has shifted some of the power inside OpenAI away from research toward its product organization, some current employees say. That could ruffle feathers, especially as the company kills a growing number of projects.
+Some executives disagree with that characterization. “It’s definitely not a type of relationship where product comes and imposes, like, here are the important priorities,” Mark Chen, OpenAI’s chief research officer, said in an interview. “I think it becomes more of us aligning priorities—where product certainly has certain theses, research can project where the models are going, and then we spend more time together so we can actually align on, how do we pursue this joint vision?”
+And in the eyes of OpenAI staffers, power may have shifted from Altman to Simo at the company, a belief that has spread as OpenAI’s CEO has become less visible at the company in recent months at research and companywide all-hands events. Simo has also become a much more frequent presence at investor presentations and is often a main touchpoint for investors, according to people who have attended those meetings.
+This week, investors officially committed to investing $122 billion of new capital in OpenAI at a $852 billion valuation including the financing, which will happen in stages. Though that fundraising has been a big priority for Altman, Simo’s arrival at the company has helped make the CEO more available to other executives, said Chen.
+“I think Fidji has come and taken a lot of the operational load off his back.…It has freed up a lot of time,” Chen said. “I’ve noticed that Sam has been more available for me to engage in one-on-one chats with him.”
+Longer-Term Vision
+After arriving at OpenAI last August, Simo spent her first few weeks on a listening tour, in which she met with over 200 people across the company from teams including research, engineering, product and finance to discuss what was and wasn’t going well in those teams, according to the person familiar with her thinking. She later shared her findings—which included employees’ desires for flatter organizational structures and their fears of becoming a traditional big tech business—with the rest of the company, the person said.
+She jettisoned some big company traditions. For example, she told staffers in November to stop making quarterly plans, in favor of biannual ones, because she felt employees were spending too much time on quarterly planning that would change anyway due to the fast-paced nature of the company, according to a person with knowledge of the change.
+She has recapped that and other efforts to stamp out inefficient practices at OpenAI in a monthly email to the entire company. She also shares her top three priorities of the week in an email she sends to staffers every Monday.
+“I’m very focused on scaling the company without creating the excess process and friction that many of us have seen in big tech,” Simo wrote in the first of her monthly emails, according to a copy of the memo seen by The Information.
+Simo has introduced some of the structure typical of larger, public companies, some employees say. In January, she helped reorganize the company into product groups headed up by general managers. Each product group was also assigned researchers that would work closely with it to, for instance, make sure OpenAI’s models were optimized for the most common sorts of questions users were asking. And earlier this month, Simo told employees the company would be combining its ChatGPT product with coding agent Codex and browser Atlas into a desktop “superapp.”
+That closer relationship between OpenAI’s product and research organizations has helped leaders in both teams better coordinate with each other, they say. In recent months, for instance, Chen has attended more frequent reviews of OpenAI’s ChatGPT product with Simo and Nick Turley, OpenAI’s head of ChatGPT, to discuss topics such as how to improve personalization or which market segments to target, Chen said. Previously, such meetings would be more ad hoc or might not include all the relevant leaders for a product, he said.
+Simo has also used her deep Silicon Valley network to personally recruit a number of executives, including former Meta Platforms ad executive Dave Dugan to lead ad sales at OpenAI; former Slack CEO Denise Dresser as OpenAI’s chief revenue officer; former Instagram co-head of product Ashley Alexander to lead OpenAI’s health initiative; and former Shopify executive Glen Coates to lead OpenAI’s app platform, according to a person familiar with Simo’s thinking. More recently, she has focused on hiring lieutenants to fill out the teams under these execs, such as Cynthia Gaylor, DocuSign’s former chief financial officer, brought on in January to lead corporate finance and investor relations under OpenAI CFO Sarah Friar, the person said.
+Some employees believe Simo’s changes are bringing much-needed focus to the company and its longer-term product road map.
+“When it comes to something like ChatGPT, we were in a cycle of, more of, building incrementally,” Chen said. “I think she’s come in and been able to provide longer-term vision and steer.”
+Obstacles
+Some habits at OpenAI may be hard for Simo to break.
+For instance, some managers have quietly ignored Simo’s orders to stop doing quarterly plans and have continued to make them, while other teams have reintroduced quarterly plans in recent weeks, though the reason why isn’t clear, one person said.
+Historically, it’s been common at OpenAI for multiple teams to work on competing products. That includes at least three teams in recent months working on products similar to Claude Cowork, Anthropic’s agent for automating noncoding tasks on users’ devices, according to two people with knowledge of them. Employees might not react well to seeing their project, which can help them gain internal or external recognition, subsumed by another one in the name of efficiency, the people said.
+Meanwhile, her comments at the all-hands meeting last month rubbed some employees the wrong way. They felt like she was criticizing them for losing their focus and frittering away their time.
+While many employees see OpenAI’s organizational changes since she joined as positive moves, some researchers are concerned they will give too much power to product leaders, who will be able to make the final call on which models OpenAI ships for various products and who might not prioritize longer-term goals like reaching superintelligence, AI that surpasses human cognitive abilities, they said.
+As she seeks to expand OpenAI’s business, one challenge for Simo will be managing the expectations of partners and customers who are used to working with more-traditional tech firms.
+For example, Simo has publicly said it’s theoretically possible for ChatGPT to say something negative about a product adjacent to an advertisement for it. That’s because OpenAI wants the integrity of its ChatGPT responses uninfluenced by the ads that run on the chatbot. That sort of arrangement is highly unusual in the traditional ad industry today.
+Early advertisers haven’t yet brought this up as a concern with OpenAI, but executives at the AI startup expect it will be a part of future conversations as it expands its ad program, the person familiar with Simo’s thinking said. Such a setup could push companies to improve their products so ChatGPT doesn’t say negative things about them, the person said."

@@ -1,0 +1,2 @@
+0 4 * * * /home/ubuntu/work/rss-crawl/run_rss_job.sh daily >> /home/ubuntu/work/rss-crawl/logs/daily.log 2>&1
+0 5 * * 5 /home/ubuntu/work/rss-crawl/run_rss_job.sh weekly >> /home/ubuntu/work/rss-crawl/logs/weekly.log 2>&1
