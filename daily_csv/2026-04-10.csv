@@ -1,0 +1,109 @@
+﻿标题,时间,作者,链接,内容
+Cisco in Talks to Buy AI Security Startup Astrix for at Least $250 Million,2026-04-10T21:18:33Z,Valida Pau,https://www.theinformation.com/articles/cisco-talks-buy-ai-security-startup-astrix-least-250-million,"Cisco Systems is in talks to acquire Astrix Security, a five-year-old Israeli cybersecurity startup that sells software to monitor and secure AI agents, for between $250 million and $350 million, according to people with knowledge of the deal. That would represent at least a 25% premium to the startup’s last valuation of around $200 million, one of the people said.
+The deal talks come as the popularity of AI agents—AI software that can take actions on behalf of users on their devices—has exploded in recent months. Concerns over the risk these agents pose to companies have led large software vendors to introduce new features that protect clients against this risk or to buy startups with these offerings.
+The risk of agents going rogue “is going to be a huge problem,” said Cisco President Jeetu Patel on The Information’s
+TITV streaming show late last month
+, after the company announced updates to its software to protect against vulnerabilities stemming from AI agents. “You have to delegate work to these agents and the difference between delegation and trusted delegation is the difference … between bankruptcy and market leadership.”
+Spokespeople for Cisco and Astrix didn’t respond to requests for comment. The discussions are ongoing and the companies may not reach an agreement.
+Cisco, which sells networking equipment used in data centers, has for years been trying to grow its sales of subscription-based software, including cybersecurity tools. In recent years, the company has been expanding its offerings that protect against AI threats. Earlier this week, it agreed to acquire Galileo Technologies, a startup that develops tools to monitor and evaluate AI models and agents. Two years ago it bought Robust Intelligence, which sells software meant to help companies prevent security vulnerabilities in their AI applications.
+Cybersecurity concerns have risen over the last year with the releases of advanced AI models like Anthropic’s Claude Mythos, which the company says it’s
+testing with an early group of partners
+due to the model’s ability to exploit security vulnerabilities. Separately, the rising use of AI agents within enterprises
+has put cybersecurity executives on edge
+given that, in some cases, these agents have wreaked havoc on
+company systems
+and
+users’ devices
+, including by triggering a security alert at Meta Platforms and mass deleting emails.
+Those worries have made startups focused on safeguarding companies from AI risk into acquisition targets. ServiceNow in December said
+it would buy Veza
+, a five-year-old startup whose software helps companies see which of their employees and AI agents have access to customer data. And Palo Alto Networks
+last spring acquired Protect AI
+, another startup that aims to safeguard companies’ AI applications.
+Tel Aviv-based Astrix has raised $85 million in funding from investors including Menlo Ventures, CRV and Bessemer Venture Partners.
+If completed, the deal would be one of the first exits from a joint fund backed by Anthropic and Menlo Ventures that was formed in July 2024 to back AI startups. The $100 million Anthology Fund has invested in more than 45 companies, including expert network Mercor, AI interpretability startup Goodfire and AI math startup Axiom.
+​​Other startups also aim to tackle AI agent risks. Oasis Security, a startup that competes with Astrix, recently raised $120 million from Sequoia Capital and Accel."
+How a Self-Taught Programmer Became the Father of Claude Code,2026-04-10T16:09:36Z,Rocket Drew,https://www.theinformation.com/articles/self-taught-programmer-became-father-claude-code,"Boris Cherny, the head of Claude Code, almost parted ways with Anthropic for good last summer. Instead, he has helped shape the coding agent into a megahit that has closed the distance with rival OpenAI.
+Claude Code has supercharged Anthropic’s growth. After rising from $1 billion in December to $2.5 billion in February, Claude Code’s annualized revenue has accelerated in recent weeks, Cherny said, helping
+propel Anthropic’s revenue on that basis to $30 billion
+.
+The growth vindicates Cherny’s decision to return to Anthropic after making a brief sojourn last summer to coding-tool startup Cursor that at the time seemed to give that smaller rival a major boost. In the months since Cherny came back, Claude Code has shaken up a tech industry that was already enthralled by AI, spawning a new era of AI agents, hastening a decline in software stocks and remaking the jobs of software engineers.
+It has all made for a dizzying year for Cherny, 34, a self-taught programmer who quit his undergraduate studies at the University of California, San Diego, before finishing his economics degree and founding a startup. He’s focusing now on adding new features to make Claude Code easier to use as the AI models powering it continue to advance. A year from now, “we’re going to see a world where anyone can do software engineering,” he said in an interview. The same way “coding is solved for me, it’s going to be solved for everyone.”
+Cherny and his team are now working to extend Claude Code’s automation of software engineering into other kinds of work, such as legal and financial tasks, through its offshoot, Claude Cowork. Anthropic’s latest model, Mythos, has already scored some
+blockbuster coding results
+, and early testers said Mythos was the first model that could handle hourslong agentic coding tasks,
+according to Anthropic
+. Due to its capacity for cyberattacks, Anthropic is refraining from releasing the model for now but says it
+aims to add
+a comparably capable model for Claude Code in the future.
+Claude Code also faces intensifying competition from OpenAI, which is racing to strengthen its own AI coding product, Codex. And Anthropic hit a setback late last month when it accidentally released the software behind Claude Code that allows its models to act on their own. That has offered competitors a rare look at how Claude Code works under the hood, along with
+planned updates
+that would allow it to act more proactively and visualize Claude Code as a virtual duck avatar.
+The challenges to keeping Claude Code’s edge are daunting, but its current success also seemed far-fetched a year ago.
+Cherny joined Anthropic in September 2024 after nearly seven years at Meta Platforms, where he helped lead efforts to improve the quality of Meta’s code. He said he is drawn to Anthropic’s mission of developing advanced AI for the benefit of humanity. He became the first engineer on Claude Code, which was released in February 2025—and flopped.
+“It didn’t just skyrocket immediately.” Cherny said. It “plateaued for a while.” The product only took off after smarter models landed to power it.
+Last May, sitting backstage at Anthropic’s first developer conference, Cherny had a bit of a eureka moment about its coding abilities. Perched among the stage crew and lighting operators, he was testing Claude Code with the new models Anthropic had released that day, Opus 4 and Sonnet 4.
+“I just remember feeling like, ‘Holy shit, this thing. Like, it works,’” Cherny said. As a result of its newfound powers, Claude went from generating about 10% of his code to closer to 30%, he said.
+Still, there were other moments of doubt before Claude Code really took off. In July last year, Cherny and Catherine Wu, the product lead for Claude Code, departed to Cursor, which had gained huge buzz for its AI coding tool. Both were given more senior roles there, Cherny as the company’s chief architect and head of engineering, and Wu as head of product.
+Cursor is both a customer of Anthropic, whose models it uses, and a competitor for coding customers, and the industry saw the duo’s move as a coup for the smaller company. Cherny said in an email that he was drawn to the people at Cursor but quickly realized it was a mistake to leave Anthropic and reached out about returning. Within a couple weeks, both he and Wu were back.
+“Coming back was 100% about missing the mission. There is literally nothing that I could think of doing that feels more urgent and important than what I am doing now, except maybe working on alignment research directly,” Cherny said, referring to efforts to get AI models’ goals to match those of their developers. Since coming back, he has continued to lead Claude Code’s engineering work and shape which features the team plans to add to the product. He and Wu, along with others on the team, report to Fiona Fung, who manages the Code and Cowork operation.
+Buoyed by Claude Code’s success, Anthropic’s annualized revenue
+recently surpassed
+OpenAI’s. Claude Code allowed Anthropic to gain on OpenAI because it equipped Anthropic’s coding-savvy models with software for working autonomously across several files. Last November, it got another big boost with Anthropic’s release of Claude Opus 4.5.
+That was when AI reached human-level performance at software engineering, said Tian Yu, a venture investor at Micron Ventures who uses Claude Code. He said the new model allowed Claude Code to run for longer, reason more effectively and write code with fewer bugs.
+Anthropic co-founder and CEO Dario Amodei.
+(Getty Images)
+Yu, who quickly found himself staying up until 2 a.m. to code with Claude, used it so much that he started running into Anthropic’s usage limits. He canceled his $200 per month ChatGPT subscription and subscribed to Anthropic instead.
+“My Claude Code is like an intern trapped in my computer, and it’s actually faster than most developers I know,” he said.
+Many techies didn’t try out Claude Code until they were on winter break in December, with more spare time. Even within Anthropic, employees returned after vacation saying: “Oh my god, I almost have an existential crisis—this thing is just so good at coding,” Cherny recalled.
+Claude Code’s abilities to edit across different files and translate code from one programming language to another have won over big customers, including Netflix, Accenture and Uber, according to Anthropic. The software engineering market it is going after is worth over $1 trillion, Cherny said.
+The arrival of Claude Code and its agentic ilk has fueled uncertainty over the future of legacy software businesses, slashing share prices for companies such as Salesforce, ServiceNow and Workday. It also has fueled worries that coding agents could put software engineers out of work.
+That’s ironic given that Cherny learned to program when he was in middle school, writing web code for listings on eBay and programming graphing calculators. Though Claude Code has freed many software engineers from manual coding, Cherny said he believes programming remains “an intensely practical skill.”
+Cherny acts as a sort of public ambassador for Claude Code. Early this month, he presented the news on social media that subscribers could no longer use Claude Code in third-party software such as OpenClaw, the viral software for creating personal agents.
+He spent the next 45 minutes answering questions on X from outraged OpenClaw users, then resumed after 11 p.m. Even OpenClaw creator Peter Steinberger
+appreciated
+Cherny’s contributions to OpenClaw. “While I think what Anthropic does is sad for the ecosystem,” he wrote, “I wanna give Boris credit for doing what he can to soften the fallout.”
+Cherny said in an interview he hasn’t tried OpenClaw himself. But Claude Code has recently
+drawn inspiration
+for many new features from OpenClaw, such as the ability to put Claude to work from a user’s phone.
+Claude Code led to a wave of programmers deleting the apps they were using to read and write code—a blow to Cursor, the previous king of AI coding. “I’ve given up on Cursor,” said Rob Sun, founding engineer at Dexterity, which makes industrial robots for unloading trucks. Claude Code has helped him with work including a computer vision project that took it only a couple days to complete.
+“It’s a set of problems that I think I never would have solved myself,” Sun said. “I would have needed a team of 10 to 30 research engineers and a year, maybe a couple months, to do it. And if it was just myself, it would probably take three years of uninterrupted time.”
+A Cursor spokesperson said it “is still rapidly growing, specifically in large businesses and enterprises.” The company has revamped Cursor’s interface to center coding agents
+from multiple providers
+, including Cursor’s own agents, as well as Claude Code and Codex. The new interface also preserves the option for users to inspect their code line by line.
+OpenAI, which recently axed its AI video app, Sora, to prioritize business-focused AI products, has redoubled its efforts on its coding agent, which has won over many software developers, who say that it can be
+more efficient
+than Claude Code. Some are using Claude Code and Codex together.
+These days, Cherny said, Claude Code writes all of his code. The team used Claude Code to create the final version of Claude Cowork—in just 10 days. The product continues to self-improve: It automatically pulls in user feedback from across the internet and fixes its own bugs, Cherny said.
+The agent’s abilities have enabled the engineering team that built it to stay small, said Cherny, who estimates they have the highest revenue per engineer in the world, though he declined to share the size of the revenue or the team.
+For example, Cherny’s team members have to fill out a spreadsheet once a week to provide a status update on their work. Cherny has Cowork look over the spreadsheet and message a reminder on Slack to anyone who hasn’t filled it out. “I just go get coffee while it does,” he said.
+Cherny also is trying out Claude for booking flights and paying parking tickets.
+Last month, he was visiting friends in Seattle who wanted to go clamming. Cherny struggled to navigate the website for the local fish and wildlife department to request a license, so he appealed to Cowork, which figured out the website, asked Cherny for his credit card, paid $7 and got the right license."
+SK Hynix Is the Overlooked Memory Chip Maker,2026-04-10T13:00:53Z,Anita Ramaswamy,https://www.theinformation.com/articles/sk-hynix-overlooked-memory-chip-maker,"The memory chip market right now is governed by a triumvirate of companies, led by South Korean firm SK Hynix, followed by Samsung, also of South Korea, and
+U.S. chipmaker Micron
+. The three stocks soared more than 200% over the last year—and yet they’re still cheap, especially relative to Nvidia’s stock.
+Investors aren’t giving the companies credit for their stunning growth. SK Hynix and Micron each increased sales nearly 50% in 2025 and analysts expect the companies to grow sales 159% and 191%, respectively, in 2026, according to Koyfin, far more than the 71% growth Nvidia is expected to deliver in its next fiscal year, which ends in January. Samsung’s business is far more diversified, making its performance less indicative of growing memory demand.
+What gives? Investors know that the business of memory chip makers has been cyclical in the past, depending on demand for memory flowing from PC and smartphone makers, formerly the main consumers. During downturns, revenue plunged. As a result, investors have been wary of overpaying for the stocks.
+But that history is less relevant now. The memory gear the three companies make is crucial for AI chips, demand for which is off the charts. That has created a shortage expected to last at least into 2028, UBS said in a report this week. Even better, this memory is valuable for any kind of AI chips, not just those made by Nvidia. It’s vital for those Broadcom designed for Google, as well as newer chips designed for AI inference, the process by which models respond to queries.
+Moreover, the companies are signing longer-term contracts and selling to a broader set of customers than in the past, said Rob Wilson, a portfolio manager at Baillie Gifford who invests primarily in non-U.S. companies. Those changes argue for their getting a higher valuation than in the past.
+“Historically, these companies have been in the investor sin bin. People have not liked them on the basis of them being viciously cyclical, and they haven’t been very disciplined further back in the past,” said Wilson, who has been buying SK Hynix’s shares recently. He was initially hesitant to get involved with the stock after an early-2000s price-fixing scandal that implicated all three memory makers. “But the nature of their business is totally transformed,” Wilson said.
+And yet these stocks still trade at an enormous discount to Nvidia. For instance, SK Hynix and Micron are trading at under 5 times forward earnings, while Nvidia is at 22 times. On a multiple of last year’s book value, which analysts use for the sector, SK Hynix trades at 6 times, while Micron is at 6.5 times. Nvidia is valued much more richly, at 33 times.
+The Right Premium
+What’s the right valuation for the memory chip stocks? Wilson has both Nvidia and SK Hynix in his portfolio and argues both are undervalued at current levels, but he still believes Nvidia deserves something of a premium because it is the only supplier of complete systems for AI data centers. And unlike the memory chip makers, Nvidia outsources its manufacturing, which has in the past supported its comparatively higher margins.
+But Wall Street analysts think Nvidia’s premium is too big. The gap in valuation between the memory makers and Nvidia “will close,” said John Vinh, an equity analyst covering semiconductor firms at KeyBanc Capital Markets. “The question is, how much will it close? I think a lot of it has to do with whether Micron and the other memory guys can get long-term agreements in place” with their customers.
+All three memory chip manufacturers have talked up their efforts to sign long-term deals. Vinh says such deals come with two benefits—locking in a minimum price for a product and compelling customers to pay for capacity in advance at the start of each year.
+Sentiment is shifting toward the memory chip makers. Joe Tigay, a portfolio manager at investment advisory firm Equity Armor Investments, has been trimming down his large position in Nvidia recently and buying up stock in Micron. While he’s still bullish on Nvidia, Tigay said he has been adjusting his allocation out of a desire to “diversify out of the major leaders in the AI space and say there’s going to be more winners than just that.”
+One factor that caused the memory stocks to stumble last month came in the form of a press release from Google unveiling a new algorithm that could run with significantly less memory. Investors panicked, assuming that would hurt the memory manufacturers. But Wilson, from Baillie Gifford, thinks this could actually benefit them.
+“To me, it seems relatively obvious to me that there will be ways to use more memory as a result of optimizations that happen downstream of the memory,” Wilson said.
+Why SK Hynix Stands Out
+Of the three, SK Hynix stands out as the stock with the best potential. Its gross margin of 60% and operating margin of 49% last year surpassed Micron’s respective margins. What’s more, Wall Street analysts expect its gross margin to surge this year, surpassing their projections of Nvidia’s over a similar period.
+Another catalyst for the stock is that SK Hynix intends to list its shares in the U.S. later this year, its CEO told investors during its annual shareholder meeting last month. It plans to raise $14 billion in the listing to fund new chipmaking factories in Indiana as well as in South Korea, Reuters
+reported
+.
+The company is set to report its first-quarter earnings later this month, Analysts polled by Koyfin are predicting it will increase its revenue 166% to roughly $32 billion. They also expect its gross profit margin to rise to 75.8%, up from 69% in the previous quarter.
+Analysts will be looking for any updates on the status of new deals. For instance, Korean news outlets
+reported
+this week that SK Hynix was in the midst of negotiating long-term contracts to supply memory to Microsoft and Google.
+Wilson says he will be paying close attention to any disclosures the company provides around the terms of such long-term customer contracts, many of which it is currently negotiating.
+Ultimately, he’s optimistic that strong demand for memory, particularly from large AI customers, can buoy the stock for the next few years—as long as the big tech firms keep up their lavish capital expenditures, something he sees as likely.
+“The end-demand customers are going parabolic in terms of their revenue profile and aren’t pulling back at all,” Wilson said. “They’re all compute constrained in terms of their ability to build revenue. The more compute they get, the more memory they’ll get, the more revenue they can generate.”"
