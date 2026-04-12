@@ -39,3 +39,7 @@
 - target_date: 2026-04-10
 - csv: daily_csv/2026-04-10.csv
 
+## Daily 2026-04-12T12:00:02.691162+08:00
+- target_date: 2026-04-11
+- csv: daily_csv/2026-04-11.csv
+
