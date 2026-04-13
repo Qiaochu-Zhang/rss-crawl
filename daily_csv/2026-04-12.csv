@@ -1,0 +1,50 @@
+﻿标题,时间,作者,链接,内容
+Netflix on Deck This Week; Pressure on Software Stocks Intensifies,2026-04-12T22:00:50Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/netflix-deck-week-pressure-software-stocks-intensifies,"We interrupt our regular AI programming to talk about something more entertaining: Netflix! The video-streaming giant kicks off tech earnings season on Thursday with its first-quarter earnings. It’s the first quarterly report since Netflix walked away from its $82.7 billion deal to buy Warner Bros. Discovery’s streaming and studio operations, so that distraction is gone.
+Now we’re back to guessing how long Netflix can keep growing at its recent annual pace of around 15%,
+well above rival streaming firms
+like Disney (8% last fiscal year) and WBD (5% in 2025). Netflix forecast 15.3% top-line growth for the first quarter but 12% to 14% growth for the full year. That full year projection is still decent growth, but a more serious slowdown is inevitable, perhaps within a year or two.
+Netflix is relying on its small ad business to drive growth right now but that can only last so long. Netflix forecast ad revenue would double to $3 billion this year, out of total revenue it projects will be as high as $51.7 billion. How much bigger can its ad business get? The streaming ad market is not huge—$37 billion in the U.S. this year, estimates eMarketer, compared with $133 billion for U.S. social media. And the market is
+extremely
+crowded, with everyone from YouTube to Amazon to Disney to WBD jockeying for market share.
+Otherwise, Netflix is propping up growth with price increases—
+it announced the most recent one in March
+—but that comes at a cost. The price of Netflix’s ad free plans have roughly doubled
+since 2017
+. Raising prices is a good way to drive away subscribers over time, as the cable industry learned. And it’s much easier to cancel Netflix than it is to cancel cable. Netflix no doubt thinks anyone unhappy about the price will downgrade to the tier with ads, which is still cheap at $8.99 a month. But for many people, the ad-free nature of Netflix has always been a big part of the service’s appeal.
+Netflix is still the streaming company to beat, but its above-average growth won’t last—nor will its premium stock valuation.
+Saas-pocalypse Revisited
+How bad can things get in the stock market’s software sector? Mass selling of enterprise software stocks resumed last week after a pause of a few weeks, as jitters about the impact of new AI tools on older software businesses intensified. UBS Securities on Thursday published a report saying that since December, it had been hearing from big companies that growth in spending on AI this year would likely squeeze their spending on other software.
+UBS said over half of the calls it has with business customers include anecdotes of “containing” spending on non-AI software. It’s no wonder investors reacted badly. On Friday, ServiceNow and Snowflake were each down around 8% respectively, Salesforce fell 3.5%, and even cybersecurity stocks such as Palo Alto Networks and CrowdStrike were off 6.7% and 4% respectively. (See
+our story today
+about software companies’ spending on research and development).
+Cybersecurity firms until now had been insulated from the investor freak-out, presumably because investors know AI will make it easier for hackers to break into systems, making cybersecurity even more important. Increasingly, however, it seems that AI firms could simply take over cybersecurity themselves.
+The most battered stocks, all up, include Figma, a software design firm, which has lost half its value this year and on Friday had an enterprise value of just $7.9 billion—less than half the $20 billion Adobe planned to pay for it in 2022, before antitrust opposition squelched the deal. And Asana, Dustin Moskovitz’s collaboration software tool, is down 60% so far this year.
+In Other News
+•
+Meta Platforms is hiring three senior OpenAI executives who helped lead the ChatGPT-maker’s ambitious Stargate cloud and data center initiative, according to two people with direct knowledge, marking a notable escalation in the
+battle for AI infrastructure talent
+.
+• Tesla won approval to sell its driver assistance software in the Netherlands, the country’s vehicle regulator said on Friday, in a key step toward potentially selling the service in the entire European Union.
+• CoreWeave, a provider of cloud computing for AI, on Friday said it had struck a multi-year deal to develop and run Anthropic’s Claude AI models. The company expects the first servers to come online for Anthropic later this year. The two companies didn’t disclose the size of the deal.
+Friday on The Information’s TITV
+Check out
+today’s episode of TITV
+for our OpenAI bull versus bear debate."
+Atlassian and Figma Lead the R&D Arms Race,2026-04-12T15:00:43Z,Laura Bratton,https://www.theinformation.com/articles/atlassian-figma-lead-r-d-arms-race,"Wall Street’s sell-off of enterprise software stocks resumed in earnest late last week, sending stocks such as ServiceNow and Snowflake down around 8% or so on Friday, as jitters over the impact of new AI tools on older software firms intensified. But the panic may be too indiscriminate.
+One way of sorting out which software firms may have more of a future is to look at their spending on research and development as a percentage of revenue, a sign of how deeply they’re investing in new products. On that metric, two firms in particular stand out—Atlassian and Figma.
+Atlassian, an Australian software company best known for its Jira application, used for project planning, spent $2.7 billion on R&D in its most recent fiscal year, which ended on June 30, 2025. That equated to 51% of its revenue for the period. Figma, meanwhile, reported R&D costs of over $1 billion in 2025, or 97% of its revenue for the year.
+In comparison, the average of nine other companies—including Salesforce, ServiceNow, HubSpot, Palantir, Microsoft, Shopify and Adobe—was about 19% in their most recent fiscal years (see graph). Those other firms allocated more of their spending—on average, 27% of revenue—on sales and marketing.
+According to DA Davidson analyst Gil Luria, the focus on sales and marketing by so many software as a service firms is because the value they provide “has a lot more to do with the service than it does with the software.”
+But Robert Wilson, an investment manager at asset manager Baillie Gifford, thinks software firms should be investing as aggressively in R&D as Atlassian and Figma.
+“I’m losing that fight with the market,” Wilson said. “The market is just in complete risk-off mode in general.”
+Wilson said overall, companies’ R&D spending is a good measure of their efforts to build AI apps, agents and features to make their products more competitive. He noted that they may calculate R&D somewhat differently based on how they account for stock-based compensation allotted to engineers.
+Software firms face an uncertain future of black-and-white options. AI agents built with tools like Anthropic’s revered Claude Code and OpenAI’s Codex could either render traditional software companies’ applications obsolete or help the firms grow massively.
+Most established software firms are introducing their own AI services. Salesforce, for instance, has introduced Agentforce to help customers build and manage their AI agents.
+But as the differences in R&D spending demonstrate, not every company is investing heavily in new products relative to their revenue. Atlassian and Figma have said in recent filings that their heavy R&D spending is driven in large part by the costs of developing AI tools and features. Software companies’ R&D costs typically come mainly in the form of compensation to engineers but also include payments for software tools and large language models that engineers use to build new products and apps.
+Both Atlassian and Figma may be spending more heavily because they’re worried about their vulnerability to AI. Indeed, Figma is under scrutiny from investors because of concerns that AI tools could easily replace its design software, while Atlassian’s seat-based pricing model could face pressure because AI coding tools like Claude Code may reduce how many users need to use its apps.
+Both stocks have fallen more than the average software firm. Shares of Atlassian and Figma are down roughly 65% and 51%, respectively. The benchmark for software stocks in the S&P 500 has fallen 26% so far this year, thanks to worries about the impact of AI on the sector.
+To be sure, larger software firms such as Salesforce and ServiceNow are increasing their R&D spending—at least in absolute dollar terms—just not as strikingly as their smaller peers. Salesforce has spent an average of 15% of its revenue on R&D over the past eight years, translating to an increase in R&D spending from nearly $2 billion in 2018 to $6 billion in its fiscal year ending Jan. 31.
+Salesforce didn’t respond to a request for comment but said in its securities filings that it expects R&D to be stable as a percentage of revenues as it invests in creating new tech such as AI agents, while its spending on sales and marketing will decline thanks to AI-related efficiencies.
+ServiceNow said it “absolutely prioritizes investment in R&D” and it was “maintaining and in many places growing our investment in AI, while also taking advantage of internal AI efficiencies.” ServiceNow’s spending on R&D has increased from around $500 million to roughly $3 billion between 2018 and 2025.
+DA Davidson’s Luria argued that it makes sense that the companies’R&D costs as a share of revenue have stabilized in recent years. He believes those expenses aren’t a metric for how well a company is executing its AI strategy.
+“Throwing money at the problem is not going to solve it,” he said. Instead, software firms should use AI tools to get R&D projects done more efficiently and bring down costs."
