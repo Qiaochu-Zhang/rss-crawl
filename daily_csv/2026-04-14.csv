@@ -1,0 +1,256 @@
+﻿标题,时间,作者,链接,内容
+What Amazon’s Globalstar Purchase Means for SpaceX,2026-04-15T00:00:17Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/amazons-globalstar-purchase-means-spacex,"Every now and then we get a reminder that big tech’s pockets are as deep as
+the Mariana Trench
+. Amazon’s purchase of satellite firm Globalstar offers one of those reminders. Despite spending $200 billion this year on capital expenditures for its AI expansion and committing $50 billion on an OpenAI investment, Amazon can still find a few loose coins in the couch to buy Globalstar.
+Amazon is paying about $4.6 billion in cash and issuing stock currently worth around $6.2 billion for the satellite firm. For that, it gets to expand the offering of its yet-to-be-launched Leo broadband satellite service to include direct-to-cell capabilities. That would help Leo compete with SpaceX’s Starlink, which already offers a limited mobile service through T-Mobile in the U.S. and other carriers overseas.
+Amazon has essentially acquired an option on the possibility that the satellite mobile market will become a big thing—an outcome
+far from certain
+. As our story reported, there’s little evidence so far that enough consumers care to pay extra for satellite capabilities to justify the investments required for direct-to-cell services.
+That makes sense. The ability to get a satellite signal when you’re in a national park is valuable if you break your leg while you’re hiking, but otherwise you might never think about it. Still, SpaceX CEO Elon Musk has bet he can change that with expanded mobile services such as video streaming. (Watch satellite industry consultant
+Tim Farrar discuss the Amazon-Globalstar deal on The Information’s Tuesday TITV
+.)
+The big winner out of this deal, though, may be Apple, which currently uses Globalstar for the very limited satellite service offered on iPhones. The swirl of uncertainty around Globalstar’s future presented Apple with a quandary: It didn’t want to
+buy Globalstar itself
+, but it needed the service to keep operating. While critics say Globalstar’s service is slow and less advanced than Starlink’s, Apple wouldn’t have been able to switch over to a rival satellite service easily. Moreover, it has
+put a couple of billion dollars
+into Globalstar in recent years to help the company put up satellites used for the iPhone service.
+Amazon’s purchase means Globalstar now has a financially solid owner, one Apple has dealt with in other business areas (Apple and Amazon already have reached a new Globalstar deal). As it has done in AI, Apple smartly lets other companies do the heavy lifting of making risky investments.
+AST SpaceMobile Hit
+Amazon’s purchase of Globalstar was bad news for another satellite firm, AST SpaceMobile, which is also aiming to launch a direct-to-cell service later this year in competition with Starlink Mobile.
+Unlike SpaceX and Amazon—both of which will soon have their own mobile spectrum once their deals close next year—AST relies on borrowing spectrum for its service from its mobile carrier partners, which include Verizon, AT&T and Vodafone. That means AST will have a disadvantage in future negotiations with mobile carriers compared to SpaceX and Amazon, which probably explains why its shares fell 11% on Tuesday after the Amazon-Globalstar announcement.
+Still, AST shares are still up nearly 300% over the past year thanks to broad investor interest in space and an enthusiastic base of individual shareholders. We’ll see if the hype about the SpaceX IPO continues to keep
+pushing share prices of its rivals
+into orbit.
+—Theo Wayt
+In Other News
+•
+General Catalyst appointed Palo Alto Networks CEO Nikesh Arora to its board, the investment firm’s CEO, Hemant Taneja, said Tuesday.
+• Aparna Ramani, a top Meta Platforms executive who oversaw the infrastructure behind its AI models, is leaving the company.
+• Anthropic is preparing its next flagship model, Claude Opus 4.7, along with a new AI-powered tool for designing websites and presentations, according to a person with knowledge of the products.
+• Deutsche Börse Group, the Frankfurt Stock Exchange operator,
+said
+it has made a strategic investment of $200 million in Kraken, representing a 1.5% stake in the crypto exchange."
+Billion Dollar Grüns Sale Gives Consumer Investors Hope,2026-04-14T23:18:07Z,Katie Roof,https://www.theinformation.com/newsletters/dealmaker/billion-dollar-gruns-sale-gives-consumer-investors-hope,"When Unilever last week announced its
+$1.2 billion acquisition of Grüns
+, a three-year-old brand of gummy vitamins, I had a flashback to a decade ago when Unilever bought Dollar Shave Club for almost the same price. That earlier deal marked the heyday of venture-backed consumer exits, which have been few and far between more recently.
+The Grüns sale is the latest sign that consumer investing is experiencing a revival. At a time when software stocks have stagnated, bankers seem enthusiastic about taking consumer and internet companies public. Companies that might list within the year include messaging platform Discord, fitness social media Strava, scooter brand Lime and fitness ring Oura, my sources tell me.
+Private investors, for their part, have shown they’re keen on consumer startups. Oura’s competitor Whoop just raised at a $10 billion valuation. We
+also recently reported
+that online fashion brand Quince raised at a $10 billion valuation, following  strong revenue growth.
+“There were a couple years where people were really trying to shy away from consumer. In the last 4 or 5 months it’s really picked up a lot,” said Sophie Bakalar, a partner at Collaborative Fund.
+Said Bakalar, these have been“the counterpoint to a lot of the AI hype and chaos that we’ve seen,” with consumer valuations driven more by current growth metrics than future goals. The firm is an investor in healthy soda Olipop whose rival Poppi was bought by PepsiCo last year for $2 billion.
+Other sales have also buoyed VC optimism, though several didn’t involve venture capital. Last year, Unilever bought men’s grooming product business Dr. Squatch for $1.5 billion from a private equity firm, Summit Partners. Elf Beauty bought
+Hailey Bieber’s beauty brand Rhode
+for $1 billion almost a year ago. Rhode never announced VC funding.
+Yet not all of the recent sales are positive signals. AllBirds, a one-time Sand Hill Road darling once valued at $4 billion, sold for just $39 million last month. The depressed price seemed to be the nail in the coffin for an era of consumer startups that once grew primarily via Instagram ads.
+Said Bakalar, “the D2C e-commerce craze was more of a trend than long-term advantage.” These days, she said, brands need to make sure they’re selling both online and in stores.
+That was the case for Grüns. The company, founded by former Summit Partners investor and Dr. Squatch
+board observer Chad Janis
+, started selling the supplements through its website and then sold in
+stores like Target
+and Walmart.
+It had raised tens of millions of dollars from venture firms including Headline, Plus Capital and Sugar Capital—which are now looking at a quick return on their investment."
+Anthropic Changes Pricing to Bill Firms Based on AI Use Amid Compute Crunch,2026-04-14T22:10:40Z,Kevin McLaughlin,https://www.theinformation.com/articles/anthropic-changes-pricing-bill-firms-based-ai-use-amid-compute-crunch,"Businesses whose employees are heavy users of Anthropic’s Claude products are likely to pay significantly more for them after the company changed its pricing model in recent weeks to charge business customers based on the amount of AI they use.
+The shift, which hasn’t previously been reported, is the latest indication of how Anthropic is managing the booming popularity of its coding and agent products, which increase the costs of running that AI.
+With the pricing change, customers of Claude Enterprise, a two-year-old bundle of products meant for large companies that now includes Claude Code and its work assistant, Claude Cowork, will have to pay for the amount of computing capacity they consume while using the software on top of a monthly flat fee of $20 per user, an Anthropic spokesperson confirmed.
+Those customers previously paid up to $200 a month for every licensed user, receiving a set amount of discounted token usage for the subscription, says Fredrik Filipsson, co-founder of Redress Compliance, a firm that helps companies negotiate software licensing agreements.
+He estimates that for some heavy users, Anthropic’s Claude Enterprise pricing changes will double or even triple their costs.
+Several IT executives whose companies pay for Claude subscriptions said they are aware of the pricing changes, which have taken effect in recent weeks. Those companies are tracking whether the changes will result in significantly higher bills from Anthropic, the executives said. (Some Claude Enterprise customers may not see the changes until it’s time to renew their contracts.)
+The pricing changes don’t affect businesses that pay for fewer than 150 users, such as customers of Anthropic’s Team subscription for small companies, which costs up to $100 per user per month, according to the spokesperson.
+Anthropic introduced the new pricing policy after a spike in usage this year of its AI coding agent, Claude Code, as well as Claude Cowork, an AI-powered tool that can take over a computer to manage workplace tasks across multiple applications.
+The Anthropic spokesperson said it made the price change because under the prior system some customers would hit usage limits that interrupted their work, while others didn’t use all the capacity they’d paid for. This change “better reflects how customers are actually using Claude as workloads shift from seat-bound productivity into agentic use,” said the Anthropic spokesperson.
+Claude’s surging adoption has been a boon for Anthropic’s business. Annualized revenue from Claude Code jumped to $2.5 billion in February from $1 billion in December and
+accelerated in recent weeks
+, and the number of weekly active users of Claude Code doubled between January and February.
+That growth propelled Anthropic’s revenue pace to $30 billion as of early April,
+nearly triple its rate at year-end
+.
+Increased use typically adds to the costs of running AI models, known as inference. Agents like Claude Cowork are particularly compute intensive because they can work for long periods of time without interruption and can even perform a task on a schedule—say, every 30 minutes.
+Anthropic’s recent compute costs couldn’t be learned, but red-hot growth last year more than
+tripled its inference costs
+, causing its
+gross margin to fall short of its expectations
+.
+If subscribers are regularly hitting usage limits with inference-hungry agents, “the subscription margins just erode away,” said Sudip Roy, co-founder of AI software developer Adaption Labs and former director of inference for AI model maker Cohere. “You kind of price subscriptions for underutilization,” he said.
+With consumption-based pricing, he added, “it’s more favorable for the provider, and it’s obviously less favorable for the users,” provided they are consuming a lot of tokens. Adaption Labs has enterprise subscriptions to Claude Code but hasn’t experienced Anthropic’s recent pricing changes.
+As the popularity of Claude Code and Cowork has taken off over the past five months, thanks to upgrades in the models powering those products, Anthropic has taken other measures to curb some use.
+Earlier this month, Anthropic announced that customers on Claude Code subscriptions would have to pay extra to use third-party agent tools like OpenClaw, a viral open-source agent, because of how much computing power those tools were using. “Capacity is a resource we manage thoughtfully and we are prioritizing our customers using our products and API,” Boris Cherny, head of Claude Code,
+wrote on X
+when Anthropic made the change.
+OpenAI’s Play
+OpenAI, meanwhile, appears to be trying to capitalize on Anthropic’s move away from subscriptions. In early April, OpenAI announced a new $100 per user per month subscription that offers more access to Codex than its $20 per month tier but less than its most expensive $200 per month tier.
+OpenAI characterized this as a move “to better support the growing use of Codex.” Codex crossed 3 million weekly users last week, according to
+OpenAI CEO Sam Altman
+.
+The pricing change won’t necessarily drive away Anthropic customers. Filipsson, for instance, said so far the Anthropic customers he works with aren’t leaving, as they appear to be satisfied with the productivity gains they’re getting from its software, he said.
+“When your product is genuinely sticky at the user level, you can afford to let consumption drive revenue instead of locking people into seats,” he said via email.
+The pricing change is the latest sign of Anthropic’s rapid emergence as a top AI provider to businesses.
+Big software firms also have been adjusting pricing models in recent years to account for the high costs of incorporating AI features. Salesforce, for instance, introduced consumption-based pricing when it launched its Agentforce product in late 2024, and ServiceNow sells its software on a per-employee basis and charges for AI features based on how much customers use them.
+AI coding startups have faced the same challenges. Replit and Cursor overhauled their pricing models last summer after the high cost of running the coding agents pressured margins."
+Crypto Firms Seek Access to Anthropic’s Mythos While Shoring Up Defenses,2026-04-14T18:48:51Z,Yueqi Yang,https://www.theinformation.com/articles/crypto-firms-seek-access-anthropics-mythos-shoring-defenses,"Major crypto exchanges and custodians including Coinbase and Binance are racing to prepare for powerful AI models like Anthropic’s Mythos, which the AI firm says could be dangerously good at finding and exploiting software vulnerabilities.
+Coinbase, the biggest U.S. crypto exchange, has been in “close communication” with Anthropic about Mythos, “a highly restricted model not available to the public,” Coinbase Chief Security Officer Philip Martin said. “Mythos, and future models like it, will enable even deeper testing of software and systems at scale. This will accelerate digital threats as well as digital defense.”
+Anthropic has given some companies, including large banks, early access to Mythos for testing, but it has not included major crypto firms. In the meantime, crypto companies say they have been testing their systems using earlier models and simulating potential attacks.
+At Binance, the world’s largest crypto exchange, the company is testing its systems both from the perspective of an external attacker without access to the source code and directly at the source-code level using AI models. “To support this work, we use both commercially available LLMs [large-language models], including Anthropic’s, and internally developed models that are tailored to our security needs,” said Jimmy Su, Binance’s chief security officer.
+Fireblocks, a major crypto custodian technology provider for banks including BNY, said it has already used Anthropic’s prior model, Claude Opus 4.6, to probe for vulnerabilities, and the results have surfaced previously overlooked issues.
+“Even on the basis of the previous model, 4.6, it has huge implications,” said Fireblocks’ CEO and co-founder, Michael Shaulov. “With that model, we are starting to see it’s able to find things that no other security audit companies were able to find previously.” He said his company fixed the vulnerabilities identified by the model.
+Anthropic’s description of Mythos’ capabilities has sparked concerns at the White House, big banks and big tech firms. Anthropic has begun previewing Mythos to a
+select
+group of major companies including Amazon, Apple, Broadcom, Cisco, CrowdStrike, Google and JPMorgan Chase, but has not yet released it widely.
+Goldman Sachs CEO David Solomon touted the bank’s access to Anthropic’s Mythos model in an earnings call on Monday, saying, “We’re aware of Mythos and its capabilities. We have the model. We’re working closely with Anthropic and all of our security vendors.”
+But crypto companies appear to be excluded from the initial group with access to Mythos, industry participants say. Uniswap, which is one of the largest decentralized crypto platforms and holds $3.3 billion in assets, has been trying to get in touch with Anthropic to test its model. Uniswap Labs CEO Hayden Adams took to X to ask for help: “Anyone have good Anthropic connect,” he
+said
+in a Friday tweet. Adams didn’t respond to requests for comment.
+Some crypto executives say they expect Anthropic to grant access to crypto firms before releasing the model more broadly. “Maybe [crypto] is not priority No. 1, but they will get to priority No. 10 before actually releasing it. If that’s the case, we should be fine,” said Fireblocks’ Shaulov.
+Anthropic had no comment when asked if its Mythos model has so far identified any vulnerabilities related to crypto or blockchain, as well as whether or when it plans to grant access to crypto firms.
+Threats Could Accelerate
+Crypto platforms already have a history of hacks and breaches, including some high-profile examples in recent weeks, though some attacks have relied more on tricking people into giving up access to systems than breaches of software itself.
+Drift, a decentralized crypto trading platform, this month lost about $285 million to hackers who pretended to work for a trading firm and spent months building in-person relationships with its team. Drift
+said
+it believes those individuals, though not North Korean nationals, were intermediaries acting on behalf of North Korea.
+In a separate incident, crypto exchange Kraken said on Monday that a criminal group is attempting to extort the company after gaining unauthorized access to its internal systems, affecting about 2,000 client accounts. The attackers have threatened to leak videos of the systems with client data, and Kraken has cut off their access and refused to pay, its chief security officer, Nick Percoco, said in a
+tweet
+.
+Researchers say more capable AI models could compress the timeline for discovering and exploiting technical vulnerabilities. “Crypto companies will be one of the major fields to suffer from these new [AI] advancements for attackers,” said Niv Hoffman, co-founder and chief technology officer of Buzz, a Sequoia-backed cybersecurity startup that recently
+tested
+how existing AI models can already carry out cyberattacks in minutes.
+Crypto companies are high-profile targets for hackers, and many crypto infrastructures are open source, making them particularly vulnerable to attacks, he said. “Now, because of the exploitation capabilities of AI models, attackers will be able to exploit the next vulnerabilities in cryptocurrency in hours or even in minutes,” Hoffman said.
+By contrast, longer-term risks to crypto industry security such as quantum computing remain more theoretical. Google researchers recently warned in a paper that quantum computing, which could break the encryption that keeps bitcoin and other crypto secure, may be a more significant threat for bitcoin than previously thought.
+For now, the risk advanced AI models pose “is certainly a bigger problem today than quantum,” said Alex Thorn, Galaxy Digital’s head of firmwide research. He
+added that
+no such computer exists today and there is no imminent threat from quantum computing."
+Uber CTO Shows How Claude Code Can Blow Up AI Budgets,2026-04-14T17:33:33Z,Laura Bratton,https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets,"Uber’s surging use of AI coding tools, particularly Anthropic’s Claude Code, has maxed out its full year AI budget just a few months into 2026, according to chief technology officer Praveen Neppalli Naga.
+“I'm back to the drawing board because the budget I thought I would need is blown away already,” Neppalli Naga said in an interview.
+Neppalli Naga’s comments highlight the challenges for companies trying to take advantage of new AI tools while also keeping costs under control. Uber is one of a number of companies that say they have encouraged employees to use AI as much as possible, creating internal “leader boards” ranking software engineers who use the most AI.
+The rideshare giant uses both Claude Code and Cursor. But since the end of last year, Uber’s Claude Code usage has soared, while usage of Cursor has “kind of plateaued,” though still high. Neppalli Naga said Uber is also planning to “try out” and give engineers access to OpenAI’s Codex.
+He wouldn’t disclose exact figures of the company’s software budget or what it spends on AI coding tools. Uber’s research and development expenses, which typically reflect companies’ costs of developing new AI products, rose 9% to $3.4 billion in 2025 from the previous year, and the firm said in a recent securities filing it expects that cost will continue rising on an absolute dollar basis.
+Uber uses Claude Code to generate code used in Uber’s backend systems that match drivers and riders, determine prices for rides, improve features, and fix bugs, among other things. It’s also using Claude Code and other AI coding tools to create new AI agents and features, such as its recently-launched Earner Assistant, an AI agent that helps drivers navigate to the busiest parts of cities and towns so they can take high-paying trips.
+Neppalli Naga said about 11% of real, live updates to the code in its backend systems are being written by AI agents built primarily with Claude Code, up from just a fraction of a percent three months ago.
+The executive said he envisions AI agents taking on the full roles of software engineers—AI agents writing code as well as testing and deploying it in Uber’s backend systems. He also said Uber will try to build supervisor AI agents to check whether other AI agents have made mistakes.
+“The vision for me as a CTO is to transform from software engineering to [AI] agent software engineering.”
+While Neppalli Naga said in a presentation at the HumanX tech conference in San Francisco last week that he’s not thinking about slowing hiring of software engineers at this point, his comments during the interview suggest that could change.
+“We continue to calibrate hiring based on broader business needs,” an Uber spokesperson added."
+The Enigma of the Data Labeling Startup Explosion,2026-04-14T14:52:32Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/enigma-data-labeling-startup-explosion,"If you’re like me, you’ve been watching the explosion of data labeling and reinforcement learning environment startups with a mix of confusion and awe.
+These companies, which hire experts in fields like medicine, law and software engineering and build fake copies of apps like
+Salesforce
+and
+Excel
+to produce training data for AI models, are
+rapidly growing both in terms of revenue and valuations
+. But their moment in the sun may soon be about to pass.
+These startups seem to lack any sort of long-term defensible moat. Their contracts with the big AI labs varies—some labs, such as
+Anthropic
+, have tried lots of different startups, researchers say. Individual teams or individual researchers often strike their own contracts with data labeling startups. At other firms, such as
+OpenAI
+, a centralized data team manages relationships with data labeling firms.
+These smaller contracts can range anywhere from hundreds of thousands to millions of dollars. That means data startups can fairly quickly get from zero to $10 million in annualized revenue, researchers tell me.
+That could soon change. Now that the labs have had some time to test out a variety of data providers, they could start consolidating their contracts with the few providers that they like the most. In fact, as AI labs like OpenAI and Anthropic move towards going public, public market investors might want to see a more disciplined approach to spending on training data.
+AI labs might also want to move some of their most advanced data collection efforts in-house, given recent high-profile security breaches, such as the one at
+Mercor
+, the $10 billion expert network.
+Investors would likely welcome this shift. As things are now, investors have a hard time figuring out the sustainability of the revenue these data labeling startups are bringing in, they tell me.
+We’ll have to see how all of this plays out for the data labeling startups. You might think that the AI labs would consider acquiring some of these startups. But researchers at the labs aren’t thrilled at the prospect of having to manage hundreds or thousands of human data labelers in the tedious data gathering process, they say.
+And having a fragmented industry of data providers works out for the big labs because those providers compete against each other to offer lower prices, researchers say. Perhaps some startups will end up combining forces if the AI labs get more disciplined about their contracts.
+Here’s what else is going on…
+Overheard
+Anthropic’s
+“story is built on fear, restriction, and the idea that a small group of elites should control AI,” wrote
+OpenAI’s
+chief revenue officer,
+Denise Dresser
+, in a memo sent to staff on Sunday, according to The Verge. “Their strategic misstep to not acquire enough compute is showing up in the product. Customers feel it through throttling, weaker availability, and a less reliable experience.”
+Dresser went on to argue that Anthropic’s “coding focus gave them an early wedge. But you do not want to be a single-product company in a platform war.”
+Policy Watch
+Anthropic
+hired the lobbying firm
+Ballard Partners
+to advocate on its behalf on matters related to military procurement days after the
+Pentagon
+declared Anthropic a supply chain risk, Bloomberg reported. The prominent lobbying firm has strong ties to the Trump administration.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Sygaldry
+, which aims to bring quantum hardware to AI data centers, raised $105 million in Series A funding led by
+Breakthrough Energy Ventures
+and $34 million in seed funding led by
+Initialized Capital
+.
+Bluefish
+, an NYC-based AI marketing platform, raised $43 million in Series B funding led by
+Threshold Ventures
+and
+NEA
+.
+Helical
+, a Gare, Luxembourg-based AI lab for biology, raised $10 million in seed funding led by
+redalpine
+.
+Thinking Machines Lab
+has hired
+Rudolf Laine
+and
+Luke Drago
+, the co-founders
+Workshop Labs
+, a one-year-old startup that develops software for personalizing AI systems, and has
+bought the startup’s technology
+.
+OpenAI
+acquired
+Hiro Finance
+, an AI-powered personal finance app backed by
+Ribbit Capital
+,
+General Catalyst
+and
+Restive
+. The startup will shut down on April 20 as founder
+Ethan Bloch
+and the team join OpenAI.
+An
+OpenAI
+executive said in a memo to staff Sunday that the company is
+seeing “staggering” demand
+for its upcoming joint product with
+AWS
+and that its exclusive cloud deal with
+Microsoft
+had “limited our ability to meet enterprises where they are,” CNBC reported.
+Meta
+is developing an AI version of
+Mark Zuckerberg
+that employees can interact with, the Financial Times reported.
+Stanford’s
+center on human-centered AI released its annual report. The report found that experts and the public disagree about the impact AI will have on jobs, the economy and medical care. The U.S. was the country with the lowest trust in its government’s ability to regulate AI.
+OpenAI
+announced its first permanent London office, which will house over 500 people, according to CNBC."
+Polymarket Reverses Course on Startups That Piggyback on Insider Trades,2026-04-14T13:00:58Z,Michael Roddan,https://www.theinformation.com/articles/polymarket-reverses-course-startups-piggyback-insider-trades,"Polymarket was already under pressure to curb insider trading when it launched a program late last year to support startups that sent trades to its prediction market. Those companies quickly began handing suspected insider trading accounts to their own customers, letting them copy those trades.
+Now Polymarket has launched an audit of those startups. Among them are Kreo, which promises to help users “find insiders before the rest,” and Polycool, which offers a “guide to Polymarket insider trading” on its website.
+Polymarket recently launched the audit but wouldn’t say when it began. The Information recently raised questions about the startups in the developer program, which has driven an increasing amount of growth to the prediction market.
+Kreo and Polycool are two of a growing number of startups that make apps traders use to place bets on Polymarket’s prediction market. Polymarket in November launched a Builders Program allowing outside developers to create new apps built on top of its technology. Developers it reviews and verifies can get up to $2.5 million in grants and weekly financial rewards for building applications such as new trading systems, automated bots or interfaces enabling users to bet within Polymarket.
+Almost 200 developers are now part of the program. The company promotes higher-performing developers on social media, gives program members access to its engineering team and allows a higher volume of trades for verified developers.
+Many of the highest-volume developers are copy-trading apps, according to Polymarket’s official online dashboard promoting members of its Builders Program. These copy-trading apps give their customers lists of Polymarket traders with good winning streaks, or flag unusually large or oddly timed bets that may be based on confidential information. Customers can use bots to copy the trades or can receive notifications of seemingly well-placed trades. The apps charge a fee to use their services.
+“This isn’t the stock market, where using nonpublic information will land you in jail,” Polycool’s insider trading guide says. “The rules for decentralized prediction markets are a completely different game.”
+Anonymous people run most of the copy-trading apps, and at least two have been hacked in recent weeks.
+PolyCop, the highest-volume copy-trading service on Polymarket, describes itself as a bot “designed to copy trades from smart money addresses” and touts the success of a user who turned $305 into $45,902 in 30 days using its copy-trading strategy. A PolyCop representative, self-identified on Telegram as Chloe, said six anonymous engineers staffed the company. Chloe said, “It’s pretty common for developers to stay low-profile” when building Telegram-based trading bots.
+Polymarket and rival prediction market Kalshi exploded in popularity during the 2024 U.S. presidential election. Trading volume has soared since then—on bets covering sports, the weather and U.S. military activity. Volume is up tenfold in the past year to roughly $23 billion in March.
+Polymarket is raising funds, including from New York Stock Exchange parent Intercontinental Exchange, reportedly seeking a valuation of $20 billion, up from $9 billion in October. Kalshi secured funding at a $22 billion valuation in March. Both have secured partnerships with major news and sports organizations to promote their prediction markets. But the explosive rise of betting on the platforms has them on a collision course with state lawmakers who have argued the companies are offering illegal gambling services that bypass state-level laws.
+At the same time, the platforms are facing pressure to limit bets from people with confidential information. Polymarket last month sealed a partnership with data analysis firm Palantir Technologies to help ensure integrity in sports wagering. It also updated its rules to ban trades based on “stolen confidential information” and those from bettors who “hold a position of authority or influence” over a particular event.
+Kalshi said it is launching new tools to preemptively block people such as politicians and athletes from trading in their respective markets, as well as adding a whistleblower feature to identify rule breakers.
+Trading Conundrum
+Insider trading presents a curious problem for the companies. On the one hand, Polymarket and Kalshi have promoted prediction markets as a more accurate measure of public sentiment and forecasting than mainstream media and traditional polling. They have argued that people putting their money where their mouth is creates a more reliable indicator than traditional polling in cases such as election odds. But several high-profile cases where it appears bettors have used confidential information have sparked concerns the platforms have created avenues for insider trading that are not policed in the way traditional securities markets are.
+Polymarket’s audit of its Builders Program is designed to ensure that third-party developers align with the company’s efforts to make sure its platform isn’t promoting insider trading, according to a person close to Polymarket. It has begun to remove Polymarket branding on social media from some of the developers mentioned in this article, the person said, adding that many of their apps did not get awarded a slice of Polymarket’s $2.5 million grant pool.
+Suspicious trades are continuing to draw attention to the apparent insider-trading problem on the platform. On April 7, four user accounts made $663,000 betting on a U.S.-Iran ceasefire. All four of the users created and funded their accounts that same day, had no prior wagering activity and made bets with big potential payoffs, according to blockchain analysis firm Lookonchain.
+Trading volume driven by developers in Polymarket’s Builders Program, which launched late last year, has jumped from $100 million in November to more than $600 million in March, according to data provided by the company. Last month, that accounted for 16% of Polymarket’s total volume. The founder of PolyGun, one copy-trading service, recently claimed to have driven as much as 11% of Polymarket’s total weekly transaction volume.
+Kalshi launched a similar developer program in November. Anonymous trading hasn’t been a major issue for that company because it verifies the identity of its users and tells developers they must identify their customers. Kalshi has taken action against some high-profile insider traders, such as an editor for social media star MrBeast who traded around $4,000 on markets related to the streamer.
+Polymarket doesn’t require customers to submit identification before using its services, and many traders access the site by using virtual private networks to mask their locations and switch accounts.
+For customers, using the copy-trading apps requires a leap of faith. Many developers don’t list their owners or staff members and can only be contacted via the encrypted messaging platform Telegram, where anonymous admins warn users to be wary of fake bots impersonating companies or support employees. Some trading bots are also hosted entirely on Telegram.
+One developer who chose not to be anonymous is Edward Ridgely, co-founder and CEO of Stand, which offers copy-trading services. “Whenever you’re dealing with people’s money, you have to be transparent,” Ridgely said in an interview. “I personally wouldn’t trust a product where I wouldn’t know the people behind it.”
+He said about 40% of his users had tried copy trading. “If you’re looking at copy trading, people inherently want to have the ability to have a magic remote where they say, ‘Make these trades,’ and another actor or agent acts on their behalf,” Ridgely said. “That’s only going to get more sophisticated over time.”
+Anonymity has not kept traders away from PolyGun, which listed three pseudonymous leaders: CEO “Esquire,” Chief Operating Officer “Ice” and Chief Financial Officer “Larry The Whale,” in a
+press release
+last month. The platform appears to be mostly run by one individual, Justin Hunter, who has said he founded a multimillion-dollar social media marketing business in high school, according to archived social media profiles.
+Hunter operates multiple accounts on a Telegram channel for PolyGun, including an account for “Larry The Whale.” He said personal security was one of the motivations for maintaining anonymity.
+PolyGun, which allows users to follow profitable Polymarket wallets and replicate their trades, processed $35 million worth of trades in February, according to Polymarket—the third-highest share of trading volume for developers on the platform that month. In February, about $70,000 disappeared from PolyGun user accounts after a hacker exploited a vulnerability in its code base, according to a Telegram message posted by “Larry The Whale” in the company’s channel. PolyGun promised to investigate the issue, refund users and launch a security audit of its platform. Hackers earlier this year attacked another copy-trading app, Polycule, stealing roughly $230,000 in user funds, according to an alert sent to users.
+Despite the risks, developers are drawing in customers with slick online marketing. Polycool’s website points to the anonymous account “ricosuave666,” which in June turned a small wager into $155,000 by betting on specific questions regarding Israeli military strikes on Iran. “If you’re not paying attention to these large informed moves, you’re not just missing out—you’re probably on the wrong side of the trade,” Polycool says."
