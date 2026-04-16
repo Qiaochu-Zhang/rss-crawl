@@ -1,0 +1,314 @@
+﻿标题,时间,作者,链接,内容
+Figma’s Apple Moment; Allbirds’ AI Pivot,2026-04-16T00:00:31Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/figmas-apple-moment-allbirds-ai-pivot,"AI really is transforming the world! The latest example: Dying shoemaker Allbirds is turning itself into an AI chip firm called NewBird AI. Its stock rocketed 600% in response. But before we dig into that bizarre story, we should highlight what may be today’s more meaningful news: Anthropic executive Mike Krieger’s departure from the board of Figma.
+This might be what you’d call Figma’s Apple moment. For young folks, we’re talking about the then-Google CEO’s summer-2009 exit from the Apple board. He left a month after Google
+introduced the Chrome operating system
+and 11 months
+after Google’s Android
+first showed up powering a mobile phone. Both moves put Google into direct competition with Apple, something then-CEO Steve Jobs
+pointed out to explain
+why Schmidt was leaving Apple’s board.
+Krieger’s exit from the Figma board echoes that episode. He departed on Tuesday, the same day
+The Information reported on Anthropic’s plans
+to introduce a new tool for designing websites, which would compete with Figma’s offerings. While that timing was likely a coincidence, Krieger surely knows the two companies are headed for a more intense rivalry.
+Until now, Figma and Anthropic have seemed more like business partners. Figma has been actively pitching its products as ideal for working with Anthropic’s Claude Code. Take this blog post
+from February
+, which carried this subtitle: “Now you can take workflows that start in Claude Code even further in Figma.” The problem for Figma is that whatever advantages its software offers, some designers are likely to find that simply using Claude is easier. Anthropic has figured that out and so have Figma shareholders—which explains why its stock has dropped 45% this year. What’s next for Figma?
+Allbirds’ Pivot
+Possibly the only thing more boneheaded than Allbirds’ pivot into AI was Wednesday’s investor reaction. It makes you think that if a shoemaker can do so well jumping into a highly technical, competitive arena it knows nothing about, why aren’t other apparel makers or even food companies following suit?
+It’s not clear whose idea this was, or whether anyone from Allbirds’ management and board will stick around to see it through. Allbirds, of course, announced a couple of weeks ago it was selling its money-losing shoe business to a fashion brand for just $39 million. The company could have just distributed to shareholders whatever money was left after payments of debts and other liabilities and called it a day.
+But no. Allbirds’ management knows a hot trend when they see one, even if power-hungry AI chips are a massive departure from the environmentally friendly approach to shoes the company championed. It is raising up to $50 million in a convertible note offering to fund the AI chip diversification. (
+Bloomberg’s Matt Levine has a smart column
+pointing out that the investor in the convertible offering will do very well if the stock stays at its new elevated levels.)
+A bunch of other companies, mostly crypto miners such as CoreWeave, Crusoe and TeraWulf, have already jumped into AI chip rental (the neocloud business), as we have written about
+here
+and
+here
+. Still, pivoting from crypto mining to AI isn’t crazy, given that both industries involve running servers doing intense computation (not that it’s
+an easy change of direction
+). Allbirds, though, is a whole different story. Neither the management nor the board has experience in AI chips, as far as we can tell from their online bios.
+Perhaps the board sees this transformation as a way to wring more money out of the public listing. Maybe the idea is to build up a bit of a business and then sell to an existing player. That might work. But, as Sam Lessin wrote in The Information in 2018,
+pivoting a business like this has hidden costs
+.
+In Other News
+•
+Meta Platforms is reorganizing its hardware division, Reality Labs, in a bid to “adapt and execute faster” (
+more here
+).
+• Snap said it was laying off about 16% of its workforce, or about 1,000 people, in an effort to reduce its cost base by $500 million and “establish a clearer path to net income profitability,” CEO Evan Spiegel
+said in a blog post
+. Snap also foreshadowed its first-quarter earnings release, revealing that
+revenue rose 12%
+.
+• ByteDance’s cloud computing unit has made the company’s Seedance 2.0 AI video-generation model
+available globally
+to enterprise customers in more than 100 countries and regions around the world—but the U.S. is not among them.
+• Billionaire crypto entrepreneur Justin Sun, a prominent investor in crypto projects launched by President Donald Trump and his family, on Wednesday labelled a proposal by one of those projects–that would lock up trading of a key token owned by investors–a “scam.”"
+Apple Sends Siri Staffers to Coding ‘Bootcamp’ in Latest Shakeup For Organization,2026-04-15T19:44:40Z,Aaron Tilley,https://www.theinformation.com/articles/apple-sends-siri-staffers-coding-bootcamp-latest-shakeup-organization,"Apple is sending a portion of its Siri programmers back to coding school just two months before the company is expected to unveil a major, AI-powered revamp of the voice assistant, people familiar with the team said.
+The company plans to send a significant chunk of people working on Siri—a group that totals in the hundreds—to a multi-week bootcamp to learn to code using AI, according to the people. The group of programmers that will go to the bootcamp is expected to be less than 200, one of the people said.
+The changes will leave around 60 members of the core Siri development team, while an additional 60 will work in a group that evaluates how Siri is performing, including handling commands from users and whether it’s meeting Apple’s safety standards, one of the people said.
+The move suggests that
+Apple
+feels that a portion of the Siri organization needs to tune up its skills to take advantage of fast-moving changes in programming. AI coding assistants such as Anthropic’s Claude Code and OpenAI’s Codex have upended the programming profession, allowing experienced software developers to produce far more code than they have in the past.
+In some parts of Apple, such as its software engineering organization, those AI coding tools have taken off, prompting some of its teams to allocate large budgets for Claude Code, other people familiar with Apple’s use of AI tools said.
+The company’s Siri group, though, has developed a reputation as a laggard inside Apple. Over its 15 years in existence, the team has become known for its bloat and divisive politics. The group has had difficulty keeping the voice assistant competitive, especially in recent years with the rise of OpenAI’s ChatGPT and other similarly advanced large-language models.
+Apple has made repeated efforts over the years to reorganize the Siri to address its underlying problems. Most notably, early last year, the company took the Siri team out of Apple’s AI organization, then headed by John Giannandrea, and placed it in the hands of software chief Craig Federighi. Apple tasked Mike Rockwell, the leader behind the company’s Vision Pro headset, with directly overseeing the Siri product under Federighi.
+That reorganization occurred after Apple revealed an embarrassing delay to the launch of a new Siri, which it originally planned to release in early 2025. Apple is expected to finally debut its long-awaited Siri revamp at the company’s annual Worldwide Developers Conference in June.
+The new version of Siri will be powered by Google’s AI model, Gemini, and is designed to offer a more conversational version of the voice assistant that will have the ability to directly answer questions, provide emotional support to users and help accomplish tasks such as booking a trip. There is still a lot of work to do, including on Google’s side, which Apple is in discussions with to host its servers to run the new Siri, The Information previously reported.
+Separately, Giannandrea, who announced his retirement from Apple in December, will work his last day as an advisor at the company this week, Bloomberg
+reported Sunday
+."
+The Hidden Costs of AI Shopping Payments,2026-04-15T17:30:47Z,Ann Gehan,https://www.theinformation.com/articles/ai-buying-bots-driving-refunds-risks-adyen-executive,"Shoppers using AI are seeking refunds and disputing credit card charges at an elevated rate, highlighting the financial risks of AI-powered shopping, according to Carlo Bruno, vice president of product at payments firm Adyen. Companies must figure out how to handle that risk before AI can reliably tackle online purchases, Bruno said.
+The technology hasn’t had a “big bang” moment yet, Bruno said. “Everyone is thinking of agentic commerce as some massive launch moment, that one day we have bots transacting for us,” he said, but the process will be more gradual. The complexities and risks involved could also prompt payment processors to contemplate charging higher merchant fees on AI purchases, he said.
+Early AI shopping features like OpenAI’s now-mothballed ChatGPT checkouts have
+struggled to wrangle product data
+, and most still have human shoppers ultimately pulling the trigger on the purchase. As fully autonomous agents start shopping, things will get even messier. “The demo looks really slick and really cool, but scale is something else,” Bruno said.
+AI shopping is already straining older commerce infrastructure, since AI tools operate at a speed and scale existing systems weren’t designed for. Tools like OpenClaw and Claude Cowork that take actions directly in users’ browsers are only intensifying that pressure.  “A lot of the challenges have been around forever. It’s just that right now they are exploding,” Bruno said.
+And while companies including OpenAI, Google, Stripe and Shopify are jockeying to establish competing AI-shopping protocols, there are still questions around shopper adoption and merchant readiness for the new technology. Adyen, a publicly traded payments firm that works with large merchants like H&M and Lululemon and did around $1.6 trillion in payments volume in 2025, has a broad overview of how the next steps might play out.
+Adyen, for its part, sees an opportunity in managing data that can feed into a range of AI shopping tools and using its own trove of shopper data to flag rogue AI transactions, though credit card firms will need to play a role as well, Bruno said.
+The following is a transcript of The Information’s interview with Bruno, edited for clarity and length.
+Q: What’s going on in agentic commerce?
+A:
+There’s something obviously extremely exciting happening—the AI revolution but also the effect it might have on commerce. Not just what everyone right now is envisioning around the human-in-the-loop flow, basically another interface we could shop through, but also machine-to-machine payments, autonomous agents transacting with agents. That is definitely some distant future that’s actually not that distant anymore.
+There’s something happening, though—the demo looks really slick and really cool, but scale is something else. We’re seeing that the production engineering behind this is really hard. We as humans, when we shop, when we transact, we’re going in a pretty linear flow. Agents—they go in loops, in lots of queries in a second. Many requests happen: combinations of size, color, availability of shipping methods, you name it. It’s a big complexity that’s taking place. I call it programmatic shopping almost. Compared to human shopping, it’s just very different.
+You can have all of these flows working at the surface, but behind the scenes we see fragmented systems, legacy stacks. There are very few retailers and enterprise merchants around the world that have an extremely clean, high-quality centralized data source.…We’re seeing that the stacks we have today are not designed for that load.
+Right now everyone is thinking of agentic commerce as some massive launch moment, that one day we have bots transacting for us. Reality is, it will arrive piece by piece, replacing some things that we knew were forever broken or not working, but also introducing very new logic.
+Q: Does there need to be one AI shopping protocol that’s the winner?
+It’s very good that many different companies from many different angles are approaching it their way. So that competition, that innovation from many different areas, I think that’s a good thing. At some point, you would expect standardization or at least interoperability. That is the way to make this scalable.
+With our seat at the table talking to the Googles and the OpenAIs of the world, we’re advising and also representing the merchant. What we firmly believe at Adyen is two things: first of all, merchant autonomy. We want to reduce the risk of the merchant being an API [application programming interface] endpoint. There is a relationship there with you and me as consumers that our merchants find extremely important.
+And the other thing is, I call it ensuring architectural reversibility.…The creators of these protocols will be the first to admit that this is all in motion, in progress.
+Q: How does Adyen fit into all this?
+We have a unique place right now between merchant systems and the AI platforms, where from two angles, I see a real problem that Adyen is trying to solve.
+One is, can we help centralize what we call the product feed, the product catalog of our customers, and expose that to all these different agents? So one central place in which the merchant can drop down all the information, pricing, inventory, whatsoever, and we will take care of the translation to the right interface. All these incoming agents from very different platforms with very different protocols, flows, it all comes down to the same—there’s a commerce request, an agent incoming that has a certain query and needs to be exposed to certain information.
+And then the transaction comes in, and then there’s obviously the trust and intent piece, where it’s very, very close to what we’re doing today anyways. It’s just that we have to make a shift as an industry that normally you would block bots and now you’re going to welcome bots, which is a very interesting proposition.
+Q: Visa and Mastercard are deploying tools to help agents demonstrate user intent or authorization. What role does Adyen play in mitigating AI-related risks?
+We’re definitely building around it. We have a unique position in the middle of that flow. So [we] very much orchestrate all the information that’s happening in real time and use our network. You have a history on our platform, you’re giving agents a certain intent and a certain right to use your payment methods somewhere. There’s a lot of context that we have access to.
+The [card networks] play a massive role in the whole game of liability. What happens, not just when fraud happens, but also when you book the flight to Amsterdam, but you’ve got to lay over in LA? Who’s liable? What’s happening? We haven’t figured [that] out as an industry, and I think that’s where the card [networks] will play a very important role.
+Q: What are the bottlenecks to adoption in general right now?
+In terms of merchants, there is real interest. What I think we’re all trying to figure out is true consumer demand and consumer behavior. Is there going to be a big bang? No. There might be certain industries and certain flows and certain interfaces where this will work perfectly and magically. There might also be very obvious flows, human-in-the-loop flows, for example, where we don’t see this take off.
+And that is where everyone is still trying to figure out: What are those hooks, what are those paths, and that big bang, that demo we’re all seeing, that won’t be something that’s being realized in the coming months? I think it will go in bits and pieces, and we’ll find our way testing around it.
+Agents, if the data is 99% correct, that’s not enough for the agent. That deterministic truth is extremely important. That is something that some tech players will have very quickly available, and you think specific platforms, for example, there are definitely some merchants and industries where they will go faster. But there are also a couple of verticals where I feel there’s much more investment needed.
+What I’m seeing on the other side, definitely there are [merchants] that love to experiment. They are like, “OK, let’s go. I want to be there. I want to be first. I want to be part of whatever product you have running.” There is also a group that says, “Give me that hard data first on impact, and then I’ll go from there.”
+Q: Will AI-driven shopping result in higher merchant costs on those purchases?
+I see two dimensions. One, there’s an additional player in the mix. That’s something that we’ve got to account for—in this case, AI platforms.
+And back to trust and intent, we haven’t yet figured out how much this is going to cost us when it comes to potential damage. The potential for this to also create financial damage is also out there. So how it will turn up in pricing, I don’t know, but there are definitely considerations here. In very early tests, charge-back rates are a little bit elevated. Refund rates are elevated. The agent’s expectation based on consumer intent and the actual execution might be different. That is all that we’re figuring out. And that somehow might have to be reflected in pricing.
+Can we treat agentic payments as just another payment flow? We have today shopper-initiated payments and merchant-initiated payments, you in a store versus a subscription payment charge. Now you have agentic-initiated payments. The more we can fit that into existing infrastructure, the more we win when it comes to scalability and basically leveraging existing frameworks. But there are definitely gaps.
+Q: What about with OpenClaw or Claude Cowork specifically, tools that are in the browser, mimicking a human user?
+Then machine-to-machine payments in whatever form, whether that is indeed an agent or Claude that on your behalf starts browsing, this is extremely interesting. True autonomous payments, making payments invisible seems to be something that in many business models is extremely promising.
+We [have] got to find a way as an industry to basically build scalable logic that allows us to verify whether or not just it’s a safe and correct transaction being executed by a machine to machine, but also if it truly follows the intent of you as a consumer and an intent, right there in that situation, that doesn’t have the human in the loop.
+Our footprint that we have of consumers across the world—there is a lot of intent in there and there’s a lot of patterns in there. Together with the frameworks that we’ll probably need with the [card networks] to capture what is being requested, and there’s an historical context around that particular request, that combination could be an extremely powerful solve to help enable true autonomous, invisible payments.
+Q: I’m sure you see the people who are posting “My OpenClaw booked my flights or returned my package.” What do you make of that?
+There are some new challenges, but a lot of the challenges have been around forever. It’s just that right now they are exploding—liability, intent, all the trust factors, but also the load on systems."
+I Helped Pick Stocks for the Dow. I’m Watching the SpaceX IPO Carefully,2026-04-15T15:00:17Z,Ken Brown,https://www.theinformation.com/newsletters/the-information-finance/helped-pick-stocks-dow-watching-spacex-ipo-carefully,"Please join The Information at the New York Stock Exchange on Monday, April 27, for our “Financing the AI Revolution” forum. Hear from top executives and investors on how the rapid build-out of AI is reshaping tech, finance and capital markets. Learn more
+here
+.
+SpaceX’s financial challenges have become clearer in the past week, thanks to new reporting from my colleague Cory Weinberg. Last week, he broke news on SpaceX’s
+nearly $5 billion loss
+last year, and on Monday, he scooped details on the
+growth of Starlink
+and the losses in the company's space and AI businesses.
+Armed with that information, it becomes clear how hard it will be for Elon Musk to raise the cash he wants at anywhere near SpaceX’s most recent $1.25 trillion valuation. It explains why he’s pushing so hard to juice demand by getting the stock quickly added to the major stock indexes.
+Whether the stock soon joins the S&P 500 and other big indexes is critically important, because inclusion in indexes creates tens of billions of dollars in demand from index investors who will be forced to buy SpaceX shares, no matter how they feel about its business or valuation.
+I am watching with an extra degree of curiosity to see how the indexes handle this, because a few years back I helped pick the stocks that made up the Dow Jones Industrial Average. It was the strangest part of my job running the finance coverage at The Wall Street Journal.
+At the time, the Journal’s editor-in-chief was responsible for picking the 30 stocks in the Dow. In practice, one of the paper’s top finance editors did all of the work. That was me. (The Journal’s editor no longer picks the stocks.)
+The goal was to have a mix of companies that reflected the U.S. economy, which had shifted away from the industrial sector and toward finance, tech and healthcare. Tech was easy: We added Microsoft and Intel in 1999. And the big pharma companies were obvious.
+We also added financial companies like banks and insurers. Those industries had been growing fast, thanks to a boom period with relatively low interest rates and a soaring housing market. That meant a ton of mortgages, which helped spur a flood of financial innovations, including the collateralized debt obligations and credit default swaps that turned toxic in the downturn.
+In early 2008, we added Bank of America. Months later, the bottom fell out of the financial system. Over the next year and a half, we pulled Citigroup and AIG (and General Motors) out of the index after Washington bailed them all out.
+How does this relate to SpaceX? Because it’s a reminder of how things can go wrong on what you think are certain bets. Back in the years immediately preceding 2008, few believed the housing boom would end. But it did, leading to a nationwide decline in home prices that had never happened before. Investors who thought mortgages were safe and lucrative investments lost big. Among those investors were the banks and insurers we had put into the Dow.
+Fast-forward to the present. While tech has struggled this year, few people can imagine a yearslong sell-off that wipes out trillions in investments. But valuations are relatively high, debt levels have risen and the sector has lashed itself to the booming yet unproven market for AI.
+Musk has also tied SpaceX to the AI boom with his promise to put data centers into space, as my colleague Theo Wayt
+has reported
+. That is presumably Musk’s justification for the valuation of SpaceX’s successful but slow-growing rocket company, its lagging,
+cash-burning AI company
+and its
+solidly performing satellite
+internet service.
+If the initial public offerings of SpaceX, and later Anthropic and OpenAI, come in below investors’ lofty expectations, the damage could be widespread. The tech sector accounts for about a third of the U.S. stock market’s value, as well as a large portion of its gains over the past three years.
+SpaceX won’t join the Dow anytime soon. That doesn’t matter much because very little money tracks that benchmark. The index that matters is the S&P 500—roughly $20 trillion in both index funds and investments are benchmarked against it.
+S&P has pretty strict requirements about letting companies in. SpaceX will pass most of them but could get tripped up by requirements that companies be profitable and rules about their float, meaning the portion of a company’s shares that trade on the market.
+If SpaceX does get into the index at a $1.25 trillion valuation, the stock would land in the top 10 of the market at current prices, right behind Tesla and making up roughly 2% of the index. That would spur some $400 billion of buying. Knowing those forced buyers were waiting in the wings, investors could invest with confidence their shares would go up.
+Such perceived safety in what are actually risky assets has often been the cause of financial crises.
+Here’s where problems could crop up. My colleague Cory’s reporting shows that SpaceX lost $5 billion last year and that $11.4 billion of its $18.7 billion in revenue came from its satellite internet company, Starlink. The space and AI businesses burned $17 billion in cash, while Starlink generated about $3 billion.
+Yet SpaceX is valued at 266 times last year’s earnings before interest, taxes, depreciation and amortization. Every company above it in size is valued at a fraction of that amount except for Tesla, which comes in at 119 times.
+If Musk’s dreams of robotaxis, robots and data centers in space don’t come true, millions of investors could be stuck holding two expensive stocks without much to justify their prices. It won’t be another financial crisis, but it will cause real losses in the markets."
+China’s Probe of Meta’s Manus Purchase Sends Startups Scrambling,2026-04-15T14:00:17Z,Jing Yang,https://www.theinformation.com/newsletters/ai-agenda/chinas-probe-metas-manus-purchase-sends-startups-scrambling,"China’s AI startup founders are jittery. The Chinese government’s investigation of
+Manus’
+sale to
+Meta Platforms
+has cast a shadow over a popular exit path for startup founders. And it has caused some startups to consider moving out of China or to shift some operations to Singapore.
+While some AI startups are happy to stay in China, relying on venture capital funding from China and Asia, those with ambitions to sell their products globally and to raise money from U.S. venture capitalists are taking a different view.
+“If you want to build AI products for markets outside China now, you will have to think even more carefully about which markets to target, how to structure your business and whether to raise money in Chinese yuan or U.S. dollars,” said
+Hank Yuan
+, a co-founder of a new Shenzhen-based startup that is trying to build an AI agent for the global market.
+“All the AI startup founders I know are paying attention to Manus,” he added.
+Most founders declined to be named for fear of attracting scrutiny from either the Chinese or the U.S. government. But others agreed that the Manus investigation was weighing on founders’ minds.
+“Originally, we thought we had many options for exits. But now the takeaway from Manus is: If your startup is acquired by other companies, don’t get acquired by U.S. companies,” a co-founder of a Beijing-based AI video startup said. “If you are acquired by Alibaba or Tencent, that’s fine,” he said.
+Manus, a general-purpose AI agent, was developed by
+Butterfly Effect
+, a company initially founded in Wuhan and Beijing. After the product went viral in March last year, Butterfly Effect raised $75 million from
+Benchmark
+, and shortly afterwards, the startup decided to move its headquarters and core engineering teams to Singapore, The Information
+reported
+previously.
+By July, the makeover was complete, the China offices were shut down and the company scrapped its earlier plan to launch a product in China. In late December, Meta acquired Manus.
+The acquisition sparked an investigation by China’s
+Ministry of Commerce
+, into whether the acquisition was consistent with “with the relevant laws and regulations on export controls, technology import and export, and outbound investment.”
+A person close to Manus said the company had consulted with lawyers before signing the dotted line with Meta, and determined the transaction did not need Chinese government approval. However, the company didn’t give Chinese regulators a heads-up before announcing the deal—a move usually would win some goodwill with the government—for fear that regulators could intervene, the person said.
+Last month, the Chinese government imposed an exit ban on Manus’ co-founders
+Red Xiao
+and
+Peak Ji
+when they were visiting China, forbidding them from leaving the country’s borders until the investigation is complete, according to a person with direct knowledge of the situation. The Financial Times first reported the exit ban.
+The investigation and exit ban have had a chilling effect on Chinese startups. One Chinese founder in the Bay Area recently gave up on the plan to hire engineers in China for the startup he’s building in the U.S. Instead, he decided to hire engineers in Singapore.
+“Having a team in Singapore costs more, and the quality isn’t as good as having a China team. But I still don’t want to build a China team. It’s too risky,” he said.
+A Shenzhen-based startup founder paused his fundraising plan recently, even after having secured commitments from a few Chinese venture firms. Alarmed by the Manus probe, the founder is switching gears and focusing on relocating his staff from China to Singapore and the U.S..
+The startup has no corporate presence in China, and is registered in the U.S., with most of the staff working in Shenzhen under contracts with an outsourcing firm. But recent developments made that arrangement untenable. “The Manus situation is a wakeup call. I can’t drag my feet anymore thinking the current structure is going to work,” he said.
+There are others who decide to stay and fully embrace their China identity. The Beijing-based AI video startup is planning to change its corporate structure so that it could start raising funding in Chinese yuan from the next round. The startup has an offshore structure and only raised funding in the dollar—a common practice by Chinese startups that want to target customers beyond China.
+A Hangzhou-based founder also decided to stay put. While that might mean his company can never raise money from American VCs, “you can still raise money from investors in China, Singapore and the Middle East,” he says.
+Here’s what else is going on…
+People on the Move
+Anthropic
+said Tuesday that the CEO of pharmaceutical company
+Vas Narasimhan
+is joining its board
+, highlighting Anthropic’s increased focus on healthcare and life sciences.
+Aparna Ramani
+,
+Meta’s
+vice president of engineering for AI infrastructure,
+announced her departure
+Tuesday in an internal memo. She reported to Meta’s chief AI officer,
+Alexandr Wang
+.
+Mike Krieger
+, an
+Instagram
+cofounder who previously was
+Anthropic’s
+Chief Product Officer and now leads the company’s “Labs” team,
+stepped down
+from
+Figma’s
+board of directors on Tuesday. The move came shortly after The Information broke the
+news
+that Anthropic is working on an AI design tool which could compete with Figma’s offerings
+Broadcom
+CEO
+Hock Tan
+will not stand for reelection to Meta’s board, CNBC reported.
+Policy Watch
+Anthropic
+opposes Illinois AI bill
+SB 3444
+, Wired reported. The bill would shield the biggest AI companies from liability for “critical harms” caused by their models as long as they did not intentionally or recklessly cause such an incident.
+OpenAI
+supports the bill.
+Separately, residents of
+Festus
+, a small town in Missouri, voted out all four incumbent city council members after they approved the construction of a data center near the town, Politico reported.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Anthropic
+has received offers from investors that would value the company as high as $800 billion, Business Insider and Bloomberg reported.
+Fluidstack
+, which builds specialized data centers for AI companies, is in talks to raise a $1 billion round at an $18 billion valuation led by
+Jane Street
+, according to a Bloomberg report.
+nEye.ai
+, which makes optical circuit switch chips for AI data centers, raised $80 million in a Series C funding round led by
+Sutter Hill Ventures
+.
+Mintlify
+, which uses AI to automatically generate documentation for software companies, raised $45 million at a $500 million valuation in a Series B funding round led by
+Andreessen Horowitz
+and
+Salesforce Ventures
+.
+Bluefish
+, which helps brands track how their products are described by AI shopping tools, raised $43 million in a Series B funding round led by
+Threshold Ventures
+and
+NEA
+.
+Synera
+, which provides AI agents for industrial manufacturing, raised $40 million in a Series B funding round led by
+Revaia
+.
+Gitar
+, a startup that uses agents to secure code, raised $9 million in funding led by
+Venrock
+.
+Anthropic
+is preparing its next flagship model,
+Claude Opus 4.7
+, along with a new AI-powered tool for designing websites and presentations, which could be released as soon as this week, The Information
+reported
+.
+OpenAI
+gave some cybersecurity companies access to
+GPT-5.4-Cyber
+, a version of OpenAI’s model with fewer safety guardrails that was customized to excel at tasks related to cybersecurity.
+The technology team at the
+U.S. Treasury Department
+is seeking access to
+Anthropic’s Mythos
+model as soon as this week, Bloomberg reported. Mythos has been shared with a select group of companies to work on cybersecurity. Meanwhile, Anthropic cofounder
+Jack Clark
+confirmed that the company had briefed the Trump administration about its new Mythos model in an interview this week.
+Salesforce
+has launched a tool
+that lets its customers connect other companies’ AI agents with their Salesforce data, an executive said on LinkedIn. The tool, known as a hosted
+Model Context Protocol
+server, shows how Salesforce is finding a way to generate revenue from customers using outside AI agents, following similar moves by rivals such as
+ServiceNow
+and
+Workday
+.
+Amazon
+released
+Bio Discovery
+, which provides biology researchers access to AI models for drug discovery. Researchers can send their drug candidates to labs to be synthesized.
+Google
+announced
+skills
+, which are repeatable prompts that
+Chrome
+users can give
+Gemini
+using keyboard shortcuts.
+Nvidia
+released
+Ising
+, a pair of AI models for quantum computing."
+"OpenAI Plans New Pricing for ChatGPT Ads, Explores Other Upgrades",2026-04-15T13:00:05Z,Ann Gehan,https://www.theinformation.com/articles/openai-plans-new-pricing-chatgpt-ads-explores-upgrades,"OpenAI plans to start pricing some ChatGPT ads based on whether people click on the ads rather than just how many people see them, an agency executive who spoke with OpenAI employees and works with ChatGPT advertisers said.
+At the same time, OpenAI has also indicated it plans to introduce ads aimed at getting people to take a specific action, like making a purchase or downloading an app, the agency executive said, though it hasn’t put a firm timeline on when that could happen. The discussions reflect OpenAI’s efforts to make ChatGPT more appealing for marketers as it chases its ambitious growth targets and looks to challenge Meta Platforms and Google.
+OpenAI, which started showing ads in ChatGPT in early February, has so far only provided early advertisers with aggregated data such as impressions, clicks and spend. Digital ad giants Meta and Google, by contrast, provide more information on who sees ads and whether they lead to purchases.
+Marketers have said it’s
+difficult to tell if
+ChatGPT’s early ads are working and likely need stronger tracking and measurement tools from OpenAI before they’ll move beyond small, experimental ad spending. Offering pricing on a per-click basis would let advertisers pay when users engage with an ad, while conversion-oriented ad campaigns could let them optimize spending toward actions like purchases.
+“A lot of clients who would have the budget to want to test on a new surface are holding back and are tentative because they don’t think they’re going to be able to get the measurement that they want out of it,” said Ben Kahan, head of the programmatic practice at marketing agency Brainlabs.
+OpenAI began testing ads in early February for logged-in U.S. users of the free and lowest-priced version of ChatGPT, and so far the rollout has been slow. The company has extended the pilot period for its earliest advertisers past the end of March because it hasn’t shown ads often enough to exhaust the initial spending commitments, two people managing ChatGPT ads on behalf of advertisers said.
+OpenAI is also selling some ads for less than it initially wanted. It targeted a cost per thousand impressions, or cost per mille, as high as $60,
+on par with premium ads
+like those on streaming TV. But one media buyer working with a handful of early ChatGPT advertisers said some of their clients had paid CPMs ranging from $15 to $25, likely reflecting limited competition for ad inventory.
+An OpenAI spokesperson said the company is exploring different approaches to understand what creates real value for users and advertisers and will continue to iterate.
+Design Capabilities
+OpenAI
+told investors
+in the first quarter that it expects $2.4 billion in ad revenue this year and $11 billion in 2027. If it met next year’s target, that would make it far bigger than long-established ad sellers like Snap and Pinterest. In a blog post in late March, OpenAI said the pilot had reached more than $100 million in ARR in six weeks, though it did not define how it calculated that metric.
+And in recent weeks, OpenAI staffers have signaled to marketers their intention to make the ChatGPT ad offering more competitive with the big digital ad giants.
+OpenAI has told some advertisers that it will allow them to run ad campaigns that charge advertisers based on the number of clicks their ads get within the coming days, the agency executive who spoke with OpenAI employees said. That offering would be alongside its existing model that charges based on how often ads are shown.
+While the company has also discussed setting up ways for advertisers to run more action-oriented ads in the near future, how quickly it could roll out those capabilities is less clear. That expansion is also likely to require OpenAI to build or partner on tools to better track what ChatGPT users do after seeing an ad, such as tracking whether they go on to make a purchase.
+In recent weeks, OpenAI has already started giving some advertisers access to a portal where they can manage ad campaigns themselves, the two people managing ads on behalf of advertisers said. That’s an
+upgrade from the manual processes
+involving spreadsheets and phone calls it had relied on earlier. It has also partnered with outside firms including advertising technology company Criteo, which help sell ads on its behalf.
+As it looks to broaden its ad business, OpenAI has started to sign up some advertisers on a month-to-month basis, asking for monthly commitments of between $30,000 and $50,000, said Jai Amin, chief solutions officer at marketing agency Jellyfish, which has a range of clients buying ChatGPT ads. That’s a shift from OpenAI’s earliest deals, where it asked for up-front commitments of at least $200,000 to spend by the end of the first quarter.
+Lingering Limitations
+OpenAI advertisers still see other areas for improvement. For one, they have limited control over where their ads appear. Right now, instead of trying to line up ads with specific searches or types of users in ChatGPT, OpenAI is asking advertisers for broad keywords to give guidance on where it makes sense to show their ads, agency executives said.
+But because each ChatGPT response is unique, it’s difficult for advertisers to ensure their ads will show up in response to certain prompts, even if the answers reference topics advertisers have listed. “It’s not a true keyword targeting strategy. Every prompt looks different,” said Alyson Scacciotti, senior director of digital investment at Jellyfish.
+And for some marketers like Kahan, the uncertainty regarding what kinds of responses brands’ ads could appear next to is a turnoff.
+“The same question can be answered in a thousand different ways,” he said. “From what we can tell, there are very limited tools that we have at our disposal to make this brand safe. Brand safety is really, really important and something that we really take very, very far with our clients, and we want to have everything watertight.”
+The ChatGPT ads’ appearance, which so far only includes short headlines and a small image, is also basic compared to digital ads available elsewhere.
+“It’s quite old-school in terms of what the formats are right now. And I think we should expect that to evolve quite quickly so that one, it keeps up pace with other formats—video et cetera—that the other platforms are doing. But also, I think there’s an opportunity there. Why can’t they be a bit more radically different from the other platforms?” Jellyfish’s Amin said."
