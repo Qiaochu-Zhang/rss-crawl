@@ -63,3 +63,8 @@
 - target_date: 2026-04-16
 - csv: daily_csv/2026-04-16.csv
 
+## Weekly 2026-04-17T13:00:02.158510+08:00
+- start_date: 2026-04-10
+- end_date: 2026-04-16
+- csv: weekly_csv/2026-04-10_to_2026-04-16.csv
+
