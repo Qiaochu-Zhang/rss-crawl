@@ -1,0 +1,344 @@
+﻿标题,时间,作者,链接,内容
+"OpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake",2026-04-17T01:19:14Z,Anissa Gardizy,https://www.theinformation.com/articles/openai-spend-20-billion-cerebras-chips-receive-equity-stake,"OpenAI recently struck an unusual deal to lessen its dependence on Nvidia’s AI chips and potentially lower its computing expenses in the coming years.
+OpenAI has agreed to pay Cerebras more than $20 billion to use servers powered by the firm’s chips over the next three years, double
+the figure that was previously associated with the deal
+, according to multiple people with knowledge of the deal.
+As part of the agreement, OpenAI will receive warrants for a minority portion of Cerebras’ shares, and that ownership could increase as it spends more, according to two people with knowledge of the deal. OpenAI has also agreed to provide chip designer Cerebras with around $1 billion to fund the development of data centers that would run its AI products, according to three people with direct knowledge of the deal.
+OpenAI’s spending over the next three years could reach $30 billion, which could give OpenAI warrants for 10% of the firm, one of those people said.
+Cerebras could reveal part of its previously undisclosed arrangement as soon as Friday, when it unveils paperwork to go public, according to people familiar with the matter. The Sunnyvale, Calif.–based company is targeting a fundraise of around $3 billion in an offering next month at a valuation of around $35 billion, according to the people. That level would be a 60% premium to its
+last private valuation of $22 billion
+, in February.
+Cerebras is still discussing the terms of its public offering, which could change.
+The previously undisclosed details of OpenAI’s deal with Cerebras show how AI developers are using creative structures to secure computing capacity with companies that compete with Nvidia. OpenAI is planning to use the Cerebras agreement—structured as a working capital deposit—to strike similar arrangements with cloud providers and other chip developers, one of the people said.
+The arrangement is one of many circular agreements between top AI-related companies, which are supporting one another to finance an unprecedented boom in data centers for AI. Both OpenAI and Meta Platforms have announced deals to use chips from Advanced Micro Devices, another Nvidia rival, and take an equity stake in AMD in the process, for instance. And Nvidia has helped finance many of the cloud providers that rent out its AI chips to developers such as OpenAI.
+In another major example, OpenAI last month announced it had received investment commitments totaling $122 billion in stages, mostly from Amazon and Nvidia, which supply the cloud servers and chips it uses.
+Accounting Perks
+The structure of the OpenAI-Cerebras deal may be advantageous for OpenAI from an accounting perspective, which could help the ChatGPT maker pursue its own initial public offering this year or next.
+OpenAI can record its $1 billion financing of Cerebras facilities as an asset, and it can also record some of the chip-related payments to Cerebras as interest income, effectively offsetting a portion of its spending with the company, two of the people said.
+It isn’t clear whether the Cerebras deal would have a material effect on OpenAI’s finances, as the company plans to spend $45 billion on computing this year and $90 billion next year. OpenAI also plans to release its own AI chip for powering its products, but it isn’t clear when it will use that chip at scale.
+OpenAI plans to
+spend more than $650 billion on computing capacity over the next five years
+, and almost all the agreements tied to that spending commitment involve renting Nvidia chips.
+Cerebras chips are already powering one of OpenAI’s new coding models, Codex-Spark, for a small number of customers, the companies said in February. They announced their financial agreement in January, saying only that OpenAI had agreed to use up to 750 megawatts of Cerebras chips over a multiyear period.
+Cerebras will deliver that compute capacity to OpenAI from multiple data centers. Last year, OpenAI had access to around 1.9 gigawatts of capacity, the company has said.
+Founded in 2016, Cerebras took a radically different physical approach to chips compared to Nvidia. Its flagship processors are many times larger than Nvidia’s—roughly the size of dinner plates—and process vast amounts of information in parallel. Cerebras processors keep data directly on the chip using a type of computer memory known as static random-access memory, minimizing the need to shuttle data back and forth to separate memory hardware the way Nvidia’s chip systems do.
+Nvidia acknowledged the potential deficiency of its systems by striking a
+$20 billion licensing and employee-hiring agreement
+with Cerebras rival Groq late last year.
+Amazon Boost
+Cerebras first filed for a public listing in September 2024 and then decided to withdraw its plan and raise $1.1 billion privately in October of that year. CEO Andrew Feldman said at the time that it had withdrawn its earlier IPO paperwork so it could refile with updated financials and strategy information, “including our approach to the rapidly changing AI landscape.”
+New customers such as OpenAI and Amazon—which recently struck a major deal to rent out Cerebras chips to Amazon Web Services customers—could help Cerebras ease the concerns of investors about its revenue concentration from Group 42, the parent of G42, a United Arab Emirates tech firm. In its 2024 IPO filing, Cerebras disclosed that Group 42’s contracts accounted for 83% of the company’s revenue in 2023 and 87% during the first six months of 2024.
+Feldman’s
+criminal history also hung over the earlier IPO effort
+. In 2007, Feldman pleaded guilty to a felony count of circumventing accounting controls related to a $30 million revenue inflation scheme at a previous employer. Goldman Sachs, Morgan Stanley and JPMorgan Chase—which handle the vast majority of venture-backed tech IPOs—steered clear of the deal. Instead, Cerebras tapped Citigroup and Barclays as its lead underwriters and used BDO as its auditor rather than a Big Four accounting firm.
+But Cerebras added Morgan Stanley to lead the IPO shortly after its $22 billion fundraising in February, according to people familiar with the details. Citi and Barclays are still actively involved."
+TSMC’s Strong Results is One More Bullish AI Sign,2026-04-17T00:00:56Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/tsmcs-strong-results-one-bullish-ai-sign,"Upbeat signals about the AI business are proliferating. The latest was chipmaking giant Taiwan Semiconductor Manufacturing Co.’s first-quarter report on Thursday, showing revenue growth of 40.6%, above the top end of its projected range. The company raised its full-year growth rate to above 30%. According to TSMC CEO C.C. Wei, “AI-related demand continues to be extremely robust.”
+Wei said he based that assessment both on comments from TSMC’s customers—it makes chips on behalf of various chip designers, led by Nvidia—and on the cloud firms that buy chips from Nvidia. That suggests quarterly earnings coming later this month from the big tech firms will echo his upbeat commentary. It’s little wonder that the big tech stocks have gained a lot of ground since late March—Microsoft, the worst performer so far this year among the big names, is up 18%, for instance, while Nvidia is up 20%. The Nasdaq is up 16% in the same period.
+Another reason to be bullish is that business users of AI appear to be starting to spend heavily on the technology—which is exactly what the tech industry needed to see. Anthropic’s
+exploding annualized revenue
+is one signal of that, supported by anecdotal evidence of the widespread use of its Claude Code. For example, we
+quoted Uber’s chief technology officer
+earlier this week saying the company’s use of Claude Code had maxed out its full-year AI budget just a few months into 2026.
+We also reported
+that Microsoft’s LinkedIn was enjoying surging use of a new AI agent that is not cheap to use. Meanwhile, more AI firms seem to be switching to a consumption-based pricing model—here’s
+our report
+on Anthropic’s new pricing policy for large businesses, which includes charging for capacity consumed. That’s a positive sign for the industry’s longevity: The early flat-fee pricing options were effectively a subsidy to get people hooked on AI, but that wasn’t a sustainable approach.
+To be sure, business customers of AI firms will have to recalibrate their use of AI if they start getting hit with big bills. But one industry consultant told our reporters Anthropic customers weren’t fleeing, despite higher costs, because of the productivity gains they were seeing. What we will likely see is more companies laying off staff as they’re increasingly able to use AI as a replacement. That trend will create its own issues. But for those worried about the risks of heavy AI investment, the news right now appears to be good.
+Hastings Signs Off
+Netflix’s
+first-quarter performance
+was a fraction better than the company had projected, but otherwise the results were pretty much what was expected. What wasn’t expected, however, was Netflix’s disclosure that co-founder Reed Hastings would leave the board this spring.
+It’s been three years since Hastings stepped down from the top job, becoming executive chair, although he gave up the executive part a year ago. Now he’s exiting altogether, wanting to spend more time on philanthropy and other things, Netflix said.
+That’s a credit to Hastings: Rather than hang around when his heart isn’t in it, he’s moving on. He still has a bunch of stock—about 21 million shares, according to a recent securities filing, worth about $2.1 billion. Once he’s off the board, however, it’ll be harder to track his shareholdings.
+In Other News
+•
+SpaceX subsidiary xAI will rent computing power from its data centers to coding startup Cursor, Business Insider
+reported
+.
+• Meta Platforms is raising prices for its virtual reality headsets $50 to $100 each, citing rising global costs for memory chips."
+Marc Lore’s Wonder Preps a Pre-IPO Round,2026-04-16T22:17:39Z,Cory Weinberg,https://www.theinformation.com/newsletters/dealmaker/marc-lores-wonder-preps-pre-ipo-round,"E-commerce veteran Marc Lore hasn’t been shy about his food delivery startup’s IPO aspirations. In recent months, he has written on the whiteboards in Wonder’s Midtown Manhattan office the date when it should be IPO-ready: March 31, 2027, according to a person close to the company.
+First, however, the company will try to tap private investors once more. The eight-year-old owner of restaurant delivery service Grubhub and meal kit service Blue Apron wants to raise a new round of venture capital at a valuation of $11 billion, up from $7 billion last year, people familiar with its plans told me. Beyond the fundraise, the new capital could introduce it to the large asset managers that also typically buy into public offerings, they said.
+Lore, the founder of Diapers.com and e-commerce startup Jet.com, was among the headliners at a conference in Santa Monica, Calif., hosted by the investment bank Jefferies.
+Executives from other closely watched IPO candidates, such as Databricks, Deel, Ramp and Faire were also taking investor meetings beachside. (If you know whether their CEOs have any IPO dates written down, please let me know!)
+Attendees were relatively buoyant about the prospects for listings for candidates beyond
+SpaceX
+, Anthropic and OpenAI. Lore told me he was optimistic about his IPO timeline, even if there was a lot of work to do.
+“I do expect the capital markets to be opened up with SpaceX and Anthropic,” he said. “2027 will be a good year for tech IPOs, maybe even the back half of this year.”
+It has been tough, of course, to be sunny about tech IPOs lately. Wars, tariffs and AI uncertainty have all but shut the door on listings so far this year, while most companies waiting in the wings have seemed content to wait-and-see whether SpaceX’s presumed IPO fervor heats up the market. You can’t blame startups for watching public market investors punish newly public Figma, Klarna and Chime, and thinking: No thanks, we’ll stay private.
+But this week sentiment seemed to be shifting in real time, as tech investors at the Santa Monica event scurried from meeting to meeting. The Nasdaq-100 was racing to record highs. Even beleaguered investment sectors like software and private credit were starting to bounce back, slightly.
+Jefferies bankers told me the bank’s trading desk was seeing mutual funds investing in more individual stocks again, rather than trading more thematically, across diversified exchange-traded funds. That suggests they’re willing to take more chances than hunker down in sector plays.
+“Every investor I‘ve spoken to in the last 48 hours has said, ‘We’re risk-on, we're ready for IPOs. We don’t need to wait for SpaceX to happen,’” said Jimmy Williams, a tech banker at Jefferies.
+Reading between the lines, I’m expecting that means smaller but notable IPO candidates like chipmaker Cerebras, AI dashcam maker Motive, fitness app Strava and group chat app Discord make moves soon. They’re the closest to the IPO line, with banks hired and prospectuses drafted or filed. Some of them would take advantage of
+public investor interest in consumer companies
+, as a hedge to the beating software companies have taken from AI.
+Some caveats are in order, of course. Few bankers expect private-equity or venture- backed software firms to make a go of the public markets this year, with so many investors anticipating software companies’ AI extinction. They need more time to disprove investors’ doubts and reignite growth, if they ever can.
+But executives like Lore are in a decent position to capture investors’ attention, for now. The company is coming up with new ways for people to get takeout from restaurants, like mixing and matching which celebrity chef-run restaurant customers can pick in one order. “We’re in a good spot,” he said. “We can’t get disintermediated by AI.”
+Today on TITV
+Google & the Pentagon discuss an AI deal, Siri staff go to a coding ‘bootcamp,’ and ChatGPT's new ads prices.
+Watch here
+."
+LinkedIn’s AI Agent Product Becomes a Surprise Bright Spot for Microsoft,2026-04-16T17:30:56Z,Aaron Holmes,https://www.theinformation.com/newsletters/applied-ai/linkedins-ai-agent-product-becomes-surprise-bright-spot-microsoft,"Microsoft has so far seen mixed results in its efforts to sell AI-powered products to businesses, with only around 3% of its Office 365 users paying to use 365 Copilot as of the end of last year.
+But a seemingly niche AI product released last fall by its subsidiary LinkedIn has taken off as a surprise hit. And I’m told that leaders elsewhere at Microsoft are now taking note.
+The tool, called Hiring Assistant, is an AI agent that recruiters can use to find and reach out to potential job candidates. It uses models from OpenAI and other AI providers to automate the work of manually searching through LinkedIn to find people.
+For instance, a recruiter can describe the type of skills, background, and experience they’re looking for in a candidate, and Hiring Assistant will automatically surface a handful of profiles that seem like the best match and draft outreach messages pitching those people on a job opening.
+Hiring Assistant isn’t cheap. LinkedIn sells the AI agent as an add-on to its higher-tier Recruiter subscription plans. Pricing varies by customer, but Recruiter subscriptions including Hiring Assistant can cost anywhere from several hundred dollars to over $1,000 per user per month, according to customers. LinkedIn also charges an additional fee based on how much customers use the AI beyond a certain cap.
+And the product has quickly racked up revenue. The number of customers using the product has grown around 36% every week since it launched in September, according to LinkedIn chief business officer Mark Lobosco. He compared its growth to Recruiter, the broader suite of subscription software that LinkedIn launched in 2008 and later became LinkedIn’s first product to generate over $1 billion in annual revenue.
+“It‘s outpacing every product we’ve launched from a customer demand perspective,” Lobosco said, adding that weekly average usage of the product among paying customers has also been increasing.
+Others at Microsoft have noticed the product’s success. Multiple senior executives outside of LinkedIn have recently been studying Hiring Assistant’s product and how customers are using it to determine how its success could be replicated by other Copilot products, according to a Microsoft employee with direct knowledge of the situation.
+And CEO Satya Nadella last year
+promoted LinkedIn CEO Ryan Roslansky to a new role overseeing Office 365 Copilot products
+in addition to running LinkedIn.
+Customers say Hiring Assistant’s value comes from its ability to quickly narrow down a pool of qualified job candidates that recruiters would have previously needed to comb through using LinkedIn’s existing search features.
+Palo Alto Networks has been testing the tool with 20 of its roughly 200 recruiters, and found that recruiters using Hiring Assistant have had noticeably more success finding high quality candidates for open roles, according to vice president and head of talent acquisition Daniel Stevens. The company is now planning to expand Hiring Assistant to a larger number of employees, Stevens said.
+He added that Palo Alto Networks also compared response rates between cold reachouts that human recruiters sent to candidates compared to Hiring Assistant’s AI-generated messages and, surprisingly, Hiring Assistant got a roughly 50% higher response rate.
+“The interesting thing is that the recruiters tend to like their own messages better, even though the AI’s messages get better engagement,” Stevens said. “I think the ideal is you start with a LinkedIn-generated message and add some of your own voice to it to make it a bit more personal.”
+The British recruiting firm BMS Performance is currently paying for 65 seats of the software, according to managing director Phil Mellows-Facer. While the product “isn’t perfect,” Mellows-Facer said, his team has found that it improves by remembering feedback about who is or isn’t a good job candidate for a specific role and incorporating that into its future suggestions.
+“It’s difficult to say whether that's translating into more revenue, but my gut feeling is yes,” Mellows-Facer said. “Are we placing more people than we would be without it? Yes.”
+LinkedIn product teams started testing OpenAI’s models in early 2023, when they began developing Hiring Assistant, according to Erran Berger, LinkedIn’s head of product engineering. But the tool was only released recently.
+“We wanted to take our time to get the product right,” Berger said. “We think that approach worked well for us.”
+CIOs Brace for Claude to Get More Expensive
+As popularity for Anthropic’s Claude models surges among enterprises, the company
+quietly changed its pricing model in recent months
+to bill companies based on how much they use the software—as opposed to just a flat fee, as we reported Tuesday.
+Now, software executives at firms that pay for Claude tell me they’re bracing for higher Claude bills. In some cases, they say the pricing change could make it less appealing to roll out Claude subscriptions to a large number of employees.
+For instance, the insurance firm National Life Group pays for a small number of Claude subscriptions for some employees with “specialized use cases,” but is now tracking how much more the company will have to spend under Anthropic’s new pricing model, according to CIO and head of strategy Nimesh Mehta.
+“[Anthropic’s pricing change] makes it unpredictable within an enterprise model. There isn’t much history of usage for us to go on to appreciate or understand the change,” Mehta said.
+The company is sticking with OpenAI’s ChatGPT as its default chatbot subscription companywide because OpenAI’s pricing is “easier to predict,” he added, but said he wouldn’t be surprised if OpenAI eventually starts billing companies based on consumption similar to Anthropic.
+“This is a move I have seen in most SaaS offerings as well which doesn’t sit well for large scale enterprises that need predictability in their budgets,” Mehta said. “At some point pay by the drink gets unaffordable.”
+Salesforce Embraces Other AI Agents
+Salesforce’s developer conference on Tuesday showed the enterprise software giant taking steps to adapt to a world where its customers use AI tools rather than traditional user interfaces to interact with software systems.
+Salesforce announced what it calls “Headless 360,” a suite of tools that let customers link their AI agents built in other platforms—such as Microsoft Copilot, Google’s Gemini, or Anthropic’s Claude—to their Salesforce data. Customers could previously connect AI agents to their Salesforce data through standard application program interfaces or by building custom connectors, but the process could be laborious.
+Executives emphasized that Salesforce was an “open” ecosystem accessible to customers using any AI agent.
+Salesforce’s president of Enterprise and AI Technology Joe Inzerillo said: “I think one of the things about agents is they hate boundaries. Agents do not like to stay in the silo. They want to talk to each other.”
+“We are absolutely 100% committed [to] working on this in an ecosystem that is open,” he said.
+Some Salesforce rivals have struck markedly different tones than Inzerillo and other executives did on Wednesday. Leaders of firms Workday and HubSpot showed annoyance, even hostility, in recent earnings calls toward customers using third party agents to tap data in their apps. Salesforce itself was slammed for temporarily shutting off access to Slack by AI tools in 2024.
+Salesforce’s framing and the launch of Headless 360 shows Salesforce opening up its apps to AI tools that are viewed by investors as an existential threat to the enterprise software industry. Seat-based pricing models, in particular, could be undercut if businesses connect to software apps via a single AI agent rather than multiple people. And customers could even use AI agents to build their own in-house software systems and get rid of those sold by Salesforce and rivals, investors worry.
+Salesforce has made moves to address some of these concerns, modifying its pricing model to charge based on how many actions AI agents take in its collection of AI apps known as Agentforce.
+The company didn’t specify the cost of using its new Headless 360 tools, which include a number of Model Context Protocol servers. But an executive said the MCP servers will likely have usage caps similar to standard APIs, and that customers will be charged based on how much work their AI agents do in Salesforce through them.
+–Laura Bratton"
+The Electric: Repurposed EV Batteries Are a New Power Source in AI Data Centers,2026-04-16T16:00:31Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/repurposed-ev-batteries-new-power-source-ai-data-centers,"EV batteries are turning out to have useful lives even after they stop powering vehicles. The battery industry, along with academics who study battery life, say the batteries turn out to still have a lot of juice when they seem dead. Rather than ripping them apart and recycling their metals, they say, EV batteries should be repurposed for other uses—like powering energy-starved AI data centers and electricity grids.
+On Tuesday, EV maker Rivian said it would repurpose around 100 of its battery packs to help power a manufacturing plant it is building in Normal, Ill. The amount of energy in the deal isn’t a lot—it’s equivalent to around 1,000 home batteries such as those sold by Tesla. But Rivian suggested it would add more capacity in the future.
+Rivian said it would ship the packs to battery refurbisher Redwood Materials, which would repurpose the batteries and integrate them into big power systems. Redwood began as a battery recycling company, shredding batteries to sell the metals, and pivoted to refurbishing them. A Rivian spokesperson told me the batteries come from its test and fleet vehicles.
+It’s the latest such deal for Redwood, which Tesla co-founder JB Straubel launched in 2017. Last June, Redwood linked around 1,000 used EV batteries together to
+provide primary power
+to a Crusoe AI data center housed at Redwood’s facility in Sparks, Nev.
+Redwood’s pivot reflects a shift in a longstanding question about batteries—what to do with them once the EVs in which they are installed have driven 100,000 or 150,000 miles. In the U.S., Europe and China, the answer has long been to recycle them.
+But a
+new paper
+released this week by academic journal Applied Energy argues that companies should instead first test whether the batteries have sufficient energy remaining so they can serve another use rather than get scrapped.
+This change in thinking coincides with surging power demand for the grid, AI data centers and industry.
+As we
+reported in March
+, some researchers think the nickel-based batteries used in most Western EVs, when treated gently, can last decades in a second use. But the Applied Energy paper’s authors single out iron-based lithium-iron-phosphate batteries—the type favored in China—as best for repurposing on the grid and behind AI data centers, because LFP batteries last even longer than nickel-based ones.
+“Our main finding is that LFP should be repurposed and in use for as long as possible,” said Anna Cobb, a doctoral student at Carnegie Mellon University and the paper’s lead author. “I would say it’s a good-news LFP story.”
+The West is only now starting to make LFP, however. Between two companies—South Korea’s LG Energy Solution and Tesla—the U.S. could be producing more than 100 gigawatt-hours of LFP batteries a year in the next year or two. That is a sliver of China’s LFP production, which last year was 1,400 GWh, putting the country on a pathway to a gigantic assembly line of batteries first going into cars and then into a second use.
+Edward Chiang is among those attempting to build up a Western battery repurposing industry. Chiang, CEO of Moment Energy, which launched in 2020 and makes battery systems from used batteries, said battery repurposing is profitable.
+A big part of that calculus is tax credits and grants that have survived despite President Donald Trump’s hostility toward any energy source apart from fossil fuels. Chiang is building a 2 GWh battery refurbishing plant outside Austin, Texas, that received a $20 million grant from the Biden-era infrastructure act.
+Chiang said his company’s LFP battery system is equivalent in price to a Chinese-made one—around $180 per kilowatt-hour at the system level, including the container that holds the batteries and the power management electronics used to operate them. With the 30% federal production tax credit, he can charge about $125/kWh and undercut both Chinese batteries and new U.S.-made battery systems, he said.
+There’s a surplus of used EV batteries, Chiang said—his warehouse is filled to the brim with them, and most have a lot of power left. Moment will often obtain a cast-off EV battery pack that looks depleted, and when staff open it up and test it, they find a single bad module. Remove that, the remaining modules “are closer to 90% to 95% life left, which is incredible,” he said.
+Chiang said it’s hard to see how recycling can be profitable over the next decade or more given the high level of spending required to stand up a recycling factory and keep it running. But there will be a time when recycling makes sense, he said—in a couple of decades, when the repurposed batteries he has made have reached their real end of life.
+“I pray and hope that in 20 years, once I repurpose these batteries, there will be a recycling side to take those batteries,” he said."
+Google’s New Model Makes Robotic Brains Slightly Smarter,2026-04-16T14:00:31Z,Rocket Drew,https://www.theinformation.com/newsletters/ai-agenda/googles-new-model-makes-robotic-brains-slightly-smarter,"Earlier this week,
+Google DeepMind
+released
+Gemini Robotics-ER-1.6
+, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities,
+Boston Dynamics
+—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using the model to read a thermometer during an inspection of an industrial facility.
+Despite the eye-catching demos, Google’s new robotics model only notched incremental gains over previous models in terms of its ability to tell when it had finished a task using a single camera feed, according to Google’s benchmarks. But when taking in multiple camera feeds, the model showed an improvement. That’s important, Google says, because many robotics setups today, such as those in factories or warehouses, use multiple camera views like an overhead camera and a camera mounted on the robot’s arm. The robot must be able to use all of those cameras to create a coherent understanding of what it’s doing and know when the task is complete.
+More such advances could overcome long-standing skepticism by the makers of factory and warehouse robots that AI foundation models are ready to replace the old-fashioned code that’s been controlling robots for years. Many have argued that these models are not reliable enough to govern robots safely outside of demos. Still, as these models advance, roboticists are increasingly finding narrow ways to take advantage of them.
+“Robotics foundation models—in terms of speed and reliability—we're not there yet,” said
+Markus Wulfmeier
+, who worked on robotics at DeepMind for eight years, most recently on the
+Gemini
+robotics models. Eventually, Wulfmeier said he expects AI-based approaches to win out, but in the meantime, he thinks there are promising ways to combine foundation models and traditional robotics software.
+To pursue that research, on Wednesday Wulfmeier started a new job as chief scientist at
+Nomagic
+, a nine-year old venture-backed startup that provides robotic arms for warehouses in Europe. He will oversee Nomagic’s efforts to take advantage of AI models, including Google’s, in tandem with traditional robotics software.
+Nomagic has already used its wealth of robot data to customize
+π0.5
+, an open-source model developed by startup
+Physical Intelligence
+. The model serves as a fallback in rare cases when Nomagic’s robots get confused, for example if a robot tries to pick up magnetic items that are clumping together or a box that is falling apart.
+Other companies are also adopting AI foundation models in measured ways.
+Mercedes
+said earlier this year that it would use
+Nvidia’s
+self-driving model
+Alpamayo 1
+, but would also use
+classical software simultaneously
+. A “safety policy evaluator” will decide which of the two gets to take the wheel at any given moment,
+Nvidia
+CEO
+Jensen Huang
+said.
+Robots from
+Chef Robotics
+, which assemble meals in industrial kitchens, follow software instructions for each of their recipes. But when the robots receive a new recipe for the first time, Chef uses
+OpenAI’s GPT-5
+to initialize the new instructions based on similar recipes the robots already know, according to founder and CEO
+Rajat Bhageria
+. That hybrid approach of classical robotics and AI models helped Chef’s robots recently surpass 100 million prepared meals.
+Some robotics companies are going further by starting to hand over control of their robots to an AI.
+Ultra Robotics
+, a two-year old startup based in New York, was previously relying on remote human operators to puppet its warehouse robots. But those robots increasingly work autonomously, thanks to customized versions of Physical Intelligence’s models.
+On Wednesday, Ultra announced a new generation of its robot with fresh hardware that is cheaper and faster to produce. That should help the startup more quickly collect data, which can then be used to further improve the AI, said co-founder and CEO
+Jon Miller Schwartz
+.
+Here’s what else is going on…
+People on the Move
+Meta Platforms
+is reorganizing its hardware division,
+Reality Labs
+, in a bid to “adapt and execute faster,”
+according to a memo
+reported by The Information. As part of the reorganization, some members of the foundations team will move to the Reality Labs wearables group. Meanwhile, the quality assurance and “dogfooding” team, along with the trust and platform foundations team, will be embedded directly within the wearables and virtual reality teams.
+Policy Watch
+The
+U.S. Energy Information Administration
+is planning a nationwide survey of data centers’ energy usage, Wired reported.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Trading firm
+Jane Street
+invested $1 billion in
+CoreWeave
+and committed to spend about $6 billion on its cloud platform.
+Venture firm
+Accel
+said Wednesday it
+had raised $5 billion
+in new funds for late stage investing. The new money will give it more firepower to invest in AI startups and double down on companies it has already backed.
+Artemis
+, which uses AI to defend against cyberattacks, announced it has raised $70 million across a seed funding round led by
+First Round Capital
+and
+Brightmind
+and a Series A funding round led by
+Felicis
+.
+Wayve
+, which develops self-driving software, raised $60 million in an extension to its Series D funding round from chip designers
+AMD
+,
+Arm Holdings
+and
+Qualcomm Ventures
+.
+Shoe maker
+Allbirds
+said it wants to
+turn itself into
+an AI chip-service firm—leasing and then renting out the valuable AI hardware. To fund the shift, Allbirds plans to raise $50 million in convertible notes and to change its name to
+NewBird AI Inc.
+Resolve AI
+, an
+AI-powered site reliability engineering startup, raised $40 million in Series A funding at a $1.5 billion valuation led by
+DST Global
+and
+Salesforce Ventures
+.
+Synera
+, a Bremen, Germany-based startup that offers agentic AI engineers, raised $40 million in Series B funding led by
+Revaia
+.
+Parasail
+, a startup cloud provider, raised $32 million in a Series A funding round led by
+Touring Capital
+and
+Kindred Ventures
+.
+Hilbert
+, which uses AI to automate customer data analysis, raised $28 million in a Series A funding round led by
+Andreessen Horowitz
+.
+Gizmo
+, which uses AI to turn students’ notes into personalized flashcards, raised $22 million in a Series A funding round led by
+Shine Capital
+.
+Phonely
+, a San Francisco-based developer of AI voice agents for customer service, raised $16 million in Series A funding led by
+Base10 Partners
+.
+Antioch
+, which is building simulation tools for robot developers, raised a $8.5 million seed round at a $60 million valuation led by
+A*
+and
+Category Ventures
+.
+Skild AI
+, which trains AI foundation models for robotics, acquired the robotics automation business of
+Zebra Technologies
+, including its software for orchestrating fleets of warehouse robots.
+OpenAI
+has told some advertisers
+that it will allow them to run
+ChatGPT
+ad campaigns that charge advertisers based on the number of clicks their ads get within the coming days, The Information reported.
+ByteDance’s
+cloud computing unit has made the company’s
+Seedance 2.0
+AI video generation model
+available globally
+to enterprise customers in more than 100 countries and regions around the world—but the U.S. is not among them.
+Google
+launched a
+Gemini
+desktop app for
+Mac
+.
+Canva
+announced an update to its
+Canva AI
+assistant, which now allows users to create editable designs with text prompts."
+Google and Pentagon Discuss Classified AI Deal as Company Rebuilds Military Ties,2026-04-16T13:00:47Z,Erin Woo,https://www.theinformation.com/articles/google-pentagon-discuss-classified-ai-deal-company-rebuilds-military-ties,"Google is negotiating an agreement with the Department of Defense that would allow the Pentagon to deploy Google’s Gemini AI models in classified settings, according to two people with direct knowledge of the discussions.
+If the two parties come to an agreement, it would expand Google’s connection to the Pentagon as a tech contractor and represent a significant reversal from the company’s past stance on working with the military.
+The two parties are discussing an agreement that would allow the Pentagon to use Google’s AI for all lawful uses, according to one of the people with direct knowledge of the situation. Still, during the negotiations,
+Google
+has proposed additional language in its contract with the department to prevent its AI being used for domestic mass surveillance or autonomous weapons, including targeting, without “appropriate” human oversight and control, according to the person.
+Those two issues were at the core of a battle that erupted in February between the Pentagon and
+Anthropic
+over the military’s use of the AI startup’s technology. It is unclear whether those terms will end up in the final agreement between the Pentagon and Google.
+So far, at least, Google’s discussions with the Defense Department appear to be progressing towards a deal, according to two people with direct knowledge of the discussions.
+Google’s proposed contract language appears to mirror the terms
+OpenAI
+secured in an agreement it struck with the Pentagon over the use of its AI earlier this year, according to one of the people. At that point, OpenAI CEO Sam Altman said he had asked the Pentagon to offer the same terms to all AI companies.
+However, lawyers also
+said
+at the time that language in OpenAI’s contract that seemed to preclude the use of its AI for fully autonomous lethal weapons and mass domestic surveillance wouldn’t necessarily prevent those applications because OpenAI also agreed that its technology could be used for “all lawful purposes.”
+The discussions over classified uses of Google’s AI build on an existing agreement between the tech giant and the Defense Department, in which Google agreed to let the Pentagon use its AI for all lawful uses. That agreement, signed last November, was for unclassified use cases, a Google spokesperson said.
+Google has been seeking to rebuild its relationship with the Defense Department for years. In 2018, that relationship hit a low point when Google said it wouldn’t renew a contract with the Pentagon for the military’s Project Maven contract, which involved using AI for drone targeting.
+Google’s decision on Project Maven, made after an outcry from its staff, heralded a wave of employee activism at the company and its tech industry peers in the years to follow. At the Pentagon, meanwhile, Google’s move created a sense of distrust of the company, according to current and former defense officials.
+Much has changed in the past few years, though. In 2022, Google set up a public sector division within its Google Cloud unit to sell to customers across U.S. federal, state and local governments and education systems. To staff the new unit, along with employees poached from rival cloud providers, Google hired staffers including many former government contractors and workers, as well as military veterans.
+By Google’s standards, its Public Sector unit accounts for a vanishingly small part of its business. Around the end of 2024, the division drew up a strategic plan aiming to grow its bookings—a sales term for new sales and contracts—to around $6 billion over a three-year period between 2025 and 2027, according to a document viewed by The Information. Of that projection, defense bookings accounted for $2 billion, national security accounted for $500 million and federal civilian business accounted for $1.1 billion.
+It couldn’t be learned how well Google is doing at meeting those goals. Even if it’s on track, the $403 billion in revenue that Alphabet, Google’s parent company, reported for 2025 dwarfs those numbers.
+Lately, Google has made small staff cuts across the public sector team. The company told some of the remaining employees in a meeting last month discussing the cuts that the Public Sector business wasn’t growing fast enough to meet broader Cloud goals and needed to streamline, one of the people said.
+Over time, attitudes within the Pentagon toward Google have become more favorable, especially in contrast to the hostility many officials feel toward Dario Amodei, Anthropic’s CEO, according to the current defense official and a person with direct knowledge of the situation.
+U.S. Secretary of Defense Pete Hegseth, left, and Under Secretary of Defense for Research and Engineering Emil Michael. AP Photo/Julia Demaree Nikhinson
+The conflict between Anthropic and the Pentagon came to a head in February, when contract negotiations between the company and the Pentagon spilled into public view. Amodei refused to drop safeguards banning the use of its AI for fully autonomous lethal weapons systems and mass domestic surveillance. After the two sides failed to reach an agreement, the Pentagon declared Anthropic a “supply chain risk,” cutting it off from use in the Pentagon and by military contractors after a six-month phase-out period.
+Anthropic has sued the Pentagon over the supply chain risk designation in two separate lawsuits. One judge has stayed the ruling as the case continues, while the other judge declined to do so. In practice, the supply chain risk designation remains in effect, excluding it from new military contracts, although the phase-out period means that the Pentagon is still using Anthropic’s AI for the time being.
+As the Anthropic-Pentagon saga played out, more than 200 Google employees signed a letter asking the company to ban uses of its AI involving mass domestic surveillance or fully autonomous weapons. The letter was addressed to Jeff Dean, Google’s chief AI scientist, who had posted on X in opposition to such use cases. Dean and nearly 40 other Google and OpenAI employees also signed an amicus brief in defense of Anthropic in its lawsuits against the Pentagon.
+Google’s conversations with the Pentagon have included increasing the amount of computing capacity available to the Pentagon for classified work, according to the person with direct knowledge of the situation. The company’s secure cloud product, Google Distributed Cloud, has been accredited for classified work for the Department of Defense, but relatively little infrastructure exists in practice to run such workloads, the person said.
+In the short term, that increase could include adding racks of graphics processing units to Google Distributed Cloud, as well as figuring out how to run Google’s specialized chips—tensor processing units—for the first time in classified environments, according to two people with knowledge of the situation.
+‘Big Google’
+Despite the thaw in Google’s once chilly relationship with the Pentagon, it still faces a number of obstacles to significantly increasing its government sales.
+For one thing, despite Google’s progress in AI, the company still has a relatively small portion of government cloud computing work compared to Microsoft and Amazon Web Services, according to a current defense official. At the end of 2025, Google had a 14% share of the total cloud market, compared to 28% and 21% for AWS and Microsoft, respectively, according to research from Synergy Research Group.
+Many federal employees have extensive experience using products from Amazon and Microsoft but still need to learn how to work with Google Cloud, according to a former Google Public Sector employee. Google’s rivals are also willing to put dozens of employees on a government site to get a project off the ground, whereas Google hasn’t always been able to devote that level of staffing, the person said.
+At times, Google Public Sector has also found it difficult to garner technical support from the rest of the company to work on projects because federal government contracts worth a few hundreds of thousands of dollars are small compared to the rest of Google’s business, according to a different former Google Public Sector employee. A Google spokesperson disputed that characterization.
+The person in charge of Google Public Sector is Karen Dahut, who served as a lieutenant in the U.S. Navy and has worked in defense technology for the rest of her career. After serving in the Navy, she spent ten years at LMI, a federally funded research and development center focused on the defense sector. She then worked for more than 20 years at Booz Allen, where she rose to lead its $4 billion global defense business.
+Under Dahut, Google Public Sector has developed a distinct culture, according to six current and former employees. They are sometimes reminded not to share information on their work with colleagues outside the unit, both to limit the access of non-U.S. staffers to national security–related information and to avoid attracting the scrutiny of activist employees, according to three current and former employees. A Google spokesperson said that is standard with customer contracts and no employees are allowed to share contract details internally.
+Members of the Public Sector group even have a nickname for the rest of the company that hints at their separateness: Big Google.
+Shifting Principles
+Google’s efforts to win classified business from the Pentagon come after a series of steps it took to soften its previous hard-line stance on working with the military.
+In the wake of Google’s Maven withdrawal in 2018, the company instituted a series of AI principles. Among other things, it banned use of its AI for weapons and surveillance.
+But only weeks after Donald Trump began his second presidential term in early 2025, the company seemed to have a change of heart. It altered those principles, removing the explicit provisions against using AI for weapons and surveillance. The announcement
+coincided
+with Google Public Sector’s internal sales kickoff. Participants in that event perceived the change as a green light for the public sector team to now go after a wider array of deals, according to a person in attendance.
+Since then, Google has stepped up its pursuit of defense deals, according to a person with knowledge of the situation. Last year, it bid unsuccessfully on the Army’s Next Generation Command and Control initiative—a project to create an information system that would allow commanders to make faster battlefield decisions, according to two people with knowledge of the situation.
+In July, the Department of Defense’s Chief Digital and Artificial Intelligence Office awarded Google a contract worth up to $200 million for an AI pilot program—a contract later amended to allow for all lawful uses. The office awarded Anthropic, OpenAI and xAI comparable contracts. In December, Google’s Gemini was the first AI model added to GenAI.mil, the military’s AI platform for unclassified data.
+Google DeepMind CEO Demis Hassabis. Krisztian Bocsi/Bloomberg via Getty Images
+Google is also one of more than 1,000 companies awarded a contract for Golden Dome, Trump’s planned missile defense system, according to filings from December.
+In March, Google announced a deal with the Pentagon to provide an AI agents product to automate unclassified work. If Google and the Department of Defense reach an agreement on their current talks, a classified deployment might not be far behind."
