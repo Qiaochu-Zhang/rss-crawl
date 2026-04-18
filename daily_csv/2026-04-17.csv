@@ -1,0 +1,144 @@
+﻿标题,时间,作者,链接,内容
+How Dylan Patel and SemiAnalysis Grabbed Sway in Silicon Valley,2026-04-17T16:05:17Z,Abram Brown,https://www.theinformation.com/articles/dylan-patel-semianalysis-grabbed-sway-silicon-valley,"For Dylan Patel, founder of SemiAnalysis, an influential AI industry newsletter and research firm, Nvidia deserves the kind of dogged observation and study the tabloid press once devoted to Princess Diana. He
+scrutinizes
+the chip giant’s new products,
+documents
+its delays and
+scoops
+details about its inner workings. His information mongering is so relentless that he sometimes irritates the company, which he said once blacklisted him from its events for a short time after he published some of what Nvidia would discuss at an upcoming conference.
+Still, a month ago, Patel, 29, enjoyed a moment no rising star from the traditional media world could ever expect: public praise from Nvidia CEO Jensen Huang. At the latest GTC, the company’s much-watched developers’ summit, Huang name-checked Patel and prominently mentioned a new SemiAnalysis
+assessment of chip performance
+, InferenceX, which gave top marks to Nvidia.
+“He only said two people’s names the entire presentation: mine and the OpenClaw guy’s,” said Patel, happily reflecting on the plaudits from SemiAnalysis’ glassy, sunlit new offices in downtown San Francisco. (To be fair, Huang did also mention a few others in his passing asides and thank-yous, including Sequoia Capital’s Alfred Lin.) “He put our logo up, and he talked about the slide for five minutes—that’s very unique.”
+And yet, Patel said he didn’t shy away from publishing a pessimistic note about Nvidia’s Rubin chips—the kind of report that might displease the company—several days later. That decision, he insists, shows that flattery won’t stop him from poking an almost $5 trillion bear.
+SemiAnalysis enjoys a hybrid status that would’ve been unimaginable in a different Silicon Valley era. It often acts like and resembles an old-fashioned news operation, but it does not try to play by the same rules conventional outlets do, instead taking advantage of the collapsed boundaries between tech, media and investing that have given rise to podcasts like “
+TBPN
+” and “
+All-In
+.”
+Patel has no time for journalistic pieties—the rigorous disclosures and avoidance of conflicts of interest that old-school press obsesses over—and those who have come to see SemiAnalysis as an industry bible don’t mind his laissez-faire attitude. In short order, he has managed to position himself and his firm as leading experts on AI, which had few such experts a few years ago—colorful commentators on a realm that is ballooning in world economic importance by the day.
+SemiAnalysis ranks as the top technology newsletter on Substack, with more than a quarter million subscribers. Most people subscribe for free, receiving a limited number of the newsletters. Only a small portion pay the $500 annual fee that gets access to all of them.
+SemiAnalysis expects to do over $100 million in revenue this year, a rapid increase from $20 million a year ago. Just a fraction of that figure will come from subscriptions to its newsletter, through which it shares only a limited amount of its industry knowledge. The more lucrative part of its business is selling far more detailed research and data on the AI supply chain to industry startups, investors and teams within big tech companies like Nvidia, who use it to guide decisions on AI spending and investment.
+That research is often about long-standing topics, such as GPUs and data centers, along with more current ones—for example, how the suspension of shipping traffic through the Strait of Hormuz could affect microchip supplies by choking off helium exports from the region.
+As the establishment media has raced to cover AI more closely, it has granted Patel a recurring role as a talking head, with CNBC’s Jim Cramer recently speaking about him and SemiAnalysis in reverential terms on air. “There is a company that I regard as the gospel: SemiAnalysis,” said Cramer, previewing a Patel
+appearance on his show
+, “Mad Money.” “I don’t think people realize that SemiAnalysis is
+the
+arbiter. They’re like God.”
+The industry elite give Patel their time and attention. When he received an invite to tour a Supermicro factory last year, CEO Charles Liang was there to personally lead him around. Months earlier, Patel had published
+a critical piece
+on AMD’s MI300X chip, and within a day, he had gotten a 90-minute sit-down with CEO Lisa Su, which he and Su
+both
+then
+tweeted about
+, a hard-to-miss gesture of mutual respect. And when I visited Patel in San Francisco, I quite literally almost tripped over his next appointment: Sequoia’s Shaun Maguire, who was waiting in the lobby.
+The businesses SemiAnalysis covers are also often its customers. Traditional media businesses that rely on advertising or subscriptions frequently find themselves in a similar position and try to manage potential conflicts by walling off their editorial operations to preserve their independence. Consultancies, on the other hand, don’t usually have to worry about such things because they don’t typically publish negative newsletters about their clients.
+Nvidia’s Jensen Huang throws up his hands in celebration at the latest GTC developers’ conference as he discusses Dylan Patel’s SemiAnalysis and its recent assesment of Nvidia’s chips. (Getty Images)
+What makes SemiAnalysis’ coverage even more unusual is the fact that it sometimes covers companies in which Patel has invested—as well as their competitors.
+In the last several years, he has accumulated stakes in some 20 startups, including
+Mira Murati
+’s Thinking Machines Lab and Enfabrica, the chip startup that struck a more than $900 million
+license-and-hire deal
+with Nvidia last September. He has spoken publicly about some of these investments, but the SemiAnalysis newsletter does not tie itself up in knots to disclose Patel’s involvement in these startups—a contrast to how, say, The Washington Post constantly reminds readers that Jeff Bezos owns it whenever it reports on Amazon.
+The situation will get more deeply complicated if Patel’s recent efforts to raise a venture capital fund pay off, a task that has occupied part of his time lately. (He would not comment on those efforts.) Such a fund would increase the number of companies he invests in, as well as the potential for conflicts. For his part, Patel insists he has never let his investments sway his firm’s reports and won’t do so in the future.
+The many blurred lines surrounding Patel came into greater focus last month when he and a former employee filed lawsuits against each other. Wei Zhou, Patel’s former close friend, is suing over his firing earlier this year: In Zhou’s lawsuit, he accuses Patel of asking him to include internal information about Fluidstack, a cloud provider, in SemiAnalysis research. (Patel had previously assembled a special purpose vehicle that raised capital to invest in Fluidstack.) Zhou’s suit said he worried including the information might be illegal and alleges that Patel axed him for refusing to add it. In Patel’s lawsuit, he says Zhou was let go after he was rude to coworkers and showed up to work drunk, among other things.
+Neither Zhou nor Patel would comment about the lawsuit.
+When I asked Patel what guiding lights he applies to running SemiAnalysis, he promptly laid out what he sees as its four bedrock principles: “Have fun, make money, know everything—and have influence.”
+“I’m having so much fucking fun,” he added. Clearly, he’s been having some luck adhering to a couple of those other commandments, too.
+Julien Launay, a co-founder of another AI startup that counts Patel as an investor, sees a parallel between Patel’s modus vivendi and a biblical story.
+“We joke with some friends that Dylan has the sin of gluttony,” said Launay, CEO of Adaptive ML. “He wants to understand it all, and he gets obsessive, and he wants to have it all. He doesn’t have any ego toward it: When I met him, he didn’t understand shit about modeling, but he really wanted to learn. So he asked a million questions—a million completely idiotic questions—and he pieced it together.”
+Patel can be impish. When I visited him at his San Francisco office, he talked about how he shares the space with Dwarkesh Patel (no relation), host of the very popular “Dwarkesh Podcast.” (They also live together in Noe Valley, along with Sholto Douglas, an Anthropic researcher.) But Dylan and Dwarkesh aren’t the only ones who share that office, Dylan told me. He then refused to reveal the identity of that third office mate, saying he wanted me to figure it out on my own.
+Sometime later, I told him I had: Leopold Aschenbrenner, a former OpenAI researcher who
+has started
+his own investment fund, Situational Awareness. (Aschenbrenner
+has also been involved in talks
+around raising money for Fluidstack.) Patel confirmed my answer was correct. I asked him why he’d turned it into a game.
+“I thought it would be funny,” he said.
+“And, actually, you didn’t get everyone,” he continued. “There’s
+four
+office mates. You’re still missing one—your story is going to be incomplete.” He wouldn’t say anything more about the additional mystery person.
+With SemiAnalysis’ staff now totaling 85 people in 11 countries, Patel is not the only one dedicated to rustling up information. On Monday mornings, he peruses the weekly briefs he asks his managers and their teams to prepare. Each team tends to specialize in researching one part of the AI economy, and their briefs aim to distill “all the news that happened in the prior week—all the things that we connected the dots on, saw and scooped,” Patel said. It helps amplify his own already extensive knowledge of the ecosystem and set priorities for what information he and his team should pursue.
+Dylan Patel (left) appearing on an episode of “Dwarkesh Podcast” with host Dwarkesh Patel. The two are not related, though they are friends, housemates and officemates.
+(Via YouTube)
+One of those managers is Jeffrey Koch, a former engineer at ASML, maker of lithography machines, which are essential to chip manufacturing. Koch concentrates on researching the businesses that produce the highly specialized equipment, and lately he has been seeing warning signs: He expects the biggest kink in the AI supply chain could soon be a scarcity of these tools, not access to energy.
+I asked what ramifications Koch could see ahead. “Well, Elon is probably going to run into this problem with Terafab,” he said. Terafab is a new Elon Musk project in which he wants to partner with Intel
+to build a factory
+that will produce custom chips for Tesla and SpaceX. It is a hugely ambitious plan, and Musk has said the ability to make those chips is crucial for both companies. “They’re clearly going to be bottlenecked, and they’re going to have to go do something different than just bang their heads against the existing supply chain,” Koch said.
+Koch joined SemiAnalysis in 2023, with one condition: Patel had to begin offering health insurance to his employees. “He was like, ‘We’ll invite you to the Discord on day 1—that’s how you join,’” Koch recalled. “I was like, ‘We need health insurance.’”
+Patel himself has no formal education in semiconductors or AI. He grew up in rural Georgia, where his immigrant parents owned a motel. His hometown, Cairo (pronounced kay-row), had few residents who weren’t white or Black. He and his brother enjoyed moving between the two groups. “The white kids didn’t think of us as Black, and the Black kids gave us the N-word pass,” he said.
+As a kid, he developed an interest in gaming and hardware, having once taken apart the malfunctioning family Xbox to keep his parents from learning it had gone on the fritz. At that time, Nvidia chips were mostly the realm of gamers and videogame companies. The teenage Patel participated actively in Reddit communities and other online groups that discussed the chips in detail, and he accumulated much knowledge and an abiding passion for the technology.
+In high school, he applied to the Massachusetts Institute of Technology and Stanford University, but after those schools rejected him, he decided to attend the University of Georgia. “I’m happy I went to Georgia,” Patel said. “I had a fun time.” He partied but still managed to graduate with several majors, including ones in data analytics, risk management and legal studies.
+After college, he worked at a financial firm, he said. He won’t reveal the company’s name nor does he list it on his LinkedIn. He said his departure came after he received a disappointing bonus. “They gave me $100,000,” Patel recalled. “It was supposed to be a lot bigger.”
+He started SemiAnalysis as a solo endeavor in 2020, and to further deepen his understanding of semiconductors, he attended as many industry conferences and events as he possibly could, peppering the attendees with questions. He then nurtured those relationships much as a journalist cultivates sources, returning to those people for information he turned into highly detailed newsletters.
+SemiAnalysis’ Dylan Patel at a French AI conference last summer.
+(Getty Images)
+His early astute analysis of little-covered firms
+like MediaTek
+, a Taiwanese semiconductor company, and
+a critical take
+on Tesla’s Dojo D1 chip—“incredibly impressive but it should not be hyped to the moon,” Patel wrote—helped SemiAnalysis attract its initial audience. (The Dojo post also revealed that Tesla needed outside help to design the chip.) A 2021 edition of SemiAnalysis that
+revealed tensions
+between Arm, a British semiconductor business, and its Chinese operation was popular, too.
+Patel is especially proud of what he wrote in February 2023 about
+AI’s disruption of internet searches
+and the associated costs. Shortly after publishing it, he noticed a prominent new subscriber: Microsoft CEO Satya Nadella. (Nadella had just unveiled an AI-improved version of Microsoft’s search engine, Bing.)
+A couple months later, Patel
+published an internal Google memo
+that raised alarm bells about how open-source AI could seriously hurt the company’s plans. Patel had noticed the memo circulating on Discord, downloaded a copy, and then verified its authenticity with people he knew at Google.
+While charts and screenshots of company presentations often litter SemiAnalysis posts, Patel likes to keep the newsletter’s tone irreverent whenever possible: Sometimes he
+includes “South Park” memes
+. All employees can contribute to the SemiAnalysis X account, which has no formal guidelines. “Our social media is insane,” Patel said. “Anyone’s allowed to post anything they want.”
+Two of SemiAnalysis’ most popular new projects have been InferenceX, the chip performance analysis that Nvidia’s Huang mentioned last month, and ClusterMax, a laborious ranking of cloud providers. ClusterMax has given top status to CoreWeave, the sole company to get a platinum label. Just below it is a five-way tie in the gold category between a group of companies that includes Fluidstack, the startup for which Patel raised an SPV. Nonetheless, Patel points to ClusterMax as proof that SemiAnalysis doesn’t unduly favor companies connected to him: Another one of his investments, Prime Intellect, appears in the lowly, crowded bronze group.
+Prime Intellect’s co-founders, Vincent Weisser and Johannes Hagemann, were initially taken aback by their place on the list, Patel said. “When we ranked them, they tried to argue a bit,” he recalled. “But then later, they’re like, ‘Fine, I get it.’” (Weisser said he trusts Patel to act “independently of his financial interests.”)
+The lawsuit with his former employee, Zhou, sparked a stream of anxious phone calls from SemiAnalysis clients seeking reassurances about how the firm manages their information, said a person familiar with the company. To assuage those concerns, SemiAnalysis will ask an outside firm to prepare a report about how it handles such data, that person said.
+Publicly, the founders and CEOs who count Patel as an investor say their view of him and of SemiAnalysis hasn’t changed. “I completely trust their integrity,” said Mitesh Agrawal, CEO of Positron AI. “I have zero concerns.”
+And the legal spat definitely hasn’t eroded Patel’s own abundance of self-confidence. “There’s a reason why every major company in the world pays us for our data and our reports,” he said. “It’s impossible to know everything, but I think we know more than anyone else.”
+Even with SemiAnalysis’ sway at its present high, Patel still finds two people who aren’t entirely won over by his trajectory: his parents. “For years, they were like: ‘Dylan, just come home. Have a regular job—get married,’” he said. “Blah, blah, blah.”
+“My mom still tells people that I work in IT. She says it, and I’m like, ‘Mom, I sound like a fucking loser—stop,’” he said. “They still don’t understand [that] every executive in the world knows SemiAnalysis, knows what we do. They don’t understand how important it is—or relevant—or how cool it is that Jensen talks about InferenceX and he says my name onstage. They don’t know what that means.”"
+"China’s DeepSeek is Raising Money for First Time, At $10 Billion-Plus Valuation",2026-04-17T14:36:02Z,Jing Yang,https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation,"DeepSeek is in talks to raise outside capital for the first time, seeking to beef up its financial war chest so it can better compete in the costly battle to develop leading AI models, according to five people familiar with the matter.
+DeepSeek is owned by Chinese hedge fund High-Flyer Capital Management, which has financed the startup so far. DeepSeek, whose AI model R1 took both Silicon Valley and Wall Street by storm last year, has previously turned down multiple funding offers from China’s top venture capital firms and tech giants.
+But the startup has recently started talking to investors and is seeking to raise at least $300 million at a valuation of at least $10 billion, according to two of the people.
+If DeepSeek goes ahead with the fundraising, it would be a big shift for its founder and CEO, Liang Wenfeng, who is known in the industry as a technology idealist who
+wants to keep DeepSeek independent and free of commercial pressure
+. DeepSeek didn’t immediately respond to a request for comment.
+DeepSeek has not released a new generation model since the breakout success of R1 in early 2025, and the startup has lost some star researchers recently. Luo Fuli, a key contributor to DeepSeek’s V3 model, in recent months joined Chinese smartphone maker Xiaomi to lead its fledgling AI department. Guo Daya, another researcher central to DeepSeek’s previous models, recently joined ByteDance at a much higher pay level, according to Chinese tech outlet Late Post.
+By raising outside money, DeepSeek could invest more on computing resources to continue working on frontier AI models and could pay more for talent to prevent top researchers from leaving.
+As a Chinese startup, some U.S. venture capitalists might hesitate about investing in DeepSeek, according to two of the people familiar with the matter. The company has been
+accused by the U.S. Congress
+of aiding Beijing’s military rise, although it hasn’t been added to any U.S. trade blacklist.
+DeepSeek had been planning to
+release its next flagship model V4 in February
+, but the timeline has been pushed back several times due to engineering and other difficulties. DeepSeek’s engineers have spent a lot of time making V4 compatible with Huawei Technologies’ chips out-of-box,
+The information reported
+. That contributed to the delay, as DeepSeek’s previous models were designed to run on Nvidia chips.
+Meanwhile, the competitive environment for AI has changed. AI models are evolving at unprecedented pace, and tech giants from both the U.S. and China are increasingly exerting pressure on upstarts thanks to their deep pockets. That might have prompted DeepSeek to change its funding policy and raise money.
+DeepSeek’s R1 model, released in January last year, moved global markets by performing on par with the best American models, despite having been trained much more cheaply.
+The achievement shocked Wall Street as it sowed doubt about the long term demand for Nvidia’s expensive AI chips. DeepSeek had trained its models on older-generation Nvidia chips such as the A100 and H800 that originally were stockpiled to build algorithms for the hedge fund parent’s trading business, before the U.S. started to tighten advanced chip sales to China.
+The Information reported
+previously that DeepSeek has been training its next flagship model on Nvidia’s flagship Blackwell chips, which are banned by U.S. regulations from exporting to China."
+Police Tech Startup Flock Safety Valued at $8.4 Billion Amid Civic Protests,2026-04-17T13:00:45Z,Cory Weinberg,https://www.theinformation.com/articles/police-tech-startup-flock-safety-valued-8-4-billion-amid-civic-protests,"Flock Safety, which sells cameras, drones and AI software to police departments, was valued at $8.4 billion in a new round of funding completed in recent weeks, a modest bump from its financing last year, according to a publicly filed corporate charter and people familiar with the round.
+The company raised the new funds amid the largest political and public relations crisis it has faced in its nine-year history. In the past year, some residents, activists and others across the U.S. have decried how data collected by police departments using the tech could be shared with federal immigration enforcement officials.
+The company recently authorized selling about $200 million in new shares, according to the charter, provided by
+Prime Unicorn Index
+, which tracks private startups. The charter showed investors would pay a per-share price about 6% above the startup’s round last spring, a relatively minor price increase when compared with the double-digit step-ups that mature private companies typically command between funding rounds.
+It couldn’t be learned which investors led the Flock round and if any were new. Existing investors include Andreessen Horowitz, Matrix Partners and Greenoaks. The total size of the round also couldn’t be learned. With the new share sale, the Atlanta-based startup has raised more than $1 billion since its founding, according to data firm PitchBook.
+Founded by CEO Garrett Langley, Flock provides police departments with license plate detection cameras and software that uses machine learning to capture specific details, such as a car’s make, model and damage, to find stolen cars or identify criminal suspects. The company’s technology was recently involved in aiding law enforcement investigations in high-profile crimes like shootings at Brown University and the Massachusetts Institute of Technology, Langley
+posted on X
+in December.
+It sells annual subscriptions for its suite of cameras, audio detection systems and software. In March 2025, the company said it had surpassed $300 million in annual recurring revenue, a 70% increase from the year prior. Langley has said the company now sells tech to more than 6,000 U.S. cities.
+In the past year,
+publicly traded Axon
+, maker of Tasers and other tech used by police departments, has become more of a competitive threat. In April 2025, Axon announced a rival AI-powered license plate reader, just two months after the companies had ended a partnership with each other, a decision Flock CEO Garrett Langley called a “surprise” in a
+blog post
+at the time. Axon was an early investor in Flock, the post added.
+Axon shares have fallen 30% in the past year.
+This year, Flock’s work has also sparked protests from public interest groups and college students, who allege that police departments using its tech have been sharing data with federal immigration officials amid the politically charged Immigration and Customs Enforcement crackdown in U.S. cities.
+Dozens of cities have been canceling or reexamining their contracts with Flock, according to
+NPR
+and
+The Guardian
+. In February, Amazon’s Ring doorbell camera canceled a partnership with Flock, the two companies said.
+“Flock remains dedicated to supporting law enforcement agencies with tools that are fully configurable to local laws and policies, and we continue to engage directly with public officials and community leaders,” the company said in an announcement about the canceled Ring partnership.
+In April, a Flock spokesperson
+told CBS News Atlanta
+the company does not have contracts with federal immigration agencies such as ICE or Customs and Border Protection."
