@@ -1,0 +1,298 @@
+﻿标题,时间,作者,链接,内容
+"Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large",2026-04-24T02:41:03Z,Katie Roof,https://www.theinformation.com/articles/behind-cursors-deal-spacex-anthropic-compute-costs-loomed-large,"Weeks before Cursor agreed to a $60 billion potential takeover from SpaceX, the hot AI coding startup set out to raise billions of dollars. As its leaders made the rounds among tech’s largest investors, they started to hear an unfamiliar message: No, thanks.
+Many investment firms usually capable of writing the largest checks into startups, including Iconiq and other late-stage tech investors, had just invested billions of dollars into OpenAI and Anthropic, whose Claude Code appeared to be growing faster. Some of those investors weren’t ready to commit more money into a competitor, given the expected $50 billion valuation, or were doubtful Cursor could keep up with the deep-pocketed rivals, people familiar with the fundraise said.
+“There’s so much Anthropic fear right now” among investors, said one fund manager who met with Cursor executives in recent weeks.
+Details of Cursor’s performance and fundraising explain some of the previously unreported factors behind a high-profile AI startup’s decision to join forces with SpaceX. The details also offer insight into how some private investors are viewing the prospects of prominent AI startups that rely heavily on AI supplied by OpenAI and Anthropic.
+One worry for potential investors was that Cursor’s gross margin was negative 23% as of the quarter ended in January, according to two people with direct knowledge of its financials. While many startups lose money, negative gross margins—revenue after accounting for the core cost of the product—are unusual for a startup generating such high revenue. The company’s gross margin has since turned positive, another person said.
+Still, other investors were ready to jump in, attracted by its growth and credibility among developers. The company’s revenue hit $2.7 billion in annualized sales last month, said one of the people, up about 14 times from a year ago. Some investors expected annualized revenue to hit more than $7 billion by year’s end, said two of the people.
+Ultimately, Cursor was able to line up $2 billion in new capital from Nvidia, past investors Andreessen Horowitz and Thrive Capital, and new investor Battery Ventures, among others. Nvidia, whose AI server chips powered the startup’s product and has operated as
+a kind of central bank
+for AI startups, would have committed the largest check in the round, according to two people with knowledge of it.
+After SpaceX announced its intention to buy the company, the startup called off the round.
+If the SpaceX takeover goes through, investors including Andreessen Horowitz and Thrive Capital stand to make a steep return on their backing of the four-year-old startup, which was
+valued at $30 billion late last year
+—and less than $3 billion at the beginning of last year.
+With the acquisition, Cursor will get access to SpaceX’s vast servers, or a $10 billion break-up fee if Musk’s company decides not to go ahead with the deal.
+Access to such compute is imperative for companies like Cursor. Even after it raised the since-abandoned funding round, leaders of the startup had anticipated raising billions more by the end of the year to spend on compute to run its AI, one of the people said.
+SpaceX’s Pitch
+SpaceX had plenty of reasons to pay up for Cursor, sealing the deal in the midst of a breakneck tour with investors ahead of a June IPO that could value it at $1.5 trillion.
+Among them was Cursor’s revenue. SpaceX had spent an astronomical $12.7 billion on capital expenditures last year for its xAI division, The Information
+previously reported
+, and had taken on significant debt. But that division only generated $3.2 billion last year, much of which came from its social media site X.
+Cursor, meanwhile, generated roughly $770 million in total during its last fiscal year, which ended in January, two of the people said. That was up nearly 24 times its previous year’s sales, which were $32 million, the people said. The recent year’s revenue amounted to nearly a quarter of the xAI division last year
+.
+It also will likely add to SpaceX’s financial losses: Cursor lost nearly $900 million in its last fiscal year, the people said.
+SpaceX had other strategic reasons to pursue Cursor. The startup stands to provide xAI a substantial AI application business in an enterprise market that xAI has struggled to crack with its Grok product. Cursor and xAI would also join forces to develop a homegrown coding model, allowing Cursor to wean itself off models from Anthropic and OpenAI.
+That’s because Cursor’s coding tools and agents, which help customers generate or analyze code, are often powered by models from Anthropic and OpenAI, meaning the startup pays substantial sums to its biggest rivals. Cursor has already endeavored to develop its own models to lessen payments to those rivals and improve its margins. Cursor’s own models have been based, in part, on freely available, open-source models."
+The Region Where Software M&A Is Hopping,2026-04-24T00:12:05Z,Valida Pau,https://www.theinformation.com/newsletters/dealmaker/region-software-m-hopping,"Elon Musk may be the busiest dealmaker right now. This Tuesday, his SpaceX rocket company said it had an option to buy coding startup Cursor for $60 billion. That would be the biggest venture-backed acquisition—other than SpaceX’s February purchase of his startup, xAI, for what Musk has said was a $250 billion valuation.
+Outside the Musk-verse, by contrast, tech bankers have been complaining about how slow dealmaking is—particularly in software, where executives seem paralyzed by the rapid-fire releases of competing Anthropic and OpenAI features. (One software banker even mused that this is the quietest time of their entire career.)
+One place, however, is bucking the trend: Israel.
+Earlier this month, we reported that cloud provider Nebius had been in talks to buy
+Israeli AI lab AI21
+, which develops large language models and systems for enterprise agents. (Such a deal would follow Nebius’s agreement in February to buy another Israeli startup, the AI software firm Tavily.) Within the same week, we reported Cisco was in talks to acquire Israeli AI agent security startup
+Astrix Security
+for up to $350 million.
+If these deals happen, they will add to a string of high-profile sales of Israeli startups. The most notable in the last year was cloud security startup Wiz, which sold to Google for $32 billion in March.
+The Wiz sale stood out for its size, since many Israeli startups sell when they’re still valued below $1 billion. But other deals illustrate the fact that while the country’s entrepreneurs are known for launching cybersecurity startups, they have also been busy leading startups in software, AI and chips. And now some of those are getting attention from buyers.
+In December, for instance, ServiceNow
+agreed to buy Israeli cybersecurity startup Armis
+for $7.75 billion. In January, Apple agreed to buy Q.ai, an Israeli startup that uses facial micro-movements to interpret speech, for close to $2 billion. And last week, publicly traded Credo bought Israel’s DustPhotonics, a startup in the emerging semiconductor field of photonics, for up to $1.2 billion.
+“Israel is always known as a sort of cyber nation, and that’s definitely true,” said Itay Inbar, a partner at New York and Tel Aviv-based venture firm Greenfield Partners, which invested in DustPhotonics. “But to a large extent, it’s always been a semiconductor and infrastructure nation as well.”
+In the future, investors in Israel expect to see more M&A transactions for AI startups, given that the number of AI startups has proliferated in recent years.
+Maor Fridman, a general partner at Israeli VC firm F2, who mostly invests in seed-stage startups, notes very few Israeli companies are trying to build new foundational AI models. Instead, they are focusing on specific AI applications and the infrastructure that makes AI cheaper, faster and easier to run.
+These AI startups could be acquisition targets in the future, Fridman and other investors said.
+At the same time, the rise of AI could make Israeli cybersecurity startups even more attractive as companies develop tools to secure AI agents building and operating applications on behalf of users and ways to quickly patch future security risks that AI models can find quicker than ever.
+“We’re going to shine in the same areas that we’ve done in the past, and where the world needs so clearly, which is building towards AI,” said Oren Yunger, an Israeli venture capitalist who’s now a managing partner at Notable Capital, which has invested in Israeli security startups like Torq and Token Security.
+“I would imagine we're going to see a lot more M&A in the world of AI,” Yunger said."
+Big Tech's New Layoffs Phase is Underway,2026-04-24T00:00:58Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/big-techs-new-layoffs-phase-underway,"We’re in a tech layoff era again—although a more accurate term may be an “employee replacement” phase. Meta Platforms
+told staff on Thursday
+it plans to lay off 10% of its staff, or about 8,000 people, next month. (The next few weeks won’t be fun at Meta!) The latest layoffs follow Meta’s cuts of
+about 2,000 people earlier this year
+and a spate of such cuts elsewhere at
+Snap
+,
+Amazon
+and
+Microsoft.
+Most companies herald these moves as a sign of cost discipline—something Wall Street wants to hear—but if history is any guide, they’re not
+necessarily
+cutting their overall numbers much. This time might be different, thanks to AI, but in the past big layoffs have been an exercise in switching out people for more specialized talent—who are quite possibly more expensive than those they’re letting go.
+That’s evident over the history of the past four years. Take Google: Its workforce at the end of last year was 190,820, higher than at any point in its history, despite the layoffs of 15,000 people in 2023-24. After cutting its workforce to 179,582 by mid-2024 from 190,711 in early 2023, new hirings simply replaced the people who left. (
+See more here.
+)
+Something similar can be seen at other companies. Meta slashed its workforce from above 87,000 in the fall of 2022 to as low as 66,185 in the fall of 2023 but hirings lifted it back to 78,865 in December. Today’s news and earlier cuts this year suggests that number will shrink closer to 68,000 in the near term. But Meta has forecast 40% higher expenses this year, due partly to employee compensation—including “2026 hires to support our priority areas, particularly AI.” In other words, Meta may not get much of a cost-cutting benefit from all these layoffs, at least in the short term.
+Longer term, it may be a different story, particularly assuming companies replace humans with AI tools. But that won’t necessarily reduce expenses overall, as AI is expensive to run.
+Broadcom Makes the Big Kids’ Table
+We’re having to rethink our definition of Big Tech. Broadcom on Wednesday closed trading with a market capitalization of $2 trillion, putting it squarely in the top ranks of big tech, although a market selloff on Thursday pushed it just below that level by the close of trading.
+Even so, Broadcom in recent weeks has passed Meta Platforms, which is worth about $1.7 trillion, and isn’t that far away from Amazon which in recent weeks has rallied to about $2.7 trillion in value from as low as $2.1 trillion in late March, Koyfin data shows. Broadcom shares are up 21% so far this year, outperforming all other big tech names by a long way, reflecting the rapid growth of its AI chip business. Broadcom’s AI chip customers, incidentally, include other big tech companies, including Google and Meta.
+To be sure, Nvidia outranks everyone, more now than ever. In recent days, as its stock price has traded around the $200 level, Nvidia’s market cap has hovered close to $5 trillion. Alphabet, worth about $4.1 trillion, is next.
+Grok’s Outage
+What’s up with Elon Musk’s Grok? The AI chatbot seemed to be down for an extended period today, at least in New York. (A colleague in Texas got a response.) More amusingly, I was told to “sign up for free to get higher priority access.” This is the core of xAI, let’s not forget, which SpaceX paid $250 billion to buy just a few weeks ago. Will any SpaceX shareholders question what they got for their money?
+In Other News
+•
+Tesla is acquiring an unnamed AI hardware company for up to $2 billion, the company disclosed in a securities filing on Thursday.
+• Nvidia has not yet sold any H200 chips to China, despite the Trump administration’s approvals months ago for the powerful chips to be exported to the country, Commerce Department Secretary Howard Lutnick said on Wednesday at a Senate hearing,
+according to Reuters.
+• Netflix said its board had authorized a new $25 billion stock buyback program. The new program follows a 13% slide in Netflix’s stock price since its first quarter earnings disappointed investors a week ago.
+• OpenAI on Thursday released its latest flagship model, GPT-5.5, according to a blog post. That model,
+codenamed Spud internally
+, is better at breaking down complicated requests from customers and showed improvement in coding, financial modeling and scientific research, compared to prior models from the ChatGPT maker.
+• Shareholders in Warner Bros. Discovery approved sale of the company to the Ellison family’s Paramount Skydance, the latest step towards completion of the $110 billion purchase."
+Crypto Hack Puts Big Lender in Turmoil,2026-04-23T18:42:45Z,Yueqi Yang,https://www.theinformation.com/articles/crypto-hack-puts-big-lender-turmoil,"The latest in a series of crypto hacks has spread turmoil across the market, toppling the biggest lender in the industry, freezing billions of dollars in assets and causing big losses for highly leveraged traders.
+The hack, which involved $290 million of fraudulent tokens, began at a little-known startup but the impact quickly spread to Aave, which accounts for about a third of the decentralized crypto lending market. It caused the equivalent of a bank run and sent lending rates soaring to 15%. Aave is a decentralized lending platform, or protocol.
+“When the biggest protocol is under duress, everyone is under duress,” said Nick Cannon, chief business officer at Gauntlet, a crypto risk manager. “It will take days to weeks to maybe months, depending on governance and lawyers, to settle what happened. That puts a lot of stablecoin markets, vaults, lending infrastructure, yield-bearing stablecoins in limbo.”
+Aave is effectively a crypto bank, taking deposits from investors and lending them out to earn interest. Specifically, the platform allows users to lend and borrow cryptocurrencies from each other using algorithms that adjust interest rates based on supply and demand and settling the trades on the blockchain.
+The hack hit the collateral that Aave holds for loans it makes, leaving it with $195 million in losses. When customers who had deposited funds at Aave realized it was facing big losses, they started to pull their assets, much as they would do with a bank suffering from bad loans. Aave’s deposits have
+fallen
+from $45 billion before the hack on Saturday to $29 billion.
+The hack was one of several that hit crypto platforms in recent weeks and adds to the pain of the industry’s monthslong downturn, which has sent prices of major tokens down 50% or more. It also shows how precarious the crypto ecosystem is and how investors in crypto and traditional markets know to flee quickly at the first sign of trouble or risk having their funds be lost or frozen.
+The hack began when an attacker targeted a blockchain bridge, provided by startup LayerZero, that connects different blockchains. It tricked the bridge and fraudulently created about $290 million worth of tokens that are a type of derivative of ether tokens. Then the attacker deposited the tokens into Aave and borrowed $195 million worth of Ether tokens. Since there is no collateral backing the loan, Aave will likely face a significant loss.
+Aave Labs, based in London, was founded in 2017 by Stani Kulechov. It’s the developer of Aave platform, but it doesn’t control or operate the platform, which is decentralized and governed by Aave tokenholders. The platform reached $75 billion in assets in 2025. Kulechov has been trying to salvage the business. “Aave has been my life’s work,” he
+tweeted
+Wednesday. “Every bit of my energy right now is focused on the outcome for Aave users and the protocol.” For users who deposited major stablecoins, Aave’s withdrawals are effectively frozen. The platform’s Aave token has dropped 25% this week.
+To avoid a run like this, Aave created an insurance fund —currently amounting $54 million—to protect depositors in case loans went bad. That fund, intended to be similar to the federal deposit insurance that protects banks, was overwhelmed by the scale of losses.
+On Thursday, Aave
+said
+some of its industry partners are trying to restore the backing of the stolen tokens, effectively creating a bailout plan. It will announce further commitments as they are formalized.
+While the current crisis hasn’t spilled over into the traditional financial system, crypto companies have pushed hard to broaden the industry’s reach. Aave has started working with fintech apps and neobanks as a way for them to provide yield to their users.
+Argentina-based Lemon Cash uses Aave to provide yield for its users under its Earn lending product. Lemon withdrew the $11 million of customer funds it held at Aave, a spokesperson said. It has stopped participating on all decentralized lending platforms and paused its Earn lending product for now.
+Kraken also has a lending product for users that generates yield from various crypto lending platforms, including Aave. Kraken said no client funds were lost and that the product continues to operate.
+The crypto traders suffering the biggest losses were using a so-called looping strategy in which they repeatedly lend and borrow. For example, traders lend out the crypto token ether, then they receive a token representing their locked-up ether, and use that token as collateral to borrow more ether, which they can use to repeat the process. It became a popular strategy in the past year because it was one of the few ways to generate double-digit returns in the crypto market. Traders pursuing looping strategies accounted for a significant share of usage on Aave.
+That strategy became unprofitable because the borrowing rates on Aave, which function as a benchmark rate in the crypto market, have soared to 15% from 3.3% as investors became  unwilling to lend their money on the platform. Because Aave is so important to the decentralized crypto lending market, the jump is the equivalent of the Federal Reserve raising interest rates, said Nico Pei, co-founder of Supernova, a crypto exchange for trading and hedging interest rates. “Everything anchors around that.”
+“A lot of the looping (trades) blew up,” said Pei. “They want to get out or unwind their position, because right now their position is losing money. But the problem is that they can’t right now.” She said trading volume at Supernova jumped since the weekend because it allows users to hedge interest rates.
+The hack comes at a vulnerable time for the crypto industry. Bitcoin is down 40% since its peak last fall. Drift, a Solana-focused trading platform, earlier this month suffered from a $285 million hack and was bailed out by Tether, the world’s largest stablecoin issuer. Kraken this month said a criminal group got access to its client data and tried to extort the company.
+The string of bad news also hurt the credibility of crypto infrastructure, just as companies are seeking to further integrate with the traditional financial system. LayerZero, whose bridge was targeted by hackers this weekend, recently announced a partnership with big-name financial firms including Citadel Securities, Intercontinental Exchange, and clearinghouse DTCC to launch a new blockchain.
+The situation at Aave is at a standstill, according to Luke Leasure, head of research at Blockworks, a crypto data and software firm.
+“Basically, lenders are stuck in these loan positions where they can’t call back any of their principal value or withdraw liquidity,” Leasure said. “So they are in a loan with indefinite duration, no maturity, no ability to redeem any share of principal —because there’s no available liquidity —and interest rates that are inadequate to compensate for the elevated risk at this point in time.”"
+Google Conference Shows Customers Want Help Making AI Work,2026-04-23T17:32:39Z,Erin Woo,https://www.theinformation.com/newsletters/applied-ai/google-conference-shows-customers-want-help-making-ai-work,"Last year at Google Cloud's Next conference, executives touted the power of the company’s AI models for businesses. This year the theme is how to help companies use the models.
+And with good reason: In interviews at the conference, customers and Google Cloud resellers told me that companies racing to adopt AI are hitting roadblocks. Some are still setting up their first AI agents, while others are struggling to manage a menagerie of them.
+Three years into the generative AI boom, the abilities of tools from Google and other leading AI labs are outpacing the abilities of many companies to understand and implement them, particularly as agents and other AI offerings get more complex. AI companies are having to invest in not only the technology but the tools and specialist
+consultants
+and “
+forward-deployed engineers
+” to help clients use it. Google on Wednesday announced a $750 million fund for consulting firms to speed up their customers’ AI adoption.
+“For big companies, the gap between what companies are able to do and what the technology allows is getting bigger and bigger,” said Dave Williams, chief information and digital officer of Merck, the pharmaceutical giant. The biggest roadblocks to broader AI adoption are preparing data and processes,
+training employees and finding the right tools to use, he said.
+Merck had already adopted AI in specific areas including scientific research. On Wednesday, it announced a $1 billion deal with Google in which the tech giant’s engineers will work closely with Merck to deploy agentic AI across research & development, manufacturing, commercial and corporate functions.
+Chris Sakalosky, Google Cloud’s vice president of strategic industries, emphasized that the company is trying to make it easier for customers to adopt generative AI without the extensive support that Merck is getting.
+One of Google’s main AI announcements at Next was its Gemini Enterprise Agent Platform, a revamped product with new abilities to build and manage automated AI, including new security features and a central registry for an organization’s agents.
+“The fast adopters figured out some of these now common patterns [of AI use], but they had to crawl over glass these last two years,” said Michael Gerstenhaber, a VP of product at Google Cloud overseeing Google’s AI offerings for businesses. “We need to make those patterns very common for everybody else in order for the technology to fulfill its promise.”
+Challenges include figuring out what AI agents should have access to and how that access should be distributed across employees, said Karthik Kripapuri, CEO of Promevo, one of the Google Cloud resellers that help companies adopt AI products.
+And many companies implementing AI are starting to see “agent sprawl,” as employees create and adopt different agents, said Beau Broker, field CTO for the western U.S. at AHEAD, an IT consulting company.
+Like other companies, the Home Depot has been struggling to adapt full workflows to AI, but it has found success with specific AI solutions for tasks such as coding or customer engagement, executive vice president Jordan Broggi said.
+The home improvement retailer announced new AI-powered customer support phone agents, powered by Gemini Enterprise, on Wednesday at the conference. It already has given all corporate employees access to Gemini and Microsoft Copilot, and its software developers have flocked to AI tools from Google, Anthropic and OpenAI—switching between models as new releases leapfrog competitors in quality, Broggi said.
+He likened the situation to a factory floor: Using a robot at one station in a factory only speeds up the assembly line until the next step. The Home Depot has automated some of the steps, but not yet all of them, he said.
+“You just move the constraint to the next place, and so you really have to get better and faster across all the steps,” he said."
+New Security Breaches at Anthropic and OpenAI Proved Mark Zuckerberg Right,2026-04-23T14:00:23Z,Aaron Holmes,https://www.theinformation.com/newsletters/ai-agenda/new-security-breaches-anthropic-openai-proved-mark-zuckerberg-right,"Hours after
+Anthropic
+said it was investigating a report that users had gained unauthorized access to its ballyhooed
+Mythos
+model,
+OpenAI
+accidentally made a slate of its own unreleased models available on its
+Codex
+app.
+The breaches are a reminder that Anthropic and OpenAI have plenty of their own cybersecurity issues even as they help other organizations fortify their systems for a new era of AI-powered cyberattacks.
+Anthropic has gone to great lengths in recent weeks to stress that Mythos is capable of devastating cyberattacks, and that it was only making the model available to a select few companies and government agencies as a result.
+Even so, a group of unauthorized users had been accessing Mythos without Anthropic’s permission and sharing their findings in a
+Discord
+channel, Bloomberg reported Tuesday. Anthropic said in a statement that it was investigating the apparent leak, which it believes was made possible by software that made the model available to a third-party contractor.
+The OpenAI leak included models named
+GPT-5.5
+,
+arcanine
+,
+glacier-alpha
+and
+Heisenberg
+, the last of which was labeled “latest frontier life science research model,” according to a screen recording a Codex user
+posted online
+. A person with direct knowledge said the leak was a significant lapse.
+“Last night, for less than 20 minutes, a very small number of Codex users were able to access a limited set of non-public models due to a temporary configuration error,” said a spokesperson for OpenAI in a statement. “We quickly remediated the issue, conducted a full investigation and found no evidence of malicious or concerning use during this period. No internal systems or source code were accessed.”
+Security experts say a leak like the Mythos one was all but inevitable. They’re now warning that defenders should assume Mythos—or similarly capable models—will be available to hackers imminently and should start to prepare their cyber defenses accordingly.
+“Most of us believed that it was only a matter of time before we had to confront this new reality, whether it was unauthorized access or the models becoming part of the public domain,” said
+Andrew Rubin
+, CEO of cybersecurity startup
+Illumio
+.
+Rubin said defenders are still figuring out how to respond to the growing AI security threat, but in the meantime companies should focus on segmenting their IT systems so that if hackers breach one part they can’t easily get into others.
+“Whether it’s models from Anthropic, OpenAI, or other firms not located in the U.S., models are going to keep getting much better than the human brain has been at finding vulnerabilities, and that’s not going to slow down,” Rubin said. “I don’t think anybody really has an answer for what the operating model should look like in this new world.”
+Part of the urgency from cybersecurity experts is that, even without cutting edge models like Mythos,
+existing models are already extremely good at sophisticated cyberattacks
+. A rash of hacks and breaches have hit companies including
+Mercor
+,
+Vercel
+, and the open source project
+Axios
+in recent weeks, which researchers suspect have been fueled by AI models.
+“Those of us who pay attention to incident response have noticed an extreme pace of offensive operations in recent months,” said
+Alex Stamos
+, a Stanford cybersecurity researcher who previously served as
+Facebook’s
+chief security officer and is now an executive at coding security startup
+Corridor
+. “It's hard to tell whether this is because of AI or a coincidence, but it’s very possible we’re already seeing the effects of AI on hacking.”
+Tech executives have long warned of this. In a
+2024 essay
+,
+Mark Zuckerberg
+used the poor state of security in the AI industry to argue in favor of open-source AI models that anyone can download. “Some people argue that we must close our models to prevent China from gaining access to them, but my view is that this will not work and will only disadvantage the U.S. and its allies,” he wrote. “Our adversaries are great at espionage, stealing models that fit on a thumb drive is relatively easy, and most tech companies are far from operating in a way that would make this more difficult.” Those comments look mighty prescient now.
+Buck Shlegeris
+, CEO of
+Redwood Research
+, which studies cybersecurity approaches for containing AI models, said it is reasonable to think that hackers have already stolen the list of security vulnerabilities that Anthropic found using Mythos.
+“Anthropic is currently not robust to high-effort security threats,” he said
+on The Information’s TITV
+this week. “I kind of have the attitude that if you aren’t going to be able to secure your model, or dangerous vulnerabilities found by your model, I kind of think you should not train the model in the first place.”
+Anthropic upgraded its cybersecurity when it released
+Claude Opus 4
+last May. The cyber measures included access controls and monitoring for the use of its models by outside parties, but
+Anthropic noted that
+it was not prepared to defend against sophisticated insiders or nation-state attackers. In February, the company said it was working on a “large, wide-reaching effort” to harden its internal systems, which it aimed to complete by July of next year.
+Going forward, we’re willing to bet that Anthropic won’t repeat its apparent mistake in giving dozens of outside partners access to a powerful, unreleased model the same way again. If only to make nation-state attackers that want the model work a little harder!
+Here’s what else is going on…
+Court Watch
+Andrew Dietderich
+, a lawyer for law firm
+Sullivan & Cromwell
+, apologized for a legal filing that contained multiple AI hallucinations in a letter to a bankruptcy court, the Financial Times reported.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Tencent
+and
+Alibaba
+are in talks to invest in
+DeepSeek
+at a valuation of more than $20 billion, The Information
+reported
+.
+OpenAI
+is in discussions
+to invest up to $1.5 billion in a private equity joint venture called
+DeployCo
+. The ChatGPT maker is in talks to invest $500 million initially in DeployCo, which is expected to be valued at $10 billion. OpenAI has the option to invest an additional $1 billion at a later date at the same valuation.
+VAST Data
+, a New York City-based AI operating system company, raised $1 billion in Series F funding led by
+Drive Capital
+and
+Access Industries
+.
+Sooth Labs
+, a Pittsburgh, Pa.-based AI lab designed to build models that can forecast real-world and market events, raised $50 million in seed funding led by
+Felicis
+.
+Petual
+, which is building AI tech for audit and compliance, raised $17 million in funding led by
+Andreessen Horowitz
+and $3.2 million in funding led by
+First Round
+.
+Shade
+, which is developing a cloud storage platform that will allow companies to store and search their media files easily, raised $14 million in funding  led by
+Khosla Ventures
+,
+Construct Capital
+and
+Bling Capital
+.
+Google
+announced the first versions
+of its AI chips that are specialized for training and inference, expanding its competition with
+Nvidia
+. The search giant unveiled the new versions of its tensor processing units on Wednesday at the start of its annual
+Google Cloud Next
+conference.
+Tencent
+launched an international version
+of
+QClaw
+, an
+OpenClaw
+-based AI agent that attracted a lot of interest from Chinese users last month.
+OpenAI
+released an open-source model for detecting and redacting personally identifiable information in text. OpenAI also added workspace agents in
+ChatGPT
+that are intended to extend
+Codex’s
+abilities to non-coding tasks, such as writing reports or responding to messages.
+Qwen
+released
+Qwen3.6-27B
+, an open-source AI model designed for agentic coding tasks.
+Sony
+AI
+revealed that its ping pong playing robot
+Ace
+has defeated pro human players.
+An earlier version of this story incorrectly stated that Illumio had tested OpenAI’s GPT-5.4-cyber model. The company has not directly tested the model."
+"Berkshire Hathaway, Chubb Win Approval to Drop AI Insurance Coverage",2026-04-23T13:00:13Z,Laura Bratton,https://www.theinformation.com/articles/berkshire-hathaway-chubb-win-approval-drop-ai-insurance-coverage,"Major insurers including Berkshire Hathaway, Chubb and Travelers are taking steps to cut AI-related damages from corporate insurance policies, and U.S. state regulators are giving them the green light.
+Insurers are trying to get ahead of risks from companies that use generative artificial intelligence to automate tasks, stoked by the fast pace of model improvements. Executives at major insurance brokers, including Aon, Gallagher and Lockton, say that if insurers make the proposed AI exclusions from general liability policies official, they could exclude claims caused by AI agents that, for example, improperly use copyrighted material to create ads for marketing teams.
+Other risks typically covered by general liability policies include property damage and personal injuries.
+If insurers explicitly carve out AI from such insurance policies, companies that use AI could choose to bear the risks of agents going awry or try to get AI providers to take on more of the risk. Insurers could also end up creating new types of policies specifically for AI.
+Insurance commissioners across the country have approved more than 80% of requests from subsidiaries of large insurers to exclude AI damages from corporate policies, according to thousands of regulatory filings compiled and analyzed by investment firm Wolfe Research. Most insurers are regulated by states. So far, Florida, Connecticut and Maryland have approved the highest number of requests from insurers for such exclusions, the data compiled by Wolfe show.
+Berkshire and Travelers began requesting for AI exclusions last fall and some states approved them to take effect as soon as the start of the year, the data show. Travelers and other insurers, such as AIG, said their subsidiaries requested the approvals based on AI-exclusion templates introduced last year by the Insurance Services Office, a private body that sets standards for the industry, and which was approved by the state regulators. But the companies said they have not implemented the exclusions. (A spokesperson for Berkshire’s insurance arm declined to comment, and spokespeople for Chubb did not respond to requests for comment.)
+‘Unsustainable Risks’
+AI exclusions from insurance policies could pose a problem for top AI developers and cloud providers that sell AI models to businesses. Those businesses could slow the release of AI-powered products or features until they sort out coverage for potential liabilities if the AI makes mistakes, said Connor Deeks, CEO of Codestrap, a boutique consultancy that advises several Fortune 500 companies on how to use AI.
+“Companies are being pushed to use AI at unsustainable rates,” Deeks said. “The risks will become unsustainable and translate to financial losses.”
+Most insurers haven’t yet taken steps to exclude AI from policies in California, New York, and Texas, where some of the most prominent AI providers are headquartered. That’s because the states haven’t yet approved ISO’s templates for AI exclusions, which insurers use. That means companies in those states could still rely on traditional policies for AI coverage.
+The proposed exclusions would impact existing liability policies that theoretically cover a number of AI-related claims, such as employees who accuse businesses of using AI to discriminate against them or businesses that sell robots that damage property.
+Insurers are monitoring recent consumer lawsuits against businesses using AI products and whether they will be forced to pay claims not intended to be covered under existing policies. Consumers filed about 800 such lawsuits in 2025, up 140% from the prior year, Wolfe Research said in a recent report.
+“Insurers across many lines of coverage are really grappling with whether to draw a hard line on coverage for AI-driven losses or to leave it blurred,” said John Farley, a managing director of corporate insurance broker Gallagher.
+General liability policies would only apply to some AI-related losses, experts said. Even if insurers cut out AI coverage from those policies, the companies they insure could ask them to cover AI losses under other policies, such as cybersecurity policies and errors and omissions policies that cover businesses making negligent mistakes like putting the wrong numbers in a customer contract.
+But insurers’ proposed AI exclusions show they are likely to try to exclude AI from the other policies, according to Kevin Kalinich, Aon’s head of intangible assets, and Preet Gill, Lockton’s executive vice president of global technology risk. For instance, the Financial Times
+reported
+Wednesday that some insurers are moving to cap AI-related losses in cybersecurity policies.
+To be sure, the largest companies could end up negotiating for AI coverage directly with their insurers, as they typically develop customized policies.
+Insurers moving to cut AI coverage are probably trying to avoid a repeat of the 2010s, when a wave of cybersecurity attacks triggered corporate claims. Businesses in some cases successfully argued that traditional insurance policies covered losses from such attacks because they didn’t explicitly exclude them, brokerage executives said.
+Insurers have mostly responded by excluding cybersecurity coverage from traditional policies and creating standalone cyber insurance—an approach they may repeat with generative AI.
+Startups Pounce
+Some firms such as Munich Re, the world’s largest reinsurer, and newer insurance startups have started selling policies to cover AI damages specifically.
+Artificial Intelligence Underwriting Company, based in San Francisco, says it offers insurance policies to startups developing AI, such as voice AI maker ElevenLabs, covering losses of up to $50 million. Canadian upstart Armilla, meanwhile, says it has dozens of clients and covers up to $25 million in AI-related losses for AI developers and companies using AI. Insurance marketplace Lloyd’s of London is the primary risk-bearer of Armilla’s policies.
+Other insurance startups such as Corgi, Mayflower Specialty and Embroker have also introduced standalone AI liability policies.
+Corgi’s insurance policies are aimed at tech startups developing or using AI, covering losses related to AI mistakes as well as AI-related intellectual property infringements, property damage, or software service interruptions. Those policies typically cover up to $2 million in losses and cost anywhere from a few hundred dollars to several hundred thousand dollars a year.
+“A lot of traditional carriers, they don’t know how to underwrite AI and they’re very spooked by AI,” said Emily Yuan, Corgi’s chief operating officer.
+Traditional insurers such as Tokio Marine Holdings, W.R. Berkley, and Fairfax Financial began applying for AI exclusions in 2023 and 2024, when enterprise use of AI was still early. Then in the second half of 2025, the Insurance Services Office endorsed such moves and insurers have “meaningfully accelerated” efforts to get approvals for AI cutouts since then, said Wolfe Research analyst Tracy Benguigui in a recent report.
+Tokio, Berkley and Fairfax Financial did not respond to requests for comment."
