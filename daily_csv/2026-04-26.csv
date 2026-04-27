@@ -1,0 +1,84 @@
+﻿标题,时间,作者,链接,内容
+Musk-OpenAI and Big Tech Earnings on Deck This Week,2026-04-26T22:00:51Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/musk-openai-big-tech-earnings-deck-week,"This is going to be a fun week. First, Elon Musk and Sam Altman square off in a California court over the origins of OpenAI (for more details,
+see here
+). The final outcome probably won’t have a huge impact on the ChatGPT company—Musk’s chances of both winning the case and getting everything he wants from a victory seem unlikely,
+as we wrote here
+. No matter what happens, though, the courtroom antics should be entertaining. (Musk still has
+a chance of winning
+, to be clear).
+And then on Wednesday, four of the biggest tech firms—Google, Meta Platforms, Microsoft and Amazon—are releasing their March quarter numbers after the market closes, likely within a few minutes of each other. (Coincidence, or conspiracy to bamboozle hapless reporters and analysts?) Apple follows on Thursday with its March quarter numbers.
+Analysts expect Apple will deliver 15% revenue growth—similar to the previous quarter and a huge improvement on the single-digit growth (or declining) numbers we’ve been used to seeing from Apple in recent years. That will give retiring CEO Tim Cook one more chance to throw the word “record” around.
+But it's the Wednesday reports that are most important. The four companies reporting are spending a combined $600 billion-plus on capex this year, much of that to expand AI-related data center capacity, so the simultaneous reports will offer a valuable report card on the state of play.
+That’s more true of the three big cloud firms—Amazon Web Services, Microsoft Azure and Google Cloud—which are renting out their servers for use by one or both of the major AI firms, OpenAI and Anthropic, along with a growing number of other businesses. In the fourth quarter, Google Cloud and Amazon Web both reported accelerating growth while Microsoft Azure
+reported a slight slowdown
+on a still-hot growth rate of 39%, due to a lack of computing capacity. That ensures all eyes will be on Azure’s growth rate this week.
+But it’s not just about cloud growth. Investors have zeroed in on how Microsoft’s software business will fare in an AI-dominated world, putting the spotlight on the so-far relatively small number of subscriptions to its Copilot AI chatbot. Microsoft
+has revamped its Copilot teams
+so an update on Copilot subscriptions is highly anticipated.
+Then there’s the advertising market, dominated by Google and Meta. Both tech giants have deployed AI to boost their ad businesses, although Meta seems to be outdoing its bigger rival. Analysts seem to be anticipating more of the same: Meta is expected to post its strongest growth rate since late 2021. Alphabet’s growth rate is also expected to be higher than in recent quarters, although to a less notable degree.
+The bottom line is that a blizzard of numbers will arrive on Wednesday afternoon. Digging through the deluge will take a bit of time but it will be worth the effort.
+Here’s what analysts are expecting for the topline and EPS of the five big tech firms reporting this week, courtesy of S&P Global Market Intelligence:
+Amazon
+(Wednesday)
+First quarter revenue: $177. 17 billion +13.8%
+EPS $1.65 +1.9%
+Alphabet
+(Wednesday):
+Revenue: $106.9 billion +18.5%
+EPS: $2.62 -7.7%
+Meta Platforms
+(Wednesday)
+Revenue: $55.56 billion +31%
+EPS $6.64 +0.8%
+Microsoft
+(Wednesday)
+Fiscal third quarter revenue: $81.399 billion +16%
+EPS $4.05 +16.7%
+Apple
+(Thursday)
+Fiscal second quarter revenue: $109.689 billion +15%
+EPS: $1.95 +18%
+In Other News
+•
+Nvidia shares closed at an all time high of $208.27 on Friday, giving the company a market capitalization of $5.06 trillion.
+•
+Google has agreed to make an additional investment in Anthropic of up to $40 billion, deepening a multipronged relationship that also includes a major expansion of Anthropic’s access to AI servers. The search engine company, an early backer of Anthropic, will initially invest $10 billion in at a $350 billion valuation.
+• Intel shares jumped 25% on Friday in the wake of the company’s first quarter earnings report, which showed the all-important data center and AI revenue rising 22%, lifting overall revenue 7%.
+• The Canadian AI lab Cohere will acquire the German AI lab Aleph Alpha for an undisclosed price, the companies said Friday. Schwarz Group, the German investment firm that is one of Aleph Alpha’s biggest backers, will also invest $600 million in Cohere’s upcoming Series E funding round, the companies said.
+• The Chinese government is planning to restrict tech firms from receiving funding from the U.S. without prior approval, as part of Beijing’s response to Meta’s acquisition of AI agent startup Manus,
+Bloomberg reported.
+• Meta Platforms and Amazon announced a deal on Friday for Meta to use Amazon’s Graviton chips. The deal, which a spokesperson said will total several billion dollars over multiple years, comes as Meta has been spending heavily on chips and cloud storage as it tries to turn itself into an AI powerhouse.
+•  Related Digital and Blackstone finalized financing for a $16 billion data center campus in Michigan being built for Oracle, the latest in a series of projects planned for Oracle to rent computing capacity to OpenAI.
+Friday on The Information’s TITV
+Check out
+Friday's episode of TITV
+in which we unpack the state of the GPU supply crunch."
+Atlassian and HubSpot Join Shift From AI Flat Fees,2026-04-26T15:00:03Z,Aaron Holmes,https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees,"Dozens of enterprise software firms have shifted away from charging customers flat, per-user subscription fees as AI threatens their seat-based pricing model.
+By the end of 2025, 79 of the 500 software companies tracked by former OpenView partner Kyle Poyar, including HubSpot, Adobe and Salesforce, had begun charging customers additional fees based on how much AI they’re using. That’s more than double the figure in 2024.
+The changes came after customers paying a flat fee for AI features in enterprise apps increased usage, raising costs for the app makers. The shift was also prompted by concerns that customers will require fewer subscriptions if they rely on AI agents, rather than employees, to interact with enterprise apps.
+Firms such as ServiceNow and Workday this year have been touting or ramping up usage-based pricing, charging customers for their AI tools in part based on how much they use them, as measured in bits of data the AI processes. Another major firm, Atlassian, said it will soon charge such consumption-based fees for its AI features, which customers use to search for files, draft documents and summarize meeting notes.
+Previously, many of the software providers sold AI tools as part of premium subscriptions for core enterprise apps.
+Traditional enterprise firms aren’t the only ones making the shift. Anthropic and OpenAI also
+revamped their pricing models
+in recent months to charge more enterprise customers based on AI consumption. The change at Anthropic came after customers paying a flat fee increased usage of coding and other products, raising Anthropic’s costs, or hit usage limits of the subscription tiers.
+But consumption-based pricing can lead to ballooning costs.
+“Most of my clients hate it. The costs go through the roof really quickly,” said Adrian Balfour, founder and chairman of AI consultant Envorso, about pricing models tied to usage.
+Even sophisticated technology firms such as Uber are having trouble adjusting to AI pricing changes, especially around coding products. Uber Chief Technology Officer Praveen Neppalli Naga
+said the company blew through its full-year AI budget just a few months into 2026
+.
+Google’s Flat Fees
+Some customers are still negotiating large subscription deals for AI. When snack food giant Mars agreed to buy Google’s suite of AI tools for 62,000 employees at the start of this year, a big appeal was predictable cost driven by flat subscription prices per employee, Chief AI & Technology Officer Shubham Mehrish said.
+While Google charges consumption-based pricing when customers’ employees go over a certain level of usage, Mehrish said he expected it to be a small sliver of Mars’s spending on the deal, which has a sticker price of more than $20 million annually before factoring in discounts that Mars may have received.
+“The way that our contract is structured, Google is taking on some risk on token usage” by charging a flat monthly fee for most employees, Mehrish said. In other words, Google lets employees use a lot of tokens as part of the flat fee.
+In contrast, Anthropic is now charging every Claude Enterprise customer based on how much they use Anthropic’s AI, on top of a flat subscription fee.
+Some software firms are going beyond just charging based on consumption. For instance, Adobe last week said it plans to price some AI tools based
+on the number of tasks they successfully complete for customers
+. HubSpot, which started using a similar pricing model this month, said the rest of the market will inevitably charge for AI only when it works.
+“Businesses are being asked to make big bets on AI right now, and often that means paying for potential rather than performance,” said HubSpot’s executive vice president of operations, Chris Hogan. “That’s a bad deal for customers and it’s bad for the industry.”
+But what Hogan says is good for customers may be bad for the software firms’ own bottom lines. Some of their customers might have to consume more AI than others to generate similar business outcomes, which means the software firms may find it harder to predict profits.
+Then there’s the other small matter of whether the software firm’s AI products will be sufficiently different from directly competitive or quasi-competitive offerings from Anthropic and OpenAI.
+Salesforce CEO Marc Benioff told The Information he expects his company and the rest of the industry to use a mix of pricing models, including outcome-based ones, and that Salesforce will stay flexible to customers’ needs.
+“These aren’t simple answers when you are dealing with complex [customers],” he said.
+Salesforce in late 2024 launched a consumption-based AI product, Agentforce, and in February said it is beginning to measure how many tasks the product completes for customers rather than only how many tokens it processes. That suggested Salesforce could eventually charge customers based on that metric, which it calls an Agentic Work Unit.
+Not everyone is a fan of outcome-based pricing yet.
+“I don’t think [enterprises are] mature enough yet as a population of AI users to have enough measurements to say, is that a fair price for that outcome or not?” said Ric Opal, a senior executive at IT consulting firm BDO Digital."
