@@ -1,0 +1,288 @@
+﻿标题,时间,作者,链接,内容
+Musk Battles OpenAI Lawyer Over Claims Co-Founders Stole a Charity,2026-04-30T03:01:10Z,Rocket Drew,https://www.theinformation.com/articles/musk-battles-openai-lawyer-claims-co-founders-stole-charity,"The AI era’s mega-trial delivered its first real drama, as an OpenAI lawyer sought to portray Elon Musk as resentful and double-dealing during a tense cross examination Wednesday.
+Bill Savitt, OpenAI’s outside counsel, and a veteran of legal combat with Musk, called into question Musk’s motivations for bringing the lawsuit and sought to undermine Musk’s legal position that OpenAI has broken promises to him and violated its charitable duties. In several awkward moments for the tech tycoon, he corrected Musk’s recollection of events from OpenAI’s early days by reading from his own emails at the time.
+The exchange occasionally grew heated, with Musk complaining repeatedly that Savitt’s questions were vague or misleading and designed to trick him into giving the jury a false sense of his history with
+OpenAI
+. He reiterated his main gripe, that Altman and Brockman conspired to “steal a charity.”
+The cross examination came on the third day of the trial in Musk’s lawsuit against OpenAI and its top executives, as well as its major backer Microsoft, in a federal courtroom in Oakland, Calif. Musk, who cofounded OpenAI as a nonprofit with current CEO Sam Altman and President Greg Brockman, alleges that his erstwhile partners breached a charitable trust by operating OpenAI as a for-profit company. Altman and Brockman watched the proceedings Wednesday afternoon.
+Wednesday’s cross examination showed some of the challenges facing Musk. He is seeking to unwind OpenAI’s restructuring, which last year turned its for-profit subsidiary into a traditional corporation,  and to compel it to pay over $100 billion to its charitable arm and remove Altman and Brockman as officers of the nonprofit. Some legal experts have said the court is unlikely to grant all these remedies, though Musk has prevailed in previous high-stakes legal battles.
+Savitt’s questioning tried to portray Musk as a co-founder who demanded too much control and tried to sabotage Altman and Brockman when his demands were denied. The lawyer questioned Musk about documents showing he himself had doubts early on about whether OpenAI could succeed as a nonprofit, and was so uncommitted to the nonprofit structure that he supported the idea of attaching OpenAI to his electric vehicle company, Tesla, as a source of funding.
+Under questioning Tuesday from his own lawyer, Steven Molo, Musk had
+laid out his longstanding narrative
+about how Altman and Brockman were deceitful in shifting OpenAI to a for-profit company with Microsoft as its biggest investor.
+Savitt said that Musk had established a for-profit subsidiary for OpenAI after a meeting with the other OpenAI co-founders in Musk’s “haunted mansion” near San Francisco. (Musk at one point said he didn’t recall directing an advisor to set up the subsidiary.)
+Savitt, who previously battled with Musk in the 2022 lawsuit over his acquisition of Twitter, argued that Musk didn’t honor his own financial promises to OpenAI. Musk initially agreed to provide $1 billion in funding to OpenAI. He later posted on X that he
+donated $100 million
+. On Wednesday he conceded that ultimately only provided $38 million. Some of that funding was rent payments for OpenAI’s office, though he admitted on Wednesday that he was also paying for his biotech startup Neuralink to use the office. “Paying rent is still money,” Musk said, adding that he would have sub-let the space to a different tenant if he were not supporting OpenAI.
+Musk tried to hire away key talent from OpenAI to his own companies, which Savitt suggested violated his fiduciary duties as an OpenAI board member. For example, Musk recruited OpenAI founding member Andrej Karpathy to work at Tesla. Musk wrote in an email at the time, “the OpenAI guys are going to want to kill me, but it had to be done.” Musk retorted Wednesday that Karpathy had already decided to leave.
+Musk also instructed colleagues at Neuralink that they should freely hire from OpenAI. Musk testified that he believed it would have been illegal for him to restrict former OpenAI employees from joining Neuralink.
+Savitt also sought to undermine Musk’s argument that OpenAI has failed to prioritize research on AI safety. Under questioning, Musk claimed to be unfamiliar with some of the AI industry’s established practices to share information about safety testing for new models.
+Savitt asked Musk about how OpenAI uses safety cards, the documents, also known as system cards or model cards, that accompany model releases and contain details of their safety testing. (xAI’s own system cards have previously revealed that the company
+broke its own safety policies
+.)
+Musk replied, “I’m not sure what a safety card is. Why would it be a card?” He also said he doesn’t know about any of OpenAI’s safety protocols, including the preparedness framework that governs much of OpenAI’s safety work.
+Musk’s Defense
+Musk, for his part, offered the most thorough response to some of OpenAI’s criticisms that he has presented so far in the case. For instance, OpenAI has argued that Musk waited too long to bring his lawsuit. Musk on Wednesday explained the wait, saying he only became suspicious of Altman and Brockman in degrees. In 2017, he stopped donating $5 million per quarter when he suspected they may violate their promises in the future. But he did not realize “they’re breaking the deal” until years later. “Thinking someone might steal your car is not the same as if someone has stolen your car,” he said.
+Musk said that after learning of Microsoft’s investment in 2022, he directed his lawyer Alex Spiro to meet with OpenAI and review documents related to its structure. Following Spiro’s investigation, “I concluded the car had indeed been stolen,” he said.
+Musk also elaborated on why he is now so opposed to OpenAI forming a for-profit—even though he founded his xAI in 2023 as a for-profit. Musk answered that he does not think it is wrong to develop AI within a for-profit company, but an organization should not benefit from the appearance of a public mission while focusing on profits. “They can’t have it both ways,” he said. And he acknowledged that operating xAI as a for-profit also carries risks.
+Similarly, he was okay with outside investors, including Microsoft, putting money into the subsidiary so long as the possible returns on those investments were capped. It was only when Musk learned from
+an article in The Information
+in 2022 that Microsoft was in talks to invest $10 billion that Musk came to believe he had been the victim of a “bait and switch”—the term he used when he texted Altman about the matter at the time. That was an amount of money that Microsoft would only invest if it expected an enormous return, Musk says he inferred.
+Savitt said he will continue cross-examining Musk for up to an hour Thursday morning.
+Microsoft’s lawyers will then cross-examine Musk for 10 to 15 minutes. After Musk, Jared Birchall, who works in Musk’s family office, will testify. Stuart Russell, a professor of computer science at the University of California, Berkeley, will follow. If time permits, OpenAI’s Brockman will take the stand."
+Google Cloud and AWS Shine in Big Tech's Quarterly Update,2026-04-30T00:00:09Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/google-cloud-aws-shine-big-techs-quarterly-update,"It was the Super Bowl of quarterly tech earnings today, with March-quarter results from Google, Microsoft, Amazon and Meta Platforms. The tsunami of numbers, all released within a few minutes of each other, might overwhelm even a top AI model. But for a human, what was clear was that surging demand for AI computing capacity is lifting cloud revenue growth across the industry. One wet blanket, though: Much of the computing demand is likely coming from the biggest AI firms, like Anthropic and OpenAI, so perhaps we shouldn’t get
+too
+excited.
+As Amazon CEO Andy Jassy said, “It’s no secret that…the AI labs are spending an incredible amount of money on compute.” He added, though, that there’s also a fair bit of regular business demand for AI, which is of course vital if the AI revolution is to pay for itself. Meanwhile, the results also showed that AI technologies are boosting the ad businesses at ad giants Meta and Google. That’s the good news.
+The bad news is that the investment cost to deliver computing capacity continues to rise. Both Meta and Google lifted their already-hefty projections for capital expenditures for this year by a few billion dollars—Meta now projects as much as $145 billion, while Google projected up to $190 billion. And Google said its capex would grow substantially next year as well! Investors don’t appear too worried about Google, given that its cloud business rocketed 63% in the quarter, while search advertising growth accelerated to 19%.
+Even better, Google said its backlog of cloud business doubled in the quarter to $460 billion, providing some assurance that Google Cloud will continue growing at a red-hot pace. And some of that is thanks to sales of its TPU AI chips. Instead of Google just using TPUs in its own data centers, it’s starting to sell them to others (as
+we reported last year
+). Shares of Google rose 7% in after-hours trading.
+Meta is a different story. Meta, of course, doesn’t have a cloud business to justify its massive spending, although CEO Mark Zuckerberg told analysts it was using its new Spark AI model to improve its ad businesses. Its ad revenue growth suggests AI is helping a lot. But investors didn’t seem convinced the steadily growing capex spending is warranted: The company’s stock dropped 6.6% after hours.
+Investors were more comfortable with Amazon, whose big Amazon Web Services cloud business lifted its revenue growth rate four percentage points to 28%, while its massive online shopping business also showed stronger growth. Unlike the executives of Meta and Google, Amazon’s Jassy said his capex projection wasn’t changing, although the company was already planning to spend more on capex this year—$200 billion—than the others. Like Google, Amazon also has a good story to tell about demand for its Trainium AI chips. Amazon shares were up more than 3% in after-hours trading.
+Microsoft Azure’s growth rose by one point, to 40%, which would be a red-hot growth rate in normal times, but that rate of improvement is less impressive compared to Google’s and Amazon’s. Both of those companies are cloud providers for Anthropic, so they’re likely benefiting from surging demand for Anthropic’s Claude.
+Microsoft late last year struck a deal with Anthropic, so it may soon be partying as hard as Google and AWS. Microsoft CEO Satya Nadella said the Microsoft 365 Copilot AI service now has 20 million subscribers, up from 15 million in the December quarter. That’s a positive sign for the company’s ability to expand its software business with AI. But 20 million is still a small portion of its 400 million 365 customers. Investors had a lukewarm reaction to Microsoft's results—the stock was down slightly in after-hours trading.
+The bottom line: Google and Amazon in particular appear to be making a lot of progress. The jury is still out on Microsoft. And Meta has a lot to prove.
+For more details on the earnings, see
+here
+,
+here
+,
+here
+and
+here
+.
+In Other News
+•
+Blackstone is folding its growth equity business into a new unit called BXN1 that will focus on AI-related investment, according to an internal memo reviewed by The Information.
+• Anthropic has received investment interest at a valuation above $900 billion, according to a person familiar with the matter. An investment at that level would more than double the company’s February valuation of $380 billion.
+• Meta is launching stablecoin payouts for creators, using Stripe as its payment provider, according to its
+webpage
+.
+• The CEO of T-Mobile, the only mobile network in the U.S. to offer SpaceX’s Starlink Mobile for backup service in areas not served by cell towers, says the service is seeing “a lot less usage” than T-Mobile had originally expected.
+• The European Commission said Meta has failed to prevent children under 13 from accessing its Instagram and Facebook services as it is required to do, potentially breaching the region’s law.
+• PayPal is reorganizing its corporate structure to make Venmo a stand-alone business unit, CNBC
+reported
+Wednesday, making it easier to sell off."
+SpaceX’s Starlink Revenue Per User Fell 18% As Customers Quadrupled,2026-04-29T17:53:33Z,Valida Pau,https://www.theinformation.com/articles/spacexs-starlink-revenue-per-user-fell-18-customers-quadrupled,"SpaceX’s Starlink satellite internet service quadrupled its individual subscribers between 2023 and 2025—but the average revenue each subscriber brought in fell 18% to $81 a month in that period, a draft version of SpaceX’s initial public offering prospectus shows.
+The decline in Starlink’s ARPU reflects the service’s introduction of cheaper plans and expansion outside North America, where average prices tend to be lower. SpaceX says in the prospectus that it expects that figure to keep falling in the next few years, as it continues its efforts to expand Starlink globally.
+The newly revealed figures from SpaceX’s IPO paperwork show the economic impact of
+SpaceX’s efforts to transform Starlink
+from a niche offering for ultraremote users into a competitor to traditional internet service providers in the U.S., as well as a bigger presence in countries where users have less money to spend. That shift underpins SpaceX’s ambition to maintain growth for its main revenue stream, as it continues development work on its Starship rocket.
+However, that shift also means Starlink is a significantly different business than some investors and analysts thought. In a 2024 report, Morgan Stanley put Starlink’s revenue per user at more than $170 per month.  Starlink’s average revenue per user was $99 a month in 2023 and $91 in 2024.
+Despite the declining ARPU, an increase in overall subscribers meant Starlink’s revenue nearly tripled to $11.4 billion in 2025 from $3.9 billion in 2023. Starlink accounted for about 60% of SpaceX’s overall $18.7 billion in revenue last year.
+A spokesperson for SpaceX did not respond to a request for comment on the figures.
+The economics of Starlink’s business are sure to be in the spotlight over the next few weeks, as SpaceX
+prepares to go public
+at a valuation expected to be well above $1 trillion.
+When SpaceX first launched Starlink, it started by winning over consumers in well-heeled countries who were willing to shell out more than $100 per month for satellite broadband in locations like remote cabins, RVs and boats. But as SpaceX has cut prices and expanded the service to more countries over the past couple of years, the amount of money the company brings in from each Starlink user has fallen significantly.
+SpaceX now offers plans for as little as $50 per month in the U.S., down from $120 in 2023. Plans are cheaper in other places like parts of Europe and Africa.
+Amazon’s planned launch of its Leo satellite internet service later this year will put more pricing pressure on Starlink. In the meantime, SpaceX has taken other steps to reach more customers beyond price cuts, including giving away free internet access terminals in some regions. It usually sells terminals for hundreds of dollars each.
+SpaceX even ran a Super Bowl ad for Starlink this year, the first for any company led by Elon Musk, who has said he hates advertising. SpaceX’s draft prospectus credits marketing efforts with growing the service, touting “increasing Starlink brand awareness” as a top “driver of our performance.”
+In the investor document, SpaceX divides the customer base for Starlink broadband into two segments. One is individual subscribers, including both household consumers and business customers that don’t have bespoke deals managed by the Starlink sales team. The other segment is enterprise customers, including large entities such as governments, airlines and shipping companies that have customized deals with SpaceX.
+The individual subscriber segment is the bigger and faster-growing business. At the end of 2025, Starlink had 8.9 million individual subscribers, up from 4.4 million in 2024 and 2.3 million in 2023. The 4.5 million subscribers added in 2025 increased Starlink revenue by about $2.4 billion, while enterprise grew $1.4 billion over the same period of time.
+In 2025, more than 60% of Starlink’s revenue came from individual subscribers, according to SpaceX. The company said in the document that it expects individual subscribers to “remain the primary driver” of Starlink growth.
+The document does not include financial details for Starlink Mobile, a separate business that uses a different group of SpaceX satellites to serve as backup to traditional cell towers, beyond saying that it expects mobile “will become a significant new contributor” to revenue in the future.
+SpaceX’s initial deal with T-Mobile, its exclusive partner in the U.S., is worth approximately
+$100 million over multiple years tied to service milestones
+, making it a tiny slice of Starlink revenue.
+SpaceX needs to figure out how to make money from Starlink Mobile because it’s spending nearly $20 billion in cash and stock to acquire spectrum rights to operate Starlink Mobile from EchoStar in a deal due to close in 2027."
+The Hidden Risks in AI Funding,2026-04-29T15:34:00Z,Ken Brown,https://www.theinformation.com/newsletters/the-information-finance/hidden-risks-ai-funding,"Bankers and investors, especially when they are sitting in front of an audience, are not shy about offering their opinions. Yet when I asked a panel of money types at our Financing the AI Revolution conference on Monday about risks in the current market, I got near silence.
+We had been discussing the billions of investment dollars pouring into AI. The question was: “Anytime there’s a boom, there are risks built up in the system and it may not be a systemic risk, but it may be specific risks. And so, what should we all be watching? What are things that you look at and you have doubts?”
+After an uncomfortable pause, Temasek’s Martin Fichtner raised the question of whether booming demand would continue to accelerate. Fichtner, who invests in the technology and consumer sectors from San Francisco for the Singaporean investment fund, said he is watching the “second derivative” of growth in demand. In other words, he’s watching whether the growth in demand will continue to accelerate or whether it will slow.
+“Second derivative” is a term out of calculus best described as the rate of change of the rate of change. It is a favorite metric for growth investors, especially when expectations are high. When the second derivative declines, the growth can still be accelerating, but the rate of that acceleration is slowing. That’s enough to get people nervous. “[Acceleration] doesn’t need to decrease—just if it flattens out a little bit,” he said.
+Fichtner, who is broadly positive on the AI boom, wasn’t the only speaker at our conference who was willing to at least address the risks. Fellow panelist Jim Prusko, a senior portfolio manager at investment firm Magnetar, cited the risk of regulations on AI and political pressure against data centers, seeing both as a threat to the U.S. AI build-out. “I think there’s a risk that there’s some sort of backlash against data centers and we lose the ability to deploy the compute we need in America,” Prusko said. Magnetar is a big backer of data center developer CoreWeave.
+There have long been doubts about the spending on AI. But surging demand for models such as Anthropic’s Claude, especially from businesses, has wiped most of those doubts away. Lenders have lined up to fund data center developers, while investors have poured tens of billions of dollars into AI model makers such as Anthropic and OpenAI. The market is buzzing about likely initial public offerings for these companies and for SpaceX, which is almost on the launchpad.
+This all makes sense: The models have improved dramatically, and the potential scale of AI is hard to grasp. Still, investors have a way of getting ahead of reality. That doesn’t mean AI is a bubble, just that there will be ups and downs as cash pours in and the technology rolls out.
+CoreWeave, for example, can’t raise cash fast enough to keep up with demand, said Nick Robbins, the company’s vice president for corporate development. “So the way we think about it is there’s always gonna be a timing mismatch,” he said.
+Right now the mismatch is that demand exceeds supply. At some point for some company, supply will exceed demand, and that company will scramble to find customers. If it is borrowing as CoreWeave and its competitors have been, then the mismatch could be dangerous for the company and its lenders.
+How can that happen? We’re seeing one scenario play out right now. Facing high demand and soaring costs for computing power,
+Anthropic raised prices
+to such an extent that customers’ costs could double or triple, according to one estimate. Higher costs are hitting many companies before they see measurable gains from AI, potentially reducing their appetite for big spending plans.
+Here’s another current scenario—this one at OpenAI. The Information has been reporting about the company’s missed targets, C-suite dysfunction and lagging growth for some time.
+A story this week
+that added even more issues knocked down shares of Oracle and CoreWeave, which have placed big bets on OpenAI’s success. Sam Altman, in a race for computing power, has committed the company to paying hundreds of billions of dollars for computing power in the coming years.
+OpenAI is not the only cash-burning company to commit to paying billions of dollars for computing power. True, it just
+raised $122 billion
+in its last funding round, its
+models are getting better
+and demand is still strong. But all of that is baked into expectations already.
+What else can go wrong? Panelists at our event raised two other risk factors. The coming SpaceX IPO will be the first to provide detailed financials for a major private AI developer. XAI’s numbers won’t be pretty, and its deal for Cursor can be read both as a smart catch-up play and as an admission that things are going badly at xAI.
+The second is more nebulous. Katherine Kaminsky, U.S. chief commercial officer for PwC, advises companies on adopting AI. She said compared to other recent strategy shifts, such as moving computing power to the cloud or outsourcing back-office functions, AI is far more complex and requires a rethinking of nearly everything a company does. That won’t happen overnight: After an early surge in AI adoption, companies may move at a more measured pace.
+Investing is all about expectations, and they are staggeringly high right now."
+XAI Shows How Hard It Is to Use a Lot of GPUs at Once,2026-04-29T14:05:19Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/xai-shows-hard-use-lot-gpus,"AI developers have been desperately scrambling to get ahold of
+Nvidia
+server chips lately, as we
+wrote last week
+. When developers
+do
+get the graphics processing units, they’re under a lot of pressure to wring as much performance as possible from that expensive hardware.
+That’s easier said than done. Training AI models can be “bursty,” meaning that there can be sudden spikes in GPU usage followed by periods of lower activity when researchers analyze the results and decide what to do next. This leads to what researchers refer to as a lower utilization rate, meaning they aren’t getting the most bang for their GPU buck. (This is less of a problem in AI inference involving finished models, when developers can run them in more predictable or consistent ways.)
+Even the biggest AI firms have problems in this regard.
+Elon Musk’s xAI
+, for instance, has around 500,000 Nvidia GPUs, one of the largest collections among AI developers based on what they’ve publicly disclosed. But xAI’s
+Model Flops Utilization
+—a measure of exactly how much computing power it can eke out of those chips—was around 11% in recent weeks, according to a person who saw the data in an internal memo. (Business Insider earlier
+reported
+on the memo.) The MFU rate is an indicator of how effectively a developer is utilizing its chips—a rate of 100%, for instance, would imply full utilization.
+To be fair to xAI, everyone struggles with GPU utilization, and a researcher at a rival firm said cracking 40% was difficult for most of xAI’s competitors. But a rate of 11% is appallingly low, the researcher said. And it’s especially surprising given that xAI has a reputation of setting up GPUs in a way that Nvidia recommends.
+Utilizing GPUs at more than a 40% rate or so is difficult because large AI models require a lot of
+high bandwidth memory
+usage, and HBM can be a lot slower than the AI accelerators in the same system. Some people refer to this as a
+memory wall
+, where the chips spend time waiting for data rather than computing. The other factor is the networking cables and switches that move data across thousands of GPUs, which also slows things down. When you’re synchronizing thousands of GPUs, any weak point in the network can cause trouble for the fleet.
+Some researchers go to great lengths to artificially inflate the utilization figure. Another researcher at another major lab told us that his colleagues rerun training experiments over and over again to make it look like they’re utilizing GPUs more than they actually are.
+Not only do AI researchers play such games to avoid getting scolded by their bosses, but they also do it to ensure their GPUs don’t get reallocated to other teams. These GPU-hogging researchers might argue that the chips are only sitting idle temporarily while they go through the results of their last training experiment and decide what to do next, and they’ll need the chips as soon as their analysis period is done and don’t want to give them up.
+Whatever the reason, the people holding the purse strings at xAI and other AI labs might not love hearing that GPUs aren’t fully utilized, as they can cost tens of thousands of dollars per chip! (For more on how big firms handle the balancing act of allocating compute to researchers, check out Erin’s
+story
+from December.)
+—
+Anissa Gardizy contributed to this piece.
+Here’s what else is going on…
+A Former Chinese AI Champion Seeks Comeback with New Model
+Chinese AI firm
+SenseTime
+, a pioneer in computer vision and image recognition, is seeking a comeback in the generative AI era with a new multimodal model that understands and generates text and images simultaneously.
+The company says it developed a model architecture that lets the model do this without a specialized translator, known as an
+encoder
+, that essentially turns text and images into numbers, known as embeddings that the large language model can process. Encoders are commonly used in multimodal models.
+SenseTime says that thanks to their exclusion of encoders, its models need relatively less computing power to run; it has just 8 billion parameters, the settings a model uses to determine the answers it produces. State-of-the-art models use two to four orders of magnitude more parameters.
+“I think we are approaching the ‘DeepSeek moment’ in multimodal models,” said Dr.
+Lin Dahua
+, co-founder and chief scientist at SenseTime, referring to when AI startup
+DeepSeek
+surprised American firms by releasing a strong-performing but relatively cheap open source model a year ago.
+Like DeepSeek, SenseTime is taking a low-cost approach to developing models because the U.S. officially blocks the most advanced Nvidia chips from being sold in China.
+“When resources are under constraints, the only way out is to improve yourselves and go for extreme efficiency,” he said.
+More-efficient models tend to take off in regions such as China and developing countries that may not have an abundance of AI server capacity or developers with deep wallets.
+Lin, who earned his PhD in computer science at the
+Massachusetts Institute of Technology
+, said SenseTime plans to add video capabilities to the next edition of
+SenseNova U1
+later this year, and that edition will have about three to four times more parameters than the current model.
+The SenseTime model can produce text and images when a customer asks for a recipe, unlike many of today’s models, which produce only text answers.
+SenseTime says it will commercialize the new models through its AI video product
+Seko
+, which has a few hundred thousand monthly active users, and its workplace AI assistant,
+Little Raccoon
+, which has 15 million individual users and thousands of enterprise customers. SenseTime hopes developers will also tap its models through open-source AI agent-builders such as
+OpenClaw
+.
+If SenseTime rings a bell, that could be because the
+U.S. Commerce Department
+in 2019 restricted its ability to access U.S. suppliers due to allegations its technology aided the Chinese government’s human rights violations in the Uyghur-populated Xinjiang region. Americans are also banned from buying the company’s publicly listed shares.—
+Jing Yang
+Court Watch
+Elon Musk
+,
+Sam Altman
+and
+Greg Brockman
+agreed to not post
+about their ongoing trial on social media at the court on Tuesday morning. “All of you try to control your propensity to use social media,” judge
+Yvonne Gonzalez Rogers
+said. “Perhaps you’ve never done that before.”
+Later in the day,
+Musk took the stand
+. Under friendly questioning from his lawyer, Musk started by testifying about
+OpenAI’s
+early years, recounting his motivations for co-founding it in 2015 to ensure safe development of artificial intelligence. Musk answered questions about his personal history and his past email communications with Altman and other OpenAI co-founders. Musk also predicted that AI will reach human-level performance at all tasks as early as next year.
+Policy Watch
+South Africa withdrew a draft of a national AI law after it was revealed that the bill contained fake AI-generated citations, Reuters reported.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+True Anomaly
+, which builds space-based weapons systems, including as part of the
+U.S. Space Force's Golden Dom
+e missile defense initiative, raised $650 million at a $2.2 billion valuation in a Series D funding round led by
+Eclipse
+and
+Riot Ventures
+.
+Rogo
+, which develops AI for investment banking, raised $160 million in Series D funding led by
+Kleiner Perkins
+at a $2 billion valuation.
+Aidoc
+, an AI healthcare startup, raised $150 million in Series E funding led by
+Goldman Sachs
+.
+Parallel Web Systems
+, which provides software to allow AI agents to browse the web, raised $100 million at a $2 billion valuation in a Series B funding round led by
+Sequoia Capital
+, the Wall Street Journal reported.
+Scout AI
+, a Sunnyvale, Calif.-based frontier lab for defense, raised $100 million in Series A funding led by
+Align Ventures
+and
+Draper Associates
+.
+Manifest OS
+, which provides AI legal software, raised $60 million at a $750 million valuation in a Series A funding round led by
+Menlo Ventures
+.
+Actively
+, which provides AI agents for sales, raised $45 million in a Series B funding round led by
+TCV
+and
+First Harmonic
+.
+Windmill
+, a New York City-based AI-powered performance review startup, raised $12 million in funding led by
+Inspired Capital
+.
+Shapes
+, which brings humans and AI agents into group chats together, raised $8 million in seed funding led by
+Lightspeed Venture
+Partners
+.
+OpenAI
+models will finally be
+available on Amazon Web Services
+, the companies said Tuesday, a day after OpenAI and
+Microsoft
+announced new terms in their long-standing partnership that freed other cloud providers to sell OpenAI’s models with fewer restrictions.
+Meta Platforms
+is
+preparing for a possible unwinding
+of its $2 billion acquisition of AI agent application
+Manus
+, after Chinese regulators ordered that the parties involved in the deal revoke the transaction.
+Nvidia
+released
+Nemotron 3 Nano Omni
+, an open source model intended to help AI agents better understand video, audio and images.
+Poolside
+released two new models,
+Laguna M.1
+, which is designed for agentic coding, and
+Laguna XS.2
+, which the company released open source.
+Snap
+rolled out AI ads that users can chat with to learn more about advertised products."
+CrowdStrike and Palo Alto Networks Are Underappreciated AI Cybersecurity Bets,2026-04-29T13:00:42Z,Anita Ramaswamy,https://www.theinformation.com/articles/crowdstrike-palo-alto-networks-underappreciated-ai-cybersecurity-bets,"If there was ever a time to be buying cybersecurity stocks such as CrowdStrike and Palo Alto Networks, this would be it.
+A spate of hacks has hit high-flying startups this month, including data-labeling firm Mercor and software development company Vercel. Also this month, Anthropic announced it had developed an AI model, Mythos, that it deemed “too powerful” for a full public release. Mythos identified thousands of previously unknown cybersecurity risks across widely used operating systems and browsers.
+CrowdStrike and Palo Alto Networks, along with another cybersecurity firm, ZScaler, are among the 50 or so companies that got early access to Mythos so they can beef up their own cyberdefenses. For the security firms, that positions them to benefit from any surge in demand arising out of a wider release of Mythos, sparked either by attacks or worries about attacks.
+CrowdStrike’s and Palo Alto Networks’ stocks have each risen 20% or so in the past month, beating the 10% appreciation in BlackRock’s IGV index, which tracks the software sector broadly. Even after that rally, though, they’re trading at the same valuation multiples they were a year ago,
+when we last recommended the stocks
+. CrowdStrike is at  nearly 19 times next year’s estimated sales and Palo Alto Networks is at 11 times.
+That suggests investors are still underappreciating cybersecurity firms’ unique promise, given their potential for outsize growth, which has become clearer in the past few weeks.
+Businesses are going to increase their spending on cybersecurity “as a direct result of the risk that Mythos presents,” said Eric Heath, an equity analyst at KeyBanc Capital Markets who covers cybersecurity and has been routinely polling chief information security officers at various companies to gauge their spending appetite. “We think the security spending environment is going to be much healthier than it has been.”
+That’s a change from the last two years, during which companies’ spending on cybersecurity was relatively lackluster, Heath said. Indeed, CrowdStrike’s revenue growth slowed to 21.7% in the year to January from 29.4% the year before. Palo Alto Networks—which is nearly twice CrowdStrike’s size by revenue—has grown at around 15% for the past two fiscal years, which end in July
+Analysts expect Palo Alto Networks’ revenue growth to accelerate to 22.5% growth this year, partly as a result of its recent acquisitions, including AI security startup Koi, according to Koyfin. CrowdStrike’s growth rate is also expected to pick up a bit.
+They’re “the blue chips in cyber. So if the security environment is healthy, it should benefit both of them,” Heath said.
+CrowdStrike and Palo Alto Networks both sell a variety of different security products, including solutions for securing networks, preventing hackers from using stolen usernames and passwords and AI-powered agents ot help companies find and address cyber threats.
+ZScaler, which is about two-thirds the size of CrowdStrike, is growing at a 20%-plus clip, but it trades at the lowest valuation multiple of the three, in large part because it is the least diversified and therefore the most vulnerable to competition.
+And competition is a key issue for the sector. What is likely holding back investors from pushing up CrowdStrike’s and Palo Alto Networks’ valuations further is the worry that both could be undercut by AI firms developing their own cybersecurity products.
+Competition With AI Model Makers
+Rustam Kanga, an analyst at Citizens Bank who is bullish on the cybersecurity stocks, thinks they have advantages over the AI model makers. For one thing, they have already established widespread trust among chief information security officers.
+“Anthropic has now had several public security failures,” Kanga said, citing the company’s accidental leak of its AI coding tool’s source code in March as well as recent
+reporting
+from Bloomberg stating that unauthorized groups may have accessed the Mythos model. Those incidents won’t inspire confidence among senior information security executives at companies, he said.
+In their current form, Anthropic’s and OpenAI’s cybersecurity-focused models are “not comprehensive enough,” according to Kanga, because they can only help identify, not address, cyberthreats.
+That probably won’t change, Kanga argues, because of the two other key advantages the established providers enjoy relative to the AI model builders: the sensor software they have already installed on corporate devices they are responsible for securing, and the troves of proprietary data they have collected using that software.
+That sensor software is “relatively easy to build,” said Tomasz Tunguz, general partner at investment firm Theory Ventures. But, he continued, “it’s a total pain to replace. Imagine you have a 100,000-person organization.…All those people have to come into IT, and it has to go and delete the CrowdStrike agent and then put on the Anthropic agent. What a pain. I’m not going to go through and spend six months of my security team’s time replacing this bit of software, especially if the gain is nothing. So that’s why I think there’s some defensibility. It’s just inertia.”
+Another reason it’s unlikely companies will axe their existing cybersecurity providers is that the sensor software is what enables a vendor to help its customer identify and address a threat in real time rather than reviewing data periodically in batches.
+The model makers’ cybersecurity businesses already seem to be growing fast enough on the heels of their recent launches. Said Tunguz, “Why complicate things?”"
