@@ -1,0 +1,92 @@
+﻿标题,时间,作者,链接,内容
+Palantir’s AI Pricing Power,2026-05-03T22:00:03Z,Laura Bratton,https://www.theinformation.com/newsletters/the-briefing/palantirs-ai-pricing-power,"Results from
+Google, Microsoft and Amazon
+last week showed AI is still fueling cloud revenues, news that helped lift the stock market to fresh records on Friday. This week, we’ll get a clearer glimpse into whether AI can also lift the lagging prices of software stocks such as Palantir and ServiceNow.
+Palantir kicks off the week’s wave of corporate earnings reports on Monday. Stock in the company, which sells software to analyze and integrate large amounts of data, has been hit by the same fears that have prompted investors to dump shares in Salesforce, ServiceNow, SAP and HubSpot: namely, that new AI tools from Anthropic and OpenAI will lower demand for their software. Palantir’s stock has lost nearly 20% this year, a contrast with the Nasdaq Composite Index’s 8% rise.
+But one could argue Palantir is better positioned to weather AI’s onslaught. That’s because it has, for longer than its competitors, sold
+software that lets a company consolidate its data from a bunch of other software systems
+. Palantir’s engineers also develop new custom applications and AI agents for the customer on top of their data. That kind of AI-enabling software is something companies such as Salesforce and ServiceNow have only recently begun to work on.
+Palantir’s ability to capitalize on that early lead will likely show up in quarterly sales of its software to U.S. commercial business customers. This segment has far outpaced the growth of sales derived from its work with the U.S. government, which draws the lion’s share of public attention. In its most recent quarter, Palantir’s U.S. commercial segment’s revenue jumped nearly 140% to $507 million, while revenue from the U.S. government rose 66% to $570 million.
+This year, Palantir has projected that its U.S. commercial revenue will rise 115% to $3.14 billion, faster than the 109% growth rate last year and the 54% growth rate in 2024. Monday’s results for its first quarter will reveal its progress toward that goal.
+Palantir’s results and CEO Alex Karp’s comments could also cast light on whether its variable pricing is a boon to enterprise software sales. As we have explored in
+other
+columns
+, software companies including Salesforce, HubSpot and Adobe have begun charging customers based on how much AI they use or when the AI tools complete certain tasks rather than by seat or license. That’s a response to customers using more of the app makers’ AI features, raising app makers’ costs, as well as to app makers’ concerns that seat subscription growth may wane in the AI agent era.
+Palantir is arguably ahead of other software firms just now scrambling to change their pricing models to tie software costs to usage or business outcomes. Palantir already charges some customers when they hit certain milestones after installing its software, mirroring the outcome-based pricing HubSpot and Adobe recently announced, according to two people with knowledge of the pricing. (Palantir declined to comment.)
+For example, Palantir might charge a customer a predetermined fee only when their profit margins rise by a certain amount after installing the software. In another example, it might charge an industrial customer only when the software has successfully aggregated the customer’s data and begun to monitor how well its machinery is running.
+Meanwhile, Palantir charges other customers flat annual fees as well as additional charges tied to usage, customers and consultants have said.
+It also offers in-house technical consultants, which it calls forward-deployed engineers, to
+help customers build and use custom versions of its software
+for their business needs. Given the challenges of integrating AI in large companies, it’s a model firms from
+OpenAI
+and Anthropic to Salesforce have begun to copy to help customers use AI.
+In other news, ServiceNow will get another chance to make its case for why the company is positioned to benefit from AI during its Investor Day presentation in Las Vegas on Monday. The $94 billion enterprise software firm, which mainly sells apps to help companies track and manage IT issues, has seen its stock drop about 12% since reporting earnings in late April that showed
+its profit margins are under pressure
+from a recent acquisition of cybersecurity firm Armis.
+Other companies set to report quarterly updates include CoreWeave, Shopify and Mercado Libre. Here’s what analysts are expecting for the revenue and GAAP EPS of the biggest tech firms reporting this week, and their year-over-year growth, courtesy of S&P Global Market Intelligence:
+Palantir
+(Monday)
+First-quarter revenue $1.54 billion, +74%
+EPS $0.24, +200%
+Shopify
+(Tuesday)
+Revenue $3.09 billion, +31%
+EPS $0.24, +145%
+Advanced Micro Devices
+(Tuesday)
+Revenue $9.89 billion, +33%
+EPS $0.74, +68%
+Uber
+(Wednesday)
+Revenue $13.26 billion, +13%
+EPS $0.71, –14.5%
+Arm
+(Wednesday)
+Fiscal fourth quarter revenue $1.47 billion, +18%
+EPS $0.37, +85%
+MercadoLibre
+(Thursday)
+Revenue $8.31 billion, +40%
+EPS $8.20, –16%
+CoreWeave
+(Thursday)
+Revenue $1.96 billion, +100%
+EPS –$1.20, +14%
+In Other News
+• A trial to determine Elon Musk’s lawsuit against OpenAI will continue in Oakland, Calif., Monday, when OpenAI’s co-founder and president, Greg Brockman, is scheduled to testify. OpenAI CEO Sam Altman is expected to take the stand later in the week. Read our coverage
+of Musk’s testimony
+and
+highlights from the trial
+.
+• Videogame retailer GameStop is preparing a bid that it could submit as soon as this month to buy e-commerce site eBay, according to The Wall Street Journal.
+Ebay and GameStop shares
+rose after-hours Friday following the report.
+•
+Founders Fund has raised $6 billion
+for its fourth growth-stage fund, less than a year after the firm raised its third growth-stage fund, of $4.6 billion.
+• Meta Platforms
+has acquired Assured Robotics Intelligence
+, a startup developing AI models for humanoid robots, for an undisclosed sum. Meta has been ramping up its humanoid robotics efforts, hiring the former CEO of Cruise, General Motors’ robotaxi unit, in 2025 to lead its robotics product group.
+• S&P Dow Jones Indices, the index provider behind the S&P 500,
+said it would consult with market participants
+to determine whether it should eventually let large stocks into indexes more quickly after their initial public offerings than current rules allow. The rule change could provide a big boost to demand for shares in the eventual IPOs of SpaceX, Anthropic and OpenAI."
+SpaceX IPO Set to Drive Billions in Tech Stock Sales,2026-05-03T15:00:14Z,Valida Pau,https://www.theinformation.com/articles/spacex-ipo-set-drive-billions-tech-stock-sales,"A jet painted with SpaceX logos ferried nearly 200 investors from the largest Wall Street funds from Newark, N.J., to the southern tip of Texas a week and a half ago for a multiday presentation from executives. The airplane was so full it couldn’t fit everyone who wanted to get on, said an investor on the trip.
+The massive initial public offering for Elon Musk’s rocket-and-AI company, still more than a month away, has investors debating what to sell to make room for SpaceX shares. While they think about data centers in space, model a potential $1.5 trillion valuation and gawk at SpaceX’s enormous financial losses after it bought xAI, they are also making plans to raise cash to buy into the offering. Investors at some of the world’s largest mutual funds have said they are considering trimming stakes in other tech stocks to free up cash to buy SpaceX shares.
+Some investors say the most likely stocks to sell are the Magnificent 7—Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia and Tesla. The group struggled this year but several of the stocks have rebounded strongly. The Bloomberg Magnificent 7 Total Return Index, an equity benchmark that tracks the stocks, rose 14% in April and is up 2% this year, while the broader S&P 500 is up 5.4%, bolstered by strong gains in energy and industrial sectors.
+SpaceX would likely enter the public markets as one of the top 10 most valuable companies in the world, creating a cascade of proactive decisions for fund managers. First they need to decide how much of SpaceX they want, and then how much they think they will be able to buy in the offering. Whatever the number, they’ll need to use their available cash or sell stocks to raise the cash. Finally, they’ll need to balance their portfolios once the new stock is added.
+The decision about what to sell is significant: Nearly all of the largest tech stocks print mounds of cash, with steady growth trajectories. SpaceX, meanwhile, amassed a
+$4.9 billion net loss
+and burned cash last year, with its growth tied largely to developing the world’s most powerful rocket—a project that isn’t yet commercially viable.
+T. Rowe Price’s Tony Wang, who runs the mutual fund giant’s $12 billion science and technology fund, said he thinks about the choice of what to buy and sell in the SpaceX IPO “in the context of the Mag 7” and “what has the biggest risk-adjusted return.”
+Wang, whose largest holdings are Apple, Nvidia and Broadcom, didn’t want to show his cards on what he’ll buy and sell in the coming weeks. But he said other managers would likely cut from large companies like those because they are so liquid.
+Other managers have also discussed trimming small stakes in industries SpaceX directly competes with, such as traditional aerospace and defense names, according to some of them. They say selling of tech stocks could be limited, insulating the market from a big downturn.
+Another reason for portfolio managers to trim Magnificent 7 stocks to buy SpaceX is rules about how concentrated funds are in specific sectors. Tech stocks account for about two-thirds of the holdings of large-company growth funds, for example, and SpaceX would push that number higher. Some funds will have to choose which existing holding to sell down if they want to add SpaceX. Potential early entry by SpaceX into major stock indexes means that index funds, and the funds that closely track the indexes, will also be buying the stock and might have to adjust their holdings of other stocks.
+Fund managers that are seeing new money come in from investors will have an easier time accumulating cash to buy SpaceX. But investors have been shunning actively managed funds and instead pouring cash into index funds, which won’t buy SpaceX until it is admitted into the indexes they track. Active managers of funds that are losing assets are already selling stock to meet investor redemptions. If they want to buy SpaceX, they’ll be under even more pressure to sell.
+And then there’s the overlap between Musk’s other company, Tesla, which is owned heavily by both retail investors and Wall Street funds. Ross Gerber, who manages a $4 billion fund at Gerber Kawasaki Wealth & Investment Management, said the SpaceX IPO would cause people to sell their Tesla stock. Shares in Musk’s electric vehicle company have already fallen 11% this year due to disappointment over EV sales.
+“Many of the Tesla investors want to own SpaceX, and they’re going to sell their Tesla stock or some of their Tesla stock to buy SpaceX,” Gerber said
+on The Information’s TITV
+last month.
+Such sales aren’t likely to happen until a couple weeks before the IPO. A Goldman Sachs report last week said U.S. mutual funds have held more of their money in cash ahead of major IPOs in the past, but they hadn’t done so yet this year. But the bank cautioned that large IPOs don’t usually affect the performance of big company stocks.
+Another criteria for selling is tax-loss harvesting, where funds sell their losers to offset gains for tax purposes. Big tech stocks that have fallen recently, such as Microsoft, would be prime targets for selling. Stock in the software giant has fallen about 25% since an October high.
+Strong demand from public market investors could benefit existing SpaceX shareholders, who are expected to get some early opportunities to sell shares, ahead of a typical six-month lockup period, although it is not clear when and how much investors will be allowed to sell.
+Gerber added in an email that he already owns some SpaceX shares and plans to sell some as soon as he is allowed after the IPO. He thinks the company should be valued lower than its current $1.25 trillion private valuation. “I’ll let the market figure that out. For now I’d love to get out some of the money that I have in SpaceX that’s been locked up for five years or so,” he said."
