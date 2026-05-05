@@ -1,0 +1,270 @@
+﻿标题,时间,作者,链接,内容
+Palantir’s AI Boom; Ryan Cohen’s Chutzpah,2026-05-05T00:00:37Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/palantirs-ai-boom-ryan-cohens-chutzpah,"Is Palantir soaking up all the growth in the enterprise software sector? That seems like a reasonable question judging by the company’s first-quarter results released on Monday, which showed 85% revenue growth. That’s an astounding growth rate for a business that’s 23 years old. Even better, Palantir turns a lot of that revenue into pure cash. Indeed, its free cash flow of $892 million in the quarter was more than its revenue in the year-earlier quarter. (This article
+from March explains
+why Palantir is winning so much business.)
+Palantir CEO Alex Karp pointed out that free cash flow factoid in a chest-thumping commentary for analysts on Monday, although frequent microphone outages undermined the force of his hyperbole a bit. (Those outages created a comedic scene on the
+YouTube video
+of the earnings call, where a hand kept appearing from the side offering Karp replacement microphones to fix the problem.) For all his over-the-top comments, however, Karp seems to have a point: Palantir is doing astoundingly well, despite deep pessimism about how AI will undermine enterprise software businesses.
+Palantir revised up its growth projection for the full year to 71% from 60%—it only gave the previous projection in February—and forecast second-quarter growth of 79%. Other enterprise software firms are doing well if they’re posting 20% growth! Karp couldn’t stop himself from mocking the competition: “If you want old-school software that actually doesn’t work and probably will disappear, there are a lot of names.” Elsewhere in his commentary, he said: “Almost every single highlighted example of AI that actually is producing results in the U.S. is actually parented by Palantir.”
+Analysts asking questions on the call were predictably full of praise. Investors seemed less impressed. Palantir stock actually fell slightly in after-hours trading. The shares haven’t escaped the software sell-off this year, dropping 18%, which isn’t anywhere near as bad as the 30%-plus declines other enterprise software stocks have suffered. To be fair, Palantir is trading at a huge premium to others—43 times forward sales, double the equivalent multiple of well-positioned cybersecurity stocks, according to S&P Global Market Intelligence. Palantir’s success may be singular, but there’s a ceiling on what investors are willing to pay.
+Cohen’s Chutzpah
+You have to admire GameStop CEO Ryan Cohen’s chutzpah. His $56 billion cash and stock bid for eBay seems doomed, given he doesn’t have the cash portion properly financed and the stock portion is, ahem, hard for eBay shareholders to value. (GameStop stock is, after all, an overvalued meme stock.) The obstacles facing his bid
+dominated commentary
+of the bid on Monday. The pity is that a combination of GameStop and eBay isn’t a
+terrible
+idea.
+The two businesses have a lot in common, and not just a lack of growth. Most obviously, both have found trading in collectibles—particularly Pokémon and other trading cards—to be a rare bright spot in shopping businesses that haven‘t grown much otherwise. Collectibles helped eBay post 19% revenue growth in the first quarter. At GameStop, the collectibles segment has nearly doubled in size since 2020, while the rest of the company’s sales shrank 43% in the same period.
+To be sure, eBay has more going for it than trading cards. Its advertising revenue more than doubled over the past four years even as marketplace revenues stagnated. But most of those advertising revenues are coming from sellers promoting their listings. To really grow an ad business, a marketplace needs an expanding audience of shoppers, which eBay doesn’t have. The number of active buyers was 136 million in the first quarter, up from 134 million in 2022.
+Cohen identified the weak growth in active buyers as one reason why eBay’s sales and marketing spending could be cut, as “more spend is not producing more users on a marketplace with near-universal brand recognition.” Cohen knows how to cut costs: By shuttering stores and exiting numerous countries, he has turned GameStop into a solidly profitable operation. Chances are he won’t get a chance to implement his ideas at eBay. That’s a pity. (Meanwhile, at
+least one prominent GameStop investor wasn’t happy
+with the eBay idea).
+In Other News
+•
+OpenAI President Greg Brockman said his stake in the startup he co-founded is worth close to $30 billion. Separately, Elon Musk messaged Brockman to gauge his interest in a possible settlement of Musk’s lawsuit against him a couple days before the trial began, according to a document OpenAI’s lawyers filed with the court on Sunday night.
+• OpenAI has raised $4 billion from 19 private equity firms and consultancies including TPG, Brookfield Asset Management, Bain Capital and Advent for a new company that will employ specialized tech consultants to help the PE firms’ portfolio companies integrate AI, according to a person with direct knowledge of the discussions.
+• Pinterest’s revenue growth accelerated to 18% in the first quarter, lifting its top line to $854.9 million.
+• The White House is rethinking its approach to AI oversight as models grow more powerful,
+according to the New York Times,
+which reported on Monday that the administration is weighing new review processes, including an executive order that would bring together industry executives and government officials to discuss potential guardrails on the technology.
+• Cisco announced its intent to acquire Israeli cybersecurity startup Astrix, confirming
+The Information’s report
+from April."
+"Nebius, Lambda and CoreWeave Say ‘No’ to TPUs Amid Google’s Push",2026-05-04T16:33:23Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/nebius-lambda-coreweave-say-tpus-amid-googles-push,"Good morning! Anissa here.
+We’ve been tracking Google’s effort to expand the reach of its tensor processing units for quite a while, and two developments last week helped us understand where things are actually headed.
+On one hand, Google said on its earnings call that it plans to sell its TPUs directly to customers for use in their own data centers—something
+we first reported last fall
+. The move marks a significant shift: For years, TPUs were largely confined to Google Cloud.
+On the other hand, though, three senior executives from leading neocloud providers— Nebius, Lambda and CoreWeave—told us they aren’t planning to adopt TPUs anytime soon.
+Taken together, the signals point to a complicated reality for Google. Even as it opens up the market for its own chips, the very companies that could be best positioned to distribute that hardware aren’t convinced it’s worth their investment.
+“We bleed green at Lambda,” said Lambda Chief Financial Officer Chuck Fisher after I asked him about TPUs onstage at The Information’s Financing the AI Revolution event last week.
+Marc Boroditsky, chief revenue officer of Nebius, told me 99% of the demand his firm sees is for Nvidia graphics processing units. In the rare cases that a prospective customer inquires about TPUs at Nebius, he said, they are often Google alumni who’ve used the chips before.
+“Unfortunately, the diaspora [of] folks from Google does not make a market,” Boroditsky said.
+At CoreWeave, the calculus is similar. Vice President of Corporate Development Nick Robbins pointed out the top TPU users—Google itself, Anthropic and Meta Platforms—are also among the largest buyers of GPUs. That makes him quite confident that renting Nvidia GPUs will always be a good business.
+“For any incremental dollar we invest or megawatt we allocate, we are making a risk-adjusted bet on what is going to deliver the highest return for the longest,” Robbins said. “When 99% of the market wants one thing and you say, ‘OK, that could change, it could go down to 90%,’ it's still really hard to not focus on the 99% that goes to 90%.”
+None of the executives’ answers was terribly shocking. Lambda, Nebius and CoreWeave are deeply tied to Nvidia, which is their No. 1 supplier, a key investor and in
+some cases
+a
+major GPU customer
+.
+But their reluctance helps explain how Google’s TPU strategy is playing out and why it looks different from Nvidia’s.
+Last year, Google
+explored working more closely
+with neocloud providers, including CoreWeave and Crusoe, to host TPUs alongside GPUs in their data centers. Those conversations largely went nowhere. Instead, Google struck a deal with software and data center startup Fluidstack to help deliver TPUs to Anthropic—and backed that effort by guaranteeing billions of dollars in leases and debt tied to those deployments.
+Google went from trying to get its TPUs into multiple neoclouds to signing a deal with Fluidstack, a newcomer in the neocloud space, for Anthropic deployments. It shows that the market for TPUs outside Google Cloud is relatively concentrated at this point.
+As CEO Sundar Pichai put it, Google plans to deliver TPUs to a “select group of customers,” particularly in areas like financial services and frontier AI. That’s instead of, say, trying to make them as ubiquitous as GPUs are.
+So it makes sense that rather than trying to seed a broad third-party ecosystem right away, it is focusing on a smaller set of customers that are willing to go deep. This will reduce Google’s reliance on the neoclouds for distribution, at least in the near term.
+Google has been busy working on how to make the financing happen.
+As we reported in February
+, it has signed an agreement with an unidentified large investment firm to fund a joint venture that would lease TPUs to other customers. Google has also been talking to potential finance partners to borrow money for special purpose vehicles that would buy TPUs and lease them to customers. (While Nvidia did help finance some of the early neoclouds, Google’s strategy is different because there’s not an existing market for TPUs, so it is playing a more active role off the bat.)
+Longer term, even Boroditsky from Nebius said TPUs could gain a larger foothold. He knows several companies developing cloud software that—if it works—would make it easier for developers to use multiple types of chips, limiting hardware lock-in.
+“It’s going to be difficult to entrench a single brand—there’s going to be a lot more diversity,” he said at the end of the panel. “It happened in CPUs, and I suspect the same movie is going to play out again.”
+In Other News…
+Coatue Management launched a data center venture aiming to buy land for development into AI data centers, including for Fluidstack and Anthropic,
+The Wall Street Journal reported
+.
+And
+Bloomberg reported
+that KKR & Co. secured more than $10 billion for a company that will develop and operate AI infrastructure."
+Cursor Keeps Its Distance From xAI Despite Tie-Up,2026-05-04T14:00:03Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/cursor-keeps-distance-xai-despite-tie,"When
+Cursor
+agreed to a $60 billion conditional takeover offer from
+SpaceX
+last month—the purchase isn’t definite—some of Cursor’s rivals expected the coding startup to work with SpaceX’s
+xAI
+unit to develop new models, specifically for coding.
+That’s not happening anytime soon, apparently. Cursor doesn’t currently plan to codevelop coding models with xAI and is focused on improving its own model,
+Composer
+, which is powered in part by Chinese model
+Kimi
+, according to a person with knowledge of the company’s strategy.
+Less surprisingly, Cursor also doesn’t plan to steer customers to xAI’s
+Grok
+model when they pick the AI they want to power their coding, the person said.
+The top models powering Cursor’s products today are Composer,
+Anthropic’s
+Claude
+and
+OpenAI’s Codex
+, the person said. That doesn’t say much for Grok’s coding capabilities.
+The situation puts the spotlight on what the two companies are getting from their tentative arrangement. As reported, SpaceX has an option to buy Cursor for $60 billion. If SpaceX doesn’t proceed, it has to pay $10 billion to Cursor.
+The immediate beneficiary of the arrangement may be Cursor. It is getting access to xAI’s computational resources, although that may be the result of a separate commercial deal between the companies. Computing costs
+had been weighing down Cursor’s gross margins
+, so perhaps the server rental agreement will help.
+The arrangement is probably helping xAI
+make use of its numerous idle chips
+so it will burn much less cash than it has been. That’s good news for SpaceX shareholders awaiting that company’s initial public offering as soon as next month.
+The real advantage for xAI may not come until the company actually acquires Cursor—assuming it does. At that point, xAI could try to use Cursor’s customer data to improve Grok’s’s coding capabilities, and, perhaps, direct Cursor customers toward Grok.
+In the meantime, Cursor will want to retain its top research talent. Some of Cursor’s researchers may have mixed feelings about joining
+Elon Musk’s
+rocket company, even if the value of their Cursor equity has ballooned like few other companies before it (though they’d end up owning SpaceX stock at what will probably be a very high market capitalization). In the meantime, we’ll be curious to see if any of those researchers get retention bonuses or other incentives to stay.
+Here’s what else is going on…
+Anthropic’s Pricing Power
+You may have noticed some developers recently complaining on X that they’ve noticed sharp upticks in what they have to spend on
+Anthropic
+models, especially following Anthropic’s
+latest Claude Opus 4.7
+release.
+One possible reason is Opus 4.7’s use of a new “tokenizer,” the part of the AI that translates text into smaller pieces—tokens—that the model can understand. Anthropic said in a
+blog post
+that the new tokenizer helps the model better understand text, but the tradeoff is that it could produce up to 35% more tokens than it did previously, meaning it’s more expensive.
+Additionally, Anthropic also said in the post that Opus 4.7 spends more compute while working through tough problems, which causes it to produce more output tokens, making it more expensive.
+The company recommends customers manage their token costs by tweaking various settings of the model, like telling it to think less or be more concise. In fact, Anthropic wrote a whole
+migration guide
+explaining best practices for upgrading to Opus 4.7 to prevent big cost increases.
+One might argue, though, that going through pages of instructions to avoid cost spikes is a bad user experience—not that it seems to be costing Anthropic much business, given the revenue growth rates that have
+recently been reported
+.
+One reason why customers might experience higher costs is because they’re simply asking today’s models to do more complex tasks that cost more compared to earlier models, when their performance (and customers’ expectations) was lower.
+But while today’s tasks might cost more, they’re likely saving developers a lot more time as well.—
+Stephanie Palazzolo
+Court Watch
+Elon Musk
+said it is “partly” true that
+xAI
+, the artificial intelligence unit of his
+SpaceX
+company,
+has distilled OpenAI’s models
+in developing its own models. Musk made the comment Thursday during his second day of cross-examination in the trial of his lawsuit against
+OpenAI
+.
+Distillation
+, the process by which a “student” AI model picks up new knowledge by imitating another “teacher” model, has become a sore spot for AI companies including OpenAI and
+Anthropic
+. The companies have accused competitors of using the process to wrongfully copy the capabilities that they invest enormous sums to develop in their own models.
+When a lawyer for OpenAI asked Musk on Thursday whether xAI has distilled models from OpenAI, Musk said that AI companies generally do it. The lawyer pressed about whether xAI in particular has distilled from OpenAI, and Musk replied “partly.” He went on to say that “it is standard practice to use other AIs to validate your AI.”
+Clem Delangue
+, the co-founder and CEO of
+HuggingFace
+,
+weighed in on X
+, posting that “What people call ‘distillation’ is a super common practice (you use other models to benchmark your model, to evaluate your inputs or to add a little bit to your datasets) that in my opinion should be covered by fair use (just like using public data is).”—
+Rocket Drew
+Earnings Report
+Shares of
+Atlassian
+, a provider of software that helps teams of developers and employees collaborate on projects,
+jumped nearly 25%
+in extended trading after its third-quarter earnings, as investors responded to signs that AI is giving a boost to its business.
+Overheard
+“We’re in a phase where basically the AI models learn from watching really smart people do things,”
+Meta Platforms
+CEO
+Mark Zuckerberg
+said in a company-wide meeting
+on Thursday, responding to a question about Meta’s new practice of recording employees’ computer activities for training data. He added that enabling systems to “observe really smart people doing those things is very important.”
+“A lot of data generation across the field is done by these like contract companies,” he said. “In general, the average intelligence of the people who are at this company is significantly higher than the average set of people that you can get to do tasks if you’re working through these contractors.”
+Policy Watch
+Build American AI
+, a nonprofit linked to the OpenAI-funded super PAC
+Leading the Future
+, is paying a network of influencers to spread messages praising AI and raising concerns about China, Wired reported.
+SM4
+, an influencer marketing agency, is running the campaign on behalf of Build American AI.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Founders Fund
+has raised $6 billion
+for its fourth growth-stage fund, The Information reported. Some $4.5 billion of the new fund comes from the firm’s limited partners, the pension funds and endowments that back VC firms, and the remaining $1.5 billion is from Founders Fund employees and investors, including founding partner
+Peter Thiel
+.
+Anthropic
+is
+close to sealing
+the creation of a joint venture with private equity firms to sell its AI to the PE firms’ customers, the Wall Street Journal reported late Sunday, confirming earlier reporting by The Information. The funds, totalling $1.5 billion, will set up a new venture to use technical consultants to help companies integrate AI, the report said.
+Linkerbot
+, which designs and manufactures humanoid robotic hands, raised a Series B+ funding round at a $3 billion valuation from investors including
+Zhongguancun Science City Fund
+,
+BOC Asset Management
+and
+Fosun Capital
+.
+Palo Alto Networks
+agreed to acquire
+Portkey
+, which provides AI software for monitoring, routing and securing the actions that AI agents take. The Economic Times reported the valuation at $120 million to $140 million.
+Netomi
+, which provides an AI customer-service platform for large enterprises, raised $110 million in a Series C funding round led by
+Accenture Ventures
+.
+Meta Platforms
+has acquired Assured Robotics Intelligence
+, a startup developing AI models for humanoid robots, for an undisclosed sum. The startup develops AI models that help robots understand and adapt to human behavior across a range of environments.
+The
+U.S. Department of Defense
+has signed deals
+with seven AI companies to use their technology on classified networks, the agency said Friday. The AI providers include
+SpaceX’s xAI
+,
+OpenAI
+,
+Google
+,
+Nvidia
+,
+Microsoft
+,
+Amazon Web Services
+, and the AI startup
+Reflection
+, the Pentagon said.
+Coatue
+has launched a venture called
+Next Frontier
+to buy land that will be developed for AI data centers, the Wall Street Journal reported.
+OpenAI
+on Thursday launched
+Advanced Account Security
+, a set of opt-in protections for
+ChatGPT
+users. It’s also partnering with
+Yubico
+to create two new security key products that will help protect users from phishing.
+The
+U.K. AI Security Institute
+, a government group that tests AI models for dangerous capabilities, says
+OpenAI’s
+latest
+GPT-5.5
+model
+is roughly on par
+with
+Anthropic’s Claude Mythos
+model in some cybersecurity tasks. Across the pond, the
+U.S. National Security Agency
+is using Mythos
+to find security flaws in
+Microsoft
+software, Bloomberg reported Thursday."
+SAP Moves to Block OpenClaw and Other Unauthorized AI Agents,2026-05-04T13:00:47Z,Kevin McLaughlin,https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents,"Some enterprise software companies are worried enough about customers using AI agents to access their data that they’re planning to install tollgates to their apps. And then there are software companies like
+SAP
+.
+Last month, the $200 billion German firm published a
+policy document for customers
+, suggesting it would ban them from using external AI agents to access data they store in SAP apps without the company’s official endorsement. SAP didn’t specify which AI agents it was targeting with the policy. Its warning could apply to AI agents developed by rivals such as Salesforce and ServiceNow, as well as tools like OpenClaw.
+The move amounted to an escalation in the brewing data wars between incumbent business app makers and the AI customers are using to get work done inside those apps or to move data out of the apps so the AI can analyze it.
+SAP said customers could face “throttling, suspension, or termination of access” if they don’t comply with the new rule. (The vast majority of Fortune 500 companies use SAP for managing supply chains, manufacturing or human resources.)
+In a call with analysts in April, SAP CEO Christian Klein said that customers shouldn’t worry about the new policy and that the company wants “to have an open platform.” SAP, he said, has to take new measures to slow down “mass data requests” that could cause “performance issues” with applications if they aren’t kept on a leash.
+He also said SAP will “protect” the “intellectual property” it weaves into its products to help customers understand their business processes and the relationships between different kinds of data, such as which customer placed a specific order and which warehouse handled it. External AI agents need to access such information, defined in industry parlance as semantic models or ontology, to analyze a customer’s data, according to a former SAP manager.
+SAP’s move is a sign that the company is feeling threatened by the AI tools customers are using to do their work. In theory, agents could lessen software customers’ need to buy more licenses based on the number of workers who access business apps. External AI agents also could threaten sales of SAP’s main AI product, an assistant called Joule, which aims to help customers speed up the collection of payments from customers, analyze contracts, reorder products and handle customer service inquiries.
+Some SAP customers feel Joule’s capabilities lag those of Claude and Microsoft Copilot agents, which is why they’ve been using those AI tools to pull data out of SAP, said the former SAP manager. SAP customers can use AI agents for tasks such as determining why their customers’ purchasing patterns have changed or figuring out the reason for a delayed product shipment.
+Mercedes Cuts Down on SAP
+In another example of new pressures SAP faces, longtime customer Mercedes-Benz says it has reduced its SAP instances—copies of the software employees use—40% to 600 in recent months, according to Chief Information Officer Katrin Lehmann. The carmaker used its own AI models and those from frontier labs—a term that usually refers to OpenAI and Anthropic—to clean up its data, including in SAP apps, to help its other AI tools work better.
+SAP CEO Christian Klein via Getty
+People who represent SAP customers find its new AI policy concerning.
+“SAP is changing the rules midgame on how customers can get their own data out of their own SAP systems, and that hits every [chief information officer] who built an AI road map assuming open access to” data in SAP’s apps, said Mietske van Ravesteijn, a commercial lead at Redress Compliance, which negotiates software licensing agreements.
+Firms such as SAP have plenty of reasons to be concerned about the AI agent threat from OpenAI and others. During an investor presentation earlier this year, for instance, OpenAI leaders said they expected the company’s future products targeting businesses to replace software from firms including Salesforce, Workday, Adobe and Atlassian, The Information reported.
+SAP’s shares are down around 28% this year and more than 40% over the past 12 months, largely due to investors’ fears about how AI could affect its business. AI threats don’t appear to have impacted its revenue growth and profits so far. Similarly, Atlassian shares soared last week after the software firm reported a big jump in revenue, suggesting AI hasn’t hit it hard either, though its stock price is still down 40% this year.
+A spokesperson said in a statement that “SAP is working with its partners to define access” for AI agents and that the company already allows customers to use agents powered by Microsoft, Google, Amazon and IBM to access their data in SAP apps. They said SAP has “great engineering collaboration with different frontier AI companies, including Anthropic, and we will be publishing more agentic integration architectures soon.”
+That suggests SAP may be near a deal to allow Anthropic’s Claude Code or Cowork customers to access their data in SAP. (Spokespeople for Anthropic and for OpenAI, which is developing its own product for creating AI agents that access enterprise apps, didn’t respond to requests for comment.)
+On the other hand, the spokesperson said, “open-source AI agent harnesses” like OpenClaw have “documented security and enterprise readiness risks that must be assessed before connecting them to productive enterprise systems.”
+‘Short-Term Pain’
+Klein, on an earnings call last month, said SAP and its software peers are likely to experience “short-term pain” as they figure out how to develop and sell AI products.
+Some of SAP’s peers are striking a similar harsh tone toward external AI agents. Executives at Workday and HubSpot have
+indicated they’re not happy with AI agents
+tapping data in their systems. Workday, Salesforce and ServiceNow have said they would essentially erect tollgates to monetize such traffic, a departure from the free flow of data most software companies have allowed between their applications and others in the past.
+SAP leaders have long sought to protect the company’s status as a central place where customers store their data. Several years ago, these leaders, including Klein, became concerned that some customers were using other software firms’ analytics tools to handle data they stored with SAP, according to the former manager. The same issue has arisen in the generative AI era, as customers now use the latest tools from AI firms to analyze their SAP data, this person said.
+AI agents pose a similar kind of threat. Many SAP customers build custom software to map out the multiple steps needed to complete tasks like approving expense reports, processing invoices and bringing on new employees. Customers can’t take this code with them if they switch to another provider, which helps SAP keep them in the fold. But agents typically tap applications from multiple providers to carry out their work, which means customers don’t have to rely as much on SAP applications."
