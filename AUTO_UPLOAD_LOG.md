@@ -150,3 +150,7 @@
 - target_date: 2026-05-05
 - csv: daily_csv/2026-05-05.csv
 
+## Daily 2026-05-07T12:00:02.569520+08:00
+- target_date: 2026-05-06
+- csv: daily_csv/2026-05-06.csv
+
