@@ -1,0 +1,425 @@
+﻿标题,时间,作者,链接,内容
+The Problem With Fast Follows,2026-05-08T00:35:05Z,Katie Roof,https://www.theinformation.com/newsletters/dealmaker/problem-fast-follows,"How soon is too soon to raise a new funding round?
+I’ve been covering venture capital long enough (more than a decade!) to remember that the hottest startups used to raise financing every 12-18 months. Then it was 9-12 months. Then 6-9 months. And now…two months? Two weeks?
+Recently, a wave of both early and late stage startups have been raising new rounds of capital
+right
+after closing other ones, in what some are calling “fast follows.” The latest example is Core Automation, a startup incorporated by a star-studded list of AI researchers in late March, about the time it was raising $100 million at a $1 billion valuation from investors including Nvidia, Accel and Spark Capital.
+Now,
+my colleagues reported Thursday
+, the startup is aiming to raise between $300 million and $500 million at a valuation of around $4 billion.
+There are multiple reasons for the quickened pace. First, venture capitalists still have money to invest thanks to initial public offerings in 2020 and 2021, which helped them raise
+mega funds in the last few years. Investors need to deploy these funds and the surplus of capital means they are often banging down the doors of the hottest companies to take their money.
+What’s more, companies including Nvidia are eager to invest in prospective customers. The presence of these strategic investors means venture investors can expect that, if the startup seeks to raise more money, it’ll have deep-pocketed backers that can afford a higher price.
+And, of course, cash-hungry businesses like the makers of AI models and
+orbital data centers
+are often more than enthusiastic about taking the money.
+The result of all this is that the valuations that startups announce may not be what they seem. Some startups are announcing the higher valuation of a two-part round, industry observers tell me, while listing the lead investors who put the bulk of their money in the lower-priced round.
+It’s easy to see why: the company still gets the prestige of the higher number and the big name investors, but those investors don’t invest most of the capital at the higher price. In this echo chamber of an industry, creating an illusion of high demand can sometimes cause it to be a reality.
+This dynamic is making startup investing more expensive for everyone, Pegah Ebrahimi at FPV Ventures, an early stage VC firm, says. “It drives up prices irrationally and it’s bad for the industry long-term,” she said. But it won’t last. The current tactic only works in boom times, she said."
+CoreWeave’s Balancing Act,2026-05-08T00:00:46Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/coreweaves-balancing-act,"If you’re getting dizzy watching CoreWeave’s balancing act, you’re not alone. The AI cloud startup reported first-quarter numbers Thursday evening showing that its business is ramping up quickly—revenue doubled in the quarter to $2 billion compared to the year-earlier period—but its investment spending and operating expenses are also taking off. It’s no wonder CoreWeave is synonymous with the high-stakes gamble that underpins so much of the AI revolution.
+Here’s some earnings porn to ponder. CoreWeave’s capital expenditures—the money it is spending building its network of data centers—rocketed to $7.7 billion in the quarter from $1.4 billion a year earlier. As a result, it burned $4.7 billion in cash in the quarter—two-thirds of its cash burn for all of 2025! The full-year 2026 figures are likely to be even more eye-popping. CoreWeave is now projecting between $12 billion and $13 billion in revenue for 2026, but as much as $35 billion in capex.
+For all the chatter about big tech’s huge capex bills, companies like Alphabet and Amazon are typically spending about half or a third of their revenue on capex. CoreWeave is spending three times its revenue on capex this year. Investors seem nervous: The stock fell 8.7% in after-hours trading, after dropping 6.6% during the day.
+Sure, CoreWeave is building a cloud provider that aims to compete with the big firms, from nearly a standing start. Unlike those bigger firms, CoreWeave doesn’t have a cash-printing sibling business to pay the bills. So it’s got to borrow lots of money to build its facilities. And while a handful of big companies like Meta Platforms, OpenAI and Anthropic have committed to using those facilities in the coming years, there’s still lots of risk. What happens if those companies pull back on their own AI spending?
+Consider: CoreWeave finished the quarter with $24.8 billion in debt on its balance sheet but only about $3 billion of cash. And two-thirds of that cash is thanks to an equity investment from Nvidia during the quarter. When Nvidia CEO Jensen Huang
+said recently
+, “If we didn’t help CoreWeave exist, they would not exist,” he wasn’t kidding.
+Broadcom, OpenAI and Microsoft
+Speaking of AI financing, if you want a peek inside the high-stakes negotiations between some of these companies,
+check out my colleague Anissa Gardizy’s piece today
+on the Broadcom-OpenAI chip negotiations.
+OpenAI is trying to get Broadcom to finance the first $18 billion phase of production for a custom chip designed with Broadcom’s help—but Broadcom will only do so if Microsoft commits to buying 40% of the chips.
+There’s no guarantee Microsoft will do that, as the story explains. You can imagine where this scenario might lead. The story is worth a read.
+In Other News
+•
+Airbnb’s revenue growth accelerated to 18% in the first quarter, from 10% in the previous two quarters, although the accommodation hosting service projected slightly slower growth for the second quarter.
+• Datadog shares rose around 30% after the company reported that revenue grew 32% in its March quarter and raised its full-year projection to 26% growth.
+• Coinbase, the biggest U.S. crypto exchange, reported first-quarter revenue of $1.4 billion, down 31% from a year ago amid a crypto market downturn. Shares fell 5% in after-hours trading."
+Ex-OpenAI Researcher’s Six-Week-Old Startup Targets Funding at $4 Billion Valuation,2026-05-07T23:33:37Z,Stephanie Palazzolo,https://www.theinformation.com/articles/ex-openai-researchers-six-week-old-startup-targets-funding-4-billion-valuation,"Nvidia’s investment spree in startups that use its AI chips has stoked traditional venture capital firms’ interest in those companies. That has paved the way for brand-new startups taking on Anthropic and OpenAI to raise back-to-back funding rounds, sometimes in a matter of weeks.
+In the latest example, Core Automation, an AI model developer
+founded in late March
+by ex-OpenAI researcher Jerry Tworek, is aiming to raise between $300 million and $500 million at a valuation of around $4 billion, according to people who have spoken to the company’s leaders. The new fundraise comes just weeks after the company raised $100 million at a $1 billion valuation, some of the people said. Nvidia invested in the earlier round, one of the people said.
+The discussions are early and the terms could change. Spark Capital and Accel also invested in the startup’s initial funding.
+Core Automation is trying to develop models that can learn new skills or knowledge on the fly from real-world experience, one of the people said. It isn’t close to releasing a product, this person said.
+The success of Anthropic and OpenAI, which are both on pace to generate tens of billions of dollars in revenue, has prompted numerous researchers at those firms and others to try to strike out on their own. Core Automation is one of several such startups developing AI using methods that they believe the bigger AI developers have overlooked.
+But just like those incumbents,
+the younger AI startups, known as neolabs
+, need access to large chip clusters to train these models, which can cost hundreds of millions of dollars or more.
+That’s prompting the neolabs to fundraise frequently. Venture investors have also grown to expect that Nvidia will write a big check in multiple funding rounds, boosting demand for the shares.
+In the past year, Nvidia has invested in dozens of startups, sometimes multiple times,
+as it acts like a kind of central bank for the industry
+. The strategy ensures that Nvidia’s unproven customers have some capital to pay for its costly hardware. The idea behind the chip designer’s bets is that some of the startups will eventually be able to afford the chips on their own, though it recently committed to invest $10 billion in Anthropic and tens of billions in OpenAI as those firms’ capital needs show no sign of subsiding.
+While Nvidia’s investment in a startup may boost that company’s chances of raising again, Nvidia doesn’t typically set the price of the shares in the round, even if it writes the biggest check.
+Continual Learning Model
+Tworek led OpenAI’s work on reinforcement learning, a training technique that rewards a model for accomplishing certain goals and penalizes it for other behaviors. He co-founded Core Automation with ex-Anthropic and Google DeepMind researcher Rohan Anil and Joanne Jang, who previously led OpenAI’s work on model behavior and new interfaces for AI.
+Other cofounders include Google DeepMind researcher Anmol Gulati and OpenAI’s former Chief People Officer Julia Villagra.
+The startup is planning to develop models that can continue to learn and improve even after they’re trained, an approach known as
+continual learning
+. It’s also taking a number of unorthodox approaches to model development, such as combining all the stages of model training into a single stage and using less training data than other AI developers.
+Tworek has previously told investors that the company is aiming to develop an AI agent to automate development of the company’s products, which is similar to efforts OpenAI and Anthropic to make AI that can improve itself continuously. Tworek envisions the company’s future product will first work on industrial automation, eventually building “self-replicating factories” and potentially building biomachines to automatically create custom designs—or even terraform planets.
+His and other neolabs face steep odds, especially as the
+price of GPU rentals surge
+, squeezing startups.
+Some high-profile neoloabs have struggled to retain their talent as the financial draw of OpenAI and other major developers remains strong. For instance, Thinking Machines Lab, a neolab cofounded by former OpenAI Chief Technology Officer Mira Murati, raised at an expensive price—$10 billion—five months after its founding. Since then, it’s lost a
+number of its cofounders
+. Safe Superintelligence Inc., co-founded by ex-OpenAI research chief Ilya Sutskever, lost its CEO, Daniel Gross, to Meta Platforms last fall.
+Other firms led by star-studded AI figures that quickly garnered eye-popping valuations have had some luck, however. In 2024, Google hired the founders of Character.AI, then three years old, in a $2.7 billion deal."
+Anti-Drone AI Startup in Talks for $2 Billion Valuation,2026-05-07T19:32:54Z,Julia Hornstein,https://www.theinformation.com/articles/anti-drone-ai-startup-talks-2-billion-valuation,"Allen Control Systems, a four-year-old startup building an autonomous weapons station that can shoot down drones, is aiming to raise new funding at a valuation of $2 billion before the investment, according to two people with knowledge of the efforts. The startup is targeting a round size of roughly $200 million, the people said.
+The company’s target valuation would be over 14 times its last round, a remarkable increase even compared to the recent financings of other defense-tech startups. The startup has won some government contracts, including a $2 million Defense Department deal awarded in January.
+A little over a year ago, the Austin, Tex.,-based startup said it had raised $30 million in a round led by Craft Ventures. That fundraise valued the company at roughly $140 million before the investment, according to one of the people. It’s not clear which investors are considering investing in the latest round.
+The company is trying to raise more money as the commercial success of Anduril and SpaceX buoy investor interest in venture-backed startups trying to unseat large, established defense and aerospace companies. Venture capital defense tech deals surged to just shy of $50 billion last year, up from about $27 billion the year before, according to data firm PitchBook.
+Allen Control Systems’ weapon station, called Bullfrog, uses AI and computer vision to target drones and shoots them down by autonomously operating a rifle attached to the company’s turret. Drones have become increasingly prevalent on the battlefield, particularly in Ukraine, where officials estimate that
+roughly 70%
+of all Russian and Ukrainian casualties are caused by drone strikes.
+The company was co-founded by tech entrepreneurs CEO Mike Wior, President Steve Simoni and CTO Luke Allen, after whom the company is named.
+Wior previously co-founded biotech startup Nanos Health and Omnivore, a restaurant tech startup that sold to restaurant SaaS platform Olo. Simoni previously founded restaurant tech startup Bbot, which was acquired by DoorDash in 2022, and served in the Navy, working on instrumentation and control systems for nuclear reactors. Allen previously co-founded and served as the CTO of Bbot and worked as a reactor engineer in the Navy.
+Allen Control Systems competes with products developed by large government contractors as well as those from other startups. German defense contractor Rheinmetall makes a suite of remote-controlled weapon stations, while Norwegian defense company Kongsberg produces its own competing product.
+Other startups are also making their own technology to counteract drone strikes. Epirus, which last raised $250 million in March 2025, makes a high-power microwave technology to intercept drones. Anduril, which is
+raising roughly $4 billion at a $60 billion valuation
+, makes a small drone called Anvil designed to intercept other small autonomous drones.
+Allen Control Systems will rely on government contracts for revenue, which couldn’t be learned."
+OpenAI’s AI Chip Deal With Broadcom Hits $18 Billion Financing Snag,2026-05-07T18:09:40Z,Anissa Gardizy,https://www.theinformation.com/articles/openais-ai-chip-deal-broadcom-hits-18-billion-financing-snag,"When
+OpenAI
+and chip designer Broadcom announced last fall that they would make custom artificial intelligence chips together, they positioned it as a done deal.
+The companies said the deal would bring enough chips online before 2030 to consume 10 gigawatts of power, equivalent to five Hoover Dams’ worth of electricity, in a bid to lessen OpenAI’s costly dependence on Nvidia hardware.
+What they didn’t say was that they hadn’t figured out how OpenAI would pay for the project.
+Months later, the companies are negotiating an agreement for Broadcom to finance the first phase of chip production, which would consume 1.3 GW of data center capacity and would cost around $18 billion, according to an internal memo and two people involved in the talks. At that rate, the full 10 GW program, code-named Nexus, could cost $180 billion in chip production alone before factoring in data center construction and other costs.
+Securing the financing is important for OpenAI because the ChatGPT maker has projected its operations will burn more than $200 billion through 2029. Using its own chips is central to OpenAI’s ambition to lower its server costs and improve its gross profit margins.
+But the negotiations have run into a potential problem. Broadcom has said it would finance the first phase only if Microsoft agrees to buy roughly 40% of the chips, an OpenAI executive told colleagues in a memo last month. Microsoft would install the chips in its data centers and then rent them back to OpenAI.
+A purchase commitment from Microsoft, one of the world’s most creditworthy companies with decades of data center experience, would give Broadcom confidence it would get its money back, said a person involved in the talks.
+But Microsoft could choose not to buy OpenAI’s chips, which would change the financing terms for the project, the memo said.
+The draft chip agreement includes a provision requiring OpenAI to find alternative buyers if Microsoft’s purchases fall short, according to the memo and the two people involved in the discussions.
+A shortfall seems likely. While Microsoft has earmarked some data center space for the chips, according to a person who spoke to a senior Microsoft executive about it, it hasn’t agreed to purchase them, according to someone involved in the deal.
+However, as of last month, Broadcom officials apparently had a different understanding of the situation. Because OpenAI and Microsoft “have not disclosed the full nuances of our relationship, Broadcom does not fully appreciate that risk and believes it is within [OpenAI’s] control to require Microsoft to make the purchase,” the memo said.
+“The persistent programmatic risk is that Microsoft does not ultimately come through” and buy OpenAI’s chips, the memo said.
+Of course, it wouldn’t be difficult for Broadcom to verify Microsoft’s purchase order for the OpenAI-designed chips if it needed to do so. Broadcom and Microsoft also have a direct business relationship involving a custom AI chip.
+As of last month, Broadcom and OpenAI were working to sign a “conditional” agreement so Broadcom could “confidently allocate” manufacturing capacity at Taiwan Semiconductor Manufacturing Co. for the OpenAI chip, the memo said.
+“There is timing urgency driven by Broadcom’s scarce TSMC allocation to support 2027 demand,” the memo said. (TSMC also manufactures advanced AI server chips for Nvidia.)
+OpenAI has made a habit of announcing landmark partnerships without ironing out the details. A month before the Broadcom announcement, for instance, OpenAI said Nvidia would provide up to $100 billion in funding, allowing OpenAI to build its own data centers and use Nvidia’s chips to power them. The headline-making deal eventually fizzled, though Nvidia later made a $30 billion equity investment in OpenAI.
+In tandem with that investment, OpenAI agreed to use 5 GW of advanced Nvidia systems, which could squeeze the data center capacity OpenAI’s partners have, limiting its ability to roll out its own chip.
+And in January 2025, OpenAI announced Stargate, a joint venture with SoftBank and Oracle to spend $500 billion developing data centers. But
+the effort floundered as the three sides disagreed over details and lenders balked
+at backing multibillion-dollar projects tied directly to a company with an unproven business model.
+Holy Grail
+Developing AI server chips has been a holy grail for the world’s biggest AI developers and cloud providers, which largely depend on Nvidia chips.
+Google started working with Broadcom to design such chips more than a decade ago; that effort helped Google reduce its dependence on Nvidia and improve its profit margins. Other firms, including Meta Platforms and Microsoft, have made similar agreements with Broadcom to produce custom AI chips, known as application-specific integrated circuits, as their spending on expensive Nvidia servers ballooned.
+Both Meta’s and Microsoft’s AI chips have struggled, though both companies are pushing forward with their efforts.
+OpenAI CEO Sam Altman started thinking about a custom AI chip as early as 2023.
+He spoke to TSMC about creating a new company for the chip and producing it through dozens of new chip factories
+. But by the following year, he had whittled down the multitrillion-dollar idea. He started hiring former members of the Google chip unit to work at OpenAI, and they started talking to Broadcom about designing a chip together.
+The Jalapeno Chip
+While pressing ahead with the custom chip, Altman struck deals for OpenAI to rent Amazon’s custom AI server chips and ones made by Cerebras, a startup with strong ties to OpenAI’s co-founders. OpenAI also has said it would use chips from Nvidia rival Advanced Micro Devices.
+OpenAI’s first custom chip, code-named Jalapeno, is designed to power its existing models more efficiently than Nvidia’s general-purpose graphics processing units, according to someone with direct knowledge of its design.
+“It became clear to us just how much inference capacity the world was going to need,” Altman said in a joint interview with Broadcom when they announced the deal last fall. “We began to think about, ‘Could we do a chip that was meant just for that kind of very specific workload?’”
+OpenAI and Broadcom originally targeted getting the inference chips online in the second half of this year. More recently, though, the companies expected the majority of the Jalapeno chips would not be ready until 2027, according to several people familiar with the program. Design work on the next-generation chip, code-named Serrano, is underway, those people said.
+Microsoft’s ‘Leverage’
+The negotiations to finance the chip show Microsoft’s continued sway over OpenAI despite a series of agreements over the past year or so that gave OpenAI more freedom to work with other companies. Previously, Microsoft was OpenAI’s exclusive cloud provider for Nvidia chips and had other exclusive rights to use OpenAI’s intellectual property.
+Microsoft “has always had…leverage” on the chip program, and OpenAI has spent “relentless effort and substantial time” trying to get a firmer purchase commitment, the memo said.
+Sachin Katti, an OpenAI executive responsible for the company’s cloud deals and chip program, has questioned the proposed Broadcom deal. He told colleagues in a message last month that making a Microsoft purchase commitment as a condition of the financing sets a precedent that “really hampers us long term,” though he didn’t elaborate. He also said Microsoft’s involvement made the deal “financially unattractive.”
+“We are doing it anyway for the strategic value,” he said. “Just flagging that this commercial structure is likely unworkable” for the second generation of the chip and beyond.
+From left: The OpenAI Podcast host Andrew Mayne; Broadcom’s Charlie Kawwas and Hock Tan; Open AI’s Sam Altman and Greg Brockman in October 2025. Screenshot via YouTube
+One issue is that Microsoft designs data centers to host all kinds of chips, whereas OpenAI wants to put its chips in specially designed data centers that can operate them more efficiently, according to a person involved in the deal.
+OpenAI plans to host some of its AI chips in data centers controlled by Oracle’s cloud unit, executives have said privately. It’s not clear whether Oracle would buy the chips from OpenAI and rent them back to the ChatGPT maker or merely rent out data center space to OpenAI, which would fill the space with servers powered by its new chips. (OpenAI currently rents Nvidia servers from Oracle Cloud and is contracted to spend around $300 billion with the cloud provider over the next six years or so.)
+Despite the risks from Microsoft’s sway, talks between Broadcom and OpenAI have been progressing. Broadcom had long insisted that OpenAI put up one dollar of its own for every dollar Broadcom provided in financing, a typical arrangement to limit the chip vendor’s risks. That requirement had become a sticking point in the talks, according to the memo and an executive involved in the talks.
+But Broadcom recently decided to relax that demand and invest more capital up-front than OpenAI, breaking from Broadcom’’s “long-held hard-line requirement,” the OpenAI memo said."
+Microsoft Cuts Copilot Bloat,2026-05-07T17:30:26Z,Aaron Holmes,https://www.theinformation.com/newsletters/applied-ai/microsoft-cuts-copilot-bloat,"After Microsoft bought the rights to use OpenAI’s technology for free, Microsoft developed a case of Copilot fever, launching Copilot-branded AI features in dozens of products, from Office and Bing to PowerBI and Dynamics.
+Microsoft appears to be dialing it back a bit, seemingly in response to complaints from customers that the Copilots are unnecessary or annoying. This week, for instance, newly appointed Xbox CEO Asha Sharma announced that Gaming Copilot, a chatbot built into Xbox’s mobile and PC gaming apps, would be wound down.
+That followed a similar move in March by Pavan Davuluri, who runs Windows, in “reducing unnecessary Copilot entry points” in Windows 11, including the Copilot chatbot that showed up in Photos, Widgets and Notepad apps. Davuluri said in a blog post that the decision was based on feedback from Windows users who “want it to be better.”
+It now seems likely that Microsoft will continue to cull Copilots as it tries to streamline its AI efforts. CEO Satya Nadella earlier this year carried out a large reorganization that combined the consumer and enterprise versions of Copilot into a single organization, in part to make the company’s AI product strategy less redundant.
+“It’s critical that we remove Copilot from places where it doesn’t live up to its promise,” Microsoft executive vice president Jacob Andreou said Tuesday in a now-deleted post on X. Andreou, who was elevated during Nadella’s recent restructure, is leading the now-combined product groups building Copilot.
+In Microsoft’s apps, Copilots typically show up as a sidebar featuring a cheery AI assistant in a text box. It can summarize what people see on their screens, such as giving an overview of a website, explaining what different system settings do, or copying data from an online source into an Excel document, for instance.
+Not every customer was a fan. While some said they got a lot of mileage out of certain Copilot features—like those that transcribed and summarized Teams meetings or drafted emails—I subsequently heard from customers that other auxiliary Copilots ranged from
+unnecessary
+to “
+functionally useless
+.”
+It makes sense that Microsoft would roll back some of its vestigial Copilots now that it’s demonstrating stronger momentum in boosting revenue in Microsoft’s core software business. Nadella has said he wants Microsoft to focus on Copilot features that enterprise customers find valuable, such as its Office 365 Copilot, which saw a 33% surge in paying users last quarter. 365 Copilot is powered in part by new Anthropic models and can automate workplace errands like booking meetings, generating PowerPoint presentations, or creating financial models in Excel.
+The moves could also lead to less confusion among potential Copilot customers. In one recent illustration of the Copilot bloat, the tech commentator Tey Bannerman
+tallied
+the number of distinct Copilot products at 81 (although the figure was arguably inflated because it treated the same Copilots as being different if they were part of different pricing tiers). Bannerman’s visual went mildly viral and also got the attention of lots of Microsoft staff, according to two current employees.
+Microsoft’s narrowing focus is reminiscent of how other AI companies are dialing back product bloat. OpenAI has been trying to unify its products into a single “super app” and eliminate “side quests” (
+although progress on that front has been debatable
+).
+There could also be a financial upside to culling unpopular Copilots: Microsoft said during its quarterly earnings last week that the cost of running some of its Copilots was dragging down margins in some corners of its business, even as it makes Copilot run more efficiently. Winding down Copilots, especially those in Windows that people aren’t paying extra for, could help ease that margin pressure."
+"The Electric: In Beijing, a Sign That Chinese EV Makers Aren't Invulnerable",2026-05-07T16:06:26Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-beijing-sign-chinese-ev-makers-invulnerable,"One thing no one tells
+you about going to China is that it’s pretty easy to obtain a temporary local driver’s license. With some help from electric vehicle maker XPeng, I got mine at Beijing Capital International Airport on the way to the Beijing Auto Show, which ended this week.
+I attended the show to answer a nagging question: Is the West as uncompetitive as is commonly believed compared with Chinese car and battery makers?
+I’ve been writing about this for years, but the shift in China’s competence is hard to understand unless you go there. I hadn’t been
+to China since before the pandemic.
+A lot has happened in the interim. China, in serious pursuit of manufacturing and technological competitiveness, has raced past the resources and capabilities of Western automakers. The auto show did feature impressive cars made by General Motors, Volkswagen, Mercedes-Benz and other Western companies, but they were mostly designed and manufactured in partnership with Chinese companies, and—bafflingly—largely not for sale in the U.S. or Europe.
+The Chinese cars, meanwhile, had all the key features of the Western models and more, often as standard equipment and always at a far cheaper price.
+But I also found signs of openings—weaknesses Western companies could exploit with some shrewdness. In BYD’s expansive exhibit at the show, taking up an entire hall, the company displayed its new Blade 2.0 battery. The exhibit made much of this battery’s ability to flash-charge in just five minutes.
+That battery, it turns out, is horribly inefficient. The BYD Seal 07 sedan delivers just 3.8 miles of driving range per kilowatt-hour of battery. By comparison, the Tesla Model 3 delivers 4.1 miles, and the Lucid Air Pure a whopping 5.0.
+As a consequence, with the same size battery—let’s say 70 KWh—the BYD would deliver 266 miles of driving range, compared with 287 for the Tesla and 350 for the Lucid, 31% better.
+That means the BYD would require a larger and costlier battery for the same range. If Western carmakers can capture that efficiency advantage, they would be able to lower their prices closer to BYD’s.
+This efficiency disparity appears to be one of the vulnerabilities that Ford means to capitalize on
+in its plans
+for a $30,000 electric midsize pickup next year aimed at challenging the Chinese models. Ford hasn’t disclosed the efficiency of the pickup’s battery, but it has hinted that the design emphasizes aerodynamics, a key factor in overall efficiency.
+That the Blade is so inefficient is eye-opening considering that BYD is one of China’s best battery makers, neck and neck with Contemporary Amperex Technology Ltd. BYD can, of course, work to shore up its own aerodynamics. Still, efficiency is a category where Western carmakers have a rare advantage.
+At the auto show, I made a beeline to the under-$10,000 Chinese models that put Western carmakers into a panic a couple of years ago. Of course, these models cost more than double that price in Europe and elsewhere outside China, when you include tariffs and other costs. But these low-cost Chinese cars bear a look.
+I first had a look at the EVs made by Wuling Motors, a joint venture between GM and state-owned SAIC Motor. Chinese consumers have snapped up these EVs for as little as $4,500, buying more than 650,000 of them last year alone.
+Dominating the Wuling booth was the Bingo, a micromini EV whose back seat was crammed with stuffed animals. When you looked past the dolls, the car felt and looked a lot like the early VW Bug. It had plain functional pedals on the floor and doors that, while they didn’t feel like they would fall off tomorrow, lacked the solid thump of those on the more expensive cars in the show.
+Then I moved to the BYD Seagull, a microsedan whose $8,000 price aimed a broadside at Western offerings. It’s a bit larger than the Bingo but doesn’t reach the minicar category—yet it was spacious enough. The seats did not feel like those of an $8,000 car. In a nice touch, the Seagull had a built-in eyeglasses case just above the driver-side door.
+When you shifted your focus away from these cheap EVs to cars costing roughly $30,000 and above, you found certain de rigueur features, like a zero-gravity seat. These are dead-comfortable, loungey seats like you have never sat in, with the headrest in the perfect spot and various kinds of massage and vibration for different parts of your back. You can pull the sides in to hug your body in a supersnug, comfortable way.
+All of these cars featured standard advanced driver assistance systems, which generally cost extra in the West. Another standard feature
+in virtually all the Chinese vehicles I inspected was a refrigerator between the two front seats, accessible from the back. And I do not mean a
+cooler
+, such as those we see in some vehicles in the West, but honest-to-God fridge-heaters that can cool something to 20 degrees Fahrenheit and heat it to around 100—not hot enough to cook anything, but sufficient to make it warm. “It’s mainly designed for a child. A baby can have some hot milk,” one salesperson told me.
+The first place I encountered these features was in Xiaomi’s exhibit, a rite of passage for those seeking to understand the Chinese EV mania. In 2024, Ford CEO Jim Farley famously kicked off this tradition by saying he had been driving the Xiaomi SU7 sedan for six months, having had it specially flown from China to Chicago for his use, “and I don’t want to give it up.”
+One big feature of the Xiaomi vehicles is that they integrate with the other Xiaomi products Chinese consumers already own, like fridges, rice cookers, microwaves, and especially smartphones. From their car before they get home, they can ask Xiao Ai Tongxue, the company’s voice assistant, to execute some household duties, such as turning on their home air conditioning, fixing a cup of espresso and switching on some music.
+OK, cool, but what about driving the car? The first thing you notice is how you sink into the zero-gravity seat. The salesperson said that if you are driving, you can’t turn on the massager. But if you are stopped—say, charging your battery—it’s pretty nice to have. “If you feel tired, a little massage on the back makes you a little bit awake,” she said.
+This year, Xiaomi hopes to sell 550,000 cars, 34% more than its sales last year. Next year, it plans to be selling its cars in Germany, followed by elsewhere in Europe. But at home at least, it will have to offer all these features as standard equipment. “Chinese won’t pay for software,” my Xiaomi guide told me.
+Once I got my license, I took the XPeng P7 for a 45-minute spin near the Beijing airport. This is an opulent car that I
+wrote about last year
+after seeing it in Munich. The drive was almost entirely hands-free using its autonomous driving function, which requires only that you touch the wheel and keep your eyes on the road.
+The ride was mostly ultrasmooth, but there were startling moments. In one case, we were turning right when seemingly from nowhere a delivery driver on a motorcycle sped straight through the crosswalk in front of us. The car stopped on a dime, waited for him to go, then resumed.
+Later, the car turned left from the wrong lane in front of a bus. Generally speaking, the car began making its turns before it engaged the signal.
+I’m not sure this sort of navigation is kosher in Beijing. But the manufacturers seem to think so."
+Treasury Department Demands Binance Compliance After Iran Crypto Reports,2026-05-07T16:05:38Z,Leo Schwartz,https://www.theinformation.com/articles/treasury-department-demands-binance-compliance-iran-crypto-reports,"The U.S. Department of the Treasury has privately demanded that Binance comply with a monitoring program U.S. regulators imposed on the crypto exchange in 2023, when it pleaded guilty to charges related to sanctions and anti–money-laundering violations, The Information has learned.
+The Treasury Department’s request—which it sent to Binance in a letter in the past few weeks—comes in the wake of recent reports that more than $1 billion flowed through the crypto exchange to Iran-linked entities in 2024 and 2025. The department’s demand is the first publicly reported signal of an aggressive action by the Trump administration toward the crypto giant. It comes as Binance’s separately managed American entity is
+seeking to rebuild
+its U.S. presence after its business collapsed following a 2023 lawsuit from the Securities and Exchange Commission.
+The request also comes as the U.S. seeks to put more economic and military pressure on Iran. Since the U.S. and Israel war with Iran began in February, the Treasury Department has
+made a push
+to target Iran’s shadow banking network and crypto access as part of a broader campaign it has dubbed “Economic Fury.”
+In the recent letter to Binance, Gene Lange, who is performing the duties of the Under Secretary for Terrorism and Financial Intelligence, reminded the company of its obligation to cooperate fully with the Treasury-imposed monitoring program, administered by Sullivan & Cromwell lawyer Sharon Cohen Levin, by sharing relevant information, such as critical data records and documents, in a timely manner. The letter was precipitated by a number of factors, including concerns raised by the monitor about Binance’s participation, The Information has learned.
+The letter stressed that Binance had to make specific executives and employees available for interview, including chief compliance officer Noah Perlman, global head of sanctions Astra Cai, and Jukai “Rock” He, a
+founding member
+of the company who has led its fiat business. The fiat division manages transfers between crypto and government-issued currencies. The letter also said that Binance had to provide information about former employees, including exit interviews and a list of departed staff.
+In a Binance response to Treasury reviewed by The Information, the company wrote that “we recognize the seriousness of past issues and have dedicated substantial time, resources, and attention to addressing them,” adding that it is striving to increase its transparency and expedite its responses.
+Binance has sought to cultivate warm relations with the president and his family. In early 2025, the company received a $2 billion investment from the Emirati state-backed investment firm MGX in the form of USD1, a stablecoin issued by the Trump family organization’s crypto project, World Liberty Financial. Binance has further incentivized its users to hold USD1. According to a Forbes
+analysis
+from February, the platform holds the vast majority of the stablecoin, the float from which generates interest for the Trump family.
+In October, Trump pardoned Binance’s founder, Changpeng Zhao, who pleaded guilty to Bank Secrecy Act violations and spent four months in prison as part of the 2023 enforcement action.
+But Binance has faced heightened scrutiny following
+media reports
+in February that the exchange had dismissed top internal investigators. They had uncovered evidence of more than $1 billion in the stablecoin Tether that traveled through Binance accounts, ultimately ending up in the hands of Iran-linked entities tied to U.S.-designated terrorist groups like the Islamic Revolutionary Guard Corps.
+As a result, Democratic lawmakers including Sens. Richard Blumenthal of Connecticut and Elizabeth Warren of Massachusetts opened inquiries into potential sanctions violations by Binance. In April, Blumenthal also sent
+letters
+to the Justice and Treasury Departments asking for details on Binance’s adherence to the 2023 agreement, including its compliance with its monitorships. The Justice Department has its own monitoring program administered by Frances McLeod, founding partner of consulting firm Forensic Risk Alliance.
+Binance has argued that the departure of the investigators was not related to the discovery of the crypto flows and that the company’s actions were consistent with applicable sanctions laws.
+A spokesperson for the Treasury Department declined to comment for this story. Levin, the department’s monitor, didn’t immediately respond to a request for comment.
+“Binance is committed to cooperating with the independent monitor,” a company spokesperson said in a statement. “We welcome constructive feedback from the Treasury.”
+Treasury Involvement
+Founded in 2017, Binance quickly grew to become the world’s largest crypto exchange. Its rapid ascendance came with regulatory and compliance growing pains, though. The 2023 joint enforcement action involving the U.S. Justice and Treasury Departments resulted in one of the largest corporate fines in U.S. history at $4.3 billion.
+As part of an arrangement stemming from the action, Binance pledged to eliminate activity that had led to the enforcement action, including illegal transactions between users in sanctioned jurisdictions such as Iran.
+Lange, the author of the recent letter to Binance, is tasked with making sure the company abides by its commitments. His office—Terrorism and Financial Intelligence—oversees the Financial Crimes Enforcement Network, which is responsible for monitoring Binance, as well as the Office of Foreign Assets Control, which enforces sanctions.
+The crypto flows to Iran-linked entities uncovered by internal investigators last year, however, offered evidence of money continuing to pass through the platform and ending up in sanctioned jurisdictions. For its part, Binance has argued in
+blog posts
+that the funds passed through multiple intermediary wallets before landing with sanctioned entities outside the platform. Still, an
+investigation
+by Fortune found evidence of suspicious behavior on Binance’s exchange, including an instance of an elderly Chinese user transferring hundreds of millions of dollars in crypto that moved to a cluster of wallets tied to the IRGC.
+Though Democratic lawmakers
+called for inquiries
+into Binance’s possible violations of U.S. sanctions laws, the Trump administration has not taken any public action. The Wall Street Journal
+reported
+in March that the Justice Department was probing Iran’s use of Binance to avoid sanctions, though The Wall Street Journal could not determine whether the Justice Department was investigating potential misconduct by Binance.
+A spokesperson for the Justice Department did not immediately respond to a request for comment.
+Jukai He, one of the executives the Treasury mentioned in the letter, has ties to a Binance account and payment vendor that facilitated the crypto transfers to Iran-linked wallets, according to The Wall Street Journal. Binance has said that He does not have any operational or supervisory role with the vendor and that it offboarded the account earlier this year.
+The letter wasn’t the first time the Treasury Department has sought to enforce the 2023 action. After Binance received an operating license from the United Arab Emirates in January, Treasury engaged with the Abu Dhabi financial regulator to understand how it’s supervising the exchange, The Information has learned.
+And earlier this year, Lange called Binance co-CEOs Yi He and Richard Teng, along with the company’s chief legal officer, Eleanor Hughes, to a March meeting at the Treasury Department’s Washington office. Around the same time, Teng spoke at a blockchain conference in Washington. Binance executives have held subsequent meetings with FinCEN and the monitor, The Information has learned. As a result of the letter, they now have standing monthly meetings."
+Why Musk is Giving xAI’s Servers to Anthropic; AI Video-App Developer Reka Acquires Video-Generating Startup,2026-05-07T14:00:09Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/musk-giving-xais-servers-anthropic-ai-video-app-developer-reka-acquires-video-generating-startup,"OpenAI
+and
+Anthropic’s
+servers are generally bursting at the seams, while
+xAI’s
+mountain of servers aren’t as busy, as we and others recently
+reported
+. That’s burning a multibillion-dollar hole in the pocket of new xAI owner
+SpaceX
+, which is trying to go public soon and is sure to receive tremendous scrutiny over its AI-related losses.
+So after xAI recently struck a deal to offload server capacity to AI coding assistant
+Cursor
+, which SpaceX is in the process of acquiring, xAI said Wednesday it’s handing over a
+considerable
+number of its
+Nvidia
+AI servers to Anthropic—300 megawatts’ worth to be exact, according to Anthropic, or more than 220,000 Nvidia AI server chips, according to xAI’s announcement about it. (To put it into context, that’s about one-sixth the server capacity OpenAI had at the end of 2025 for all its products as well as training clusters.)
+The deal essentially involves the entire Memphis
+Colossus
+facility that xAI chief
+Elon Musk
+crowed about more than a year ago and which (at the time, at least) put a scare into competitors like OpenAI because of how quickly his team built it.
+It turns out Musk was sacrificing speed for quality, as my colleagues Theo and Valida showed in a
+piece
+on Tuesday. And since then xAI’s
+Grok
+AI didn’t exactly take over the world, meaning it wasn’t clear why Grok would need so many servers. Anthropic, meanwhile, has been desperate for solutions to its
+rising compute crunch
+because its
+Claude
+model
+is
+taking over the world, unlike Grok.
+The question now is whether xAI is giving up on competing against Anthropic and OpenAI at the frontier of AI developments. We’re sure Musk would say “no,” given how much energy and money he has put into the effort, but it’s a legitimate question because Anthropic is a direct rival to xAI and Musk has gone out of his way to criticize and lampoon Anthropic in recent years.
+Just as important is whether the deal will solve all of Anthropic’s growing server problems, considering it will need to get Colossus to work better than it has for xAI.
+Anthropic is likely paying xAI (soon to be named
+SpaceXAI
+, per Musk) billions of dollars a year for the Colossus capacity, revenue that could start to show up in SpaceX’s second quarter results. If you know what rental rate Anthropic is paying per GPU per hour or how it compares to rental prices at Google and Amazon, we’d love to hear from you.
+—Amir Efrati
+Here’s what else is going on…
+AI Video-App Developer Reka Acquires Moonvalley
+Dealmaking has shown no signs of slowing down in the AI sector, demonstrated by
+SpaceX’s
+getting an option to buy
+Cursor
+for $60 billion.
+In another recent example, three-year-old
+Reka
+AI has acquired video generation startup
+Moonvalley
+in an all-stock deal, according to two people with knowledge of the deal. Reka develops software to help businesses ask questions about and search through their video and image content, as well as AI to conduct research and generate audio.
+Toronto-based Moonvalley, founded in 2023, was known for developing video generation models on licensed data to avoid copyright infringement issues. It had raised $154 million in funding from marquee investors including
+General Catalyst
+,
+Khosla Ventures
+and
+Y Combinator
+, so we imagine its acquisition was worth at least that much.
+The deal could be a sign of what’s to come for the flurry of upstart model developers and neolabs that have emerged in recent months. AI model development is expensive work, and it’s harder than ever for the biggest AI labs to get access to the computational resources they need to run and train models, as we recently
+reported
+. In more niche markets like video and image generation especially, which also face a host of copyright issues, it can also be harder for these startups to make it on their own.
+If Reka rings a bell, it’s because database firm
+Snowflake
+discussed acquiring it for $1 billion
+in 2024, although the deal fell through. Since then, Reka has pivoted from developing frontier models to developing image- and video-related applications for businesses. For instance, a news publisher could use Reka’s tech to search through their library of videos to find a specific video of a certain politician. (Before the Moonvalley acquisition, Reka didn't develop video generation models the way OpenAI or Google have done.)
+With the purchase of Moonvalley, Sunnyvale, Calif.-based Reka hopes to expand into developing world models, or a new type of AI that aims to approximate simulating the physics of the real world, as well as robotics, one of the people with knowledge of the deal said.
+The acquisition has also added research talent to Reka’s team. Moonvalley was cofounded by former
+Google DeepMind
+researchers
+Mateusz Malinowski
+and
+Mik Bińkowski
+who previously worked on a model at Google that would later become its popular
+Veo 2
+video AI.
+Big Number
+Anthropic
+CEO
+Dario Amodei
+said Wednesday that an
+80-fold jump in revenue
+and customers’ AI use in the first quarter took the company by surprise. “We tried to plan very well for a world of 10x growth per year,” he said on stage during the company’s
+Code With Claude
+developer conference in San Francisco. “That is the reason we have had difficulties with compute.”
+Court Watch
+Elon Musk
+once offered Sam Altman a seat
+on
+Tesla’s
+board of directors as part of discussions about
+OpenAI
+possibly joining Musk’s electric vehicle company, a Musk ally testified on Wednesday.
+Shivon Zilis
+, who has worked for several of Musk’s ventures and has four children with the tech tycoon, described the episode under cross examination in the trial over Musk’s lawsuit against OpenAI. Zilis wrote at the time saying that Altman seemed more open to joining Tesla than other OpenAI co-founders, and she thought Musk could convince him.
+Overheard
+Uber
+CFO
+Balaji Krishnamurthy
+said Uber had
+“re-upped our investment” in AI
+after underestimating the impact of AI tools. Uber’s Chief Technology Officer
+Praveen Neppalli Naga
+told The Information in mid April that the company had maxed out its AI budget for 2026 already. Krishnamurthy acknowledged that “when we set our budgets for 2026 in November, we underestimated the amount of impact” AI would have. He said increases in the budget were being offset against slower growth in hiring.
+Meanwhile,
+Snap
+said that it no longer has a deal with
+Perplexity
+in its quarterly earnings report. Perplexity was originally set to pay Snap $400 million in cash and equity over one year as part of the deal.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Nvidia
+is
+partnering with Corning
+, which manufactures glass used in smartphones as well as optical fiber and hardware components for data centers, to build three new factories in North Carolina and Texas focused on optical technologies. As part of the arrangement,
+Corning
+has issued Nvidia warrants to purchase up to $3.2 billion of Corning’s stock.
+Nyobolt
+, which provides batteries for robots and data centers, raised $60 million at a $1 billion valuation in a Series C funding round led by
+Symbotic
+.
+Tessera Labs
+, which uses AI to automate enterprise resource planning tasks, raised $60 million in a Series A funding round led by
+Andreessen Horowitz
+.
+XBOW
+, which uses AI to detect cybersecurity vulnerabilities, raised $35 million in an extension of its Series C funding round, backed by
+Accenture Ventures
+,
+DNX Ventures
+,
+Liberty Global Tech Ventures
+,
+NVentures
+,
+Samsung Ventures
+and
+SentinelOne S Ventures
+.
+LiveEO
+, which uses AI to analyze satellite imagery, raised $33 million in the first close of a new funding round from investors including
+Helantic
+,
+b2venture
+and the
+European Innovation Council
+.
+Nova Intelligence
+, a San Francisco-based startup that targets SAP custom code modernization, raised $31.5 million in Series A funding led by
+Chemistry
+.
+Vori
+, which is developing AI-powered software for grocery stores, raised $22 million in a Series B funding round led by
+Cherryrock Capital
+.
+Featherless.ai
+, a San Francisco-based startup designed for running open-source AI, raised $20 million in Series A funding led by
+AMD Ventures
+and
+Airbus Ventures
+.
+Pit
+, a Stockholm, Sweden-based startup that builds internal software for businesses, raised $16 million in seed funding led by
+Andreessen Horowitz
+.
+District
+, which uses AI to help creators make shopping websites, raised $14.7 million in a seed funding round led by
+Andreessen Horowitz
+and
+Kindred Ventures
+."
+How Elon Musk’s Team Is Struggling to Prove His Case in Court,2026-05-07T13:01:09Z,Rocket Drew,https://www.theinformation.com/articles/elon-musks-team-struggling-prove-case-court,"Elon Musk’s lawyers are close to resting their case against
+OpenAI
+, but his path to winning a blockbuster legal victory looks steeper than when the trial began, according to lawyers following the case.
+The Musk team is expected to wrap up its presentation by Monday, after nearly two weeks trying to prove his claim that OpenAI’s other co-founders “stole a charity.” The testimony so far has followed a pattern, with key witnesses called by the plaintiff often doing as much to undermine Musk’s narrative about OpenAI as they did to support it.
+On Wednesday, Musk’s lawyers called Shivon Zilis, a longtime Musk employee and mother of four of his children, who acted as a go-between among OpenAI leaders in its early years. They sought to use her testimony to show that, during the time Musk was involved, OpenAI was only considering corporate structures in which a for-profit was “subservient” to a charitable mission.
+OpenAI’s lawyers got Zilis to testify that converting from a charity to a for-profit corporation was an option under discussion, as was hiring OpenAI CEO Sam Altman to
+lead a small AI team
+within Tesla, Musk’s own large for-profit company.
+Musk himself, whose
+three days of testimony
+opened the plaintiff’s case, was often unfamiliar with the email threads that constitute some of the key evidence in the case and denounced questions from OpenAI’s lawyer as trickery.
+Sam Brunson, a law professor at Loyola University Chicago who specializes in nonprofits, said that Musk’s testimony undermined his credibility and reinforced Brunson’s sense that Musk’s case faced long odds. Before the trial began, “I didn’t think he had the strongest case,” Brunson said. “His testimony convinced me.”
+Musk, who co-founded OpenAI with Altman and President Greg Brockman, is claiming that his former partners violated a charitable trust and unjustly enriched themselves by transforming OpenAI into primarily a for-profit company. To prove that, he needs to persuade jurors that OpenAI failed to honor its mission of ensuring that advanced AI benefits humanity, and that his co-founders improperly profited as a result of Musk’s contributions.
+Musk alleges “some fundamental betrayal and bad faith on the part of OpenAI, and I don’t know if the plaintiff’s lawyers—if Musk’s lawyers—have been very successful to show that these parties were scheming to betray Musk,” said Anupam Chander, who teaches AI regulation and contracts as a law professor at Georgetown University.
+Sam Altman’s testimony still to come
+The trial is far from over. Musk’s lawyers still have several witnesses to call as of Thursday morning, including Ilya Sutskever, a co-founder who has left OpenAI, as well as a former OpenAI employee, a former board member, and David Schizer, former dean of Columbia Law School. And the plaintiffs can still score points in their cross examinations of defense witnesses—including Altman, who is certain to face intense questioning when he testifies.
+“It’s certainly possible that Sam Altman can manage to torpedo a nearly sure thing,” said Brunson. “It is possible that his testimony will prove just as ineffectual and contradictory as Musk’s did.”
+And it’s difficult to know how the arguments and evidence are landing with the jury. The nine-member panel will have to make sense of the dizzying array of emails, text exchanges and other evidence across OpenAI’s complex, 11-year history. (In this case, the jury’s decision is advisory, not binding: The judge will make the final call about liability and any remedies to award.)
+Musk’s lawyers have certainly managed to draw some blood. They played video depositions from a former OpenAI executive and a former board member painting Altman as a liar. And the lawyers called Brockman as a witness,
+grilling him
+on his digital journal, in which he contemplated in 2017 how he could become a billionaire. He also wrote that, if he committed to keeping OpenAI a nonprofit before making it a for-profit, “then it was a lie” and Musk’s “story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit just without him.”
+Brockman parried some of this attack, though. He testified that the action he considered “morally bankrupt” was removing Musk from OpenAI’s board—a path that Brockman ultimately didn’t pursue—and he never committed to the terms that Musk proposed for continuing with the nonprofit structure.
+The use of the word “lie” in the journal “seems to be the closest to a kind of smoking gun, but Brockman seems to have explained it in a way that doesn’t seem as menacing as the Musk team made it out to be—as deceitful, even,” said Chander.
+Muddying Musk’s allegations of deceit
+OpenAI’s lawyers worked to muddy Musk’s claims that OpenAI’s shift to for-profit activities was deceitful. They repeatedly reminded him and other witnesses of contemporaneous messages showing that he seemed to have been fine with OpenAI starting a for-profit so long as it remained under his control, at least initially—and that the other co-founders were willing to offer Musk equity in a for-profit arm.
+The OpenAI lawyers also showed how Musk himself seemed to detract from OpenAI’s mission by allowing companies that he led to hire from OpenAI’s ranks. In particular, Musk hired Andrej Karpathy, a legend in AI and a member of OpenAI’s founding team, to join Tesla in mid-2017, while Musk was still serving on OpenAI’s board.
+Musk testified that Karpathy had already made his mind up to leave OpenAI, but Musk said in an email at the time that “the OpenAI guys are gonna want to kill me, but it had to be done.”
+“It’s always a hard case for Musk to make on his first claim that he was personally deceived because he’s a smart guy, he’s got a lot of money, so he can—even if he doesn’t know what the law is—he can hire some really good lawyers who can advise him,” said Peter Molk, a law professor at the University of Florida, who specializes in corporate and nonprofit governance. “So how is it that he can be systematically duped into something?”
+“This has always been a high risk, high reward type of strategy,” Molk said of Musk’s case. “I think he stands a chance.”
+A courtroom loss wouldn’t necessarily be disastrous for Musk, who may still consider the trial a success in the wider realm of public opinion.
+“Even if he doesn’t end up winning, one of the side consequences is he’s bringing a massive exposure to something that’s been bugging him for a long time,” said Molk.
+He referenced a
+text message that Musk sent Brockman
+shortly before the trial began. “By the end of this week, you and Sam will be the most hated men in America,” Musk wrote. “If you insist, so it will be.”"
