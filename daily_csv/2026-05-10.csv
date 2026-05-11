@@ -1,0 +1,96 @@
+﻿标题,时间,作者,链接,内容
+Cerebras IPO Will Test Investor Appetite for AI Chip Startups,2026-05-10T22:00:18Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/cerebras-ipo-will-test-investor-appetite-ai-chip-startups,"How many AI chip designers can the public market support? We’ll get a sense of that on Thursday when Cerebras Systems, the biggest of a new generation of chip designers dedicated to AI, is expected to go public at a valuation of $35 billion. If it follows the pattern of other AI-related IPOs, such as cloud firm CoreWeave, Cerebras will be a big hit.
+CoreWeave went public a year ago at $40 a share and, despite a lot of ups and downs, it closed on Friday at $114. (Most other tech IPOs from last year, that
+had no AI exposure,
+have had a very different experience.) CoreWeave has been well received even though it is burning through billions of dollars in cash right now as it ramps up its network of data centers. Investors’ favorable reaction to it suggests Wall Street will look past the fact that Cerebras is also burning cash and focus on its AI exposure. (Demand for stock in the IPO is also strong,
+Bloomberg reported
+on Friday).
+Indeed, we are at a moment of peak AI infrastructure optimism, with shortages of computing capacity apparent constantly (hence
+Anthropic’s deal with SpaceX t
+his past week). Of course, the capacity shortfall is an argument for CoreWeave, whose customers include Anthropic, Microsoft, OpenAI and Meta Platforms, but not necessarily for Cerebras. Is there the same kind of demand for another AI chip supplier?
+Buyers of chips—mostly cloud firms and big AI developers—have plenty of choice already. Aside from Nvidia, which dominates the field, there are AI chips from
+Advanced Micro Devices,
+Google and Amazon. Meta and Microsoft are developing their own chips. Chinese firms have
+Huawei and many others.
+So what’s Cerebras’ pitch?
+Cerebras
+does have OpenAI
+as a customer (and shareholder), even though OpenAI is also
+developing its own chip in concert with Broadcom
+. Cerebras also struck a deal to supply its
+chip to Amazon Web Services
+as a supplement to Amazon’s Trainium AI chip. But there’s no getting around the fact that the chip market
+is crowded
+. That’s perhaps why some other AI chip startups have effectively sold themselves: Groq licensed its tech to Nvidia, which hired the startup’s top people, for instance. And Meta hired a
+key group of engineers
+from another chip startup, Graphcore.
+Of course, a takeover of Cerebras might still happen—after the IPO.
+This Week’s Earnings
+This is a quiet week for earnings. The biggest names reporting are design software firm Figma and “buy now, pay later” business Klarna, both on Thursday.
+Figma’s earnings will be worth watching, both because of the competitive pressure the company is facing from new AI tools out of Anthropic and other companies, and because of growing questions about how much businesses are willing to spend on AI services.
+Now that many AI firms have started charging for AI tools based on how much customers use them, the cost of using AI is suddenly becoming a problem to think through. As Adam Mansfield, from software contract negotiation firm UpperEdge,
+said on The Information’s TITV Friday
+, businesses are anxious about the uncertainty of what they’ll have to pay for AI.
+On Figma’s last quarterly call in February, Chief Financial Officer Praveer Melwani noted that 75% of the company’s paying customers of any size were consuming AI credits every week, and that new AI features it was introducing were drawing an “ever-increasing number of credits over time.” For Figma, this is an opportunity to make money from AI services—customers get a set number of credits with every subscription seat but can buy more if need be.
+The issue for Figma, and every software firm, is that if their customers get surprised by what heavy use of AI services are costing them,  they might pull back. We’ll be looking for an update from Figma on the topic this week.
+Here’s what to expect in revenue and earnings per share, courtesy of S&P Global Market Intelligence.
+Figma
+(Thursday)
+Revenue: $316 million +38.5%
+Earnings per share: (0.26 cents)
+Klarna
+(Thursday)
+Revenue: $945.6 million +34.8%
+EPS: (0.17 cents) compared with (0.26 cents)
+In Other News
+•
+Hedge fund TCI cut almost all of its $8 billion stake in Microsoft,
+the Financial Times reported Friday
+, due to what CEO Christopher Hohn described in an investor letter as “uncertainty over Microsoft’s competitive position in the future” as AI threatens to replace existing software like Office.
+• Salesforce’s chief communications officer, Carolyn Guss, is leaving the sales software giant, according to two people familiar with the matter.
+• Apple has reached “a preliminary agreement” with Intel in recent months for manufacturing some chips,
+The Wall Street Journal reported
+. Earlier, this week Bloomberg
+reported
+that Apple was exploring such a partnership with Intel and Samsung.
+• Anthropic is the unnamed customer behind a $1.8 billion cloud deal that Akamai announced on Thursday, according to a person with direct knowledge of the matter. That deal sent the content delivery network provider’s stock soaring 27% on Friday.
+Friday on The Information’s TITV
+Check out
+Friday’s episode of TITV
+in which we unpack our reporting on Microsoft's shifting Copilot strategy."
+Tech’s AI Margin Math Is Getting Messier,2026-05-10T15:01:04Z,Meredith Mazzilli,https://www.theinformation.com/articles/techs-ai-margin-math-getting-messier,"Tech companies from Spotify to Uber to Airbnb told investors on their March-quarter earnings calls that AI was making their workers more productive, allowing them to ship more code and handle more customers with the same or fewer employees.
+Many companies are seeing profit margin improvement as AI is helping them do more while holding their headcount steady or in some cases allowing them to cut jobs. But some companies said the rising cost of AI was depressing margins, according to an analysis of 100 public tech companies’ earnings call transcripts.
+Pinterest, for example, cited investments in AI chips as contributing to pressure on gross margins in the first quarter, which it said would likely continue throughout the year. Roblox lowered its margin projections in part due to spending on training AI for tools for videogame creators.
+And even for companies seeing a margin benefit by trading labor for AI, the risk of rising AI prices and unpredictable surges in token usage could throw that whole equation out of whack.
+Here’s a look at some of the more notable comments from companies, as well as other details from their earnings filings.
+Spotify
+Spotify highlighted how AI usage can raise overall costs for companies. Co-CEO Gustav Soderstrom told analysts on the company’s first-quarter earnings call in late April that operating expenses rose because while the music-streaming firm had “slightly decreased our headcount…we are spending more on compute per employee,” including on its own AI tools and Claude Code and Codex.
+Still, he said Spotify was seeing “tremendous returns” in productivity in terms of shipping product updates faster. When asked about AI plans on the earnings call, Chief Financial Officer Christian Luiga said operating expenses would increase for the next quarter or two.
+Shopify
+Shopify CEO Tobias Lütke told teams last year they must show why AI couldn’t perform a job before they asked for more headcount. Executives said on the company’s earnings call last Tuesday that Shopify’s overall headcount was down slightly in the current year, allowing it to spend more on internal AI usage.
+Shopify’s operating profit margin rose roughly 4 percentage points to 12%, as the company reduced sales and marketing and R&D costs as a percentage of revenue.
+Not all the uses of AI saved money. Shopify introduced an AI assistant for software subscribers, Sidekick, that proved popular with merchants. But merchants’ increased use of it raised costs for large language models, which CFO Jeff Hoffmeister said partly offset savings on customer support. Hoffmeister said that was “a dynamic” the company expected to continue.
+Expedia
+Expedia CFO Scott Schenkel said on Thursday that “the use of AI and the associated costs” were both growing, but workforce reductions had allowed Expedia to absorb those increases and still increase profit margins. He expects AI costs to continue rising, putting “upward pressure on costs” in the second half of the year.
+CEO Ariane Gorin said Expedia staff were “pressurizing our usage,” but “like with everything we’re doing, we’re being disciplined.”
+Roblox
+Roblox, the popular service for playing and making games, lowered its full-year margin projections for 2026. Executives said part of the cut was due to incremental spending on training and inference for AI tools for game developers.
+The company is betting that tools for coding, AI-powered characters and better graphics will help creators build more ambitious games faster, lifting user engagement and spending. Roblox said it is already running more than 400 AI models and processing over 1.5 million AI inferences per second across its own data centers and cloud providers.
+A major piece of the push is Roblox Reality, a new effort to help developers create more photorealistic multiplayer games. Executives said future real-time AI features won’t be free, as Roblox plans to charge for the most compute-heavy tools rather than absorb all of those costs itself.
+Pinterest
+In January, the online scrapbooking firm cut 15% of its workforce as part of a restructuring aimed at reallocating resources to AI-focused jobs and prioritizing AI-powered products. Last week, the company projected that investment in additional AI chip capacity could hurt its second-quarter gross margin.
+Still, CFO Julia Donnelly said chip capacity investments were paying off, helping Pinterest beef up features such as an AI-powered shopping assistant. That’s drawing more users and increasing the amount of time they spend on the site.
+Uber
+CEO Dara Khosrowshahi said Uber’s investment in AI tools and infrastructure was increasing and would be offset by “slower headcount growth.” Employees in legal and marketing as well as software developers were using AI tools across the company.
+He added that if people could increase their output by “20%, 30%, 50%, 100%, then I think metering headcount growth and leaning in on AI investment is going to be well worth it.”
+CFO Balaji Krishnamurthy said Uber underestimated both the cost and impact of AI tools when it set its 2026 budget last November and has since increased that budget. Uber reported higher operating margins for the first quarter.
+Airbnb
+Airbnb executives touted their internal AI use last week, saying nearly 60% of engineers’ code is now co-authored with AI and describing the technology as an “accelerant” that helps build tools the company previously couldn’t tackle. They also highlighted customer service benefits, saying the AI customer assistant now resolves more than 40% of issues without requiring a human agent, up from about one-third in the fourth quarter.
+Operations and support costs fell 1 percentage point as a share of revenue, to 12%, from a year earlier, filings showed. Product development also ticked slightly lower as a percentage of revenue.
+While Airbnb has touted AI’s ability to resolve customer service issues faster, costs from customer disputes of credit card charges increased.
+On Thursday’s earnings call, executives said AI-related expenses are expected to rise over the year, but Airbnb believes it can absorb that spending while still hitting its margin target.
+Instacart
+Instacart framed AI mostly as a product and revenue opportunity, in the form of better shopper recommendations and stronger advertising tools, and less as an immediate human replacement.
+On a call with analysts, CEO Chris Rogers said 2025 was an experimentation period for AI, and Instacart is now monitoring whether AI makes work more productive and is looking for ways to offset costs where it can.
+Instacart said total operating expenses fell slightly in the first quarter as a percentage of transaction value, but it did not tie that improvement to AI. Meanwhile, research and development costs rose, mainly because of an increase in employee compensation.
+Still, the product push comes at a price. Instacart’s cost of revenue increased, primarily because of credit card processing fees, but company filings also called out $10 million more in depreciation and amortization, mostly tied to internal-use software."
