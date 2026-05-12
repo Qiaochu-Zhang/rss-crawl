@@ -1,0 +1,366 @@
+﻿标题,时间,作者,链接,内容
+OpenAI to Save $97 Billion Through 2030 in Latest Microsoft Deal,2026-05-12T01:09:46Z,Aaron Holmes,https://www.theinformation.com/articles/openai-save-97-billion-2030-latest-microsoft-deal,"OpenAI Chief Financial Officer Sarah Friar has plenty of things to worry about. But paying OpenAI’s early backer Microsoft as much as $135 billion through 2030 as part of a revenue-sharing deal is no longer one of them.
+OpenAI’s initial agreement to pay 20% of its revenue to Microsoft could have amounted to that much if the ChatGPT maker ended up hitting its long-term revenue goals. But thanks to previously undisclosed terms of a new deal between the companies, OpenAI is on the hook for only a fraction of that amount.
+The companies agreed to cap the total payments at $38 billion, according to a person with knowledge of the arrangement. If OpenAI meets its ambitious revenue goals, it would likely hit that cap sometime in 2028, according to an analysis of its
+revenue projections
+. The cap on the payments amounts to a savings of about $97 billion for OpenAI, based on those projections.
+The payment cap could help OpenAI present a stronger long-term pitch to investors as it works toward a public offering some executives have said could take place as soon as the end of this year. OpenAI counts the payments as expenses, which lower free cash flow. Before the payment cap, it had projected its cash burn would reach $219 billion between this year and 2029. It’s expected to be cash flow positive in 2030, when it expects to generate nearly $39 billion.
+While Microsoft has given up tens of billions of dollars in potential payments,
+it gained some important certainty in the April deal
+. OpenAI agreed to pay Microsoft a portion of its revenue until 2030. Previously those payments would have continued until OpenAI reached artificial general intelligence, and some Microsoft executives were worried that it could hit that milestone at any time. In addition, Microsoft got the rights to continue to resell OpenAI’s tech through 2032, regardless of when AGI was declared.
+It’s not all roses for OpenAI, however. In the short term, the renegotiated revenue-sharing agreement will likely hurt its free cash flow. That’s because under the prior agreement, it had the option to defer some of its payments to Microsoft to 2032, according to the person. (Its earlier financial projections showed it expected to pay Microsoft about 5% to 12% of its revenue each year through 2030.)
+Now OpenAI can no longer defer the payments, which means it should pay about $6 billion of its projected $30 billion in revenue to Microsoft this year, rather than the nearly $4 billion it projected early this year.
+OpenAI earlier this year forecast burning $25 billion this year and $57 billion next year. Now that it no longer can defer revenue payments, that cash burn could increase to roughly $27 billion this year and about $63 billion next, according to The Information’s analysis of its forecasts. These forecasts, however, don’t include any revenue gains from recently announced commercial deals.
+The payment cap came about as OpenAI and Microsoft tweaked their partnership so OpenAI could sell more of its products through Amazon and other cloud providers, which could increase revenue."
+Monday.com’s AI Hiring Lesson; BuzzFeed’s Rescue,2026-05-12T00:00:09Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/monday-coms-ai-hiring-lesson-buzzfeeds-rescue,"Digital media historians will be intrigued by news this afternoon that media mogul Byron Allen is buying control of once-important media outlet BuzzFeed. For more on this unusual deal, see below. Meanwhile... if you’re using mass layoffs as an indicator for AI’s impact on the job market, you may be looking in the wrong place. It might be smarter to look at companies cutting back on hiring, even if they’re not firing anyone.
+Take
+Monday.com
+, the enterprise software firm. Last fall it was talking about expanding its workforce 20% this year. In February it reduced that growth projection to middle teens in percentage terms. Today it said that after a 1.8% increase in headcount in the March quarter, it expected its workforce to stay “largely flat” through 2026, “reflecting the productivity gains AI is already delivering across our organization.” What a change of heart!
+Monday.com is not unusual. As
+we described in this piece on Sunday
+, quite a few companies—including Shopify, Spotify and Uber—claim to be getting more productivity out of AI even while making minor job trims or slowing hiring. Of course, the extra use of AI is not free. Monday.com executives said they expected increased “computing costs related to AI” to hurt gross margin in the near term. Other companies, such as Spotify and Pinterest, have said something similar about either operating expenses or cost of revenue.
+For enterprise software firms like Monday.com, this shift in hiring is happening alongside the introduction of usage-based pricing policies that could help revenue. The question now is whether those policies will result in customers getting hit with unexpectedly high bills. On that point, Chief Revenue Officer Casey George told analysts on Monday the company was giving customers what they asked for: the ability to track who at their company was using AI credits so “they can scope out the work that’s being done [and]…plan accordingly.” We’ll see how it goes over the next few quarters.
+Otherwise, things seem to be looking up for Monday.com, which is trying to compete with everyone from Salesforce to Asana with its software suite, raising concerns about its vulnerability to competition from new AI tools. Indeed, in February, an unexpectedly bleak projection of slowing revenue growth sent the stock plunging 21% in one day. On Monday, though, the company delivered a slightly better quarter than it had projected and raised its full-year growth projection slightly. The outlook is still for much weaker growth—between 19% and 20%—than the 27% and higher growth of the past few years. But investors seemed relieved things weren’t as bad as they could have been, and lifted the stock 6.7%.
+Despite the rally, Monday.com shares are still down 48% year to date. The jury is out on how it, like other enterprise software firms, will navigate the transition to AI.
+Byron Allen to BuzzFeed’s Rescue?
+Media mogul Byron Allen got his start as a comedian and his humor appears to have never left him. Allen, who now controls a media company encompassing TV stations and cable channels, announced on Monday he was buying control of the struggling digital media firm BuzzFeed for $120 million.
+That’s an extraordinary price for a company whose market capitalization has lately hovered around $30 million (including debt, the company’s enterprise value is closer to $80 million). Then again, the price may not be what it seems.
+Allen is paying $3 a share for 40 million newly issued shares, giving him 52% of the stock. But he is only putting up $20 million in cash up front, with the rest paid in the form of a note that will be due in five years. The note is only secured by the shares, so Allen could presumably walk away if he doesn‘t like how things are going in a few months’ time.
+Even so, this is a better deal than BuzzFeed likely could have got anywhere else. After all, the company’s ability to survive has been in doubt for a while. At March 31, BuzzFeed had $58 million in debt. Earlier this year, it warned that its ability to continue as a “going concern” was in doubt.
+So why would Allen pay several times the prevailing share price to get control? At $3 a share, he is valuing the company’s equity at $233 million, not including the debt. What are we missing?
+As puzzling as the deal is, it was enough to persuade BuzzFeed founder and CEO Jonah Peretti to give up control. He is converting his supervoting shares into regular voting and giving up the CEO job, becoming president of “BuzzFeed AI,” whatever that is.
+It’s a new era for BuzzFeed. Maybe.
+Google's Security Warning
+Sometimes it feels like we’re all frogs sitting calmly in water that’s slowly getting hotter. Witness a report on Monday from Google’s cybersecurity team about an AI-created hack it had identified—intended for a “mass exploitation event” that the company’s discovery preempted. That’s a lot of jargon for a really bad hack that could have affected lots of people.
+And it’s another reminder that AI’s biggest contribution to humanity may be making it much easier for criminals—including those in places like North Korea—to screw up our lives with various nefarious malware. “AI-driven coding has accelerated the development” of dangerous software “by adversaries,” Google said. Eek.
+Google added that it uses “proactive measures to stay ahead of these constantly changing threats.” In other words, this report might have been designed to be part warning, part marketing. Sounds familiar. Remember this report last November from Anthropic, revealing a “highly sophisticated espionage campaign” using AI “to an unprecedented degree…to execute the cyberattacks,” which Anthropic responded to. Its report made a similar point to Google’s: AI is making the risks worse—but don’t worry, because Anthropic has your back.
+How worried should we be? Probably a lot more than most of us are. Reports of big hacks have become so commonplace—along with emails telling us our personal data has been exposed—that few of us pay any attention. Chances are this is building up to something really bad happening. You can bet we’ll see a flood of scary headlines that day. Until then, we’ll continue sitting in the water as it heats up, pretending nothing is going on.
+In Other News
+•
+Uber promoted its chief marketing officer, Jill Hazelbaker, to president and chief corporate affairs officer, adding human resources, real estate and safety to her remit.
+• Microsoft CEO Satya Nadella testified in court Monday that Elon Musk never raised concerns that Microsoft’s deal with OpenAI amounted to OpenAI CEO Sam Altman trying to “steal the charity.”
+• OpenAI on Monday announced its
+$10 billion private equity joint venture:
+the OpenAI Deployment Company, which aims to help businesses deploy AI and integrate it into their operations. OpenAI also announced it had bought Tomoro, an AI consulting and engineering firm, to be part of the new company.
+• AI chip designer Cerebras Systems raised its preliminary IPO pricing range to between $150 and $160 a share from between $115 and $125, in a sign that investor demand for the company is strong. At the new pricing range, Cerebras would raise about $4.5 billion.
+• Ilya Sutskever, the OpenAI co-founder and former chief scientist who left two years ago, owns a stake now worth close to $7 billion, he testified on Monday.
+• Circle, the stablecoin issuer of USDC, on Monday
+said
+it raised $222 million for Arc, a stablecoin-focused blockchain, at a $3 billion valuation. Circle also reported that first-quarter revenue jumped 20% from a year ago to $694 million"
+"Capital, Not Compute, is the Real AI Bottleneck",2026-05-11T16:19:20Z,The Information Partnerships,https://www.theinformation.com/articles/capital-compute-real-ai-bottleneck,"Satisfying AI’s ravenous appetite for power and compute has kicked off a once-in-a-generation infrastructure expansion that is also one of the most expensive in modern history. Nvidia CEO Jensen Huang has estimated a single gigawatt of capacity can cost as much as $50 billion. With McKinsey projecting data center demand could reach 156 GW by 2030, the total investment required could approach $7 trillion.
+While the need for graphics processing units is immediate, the infrastructure needed to deploy them at scale can take years to finance and build. The result is a growing mismatch between appetite and access, with capital—not compute—emerging as the primary bottleneck in the AI build-out.
+At a recent panel, The Information’s Anissa Gardizy sat down with three executives on the front lines of that shift to discuss what the future of AI financing looks like:
+Marc Boroditsky, chief revenue officer, Nebius
+Nick Robbins, vice president, corporate development, CoreWeave
+Charles Fisher, chief financial officer, Lambda
+The Myths Shaping AI Finance
+Charles Fisher is no stranger to capital-intensive infrastructure. Before joining Lambda, he spent years raising funds for the cable industry, another business defined by heavy up-front investment and long-term returns. On the surface, AI infrastructure—made up of large, fixed assets paired with predictable customer demand—should be similarly easy to finance.
+“There ought to be a lot of similarities,” he said.
+Lenders, however, don’t always see it that way. One reason is asset life. While cable networks were built to last decades, GPUs are estimated to depreciate over six years. Another is customer concentration, with many assuming demand is limited to a handful of hyperscalers.
+Both assumptions, Fisher argued, are flawed.
+Lambda, for example, has more than 10,000 customers across its public cloud business, representing roughly a third of its revenue.
+“The customers behave a lot like a cable customer,” he said. “They are very sticky, with a lot of pricing power.”
+The same goes for hardware longevity. According to CoreWeave’s Nick Robbins, older GPUs like Nvidia’s V100 and A100 continue to generate strong returns well beyond their expected lifespan.
+“Everything about the pricing curve of these chips suggests they’re going to be in demand for a very, very long time,” he said.
+If You Build It, Will They Come?
+For AI cloud providers, customer contracts are often the foundation for unlocking capital.
+“Capital markets will always have money to finance the build to honor investment-grade customer contracts,” said Robbins.
+That dynamic is especially powerful when those contracts come from hyperscalers. Nebius’s multibillion-dollar deal with Meta Platforms, for example, includes a backstop that effectively guarantees demand for its infrastructure.
+“The deal allows us to utilize Meta’s credit, because they’ve committed to purchase any GPUs we don’t sell,” said Nebius’ Marc Boroditsky.
+Still, even with strong contracts in place, timing remains a challenge. Data centers can take years to build, while customer demand materializes much faster—creating a persistent mismatch.
+“It can be less of a capital problem and more of a choreography problem,” said Fisher.
+Boroditsky, meanwhile, said Nebius tackles the issue by running everything in parallel—securing sites, lining up demand and raising capital simultaneously.
+“We’re generating demand as we build capacity, and as we’re filling those GPUs with revenue-producing customers, we’re supporting the next tranche of development,” he said.
+Beyond the Hyperscalers
+While hyperscalers dominate headlines—and often provide the easiest path to financing—they represent only part of the market.
+“If you’re honest about where demand is coming from, it’s way beyond the hyperscalers,” said Boroditsky, pointing to fast-growing AI startups and enterprise adoption. Companies like Cursor and Harvey, he noted, represent early indicators of a broader shift as AI begins to reshape the software industry from the ground up.
+“The real question is, how are you building for the rest of the market, and what’s the engine you’re putting in place to be there for developers all the way to the enterprise?” he said.
+For Lambda, that long tail has been central from the start. Its roots in the developer community have also helped strengthen its relationship with Nvidia.
+“Nvidia are happy doing business with Meta and Google, but they also want to do business with the next Anthropic and OpenAI—the next company you haven’t yet heard of,” said Fisher."
+The Electric: China's Biggest Battery Maker Is Quickly Expanding Its Rental Business,2026-05-11T16:00:09Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-chinas-biggest-battery-maker-quickly-expanding-rental-business,"As they attempt to lower the
+cost of their
+electric vehicles, major Western automakers have
+mostly
+struggled with a single component: the battery, which can be up to 40% of an EV’s cost.
+One answer has arisen repeatedly—the
+swappable battery. That is, a consumer could buy the EV without a battery and simply rent one to swap into the vehicle at a commercial location. But the idea hasn’t taken off, partly because automakers have been reluctant to commit to installing swapping equipment on the underside of their EVs, and partly because it would be expensive to position thousands of batteries at swapping stations in big and small cities. Instead, automakers make batteries a permanent component of an EV, increasingly embedded in the chassis.
+Battery swapping, however,
+is starting to take off in China, driven not by its automakers but by its largest battery manufacturer. Over the last year, Contemporary Amperex Technology Ltd. has installed some 1,400 swapping stations in 99 Chinese cities, with plans to expand to 4,000 in about 190 cities by the end of 2026. CATL charges $83 for a monthly subscription allowing unlimited swapping, and roughly $20 for one-time-only swaps.
+While most of China’s high-profile EV makers are sticking with permanent batteries, at least for now, CATL said it has struck agreements with 11 largely state-owned automakers to adapt some of their EVs for its Choco-Swap battery system. In all, it said those carmakers were offering 25 swappable EV models. In addition, CATL has struck deals with 10 Chinese cargo truck manufacturers that will use its swapping system.
+The emergence of battery swapping in China illustrates another facet of its aggressive, all-of-the-above approach to getting consumers into EVs. Much of the effort relies on a massive 50% expansion of charging stations over the last year.
+Swapping is another approach. One advantage is that the price of an EV without a battery is generally thousands of dollars less than that of a traditional EV because you don’t pay for the battery. You can swap out a nearly empty battery for a fully charged one in just a few minutes.
+I tried out the swapping process at a small CATL station in the city of Ningde, on China’s east coast.
+I drove up to the station entrance in a compact Changan Oshan 520 sedan provided by CATL. At the barrier arm, you use an app on a screen to indicate how many 75-mile battery blocks you want—you can fit up to three at a time. I could see on the screen that the system recognized me and my car. The arm rose, and I drove in just as I would at a car wash. Once centered in the station, I stopped the car and put it in neutral.
+You could feel a mechanism engaging underneath the car. The vehicle then rose just a bit. On the app, I could follow the progress—in green, I could see the removal of the battery; then in blue, the installation of the new one. All that happened in about a minute and a half. I drove out with a fully charged battery. That’s a lot faster than even the fastest fast-charging station.
+China’s main maker of battery-swapping EVs is
+Nio, whose sales grew 71% year on year in the first four months of the year. It aims to sell at least 450,000 cars this year, a 40% increase over 2025. Cumulatively, it has sold 1.1 million EVs and has roughly 3,800 swapping stations across China.
+Last year, CATL and Nio
+said they would coordinate
+their build-out of swapping stations. The two companies are targeting somewhat different demographic groups. Nio is generally going after affluent buyers: It has priced most of its models above $50,000, though its Onvo line sells for under $30,000, and $21,000 without the battery.
+A CATL representative said the company is aiming at buyers looking for cheaper cars. For instance, the compact electric Changan Eado sedan, which comes with a CATL battery that is not swappable, costs $18,300. The Oshan I drove costs roughly $13,500 without the battery, or 26% less.
+At $83 a month for unlimited charging, the battery-swapping car would be a better deal for nearly five years. If you add in interest payments from a typical car loan, the cheaper battery-swapping EV would be an even better deal, since the owners likely would have borrowed less.
+The CATL stations aren’t only for swapping but also for ultrafast charging if a consumer is driving a traditional EV or plug-in hybrid. CATL says the stations can charge some of its batteries from 10% to 98% of capacity in just six and a half minutes without damaging the battery.
+EV battery swapping has been tried outside China but has failed there. In the U.S., California swapping startup Ample filed for bankruptcy in December after raising more than $330 million. In the mid-2010s, Tesla opened a single swapping station on a pilot basis but
+quietly closed it in 2016
+. Israeli swapping startup Better Place
+went bankrupt
+in 2013 after burning through $850 million in funding.
+In Europe,
+Nio has roughly 60 swapping stations, mostly in Germany and Norway, nowhere near enough to persuade large numbers of Europeans to buy the cars. Last year, CATL said
+it would build
+a battery-swapping network in Europe as well, but it hasn’t deployed any stations as of yet.
+It could be that someone will have another go at swapping in the U.S. Cutting an EV’s price by a quarter makes that an attractive option. So far, though, we have heard of no one taking the plunge.
+----
+Noteworthy
+High gasoline prices are finally
+showing up in
+U.S. car sales. Americans are not yet turning to EVs in large numbers, but sales of hybrids—gasoline cars containing an added battery—are up 37% since the war in Iran began in February, according to
+research firm Motor Intelligence
+. Conversely, Europeans are flocking to full EVs. EV sales are up 39% in Germany and 79% in the U.K. since the war began.
+Norwegian battery maker
+Morrow
+has declared bankruptcy
+. The company only two weeks ago
+began delivering
+lithium-iron-phosphate cells to Finland’s Proventia under a five-year supply agreement. But Morrow cited a cash squeeze involving the cost of expanding its factory in the city of Arendal.
+----"
+"Water Use Isn’t a Data Center Problem, It’s an AI Problem",2026-05-11T15:00:09Z,Ann Davis Vaughan,https://www.theinformation.com/newsletters/ai-infrastructure/water-use-data-center-problem-ai-problem,"Critics of the AI build-out are picking the wrong fight when they attack data centers for their water use. But they are right when they say the digital economy is getting thirstier and the tech industry should answer for it.
+The whole AI supply chain is water intensive, and reducing use in one place can increase it elsewhere. New research shows chip factories and power plants use considerably more water than data centers. Other industries are also more water intensive than AI, though tech is where consumption is increasing the most.
+Previous generations of data centers used a lot of water, so it was logical to fear that today’s giant facilities, which generate huge amounts of heat, would suck up large amounts of water for cooling. But hyperscale AI data centers have shifted to more efficient systems that recirculate water or other liquids in closed loops of tubes and pipes. These systems can reduce freshwater consumption at data centers
+50% to 70%
+.
+That means, for example, that the first phase of Microsoft’s massive Fairwater data center complex in Wisconsin only needs about four Olympic swimming pools of water annually. That’s half the annual usage of a car wash, according to the Milwaukee 7 Regional Partnership, an economic development organization. It’s only 0.1% of the water Foxconn, the manufacturer that had planned to use the site to make liquid crystal displays, would have been permitted to draw, Microsoft President Brad Smith said at the campus opening.
+Data centers can reduce the water they use by eliminating evaporation-based cooling. But this often entails a trade-off: Electricity-hungry equipment has effectively replaced water as the means to keep data centers cool. That moves more of the problem to the electric grid, which uses large amounts of water to cool its power plants.
+AI’s power consumption per square foot is quickly growing to as much as 10 times that of traditional cloud-computing. And that gap could rise to 100 times given the power density of the megawatt (1,000-kilowatt) racks Nvidia is designing for the future, well above the 10 to 20 KW racks typical before AI.
+Water technology company Xylem and research firm Global Water Intelligence looked at water use across AI’s supply chain, from AI chip foundries to data centers to the portion of power plants allocated to their use. Their January report demonstrates that the water toll of AI is far greater at semiconductor factories and the power plants electrifying chipmaking and computing than at the data centers themselves.
+Overall, AI-associated water use will more than double by 2050 from the 6.26 trillion gallons a year withdrawn in 2025, Xylem says. Where we draw water from also matters: 40% of the world’s data centers today are in “areas of high or extremely high water stress,” said the report. And 29% of global chip factories are in “extremely water-stressed areas.”
+Interpreting all of this requires a hefty dose of context. The industrial world uses 168.8 trillion gallons of water annually, and this new digital economy—which increasingly helps all other industries operate—comprises just 3.7% of that, said the Xylem report.
+Power generation is also getting less water intensive. Coal uses the most water, but it is being phased out. Natural gas, which powers most data centers, is less water intensive. As the power mix pivots to renewables, the water intensity of power generation could fall dramatically.
+Another crucial distinction is water
+consumption
+versus temporary
+use
+: Power plants that use water for cooling return more than 90% of it back to the water system. It may be warmer and it may need treatment to avoid harming ecosystems, but it’s not irrevocably consumed.
+Though chip factories use a larger proportion of ultrapure water that they don’t return, they do also return water to the ecosystem. Water technology firm Ecolab, which says wastewater reuse can be as low as 5%, helped a U.S. chip factory save nearly 11 million gallons through improved monitoring and automation.
+Increasingly, data center operators are starting to speak up about their water use. “There’s this ongoing narrative that AI is taking all the water. We use, like, zero water,” Chase Lochmiller, CEO of AI infrastructure developer Crusoe, told a Stanford University class last month in a recorded guest lecture. Still, his industry talks a lot less about water used to make power and chips.
+Data centers are also getting disproportionate attention relative to everyday water use by agriculture, manufacturing and even lawn care. U.S. golf courses
+use
+531 billion gallons of water a year, and that’s after improving their water efficiency 31% since 2005. U.S. data centers used roughly 17 billion gallons on site in 2023, according to Lawrence Berkeley National Laboratory. Industrial-scale dairy farms, including growing animal feed, are among the most water-intensive operations in agriculture. Critics of dairy farms’ environmental footprint
+say AI doesn’t come close to that impact
+.
+Still, there’s no doubt we need to find more water as AI grows. A new
+University of Texas study
+of AI’s growing water needs in the state found that water withdrawals could rise from 0.75% of demand in 2025 to between 3% and 9% by 2040, depending on how many data centers get built.
+The place to find water is obvious-–
+around 30% of the world’s water is currently lost
+from public utility networks due to leaks and theft. The water utilities in charge of fixing that issue are typically among the most cash-starved of municipal institutions.
+Tech companies are stepping in to provide money and technology. Microsoft is partnering with communities where it is active in Phoenix and Las Vegas to install high-tech water leak detection systems. The technology, which comes from FIDO Tech, runs data captured by sensors through AI to isolate leaks so they can be repaired.
+Without that technology, water utilities need to upgrade whole sections of their networks, which can be too costly—so the leaks continue. “At the end of [the] day,” said Al Cho, Xylem’s chief strategy and external affairs officer, “water security is an information problem.”"
+The Startup Helping OpenAI Optimize Its AI For Cerebras Chips,2026-05-11T14:30:09Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/startup-helping-openai-optimize-ai-cerebras-chips,"As
+access to Nvidia AI chips become more elusive
+, major developers such
+OpenAI
+and
+Meta Platforms
+are diversifying their sources of computing power, including by striking deals to use a variety of AI server chips. But making that approach work is not a cinch. The AI labs need to tailor the code that trains and runs their models to each type of chip they use.
+It turns out there are startups that do such grunt work.
+OpenAI, for instance, has hired
+Gimlet Labs
+to help it optimize its models for
+Cerebras
+chips, Gimlet CEO
+Zain Asgar
+has told people. The Cerebras chips help
+OpenAI run Codex-Spark
+, a faster version of its coding tool for developers. (Cerebras is expected to go public this week.)
+Gimlet, which like OpenAI is based in San Francisco, was founded in 2023 and has raised $92 million in a bet that AI developers would pursue a multi-chip strategy. Gimlet develops software that helps AI run across different types of server hardware simultaneously. Its software can even slice a single model into different parts so each part can run on hardware that it’s best suited for.
+Gimlet also sells other software that uses AI to automatically translate code written with
+Pytorch
+, a popular framework most ML engineers and researchers use, into more complex, lower-level code that runs directly on the chips.
+Gimlet’s software can help companies better utilize their chips. Gimlet’s executives have previously claimed that their work can speed up the process of running models, known as inference, by between three and 10 times for the same cost and power.
+The company’s founders include Asgar, a
+Stanford University
+computer science professor, and a number of early employees from his previous startup
+Pixie
+. Gimlet has said it is generating more than $10 million in annualized revenue.
+Other startups that aim to help companies get their models running on different kinds of chips include
+Modular
+and
+Tiny Corp
+.
+With the exception of
+Anthropic
+, most major labs have written the code for their AI to run on
+Nvidia
+chips. (For many other developers, Pytorch has made it easier to write code for AI workloads that run on several types of AI chips, not just Nvidia’s.)
+Optimizing models for different chips could help AI labs assuage investor fears about runaway spending because they’ll be able to use cheaper chips. OpenAI, for instance, has projected it will spend
+$655 billion on running and training its AI
+between now and 2030. Such spending is unprecedented in the software industry and is another reason OpenAI is anxious to make its own custom AI chip a reality. (Unfortunately for OpenAI,
+the financing for its chip program currently depends on Microsoft.
+)
+Here’s what else is going on…
+Cursor’s 180
+While it seemed like a week ago, coding startup
+Cursor
+was
+keeping its distance from xAI
+after the model developer announced it had the option of acquiring Cursor later this year for $60 billion, things change quickly in AI land. As my colleague Theo
+reported
+on Friday, Cursor staffers have been recently visiting
+xAI
+offices to meet with employees and discuss their work. Fresh xAI exits have followed.
+Big Number
+Anthropic’s Mythos
+model set a new state-of-the-art score on
+METR’s
+time horizon benchmark
+. The standardized test measures how long it would take humans to complete the same software and machine learning tasks that an AI model can complete 50% of the time.
+METR, the AI evaluation research organization, found that Mythos can complete tasks that would take a human over 16 hours. METR also considered the easier tasks on which Mythos succeeded 80% of the time, finding that they would have taken a human a little over 3 hours: still leading the pack among all AI models METR has tested.
+People on the Move
+Dan Levine
+, a partner at
+Accel
+known for early startup investments in
+Scale AI
+and
+Vercel
+, is
+stepping back
+from the venture capital firm and will no longer make new investments for it, The Information reported.
+Court Watch
+Elon Musk’s
+team
+called David Schizer
+, the former dean of
+Columbia Law School
+, to testify Thursday in his lawsuit against
+OpenAI
+that the ChatGPT maker acted in several ways inconsistent with nonprofit customs.
+Schizer questioned OpenAI’s decision to rely on investment from
+Microsoft
+, saying that if it had pursued charitable donations instead it might not have had to give Microsoft rights to its technology or rights to its future profits. For that reason, OpenAI’s charitable arm should have “a lot more” than the approximately $200 billion it has today, Shizer argued.
+Earnings Report
+Cloudflare
+said it is
+cutting about a fifth
+of its workforce when it reported its quarterly earnings results, joining a growing list of tech companies that have cited AI as a reason to slash jobs.
+Arxiv A-List
+With new AI models such as
+Mythos
+raising alarms about AI-powered cyberattacks, one question that has been troubling cybersecurity experts is whether such an AI model could use its hacking skills to copy itself onto other computers. AI models may already be capable of duplicating themselves, according to
+testing
+from
+Palisade Research
+, a nonprofit that studies the capabilities of AI agents.
+Palisade instructed
+Qwen 3.6
+to hack into a remote computer and create a replica of itself. In one run, the model spread from a computer in Canada, to the U.S., to Finland and then to India. To be sure, the security vulnerabilities the models had to exploit were relatively simple, but Palisade found that models are rapidly improving at the task.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Chinese social media giant
+Kuaishou Technology
+is planning to spin off its
+Kling
+AI video business ahead of an initial public offering next year which could value Kling at $20 billion, The Information
+reported
+.
+Kunlunxin
+, the AI chip unit of Chinese search giant
+Baidu
+, is planning a dual initial public offering in Shanghai and Hong Kong at a target valuation of at least $14.69 billion.
+The hedge fund
+TCI
+cut almost all
+of its $8 billion stake in
+Microsoft
+, the Financial Times reported Friday, due to what CEO
+Christopher Hohn
+described in an investor letter as “uncertainty over Microsoft’s competitive position in the future” as AI threatens to replace existing software like Office.
+Core Automation
+, a neolab founded by former senior
+OpenAI
+researcher
+Jerry Tworek
+, is in talks with investors to raise between $300 million and $500 million at a valuation of around $4 billion, The Information
+reported
+. The new fundraise comes just weeks after the company raised $100 million at a $1 billion valuation.
+Isomorphic Labs
+, which uses AI for drug discovery, is in talks to raise more than $2 billion in a new funding round led by
+Thrive Capital
+with participation from
+Alphabet
+, Bloomberg reported.
+Moonshot AI
+, which develops the
+Kimi
+AI models, raised about $2 billion at a valuation of more than $20 billion in a funding round led by
+Long-Z Investments
+, the venture arm of Chinese food delivery and commerce giant
+Meituan
+.
+Anthropic
+is the unnamed customer
+behind a $1.8 billion cloud deal that
+Akamai
+announced on Thursday, The Information reported. That deal sent the content delivery network provider’s stock soaring 27% on Friday.
+Cowboy Space Corporation
+, which is building rockets to help get data centers in space, raised a $275 million Series B round at a post-investment valuation of $2 billion led by
+Index Ventures
+.
+Robotera
+, which makes humanoid robots for logistics, raised over $200 million in a funding round led by
+SF Group
+.
+Lithosquare
+, which uses AI to discover deposits of minerals including copper, rare earths and lithium, raised $25 million in a seed funding round led by
+World Fund
+and
+Kindred Capital
+.
+Ethos
+, a London-based startup that uses AI to match experts and clients, raised $23 million in Series A funding led by
+Andreessen Horowitz
+.
+Basata
+, a Phoenix, Ariz.-based startup that offers AI agents for administrative work in healthcare, raised $21 million in Series A funding led by
+Basis Set Ventures
+.
+OpenAI
+acquired
+Tomoro
+, an applied AI consulting and engineering firm, as part of its launch of the
+OpenAI Deployment Company
+, which aims to help organizations build and deploy AI systems. The acquisition will bring around 150 forward deployed engineers to the new company.
+Apple
+has
+reached “a preliminary agreement”
+with
+Intel
+in recent months for manufacturing some of its chips, The Wall Street Journal reported.
+OpenAI
+started making
+GPT-5.5-Cyber
+, a model that excels at cybersecurity, available to cyber defenders on Thursday.
+After adopting
+Anthropic’s Mythos
+model to find cybersecurity vulnerabilities,
+Firefox
+fixed 423 bugs in April. TechCrunch reported that Firefox patched only 31 bugs in April of the previous year."
+China’s Kuaishou Plans to Spin Off Kling AI Video Unit at $20 Billion Valuation,2026-05-11T11:44:30Z,Jing Yang,https://www.theinformation.com/articles/chinas-kuaishou-plans-spin-kling-ai-video-unit-20-billion-valuation,"Chinese social media giant Kuaishou Technology is planning to spin off its Kling AI video business ahead of an initial public offering next year, in an attempt to capitalize on investors’ appetite for AI stocks, according to two people with knowledge of the plans.
+Kuaishou has held talks with potential investors for a pre-IPO funding round that values Kling at $20 billion, the two people said. Kling develops AI video generation models that compete with those from ByteDance, Google and Alibaba.
+Kuaishou’s previously unreported plans for Kling is the latest example of how the AI boom is motivating Chinese tech firms to tap the public markets for fresh capital. Large language model developers Zhipu and Minimax have seen their stock prices soar since the listings in Hong Kong early this year. Separately, Alibaba and Baidu are both planning similar spin-off and IPO plans for their chip-design units this year.
+Kuaishou didn’t comment.
+A main competitor to ByteDance’s Douyin short video platform in China, Hong Kong-listed Kuaishou has a market capitalization of around $30 billion. Kling’s $20 billion valuation is based on projections that the unit can reach an annualized revenue of around $1.3 billion in the first quarter next year, when the IPO plan is scheduled to kick off, one of the people said.
+Kuaishou said in March that Kling’s annualized revenue based on its January revenue surpassed $300 million, and it expected the unit’s annual revenue to double in 2026. In the first quarter of this year, Kling recorded $75 million in revenue, with the majority coming from overseas markets including North America, one of the people said.
+By comparison, Kuaishou’s overall revenue in 2025 rose 12.5% to 142.78 billion yuan ($20.1 billion). Its short-video app, second only to Douyin in China, had 736 million monthly active users on average in the fourth quarter of last year.
+Kuaishou, whose name means “quick hand” in Mandarin, released its first Kling model in 2024, leading a wave of new Chinese AI video generation models that challenged OpenAI’s Sora at the time.
+Kling, which enables users to create videos from text or image prompts, generates revenue in multiple ways. Its website and mobile app charge for various subscription plans ranging from $6.99 to $127.99 a month. Kling also charges enterprise customers for their usage of its AI models through an application programming interface. Kuaishou said in March that Kling’s AI videos are finding widespread commercial applications in industries such as marketing, e-commerce, television, animation and gaming.
+Kuaishou hasn’t disclosed Kling’s monthly or daily active users. In January, the company said Kling “serves over 60 million creators worldwide.”
+Competition in the AI video industry is intensifying this year, as ByteDance and Alibaba, two of China’s biggest tech giants investing heavily in AI models, applications and infrastructure, are stepping up their efforts in video. Chinese firms also face American competitors such as Google and xAI. OpenAI, however, discontinued its AI video generation tool, Sora, in April, shutting down Sora’s mobile app and website.
+ByteDance is widely regarded as a leader in AI video generation after the February launch of Seedance 2.0. That model surprised the world with its ability to produce sophisticated multi-shot scenes with synchronized sound effects, music and dialogue in multiple languages, and instantly led to
+copyright disputes with major Hollywood studios
+.
+Alibaba last month released a new AI video generation model HappyHorse-1.0, which rose to the top of an AI model leaderboard and attracted a lot of attention on social media. The Alibaba team that created HappyHorse-1.0 was led by Zhang Di, a former Kuaishou executive who played a key role in Kling’s model development, according to two Alibaba employees with knowledge of the matter. Zhang left Kuaishou and joined Alibaba last year.
+On a leaderboard compiled by Artificial Analysis, Kling’s latest model is ranked No. 3 in the text-to-video category for videos that include sound, trailing ByteDance’s Seedance 2.0 and Alibaba’s HappyHorse-1.0."
