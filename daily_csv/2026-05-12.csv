@@ -1,0 +1,389 @@
+﻿标题,时间,作者,链接,内容
+Microsoft’s Stock Slide Raises Specter of Activist Investors,2026-05-13T00:00:20Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/microsofts-stock-slide-raises-specter-activist-investors,"Is it time for another activist investor to take a run at Microsoft? Shares of the iconic software giant are down nearly 16% so far this year, making it the worst performer of the big tech names.
+The Financial Times reported
+on Friday that British hedge fund TCI had sold “almost all” of its stake in Microsoft, citing uncertainty about how AI could undermine the company’s big Office productivity software business.
+TCI isn’t the only investor lately to mutter that Microsoft’s business is laboring under some dark clouds. And with SpaceX’s giant IPO just a few weeks away, there’s
+reason to believe investors will fund purchases
+of SpaceX stock by selling their shares in existing big tech names. That suggests pressure on Microsoft shares could worsen in the next couple of months.
+While there are real questions about how AI will affect enterprise software incumbents like Microsoft, some of this negativity seems overdone. Microsoft’s Azure cloud unit is growing at close to 40% annually which is impressive given its size. The overall company’s top line is expected to expand 17% in the year to June 30, according to S&P Global Market Intelligence. For a 51-year-old giant like Microsoft, that’s not bad. Moreover, it has made a bundle—
+as we outlined here today
+—on its $13 billion investment in OpenAI, and it will continue to benefit as the ChatGPT firm grows, thanks to its shareholding.
+Some on Wall Street think investors have got things wrong. UBS put out a report on Monday calling out Microsoft, as well as OpenAI and Nvidia, as “key enterprise AI winners.” The company has “enormous enterprise AI credibility and distribution,” UBS said. At the very least, you could say, Microsoft seems to have a marketing problem. But some might say the conglomerate nature of its business is also an issue, causing investors to undervalue the company.
+Not only is Microsoft a cloud and enterprise software giant, it’s big in gaming—remember the $75 billion purchase of Activision Blizzard in 2023, which added to its Xbox business—and it has a small internet search engine in Bing. It also owns professional social media site LinkedIn.
+Maybe it’s time for Microsoft to restructure, carving off some of the less core pieces. For example, chances are Microsoft’s shares aren’t reflecting much if any value for the gaming unit—so spinning it off as a separate company would allow investors to better value it. This seems the sort of thing an activist would seize on, calling for a streamlining of the business.
+You might say Microsoft is too big for an activist—its market capitalization is $3 trillion—but we’ve been here before. In
+early 2013
+, when Microsoft stock had been stagnant for more than a decade, ValueAct Capital took a stake in it. A few months later,
+Steve Ballmer announced his intention to step down as CEO
+, paving the way for Satya Nadella to take the reins and begin a transformation that lifted Microsoft’s market capitalization to new highs.
+Nadella doesn’t need to step down to change investor sentiment. But Microsoft needs to do something to change the narrative.
+AI and Jobs
+Who said AI would lead to mass unemployment? It seems AI is creating lots of job opportunities—including some for explaining to other people how to use AI.
+We
+reported today
+that Google planned to hire “hundreds of engineers” to help its customers use its business-focused AI products. On Monday, OpenAI said its new partnership with investment firms, OpenAI Deployment Co., had acquired a consulting firm that would add about
+150 consultants to help businesses use AI
+, with the goal of getting organizations to adopt it.
+The hiring of these consultants might not offset all the job losses among engineers and others prompted by AI. But it might help just a bit!
+In Other News
+•
+The House Oversight Committee has opened an investigation into OpenAI CEO Sam Altman’s personal investments and their ties to OpenAI’s commercial partnerships.
+• SAP announced a
+new agreement with Anthropic
+that will make it easier for SAP customers to build agents using the startup’s Claude models through a deeper integration between their respective products.
+• Google is considering using SpaceX or another rocket launch to launch its experimental orbital data centers, the Wall Street Journal
+reported
+on Tuesday. Google was an early SpaceX investor and owned 6.1% of the company at the end of 2025, regulatory filings show.
+• Google will start offering buy now, pay later services Affirm and Klarna for AI-powered shopping transactions in its Gemini app and its AI search mode, the rival fintechs announced on Tuesday.
+• BuzzFeed is separating its film and TV production studio and its Tasty food video unit into a separate company, BuzzFeed Studios, and will look to attract new investors, the company said in a securities filing. The restructuring coincides with media mogul Byron Allen’s planned purchase of a majority stake in the company.
+• Ebay told investor Ryan Cohen his $56 billion cash and stock bid for the online auction marketplace was “neither credible nor attractive,” delivering an expected rejection.
+• Chinese social media giant Kuaishou Technology said in a regulatory filing on Tuesday that the company’s board of directors is assessing a restructuring of its Kling AI video business that may involve raising outside capital for the unit, confirming an earlier report by The Information."
+Cerebras' Plum OpenAI Deal Is a Double-Edged Sword,2026-05-12T23:33:24Z,Cory Weinberg,https://www.theinformation.com/newsletters/dealmaker/cerebras-plum-openai-deal-double-edged-sword,"When some journalist writes the book on the AI boom, one critical chapter will start on Christmas Eve 2025. That was the day that Nvidia and OpenAI’s complicated frenemy relationship became incredibly lucrative for chip startups that focus on AI inference.
+We already know that Christmas Eve was the day the tech industry (
+and this newsroom
+) scrambled to make sense of the news that Nvidia would spend billions of dollars for chip startup Groq and its founder, an inventor of Google’s tensor processing units. Now, thanks to securities filings, we also know it was the date that OpenAI decided to commit billions of dollars to buy chips from Groq rival Cerebras, which makes dinner-plate–size chips that can run AI models rapidly.
+The OpenAI-Cerebras deal wasn’t announced until January, but the “master relationship agreement” tucked into Cerebras’ IPO filing is dated Dec. 24, 2025. I’d love to see the Signal chats between OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang from that date. (
+OpenAI lawsuits
+these days are setting a high bar.)
+That Christmas Eve date has had a ripple effect on the market. In March, Nvidia announced to great fanfare plans to incorporate Groq technology into its graphics processing unit chip systems, which would help AI coding tasks run faster.
+Similarly, speed of AI inference is driving Cerebras’ IPO this Thursday, which has been wildly oversubscribed. It will also mint billions on paper for OpenAI, which stands to own about 3% of the company in the coming months and could own 11% as it buys more compute capacity from Cerebras. (I
+published an in-depth story about OpenAI’s supplier stock deals
+on Tuesday.)
+Add it all up, and the IPO could value Cerebras—a company worth just $4 billion a year and a half ago when it first tried to go public—above $50 billion. It is expected to raise more than $5 billion in the IPO, which would make it the largest semiconductor public listing of all time, according to data from Dealogic as well as an analysis of Cerebras’ latest IPO filing.
+For investors, this IPO would give them a slice of a big, fast-growing OpenAI partner. Cerebras also has a meaningful partnership lined up with Amazon Web Services. By 2028, the company’s revenues could be near $8 billion, Morgan Stanley has told investors, up by more than 20 times last year’s sales.
+Cerebras’ Warnings
+But the competitive, cutthroat nature of this chip market—and the uncertain future of what will power AI overall— makes me think that investors would be making a mistake trying to chase Cerebras’ stock as it goes public. The company’s promise is real, but the market is overlooking too many uncertainties for Cerebras right now.
+Don’t take my word for it. The risk factors outlined in Cerebras’ IPO prospectus lay out the issues clearly. While these caveats are standard legal warnings, Cerebras’ are useful to reflect on amid an investment fervor.
+First, there are “well-funded” competitors “that have active merger and acquisition pipelines” as well as customers “may acquire or form alliances with our competitors, thereby reducing their business with us.” In other words, this is a market of giants who are ready to knife each other for market share and profit margins. Cerebras could get caught in the crossfire.
+Then there’s the relationship with OpenAI. The
+$20 billion deal OpenAI signed
+with Cerebras on Christmas Eve for 750 megawatts of AI compute capacity “represents a substantial portion of our revenues over the next several years,” Cerebras wrote. But read the fine print. “OpenAI has the right to terminate a portion or all of the agreement” if Cerebras fails to deliver on its end of the bargain.
+And that risk isn’t remote. While Cerebras is a nine-year-old firm, its cloud computing business is nascent, dating back only to the fall of 2024. Before, it was just selling large hardware systems. Cerebras didn’t generate meaningful revenue until 2023, and those sales came largely from one or two customers in the Middle East.
+To build a cloud service, Cerebras’ business will dip deeply into the red to build out data centers. Morgan Stanley believes Cerebras will burn $3 billion in 2026 and 2027, according to financial figures the bank shared with prospective investors.
+All of this may lead to a rough road ahead, the company warned in its prospectus. “We have encountered, and will continue to encounter, challenges in compute capacity planning and allocation, as well as accurate financial planning and forecasting with the changing mix of offerings in our business model,” it wrote.
+Add it all up, and investors seem overly excited—like kids on Christmas Eve. The next day sometimes ends in disappointment."
+Altman Tries to Turn the Tables on Musk in Contentious Testimony,2026-05-12T23:26:02Z,Rocket Drew,https://www.theinformation.com/articles/altman-tries-turn-tables-musk-contentious-testimony,"OpenAI CEO Sam Altman sought to turn the tables on Elon Musk in their legal battle, testifying that the tycoon abandoned the group they co-founded and worked to undermine its success.
+Altman’s appearance in court Tuesday marked the highest-stakes moment yet in the trial over Musk’s lawsuit, which centers on allegations that the
+OpenAI
+chief led a deceitful effort to “steal” the charity that he and Musk co-founded in 2015. Altman faced repeated attacks on his honesty during cross examination as he tried to defend his leadership of OpenAI and his efforts to fulfill its original mission of ensuring that advanced AI benefits humanity.
+In sometimes painfully awkward exchanges, Musk’s lawyer, Steven Molo, hammered Altman to respond to testimony from a list of witnesses at the trial that Altman misled them, including former OpenAI executives and board members. Molo also tried to portray Altman as a self-dealer who sought to benefit his personal investments through OpenAI partnerships. And he criticized him as beholden to Microsoft and opaque with Musk.
+Molo began with a quieter tone than he had employed with other witnesses, but pressed Altman pointedly on his credibility, asking him whether he lies to advance his business interests.
+“N-no,” Altman replied, somewhat haltingly. “I believe I am an honest and trustworthy businessperson.”
+Molo also asked Altman about
+new government scrutiny
+of his alleged conflicts of interest, including a recently opened House Oversight Committee investigation into his personal investments and their ties to OpenAI’s commercial partnerships. Altman said he hadn’t yet had time to review those actions in detail.
+Throughout, Altman disputed some of Molo’s characterizations, but kept his composure—contrasting with how Musk handled cross-examination during his turn on the stand two weeks ago. That testimony was often heated, with the tycoon repeatedly criticizing OpenAI’s lawyer, who several times embarrassed Musk by contradicting his recollections of events with contemporaneous emails.
+Altman appeared more familiar with the email threads and other evidence in the case, complicating Molo’s attempts to portray him as unreliable. At one moment, when Molo was about to refer to Altman’s deposition to expose an apparent contradiction, Altman quickly amended his answer, prompting the lawyer to move on.
+At another point Molo asked Altman whether he thought OpenAI’s success would have been impossible without Musk. Altman said he wouldn’t agree with that characterization, knowing what he knows now. Molo produced an email in which Altman wrote to Musk telling him that OpenAI wouldn’t have happened without his support. Altman said, “I have changed my view on Elon significantly.”
+OpenAI’s lawyer asked Altman about a recurring theme of the company’s defense: Musk’s awareness of the various corporate structures that OpenAI considered in 2017 and 2018. Altman went further than past witnesses, saying that he even informed Musk before Microsoft invested $1 billion in OpenAI in 2019, and a further $2 billion in 2021. According to Altman, Musk was supportive of that funding as a means for OpenAI to catch up to Google’s lead in AI.
+While Altman recognized Musk’s early contributions to OpenAI, he also portrayed Musk as a negative influence, saying that when Musk left OpenAI’s board, there were mixed reactions among employees: to some it was a “morale boost” to be free of Musk’s demanding expectations, while others feared “vengeance” from him.
+Early in OpenAI’s history, “I thought incredibly highly of Elon,” Altman said. “I am grateful to Mr. Musk,” recognizing his early contributions. But eventually Musk abandoned OpenAI, Altman said: “We were kind of left for dead.”
+Cross-examining Altman offered one of the last opportunities for Musk’s lawyers to prove their case, after a
+difficult first two weeks
+for the plaintiff. Musk’s suit claims that by transforming OpenAI into primarily a for-profit company, Altman and OpenAI President Greg Brockman, aided by Microsoft, violated a charitable trust and unjustly enriched themselves. Musk is seeking to compel OpenAI’s for-profit arm to transfer well over $100 billion to its nonprofit, to have Altman and Brockman removed as officers of the nonprofit and to undo a restructuring last year that paved the way for OpenAI’s possible IPO.
+Brockman received
+similar treatment last week
+, testifying about his interest in companies that have done business with OpenAI. Unlike Altman, Brockman owns significant equity in OpenAI itself, worth about $30 billion, which was the subject of much of the questioning that Brockman faced.
+The board’s decision to fire Altman as CEO in 2023 made up a significant portion of Altman’s testimony Tuesday. Molo pressed Altman to admit the board fired him for dishonesty, while Altman maintained that he still doubts the rationale the board provided. Altman said he initially didn’t want to return to OpenAI, but eventually decided he was willing to “run back into a burning building to try to save it.”
+Altman also addressed one of the most seemingly damning pieces of evidence against him: a 2017 email in which he wrote to Musk, “I remain enthusiastic about the non-profit structure.” Altman composed the email two years before OpenAI proceeded with establishing a for profit subsidiary. Altman said that he was and still is enthusiastic about OpenAI’s nonprofit, but his remarks were not a commitment to Musk.
+That echoes the ways that other defendants have explained away key pieces of evidence against them. Brockman accounted for a line in his digital journal about a path for OpenAI he considered “morally bankrupt” by saying he was contemplating a path that OpenAI never pursued. Similarly, Microsoft CEO Satya Nadella explained his comment, from the time Altman was fired, that Microsoft is “below them, above them, around them,” saying that he was referring to the various kinds of technology that Microsoft provides OpenAI.
+Altman argued that OpenAI’s for-profit activities, including investment from Microsoft, have grown the endowment of its nonprofit foundation, and he said it was difficult for OpenAI to raise funding via non-profit donations. “I hope the nonprofit eventually will have trillions of dollars,” he said.
+The main part of the much-watched trial is slated to wrap up with closing arguments on Thursday. The decision over Musk’s claims will then rest with the judge and jury in the case.
+But among some outside observers, Altman’s testimony Tuesday seems to have favored OpenAI’s side of the dispute. A Polymarket market on whether
+Musk will win the case
+had been hovering around 43% over the past several days but fell to 35% during the day’s proceedings. Musk’s chances in the market have ranged between 30% and 60% during the trial."
+"Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google",2026-05-12T21:59:21Z,Stephanie Palazzolo,https://www.theinformation.com/articles/anthropic-talks-buy-developer-tools-startup-used-openai-google,"Anthropic is in advanced talks to acquire developer tools startup Stainless for at least $300 million, according to a person with knowledge of the deal.
+The four-year-old Stainless sells software to model makers including Anthropic, OpenAI and Google that helps developers, non-technical people and AI agents more quickly access AI models. Such software has been in particular demand as AI agents—such as Claude Code and OpenClaw—become a more popular way to automate tasks.
+Typically, developers and agents access AI models through application programming interfaces. Stainless takes those APIs, which can be complicated to use, and uses AI to automatically generate a special kind of software—otherwise known as a software development kit—that makes it easier to build applications from the API. Stainless’ technology has also become more important as the AI labs compete on how easy-to-use their models are, now that frequent updates to models has made their capabilities very similar.
+The price for the New York startup would be a premium to its last valuation of $150 million in December 2024, according to PitchBook. The company employs about 80 people and has raised $35 million in funding from investors including Andreessen Horowitz, Sequoia Capital and Felicis, according to the research firm.
+The talks aren’t finalized and the terms could change. Anthropic, which was valued at $350 billion in February, may use some of its stock for the acquisition, the person said.
+OpenAI Supplier
+If Anthropic acquires Stainless it would own a main way developers access OpenAI and Google models.
+Before becoming a customer of Stainless, OpenAI used to build its own SDKs in-house, which were difficult to maintain and took up valuable resources, senior engineers at OpenAI have said.
+Other startups that offer SDK tech include Speakeasy and LibLab, as well as open-source options like the OpenAPI Generator. Stainless also sells software to help developers access APIs from companies whose main business isn’t making models, such as Cloudflare and Cerebras.
+Stainless has also built specific software to work with Anthropic’s
+Model Context Protocol
+, popular open-source software Anthropic first released in November 2024 to make it easier for models and agents to use outside tools and software.
+While OpenAI has struck a number of deals over the course of its existence, Anthropic has only become more acquisitive in the last six months. Last fall, the Claude maker
+told bankers
+that it was ready to move off the sidelines and make more acquisitions. In December, it struck its first deal,
+acquiring developer tools startup Bun.
+Since then, it’s acquired computer use startup Vercept and
+AI biotech startup Coefficient Bio.
+Anthropic could continue its string of dealmaking as it looks to bolster its offerings in different verticals like financial services, healthcare and cybersecurity, or offer new tools in its breakout AI coding business."
+ServiceNow and FedEx Reflect the Great AI Pricing Divide,2026-05-12T19:45:16Z,Laura Bratton,https://www.theinformation.com/newsletters/applied-ai/servicenow-fedex-reflect-great-ai-pricing-divide,"Software companies such as HubSpot and Adobe have started
+pricing their AI tools based on the number of tasks the AI successfully completes
+rather than based on flat fees or the number of AI tokens they consume.
+Many more firms plan to follow suit, even as the practice is still being hotly debated.
+Some 31% of 230 enterprise software firms expect to primarily charge their customers for AI based on “outcomes,” or tasks their AI tools complete, by mid-2029, compared to 5% today, according to an email survey of software executives conducted by Kyle Poyar, a former operating partner at venture capital firm OpenView.
+Outcomes could be anything from an AI agent resolving a customer support ticket to generating an advertisement for a marketing campaign, though software providers don’t necessarily agree on how to measure such things.
+Among the firms adopting the model are big companies like Salesforce, whose
+CEO Marc Benioff recently told The Information
+that outcome-based pricing was coming to Salesforce’s AI customers.
+Still, it doesn’t seem like outcome-based fees will be the dominant pricing approach anytime soon. About 47% of the firms said that by mid-2029, they expected to charge customers for AI using a hybrid model of subscriptions and usage- or outcome-based pricing, Poyar said. That’s up from 37% of firms that said they use a hybrid model today and 25% a year ago. (A full report on the data is due to be released Wednesday.)
+The pricing changes are coming as AI threatens subscription revenues tied to customers’ employees, who have long paid for software “per seat.” AI providers at the bleeding edge of the technology, including Anthropic and OpenAI, are also moving toward more of a usage-based pricing approach for their tools and have discussed task- or outcome-based pricing as well, as they try to improve their margins.
+FedEx Chief Digital and Information Officer Vishal Talwar said he’s happy that a few of the shipping giant’s software and AI providers are already offering outcome-based pricing tied to the business metrics FedEx wants to achieve with the help of the tools.
+“It just keeps things simple,” he said. CEOs of AI providers and their customers “can look each other in the eye and say, ‘I trust you, you trust me, I'll make sure none of us really suffer a lot from this.’” The suffering he’s referring to likely reflects the fact that AI tools cost more to run than traditional software and are
+squeezing corporate profit margins
+.
+There are risks, however, most obviously in uncertainty about what customers will end up paying. A third of software firms polled by Poyar said the prices customers will pay using outcome-based models will be difficult for the customers to forecast.
+Meanwhile, 20% of the software providers said they don’t think outcome-based models will help them expand revenue fast enough.
+“If you go to the real world, there’s no way in a contract to figure out what [an] outcome would be, whether you can measure it,” said Amit Zavery, chief operating officer at ServiceNow, which provides software for IT and other corporate departments. (ServiceNow charges for AI as part of a subscription and levies extra fees if a customer goes beyond a certain AI usage limit.)
+Nor is it easy to figure out whom to blame when a customer feels an outcome wasn’t achieved, he said. In other words, a customer may object to charges if they believe the AI hasn’t completed a task to their liking, and the software provider could be left on the hook for those costs."
+How AI Is Rewriting the Corporate Playbook,2026-05-12T18:19:14Z,The Information Partnerships,https://www.theinformation.com/articles/ai-rewriting-corporate-playbook,"Perhaps the only thing outpacing AI spending is the volume of commentary dedicated to the technology’s disruption. And while business leaders aren’t lacking for insights, they are discovering that AI is evolving faster than any coherent playbook can keep up with. The result is that companies are making high-stakes decisions without clear returns, stable organizational structures or even agreement over who’s in charge.
+In a conversation with Ken Brown, The Information’s senior finance editor, Kathryn Kaminsky, U.S. chief commercial officer at PwC, described how that uncertainty is reshaping everything from investment decisions to workforce planning, and is pushing leaders to rethink not just how they deploy AI but how they define success.
+Not Your Parents’ Tech Cycle
+Unlike previous tech cycles where innovations primarily impacted one business function, Kaminsky observed that AI is touching every inch of the C-suite.
+“The CEO obviously cares about AI because they’re investing so much. Human capital cares because they don’t know what workforce planning is going to look like. The back office cares because they’ve been the guinea pigs,” she said. “When I think about change in the world of AI, the biggest difference is how it’s impacting multiple people in the C-suite.”
+From chief information officers to chief human resources officers, corporate leaders are trying to factor AI into their planning, a task the technology’s rapid evolution is making difficult. This puts pressure on traditional change management processes that weren’t designed for this pace. By way of example, Kaminsky noted the quandary CIOs are finding themselves in as they attempt to pick which models to embed in the enterprise. In the past, the decision would have been at their discretion. Today, that’s less frequently the case.
+“Is the business telling the CIO what they need or is the CIO telling the business? There’s a question now of who should own the transformation,” said Kaminsky.
+In practice, that uncertainty is playing out in how companies adopt AI. Rather than testing a single provider, many are testing multiple frontier models at once as capabilities evolve quickly and different tools excel at different tasks.
+“CIOs normally have a process for things like what hyperscaler to use and how to use it. But what we’re seeing is that they may have to bring on more than they normally would, which in a way is very anti-ROI. How do you manage operating expenses for something like that?”
+Redefining ROI
+Kaminsky said that when it comes to AI, business leaders risk using an outdated lens to measure return on investment. For companies where AI poses an existential threat, delaying decisions because of ROI may be a death knell.
+“The ROI of AI isn’t the issue. The ROI of doing nothing is the real issue,” she said.
+With this in mind, she said, many business leaders at public companies are changing how they talk to their boards about ROI and reconsidering how they categorize those investments—blurring the line between operating expense and long-term investment.
+“Taking a bet on where things are going is better than not doing anything at all,” she said. “The people who do it best are those that make assumptions as to what could happen and plan around those changes.”
+A New Talent Model
+AI has undeniably altered the hiring landscape, triggering companies like PwC to add new job titles—engineer, data scientist—to the accountants that traditionally made up the bulk of their workforce.
+“We don’t just hire accountants anymore, because the world’s changing. We have evolved quickly in this time, and so we’re really refocusing,” she said.
+More human-led skills that machines can’t easily replicate—like relatability and critical thinking—are also becoming increasingly important.
+“We need people that can talk to a client with empathy and understand what they’re doing and where they’re going,” she said. The days of the “yes-man,” it seems, are also numbered, as she stresses the importance of people who can ask questions and challenge human and machine alike.
+“A U.K. regulator we work with just said, ‘You can’t blame the AI.’ You still need a human lens. We really need people that will challenge us and look at the output to review it and have a dialogue around the review process,” she said. “We like to be challenged—those are the type of people we’re looking for.”"
+Beyond the Models: Where Investors Are Finding AI’s Next Wave,2026-05-12T18:18:01Z,The Information Partnerships,https://www.theinformation.com/articles/beyond-models-investors-finding-ais-next-wave,"Getting in on the ground floor of the next AI wave can feel particularly elusive for investors. With billions continuing to pour into frontier models and the infrastructure powering them, much of that opportunity is already spoken for. For investors looking beyond hyperscalers and data centers, the question is no longer whether AI will reshape industries but where they can still find meaningful value.
+To unpack where opportunity still exists, The Information’s Stephanie Palazzolo spoke with:
+Alex Baker, partner and U.S. TMT deals leader, PwC
+Alexa von Tobel, founder and managing partner, Inspired Capital
+Surviving in a World of Giants
+While it may seem like every company is an AI company, most of the growth is concentrated in a handful of tech giants. For Alexa von Tobel, founder of early-stage fund Inspired Capital, this underscores the importance of defensibility and building something Google or Microsoft can’t easily replicate.
+“Those companies have over a billion users. You don’t want something where they can deploy even a halfway-decent version of what you’ve built and eradicate it overnight,” she said, adding that in a world of elephants, “you don’t want to be the ant.”
+PwC’s Alex Baker, who works with clients from venture capital all the way through initial public offerings and megafunds, agreed, expanding on the main factors that enable companies to hold their own.
+“Defensibility is about entrenchment—how embedded is an asset to an enterprise environment; replicability—what is the underlying tech infrastructure; and trust—what do customers want and how do they use the technology we’re talking about,” he said.
+The Limits of Vertical AI
+Last month, AI-powered software company Cursor gave SpaceX an option to acquire it for $60 billion. For Baker, deals of this kind point to a shrinking moat in the vertical AI space.
+“For a lot of very highly funded startups, their differentiation has been, ‘We train our own models, and it’s vertical specific already.’ I would argue that differentiation is eroding,” he said.
+Baker argued the real moat is the orchestration layer within a vertical. Von Tobel, meanwhile, has mostly avoided vertical AI companies with one exception: Frontera Health, an autism-focused large language model.
+“They’re working with a very specific, HIPAA-compliant dataset, where the data needs to be collected safely, and Anthropic and others likely weren’t going to run after [it],” she said.
+Beyond Software: AI Meets the Real World
+One of the biggest areas of AI promise, agreed Baker and von Tobel, is in the physical world, which offers a far more durable moat than software’s fragile barrier. For one, said von Tobel, physical AI models are harder to replicate than software ones. One example, she said, is BrightAI, a company in her fund she describes as Cursor for infrastructure workers. It puts chips on everything from water pipes to telephone poles.
+“Talking about moats, taking off hundreds of thousands of stickers is a real pain,” she said. Unlike software, these systems are difficult—and costly—to replace once deployed. The company is also capturing data no one else is collecting, another defensible advantage.
+“I think physical AI is going to be one of the most important trends over the next four years,” said Baker, adding that it’s reinvigorating industries like physical security.
+“Video cameras, badge readers, door locks—this used to be really old technology, but now it’s a technological space, and it’s early in the curve,” he said.
+Is Software Dead?
+As tools like Cursor and Claude make it easier to vibe code custom software, some investors now question whether traditional software still has a place. Baker, for one, is optimistic. While AI is introducing real disruption, he said the risk of wholesale replacement is often overstated—particularly in regulated, mission-critical workflows with high switching costs.
+Moreover, in a future where AI agents—not humans—are the primary users of software, operating 24/7, the most valuable platforms could become even more central.
+“There’s a little semantics here, right? What’s a software versus a vertical-specific, AI-enabled orchestration layer?” he asked. “Our view is that for many software players, there is as much, if not more, opportunity right now than downside.”"
+"Microsoft Has Generated More Than $30 Billion in Revenue From OpenAI’s Technology, Spending",2026-05-12T18:08:42Z,Sri Muppidi,https://www.theinformation.com/articles/microsoft-recouped-double-13-billion-openai-investment-revenue,"For three years,
+Microsoft
+was the only cloud provider to sell OpenAI’s large language models to other businesses, an exclusive right it fought hard to preserve after investing $13 billion in the startup. But businesses bought more access to those models from
+OpenAI
+directly than from Microsoft over that time, new data show.
+Even so, Microsoft’s OpenAI bet has paid off handsomely in other ways. Microsoft has already earned back more than double the capital it invested in OpenAI in terms of new revenue from services related to OpenAI’s technology, according to The Information’s estimate based on company filings, people familiar with the business and OpenAI’s private financial documents.
+Microsoft capital expenditures specifically tied to OpenAI couldn’t be learned and aren’t reflected in our analysis, though they are significant and could also be several times Microsoft’s equity investment in OpenAI.
+All told, Microsoft generated about $30 billion in revenue from OpenAI-related business between 2023 and 2025, including from OpenAI’s spending on Azure servers and its revenue share payments to Microsoft, in addition to Microsoft’s sales of products that use OpenAI’s models, our analysis shows.
+The $30 billion figure doesn’t count Microsoft’s roughly 25% stake in OpenAI, which is worth about $213 billion on paper, according to a person with knowledge of its stake. That ownership could be diluted, however, if Elon Musk wins a lawsuit against OpenAI that claims the company breached its charitable duties and seeks $150 billion in damages.
+But as Microsoft CEO Satya Nadella testified on Monday in the Musk lawsuit trial, Microsoft allocated scarce computing resources to OpenAI, including boosting its capital expenditures for data centers, to help OpenAI at the expense of other Microsoft priorities because “the thesis here was that we can create a real win-win partnership.”
+The $30 billion revenue estimate suggests Microsoft’s revenue from OpenAI-tied products has accelerated over the past year. As of March 2025, Microsoft had generated only about a third of that total—$9.5 billion—from its OpenAI partnership, executive Michael Wetter testified in a deposition last year in Musk’s lawsuit.
+Microsoft could generate many times the $30 billion figure in the coming years, based on spending commitments OpenAI has made to use Microsoft services. That could help Microsoft assuage rising investor concerns about its AI strategy, which has pushed down its share price about 10% in the past year.
+The numbers show how strategic Microsoft’s OpenAI deal remains to the cloud giant, even though their partnership has unraveled in some ways, with both companies
+relying less on each other than they did several years ago
+. They also show how OpenAI’s unprecedented growth has helped buoy growth in Microsoft’s cloud unit, a key part of its business as it competes with rivals like Amazon and Google.
+OpenAI rents servers from Azure to power its application programming interface as well as ChatGPT and other services. OpenAI paid Microsoft the vast majority of the roughly $23 billion it spent on renting AI servers between 2023 and 2025, based on an analysis of OpenAI’s financial documents and a person with knowledge of its spending. OpenAI also has
+committed to spending about $280 billion renting Azure servers
+in the coming years—including potentially tens of billions of dollars this year alone—to develop and run its products.
+As our chart shows, the bulk of the revenue Microsoft has gotten from OpenAI-tied business from 2023 to 2025 comes from that $23 billion the AI lab spent on server rentals. Additionally, about $2.5 billion has come from Microsoft’s sale of OpenAI models to its cloud customers, an API known as the Azure OpenAI Service, according to The Information’s analysis of OpenAI’s private financial documents. About $3 billion came from OpenAI’s revenue share payments to Microsoft, according to those documents, and several billion more came from Microsoft’s sales of OpenAI-powered Copilot software.
+Taken together, the roughly $30 billion Microsoft made from OpenAI accounts for the majority of the revenue it disclosed last month from AI-related sales overall. Microsoft said it was generating $37 billion in annualized sales of AI-specialized server rentals, AI applications and API sales of any models to cloud customers. That implies it’s generating more than $3 billion a month in such revenue, mostly from OpenAI-related services.
+In addition, Microsoft’s right to 20% of OpenAI’s revenue through 2030 means it gets another $38 billion of overall revenue through 2030, based on a payment cap the companies negotiated last month,
+The Information reported
+Monday evening. That cut was worth about $3 billion to Microsoft from 2023 to 2025 and could be worth $6 billion to the company this year if OpenAI hits its revenue target.
+Not only has the OpenAI relationship helped Microsoft grow its revenue faster—it is also operating more profitably than it was at the start of the relationship. Despite its expansion of cloud server rentals to OpenAI and other firms, which carry higher costs than its core apps business, Microsoft has managed to lift its overall operating margin 5 percentage point in the past three years, to 46% in the most recent quarter.
+However, free cash flow fell 22% in the March quarter from a year prior to $15.8 billion, thanks to Microsoft’s increased capital expenditures to build new data centers.
+Head-to-Head Battle
+But as a reseller of OpenAI’s models, Microsoft has been outpaced by OpenAI itself. Microsoft’s revenue from selling OpenAI models through Azure rose 50% to $1.5 billion in 2025, while OpenAI’s own sales of its models to businesses rose more than two and a half times to nearly $2 billion during the same period, according to OpenAI’s financial documents.
+Those figures cover API sales, a business in which companies pay to access OpenAI models and embed them into their own products. They don’t include consumer and workplace applications such as ChatGPT, Codex and Microsoft Copilot. (Codex, OpenAI’s coding agent, this year began generating some API-related revenue.)
+When Microsoft and OpenAI began selling nearly identical versions of OpenAI’s models to developer customers more than two years ago, Microsoft’s expectations were high, given that OpenAI models were in a league of their own in terms of quality and Microsoft was the king of selling software to businesses.
+Yet OpenAI captured more interest from enterprises and developers than Microsoft did despite the latter’s large salesforce and track record. That was because many large enterprises were eager to form relationships with the fast-growing startup, and also because OpenAI offers enterprise customers special perks such as hands-on support from its AI researchers and early previews of unreleased technology.
+Still, Microsoft won over several large customers in recent years by pitching its software for helping customers comply with laws around the world. Firms including Intuit, Citadel and Walmart have all been large customers of the Azure OpenAI Service in recent years, according to people with knowledge of the spending. (However, Anthropic’s API sales have lapped both OpenAI and Microsoft in the past year and accelerated in recent months).
+OpenAI’s ability to sell more of its models than Microsoft helps explain why Microsoft last month was willing to give up its exclusivity by agreeing to let other cloud providers sell OpenAI models for the first time.
+By ending the exclusive arrangement, Microsoft won various concessions from OpenAI, including guarantees of intellectual property sharing and the ending of a requirement that Microsoft pay OpenAI 20% of revenue generated from models sold through Azure. That 20% cut was worth about $300 million last year and $200 million in 2024 to OpenAI, according to the financials."
+Why Lightspeed Backed This Agent Evaluation Startup’s Back-to-Back Rounds,2026-05-12T14:00:20Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/lightspeed-backed-agent-evaluation-startups-back-back-rounds,"Alex Shan
+may not have been old enough to legally buy alcohol in 2023, but he was still old enough to start his own company and join the AI boom.
+Shan was 20 when he was first introduced to
+James Alcorn
+, an investment partner at
+Lightspeed Venture Partners
+, through a fellow
+Stanford University
+classmate. Shan, who started college at 16, had studied new ways to evaluate and monitor the performance of AI models at the prestigious
+Natural Language Processing Group
+at the
+Stanford Artificial Intelligence Laboratory
+. (The NLP Group at that point was led by Stanford professor
+Christopher Manning
+, one of the most-cited NLP researchers in the world.)
+For months, Alcorn and Shan, along with his childhood friends,
+Andrew Li
+and
+Joseph Camyre
+, brainstormed ideas for startups before landing on one related to Shan’s area of research. Monitoring the performance of AI models is particularly en vogue as AI agents explode in popularity but still make lots of mistakes.
+Lightspeed last year invested in back-to-back financings of Shan’s company,
+Judgment Labs
+, leading the seed and co-leading the Series A with
+Greenoaks Capital
+. That most recent round valued Judgment Labs at $175 million, including $32 million in new capital, according to a person with knowledge of the round. (
+SV Angel
+and
+Valor Equity Partners
+, known for heavily backing
+Elon Musk
+-related firms, also participated.)
+Judgment’s software takes a new approach to a big problem with AI agents: they still can be error-prone due to the unpredictable nature of the large language models powering them, meaning you can ask the same question to an LLM multiple times and get a different answer every time. Solving this issue is critical for agents running important processes, like making changes to a financial model in a corporate merger deal or filling in a patient medical chart, where there is no room for mistakes.
+Most companies deal with this issue by monitoring their AI agents with fairly rudimentary approaches, like having engineers manually look at cases where a human user reported a bad experience with an agent or by having another AI model monitor agent conversations and actions to try to spot mistakes, said Shan, who is now 22.
+Those approaches don’t always work because the engineers or AI must look through the hundreds of steps an AI agent took (otherwise known as its “trajectory”) to find a mistake, he said.
+This scenario isn’t too different from one that coding agents often face: deciding which files in a codebase are actually relevant to a coding task so they don’t waste time reading the entire codebase, Shan said.
+Judgment’s software uses multiple AI agents to divide up an AI agent’s trajectory into multiple phases, like the agent’s planning, execution and verification of a task, Shan said. That way, his AI can more easily identify which of those phases contributed to a mistake, he said.
+You might be wondering how Judgment makes sure the agents checking the original agent’s work don’t make the same mistake twice. For agents, much like humans, it’s often easier to check someone else’s work rather than come up with that answer in the first place, Shan said. (For instance, it’s easier to check whether a chess position is a checkmate than to checkmate your opponent yourself.)
+Judgment says its customers include
+Rogo
+, which develops AI agents for investment bankers, and
+Monaco
+, which develops AI agents for salespeople.
+Judgment is far from the only company trying to tackle evaluation for models and agents. A number of other startups, like
+Braintrust
+and
+Arize
+, have raised funding for similar goals. Meanwhile, other evaluation startups, like
+Galileo
+and
+Promptfoo
+, have already been acquired by
+Cisco
+and
+OpenAI
+, respectively.
+Here’s what else is going on…
+Court Watch
+In his lawsuit against
+OpenAI
+and
+Microsoft
+,
+Elon Musk
+has claimed that the two companies’ deals amounted to Microsoft and OpenAI CEO
+Sam Altman
+trying to “steal the charity.” But Microsoft CEO
+Satya Nadella
+testified in court Monday that Musk
+never raised those concerns
+to him before or after the deals were negotiated.
+“We have each other’s phone numbers,” Nadella said, noting that Musk didn’t get in touch when Microsoft was negotiating its 2019 and 2023 investments into the startup.
+Big Number
+Ilya Sutskever
+, the
+OpenAI
+co-founder and former chief scientist who left two years ago, owns a stake now
+worth close to $7 billion
+, he testified on Monday.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+OpenAI
+announced its $10 billion private-equity joint venture called the
+OpenAI Deployment Company
+, which aims to help businesses deploy and integrate AI into their operations. As part of the new company, OpenAI also announced
+it had bought Tomoro
+, an AI consulting and engineering firm, whose acquisition would also bring on around 150 forward deployed engineers to the new joint venture. The terms of the deal were not disclosed.
+AI chip designer
+Cerebras Systems
+raised its preliminary IPO pricing range to between $150 and $160 a share, from between $115 and $125, in a sign that investor demand for the company is strong. At the new pricing range, Cerebras would
+raise about $4.5 billion
+.
+Vbot
+, which makes robot dogs and humanoids, raised about $73 million in a funding round led by
+Oriental Fortune Capital
+,
+Huatai Zijin Investment
+and
+Fosun RZ Capital
+.
+Frame Security
+, which uses AI to simulate social engineering attacks such as phishing scams, raised $50 million in a funding round led by
+Index Ventures
+.
+Vapi
+, a San Francisco-based developer of AI voice agents for enterprises, raised $50 million in funding at a $500 million valuation led by
+Peak XV
+.
+Roadrunner
+, which makes AI-powered configure, price, quote software, raised $27 million in funding, including a seed round led by
+Kleiner Perkins
+and a Series A round led by
+Founders Fund
+.
+Ciridae
+, a San Francisco-based startup that develops AI to automate processes for mid-sized businesses, raised $20 million in seed funding led by
+Accel
+.
+Develo
+, a Los Angeles-based startup that develops AI software for pediatrics, raised $14 million in funding led by
+Blueprint Equity
+.
+Thinking Machines Lab
+announced a research preview of
+interaction models
+, the first models the lab has released publicly. The models process video, audio and text, perceiving and responding simultaneously, in contrast to how most AI models switch between receiving instructions and generating outputs. Their novel design allows the models to perform live translation between languages or interrupt users.
+Google
+recently observed hackers using AI models to find a
+previously undiscovered security flaw
+, the company said on Monday. The hacker planned to use the flaw for a “mass exploitation event,” but Google security researchers believe they successfully warded off the attack after noticing the hackers’ activity, the company said. The incident is one of the first confirmed cases of the type of potential cyberattack that AI labs like
+Anthropic
+and
+OpenAI
+have been warning against in recent months.
+OpenAI
+launched
+Daybreak
+, a program to provide OpenAI’s leading models to cyber defenders for discovering cybersecurity vulnerabilities.
+Near AI
+, a blockchain and AI startup, and
+FailSafe
+, an AI cybersecurity startup, released
+AttackBench
+, a benchmark to measure the ability of AI agents to resist AI-powered hacks."
+OpenAI Is Making Billions Just by Promising to Buy From Suppliers,2026-05-12T13:00:45Z,Cory Weinberg,https://www.theinformation.com/articles/openai-making-billions-just-promising-buy-suppliers,"Chipmaker Cerebras brought in one of the greatest pitchmen in tech, Sam Altman, to appear in a video to promote its $5.5 billion initial public offering. Seated on a gray upholstered couch and speaking softly, the OpenAI chief executive touted Cerebras’ chips as “the best high-speed inference offering in the world right now.”
+Altman has a strong incentive to tout Cerebras.
+OpenAI
+stands to own a roughly 3% stake in Cerebras within weeks of the offering, which it got by committing to order chips and lend money to the company. OpenAI’s stake in Cerebras could grow to 11% in the coming years as it pays for the chips.
+Last spring, Altman made a similar pitch in cloud provider CoreWeave’s IPO marketing video, just after OpenAI had struck a deal to amass about a 1% stake in CoreWeave. Neither video mentioned OpenAI’s equity in the companies, though their IPO prospectuses describe the stakes.
+Both deals show how OpenAI is benefiting from the big orders it’s giving its suppliers. It stands to hold roughly $2.6 billion of CoreWeave and Cerebras shares combined in the coming months. CoreWeave’s stock price has nearly tripled since its IPO, when OpenAI took ownership of the shares. Cerebras, meanwhile, could be valued as high as $48 billion in its IPO, doubling in value since OpenAI struck the deal in December.
+In both cases, OpenAI put up minimal cash or no cash at all for the shares. Instead, it’s using its leverage as a major buyer of power, chips and data center capacity to reach deals with companies in need of customer commitments. OpenAI’s name on a multiyear contract has become one of the most valuable currencies in technology, despite the company’s steep losses and its own voracious need to raise cash.
+In return, OpenAI is contractually committed to payments, making it a significant customer for both CoreWeave and Cerebras. OpenAI signed a $20 billion contract with Cerebras in December and could account for as much as 90% of Cerebras’ sales in 2026 and 2027, according to a disclosure by the company in its prospectus and revenue forecasts shared with investors by its lead underwriting bank, Morgan Stanley. Cerebras and Morgan Stanley declined to comment.
+OpenAI’s deal with Cerebras is one of many circular financing arrangements in the AI build-out, where a customer or supplier funds a startup that will serve its needs. But this deal is unusual because OpenAI isn’t putting up any cash—just committing to use Cerebras’ chips. And while other firms like Alphabet have negotiated ultra-cheap stock grants, called penny warrants, in commercial arrangements with suppliers, OpenAI’s deals are much larger.
+OpenAI Chief Financial Officer Sarah Friar is “getting access to a scarce resource and an ownership stake and has the clauses to pull out if things aren’t going the way she wants,” said CJ Gustafson, a former tech finance chief who analyzes tech IPO filings for his newsletter, Mostly Metrics. “If I’m in Cerebras’ shoes, maybe it’s a deal I had to take to a certain extent to get to the scale I want to be.”
+Altman’s interest in Cerebras is not only on OpenAI’s behalf. He and OpenAI co-founder Greg Brockman became personal investors in Cerebras in 2017, a year after it was founded, a fact that resurfaced last week through court filings in Elon Musk’s lawsuit against OpenAI. The size of their personal stakes has not been disclosed, and neither of them is listed in the prospectus as owning more than 5% of the company.
+Cerebras’ IPO is on track to be the largest ever public offering of a semiconductor company, by IPO proceeds, surpassing that of SoftBank-owned chip designer Arm in 2023, if Cerebras prices its deal at the high end of its price range.
+Cerebras makes dinner-plate–size chips it says helps AI models deliver results faster than those of dominant chip developer Nvidia. The promised speed is expected to create big demand for Cerebras’ chips. The company’s revenues are projected to grow from about $510 million last year to roughly $800 million this year and $3.2 billion in 2027, according to forecasts shared with investors by Morgan Stanley.
+The $5.5 billion Cerebras plans to raise in the offering, scheduled for later this week, will effectively cover most of the cost for the data centers Cerebras needs to serve OpenAI.
+The windfall will offset some of the company’s financial challenges. Morgan Stanley believes Cerebras will burn $3 billion in 2026 and 2027, according to financial figures the bank shared with prospective investors.
+Cerebras also warned in its prospectus that it could take on more debt. The OpenAI deal will affect the company’s reported growth rates. Its prospectus says OpenAI’s warrants will be considered “contra-revenue” in accounting terms, reducing its gross revenue.
+Circular Arrangements
+The circular deals that have surged during the AI boom typically differ from OpenAI’s agreements because they usually involve a cash-rich company like Nvidia making cash investments in cloud providers that will use its chips, such as CoreWeave, Crusoe and Lambda. Other examples include
+Microsoft
+investing in OpenAI and Alphabet investing in Anthropic with a mix of cash and compute credits.
+CoreWeave said OpenAI paid nothing for $350 million worth of shares in a private placement following CoreWeave’s IPO last March. The shares were part of a deal OpenAI had struck to buy up to $11.9 billion worth of cloud services from CoreWeave through October 2030, which at the time increased CoreWeave’s total order commitments 43%. OpenAI doesn’t have any rights to more shares if it increases its business with CoreWeave.
+OpenAI then got more aggressive with similar deals starting last fall, as Altman’s company faced scrutiny for striking so many deals for future compute, without the revenue to pay for it all. Friar’s team, including former head of infrastructure finance Ryan Brown, drove the deals to help diversify its base of chip suppliers outside of Nvidia, a person familiar with the matter said.
+OpenAI’s next deal was with AMD, which is racing to develop chips that compete with Nvidia’s but hadn’t produced them yet at the scale OpenAI needed. AMD agreed to issue stock to OpenAI at a fraction of a penny for up to 10% of the chipmaker, whose market value is $750 billion today. The shares will vest only after OpenAI starts deploying AMD’s chips.
+Such circular deals will increase the possibility of extreme investment outcomes, said Raymond Zage, a billionaire investor who runs Singapore-based firm Tiga Investments. “Winners will likely win bigger and losers will lose more quickly and maybe more spectacularly,” he said.
+OpenAI’s deal with Cerebras requires the chipmaker to provide 750 megawatts of inference compute—roughly the power output of a single nuclear reactor over the next three years. OpenAI has an option to purchase 2 gigawatts overall for about $20 billion.
+Cerebras disclosed the equity arrangement with OpenAI last month in its IPO prospectus. For a fraction of a penny each—roughly $330 overall—OpenAI stands to receive 33 million shares, or $4.1 billion worth of shares overall, at the high end of Cerebras’ IPO price range.
+Cerebras said in its IPO filing that nearly one-third of those shares were already “probable” to vest based on achieving early milestones of the deal. The rest of the shares will vest as OpenAI actually pays for Cerebras chips. That will hit other shareholders. “The cost of success is very expensive because everyone else gets diluted,” Gustafson said.
+Cerebras and AMD also paid a steep cost, each awarding OpenAI significant chunks of their companies if its orders come through. An industry executive familiar with similar transactions said the 10% equity stakes granted by Cerebras and AMD struck them as unusually large compared with industry norms.
+Companies in Need
+OpenAI has made its equity deals with companies in need of a boost. It didn’t negotiate any equity in Broadcom, whose business is booming, when it announced efforts to tap the major chipmaker to build a custom AI chip.
+CoreWeave is a different story. Just before its IPO last year, the company’s relationship with its key customer, Microsoft, frayed. Investors doubted CoreWeave’s ability to find new sources of revenue. Then OpenAI stepped in. Since the IPO, the value of OpenAI’s stake in CoreWeave has more than tripled to $1.2 billion, and the two companies have expanded their deal for data center capacity.
+AMD, meanwhile, was in need of customer commitments last fall for a new chip it said would close its longstanding performance gap with Nvidia. AMD CEO Lisa Su touted the OpenAI deal at an investor conference in March. “I am quite, quite pleased. It’s actually clearly paying off in terms of the technical alignment that we have,” Su said. AMD’s stock is up 150% since OpenAI struck the deal last October. Meta mimicked OpenAI’s deal with AMD months later.
+Cerebras, however, was perhaps most in need of OpenAI’s business. The chipmaker had spiked its planned IPO in 2024, when it was valued at just $4 billion. It was in search of a new, major customer because regulators and investors expressed concern that it was too dependent on Middle Eastern governments for sales. And top investment banks avoided working on the IPO in part because Cerebras CEO Andrew Feldman was
+convicted of a
+felony for circumventing accounting controls nearly two decades ago.
+The terms Cerebras gave OpenAI are far more favorable than those it offered other partners around the same time, the prospectus shows. Amazon committed to pay $100 per share for up to 2.8 million Cerebras shares under a March 2026 agreement to deploy Cerebras chips inside Amazon Web Services data centers. Like OpenAI, Amazon’s stock warrant vests as Amazon’s purchases under the agreement scale up—but at a strike price 10 million times higher per share."
