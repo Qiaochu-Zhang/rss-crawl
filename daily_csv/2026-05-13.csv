@@ -1,0 +1,375 @@
+﻿标题,时间,作者,链接,内容
+Amazon’s AI Shopping Overhaul,2026-05-14T00:00:21Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/amazons-ai-shopping-overhaul,"Remember Bard? It was the original name of Google’s AI chatbot, but the Gemini brand long ago replaced it. Just as you’ve likely forgotten that history, you’re not likely to remember Rufus in 12 months’ time, either. Rufus, the name of Amazon’s AI-powered shopping chatbot, got tossed on Wednesday and replaced with Amazon’s well-established Alexa virtual assistant brand name.
+I could make lots of jokes about what a terrible name Rufus was (although it was my grandfather’s first name, so I won’t do that). Let’s just agree that Amazon made the right call to adopt the name of a chatbot its customers already know. The name change is part of a broader overhaul of its shopping service to offer a bunch more AI-powered features that are likely to help Amazon fend off competition from generalist chatbots. (See our coverage of Amazon’s AI shopping evolution
+here
+and
+here
+.)
+Most importantly, Amazon has made its main search bar more versatile. Try typing in something you’re looking for—say, “red sweater”—and you’ll get some AI Overviews text back about how to style a red sweater and differences in fabric choices shoppers should consider, above some product listings.
+Amazon says
+you can also ask questions in the search bar and get information in return, although in my tests today that was somewhat hit and miss.
+In making these changes, Amazon is narrowing the distinction between the main search bar and the shopping chatbot known until today as Rufus—it’s that icon on the bottom corner of the Amazon mobile app or at the top of the desktop version.
+Amazon seems to be following in the footsteps of Google, which has gradually evolved its search engine to bring it closer to the Gemini chatbot (including by introducing text dubbed AI Overviews!). It makes sense that both companies, which serve vast numbers of consumers globally, have taken their time in updating their search engines.
+Most consumers don’t react well to abrupt changes in products they’re used to. And no one wants long answers when a short response will do. Amazon’s approach seems a smart way to balance those different requirements. Depending on how consumers respond, there has to be a chance that Amazon will do away with the separate shopping chatbot altogether at some point in the future.
+To be sure, the AI overhaul of Amazon’s shopping site is still a work in progress. But let’s give Amazon the benefit of the doubt and assume it makes the experience more consistent. The question now is whether it can train people to use its site for detailed shopping research rather than gravitating to ChatGPT or Gemini for that.
+AI Computing's Crunch
+If you want some firsthand evidence of
+AI computing’s capacity crunch
+, the first-quarter earnings call from neocloud Nebius Group was most informative.
+“We are typically seeing four or more customers competing for every GPU we bring online,” said Nebius Chief Revenue Officer Marc Boroditsky, speaking of graphics processing units, aka AI chips. Boroditsky added that, as had been the case for the past few quarters, Nebius had “sold out [chips] again” in the first quarter as “demand continues to significantly exceed available capacity.”
+Nebius, a Netherlands-based rival to CoreWeave, reported 684% higher revenue for the first quarter. The company projects revenue for 2026 at between $3 billion and $3.4 billion, compared with $530 million in 2025. It’s no surprise that Nebius stock finished up 15.7% on Wednesday.
+In Other News
+•
+AI chip designer Cerebras Systems was expected to price its IPO Wednesday night at $185 a share,
+Bloomberg reported
+, well above the most recent preliminary range of up to $160.
+• Shares of Cisco Systems jumped 18% in after-hours trading after the networking and security maker reported accelerating revenue growth of 12% for the March quarter and forecast 14% growth for the June quarter, thanks to AI-driven demand. Last fiscal year its revenue grew just 5.3%.
+• Microsoft estimates it will have spent more than $100 billion on commercial agreements with OpenAI by the end of its fiscal year in June, executive Michael Wetter testified in court on Wednesday during the Elon Musk–OpenAI trial. That number includes the $13 billion Microsoft invested in OpenAI, as well as the costs of building and running infrastructure—including new data centers—for OpenAI to train and run its models.
+• Anthropic’s latest version of its Mythos AI showed “notable capability jumps” in finding and exploiting undiscovered software vulnerabilities compared to an earlier version of the model, researchers at the U.K.’s AI Security Institute said Wednesday.
+• Nvidia CEO Jensen Huang got a last-minute invitation to join President Donald Trump’s trip to China, Trump revealed in a Truth Social
+post
+. After reports surfaced that Huang had been left out of a trip that included many other tech executives, including Elon Musk and Apple CEO Tim Cook, Trump called Huang and invited him, according to a person familiar with the situation.
+• Tencent Holdings is gearing up to spend more on AI infrastructure after chip shortages began showing signs of relief. Chief Strategy Officer James Mitchell said on an earnings call Wednesday that the company will spend significantly more in the second half of this year, as more China-designed AI chips become available “month by month.”
+• Rent the Runway co-founder Jennifer Hyman will step down as CEO at the end of this week, the clothing rental company said Wednesday.
+• Alibaba Group CEO Eddie Wu said Wednesday that the company expects its annualized revenue from AI model and application services to surpass 10 billion yuan ($1.47 billion) in the current quarter through June, and to top 30 billion yuan ($4.42 billion) by the end of this year. It is the first time Alibaba has disclosed revenue figures for AI-specific services."
+Startup Modal in Talks to Raise at $4.5 Billion Valuation After Revenue Surges,2026-05-13T17:49:01Z,Anissa Gardizy,https://www.theinformation.com/articles/startup-modal-talks-raise-4-5-billion-valuation-revenue-surges,"Modal, a startup that rents out Nvidia graphics processing units and software to help developers run and train models as well as agents, is in talks to raise money at around a $4.5 billion valuation. That would be an 80% premium to its last valuation from just a few months ago, according to two people with knowledge of the round.
+The steep hike in valuation follows a jump in its annualized revenue to around $300 million, up five times from its pace last fall, one of the people with knowledge said. Much of that growth has stemmed from demand for Modal’s sandboxes, software environments in which developers can run AI agents and code without affecting the rest of their computer and code base, the person said.
+Accel and existing investor Redpoint Ventures have been in talks to invest in the round, two of the people said. The round could raise between $150 million and $250 million. The five-year-old startup has previously raised more than $111 million in funding from investors including General Catalyst, Lux Capital and Amplify Partners.
+The investor interest and surging revenue are signs of how AI agents such as Anthropic’s Claude Code and the open-source OpenClaw are generating demand for makers of software and hardware supporting the agents. Anthropic last month said its annualized revenue rate tripled from the end of 2025 to $30 billion, and it signed a series of deals with cloud providers like Amazon to support that growth. Annualized revenue for coding agent Cursor also nearly tripled from late last year to March.
+Modal has benefited from the AI agent wave, as developers such as corporate expense startup Ramp and coding assistant Lovable use its sandbox software to ensure their agents don’t damage the rest of their computers or code base. Sandboxes are also crucial for the process of reinforcement learning, a method model makers use to improve AI by rewarding it for accomplishing certain goals and penalizing it for other behaviors.
+Modal charges customers a subscription fee for a certain amount of credits they can use to rent out GPUs to run or train their models. Customers then pay more for extra use of chips and software.
+Modal is one of a handful of startups, including Baseten, Fireworks AI and Together AI, that help AI developers get access to Nvidia GPUs and software for running the chips more efficiently.These startups have reported
+fast revenue growth
+and fetched multibillion-dollar valuations in the last year.
+But they risk getting squeezed in other parts of their business. Demand for chips from the biggest AI developers like OpenAI and Anthropic has
+driven up spot prices for GPUs
+. Their scarcity could squeeze the margins of companies like Modal, which rent the GPUs from larger cloud providers before leasing them out to developers."
+Apple Explores Ways to Welcome AI Agents in the App Store,2026-05-13T17:17:03Z,Aaron Tilley,https://www.theinformation.com/articles/apple-explores-ways-welcome-ai-agents-app-store,"Apple is exploring ways to better incorporate AI agents into its App Store so it can benefit from the tech industry’s hottest trend while ensuring that the software in its store continues to play by its rules, according to people briefed on the matter.
+So far, the widespread embrace of agentic AI for software creation has put
+Apple
+on the defensive. For months, the company has been blocking vibe coding tools from its App Store for violating its policies.
+Before long, though, a much broader array of apps powered by AI agents could deliver an even bigger challenge to Apple’s traditional rules for software developers. AI agents—which are capable of taking complex actions on behalf of users—present inherently thorny issues for Apple’s strict regulations on its app platforms, which are designed to prevent the apps from spreading malware, avoiding App Store fees and committing other misbehavior. For example, some agents can spin up smaller apps on the spot to perform a wide variety of tasks, which could be a problem if the agents do so after Apple has already approved the apps they live within.
+Apple’s efforts to incorporate AI agents into the App Store aim to reconcile those inconsistencies. While details couldn’t be learned, its staffers are designing a system to adhere to its standards of privacy and security and prevent the more freewheeling behavior some users of agentic systems such as OpenClaw have experienced, where agents can go haywire and delete all of a user’s emails, according to the people briefed on the matter.
+Next month, Apple is widely expected to make a full-throated AI push at its annual developer conference , though it couldn’t be learned whether it will announce the agent integration with the App Store at the event.
+Fighting agents broadly, as it has vibe coding tools, would be a risky proposition for Apple. Agents are currently generating huge buzz among software developers, who see an opportunity to use them for automating everything from booking travel to responding to emails.
+Apple has a big incentive to make sure its platform remains a hospitable place for developers and the latest software trends. The App Store is one of the most lucrative software franchises in history, accounting for nearly $50 billion the company made on App Store commissions globally in 2025, up 20% from the prior year, according to estimates from app analytics firm Appfigures.
+It’s too soon to know whether agents can deliver on the hype—and how consumers will interact with them. A growing number of technologists, for example, believe agents could eventually make many forms of apps as they currently exist less relevant.
+“AI agents are the holy grail—everybody is trying to do it,” said Igor Naverniouk, who worked on Siri at Apple until departing in December to co-found a startup, Oscar Kilo. “Whoever does it will win. Just think of the billions being spent on app stores. Wouldn’t it be cool to just ask your phone to do whatever you want it to do and never install apps? That’s the hope.”
+Apple’s efforts to make its App Store more friendly for agentic AI are part of a broader strategy to ensure its iPhone and other products remain dominant platforms for software developers and users in the AI era. The company’s efforts to build its own AI models have languished, making this goal all the more important.
+This platform-focused AI strategy will be on display at its Worldwide Developers Conference next month, where Apple is expected to unveil its long-awaited overhaul of Siri. The new version of the assistant, which Apple has repeatedly delayed, will be powered by Google’s Gemini model. If all goes as planned, it will be capable of managing tasks across various apps, such as digging into emails to look up a flight’s arrival time.
+Apple has already begun reaching out to app developers to integrate capabilities, such as booking flights and sending calendar invites, into its overhauled version of Siri and Apple Intelligence, said people familiar with the communications. It is also moving toward incorporating more AI chatbot options into its platform beyond the initial partnership with OpenAI’s ChatGPT, struck back in 2024.
+Bloomberg has
+reported
+that Apple will offer users the ability to choose their own AI models in addition to OpenAI across some iOS 27 features, such as writing tools and image generators.
+But the company faces some uphill challenges in getting developers on board with its new AI products. Some developers are resistant to making their app interoperate with the new Siri because they worry that will give Apple more opportunities to collect commissions.
+Siri’s past integration with ChatGPT has also largely been a dud. The OpenAI chatbot is buried as a feature inside iOS settings, where users rarely access it, disappointing OpenAI, said people familiar with the partnership. Apple has also limited what ChatGPT can do—for example, preventing it from accessing users’ calendars or emails.
+In the near term, though, Apple’s iOS seems as relevant to developers as it has ever been. The number of new app submissions to the App Store
+has exploded recently
+, in large part because of how easy vibe coding tools have made it to develop software. (The vast majority of developers use vibe coding tools on computers, which Apple’s crackdown on mobile coding tools has not impacted.)
+Apple has expressed confidence in its continued relevance among developers in the era of agentic AI.
+Apple is “drawing developers and researchers to our products as powerful platforms for building and running agentic AI thanks to the unique combination of performance efficiency and on-device capabilities,” Apple CEO Tim Cook said on an earnings call last month.
+Siri Stumbles
+For years, Apple has attempted to turn Siri into a more agentic-style experience, envisioning it as a tool for accomplishing a wide variety of tasks such as scheduling dinners or taking actions inside apps, like finding photos and sending them to friends.
+One recent effort began in 2023, when a team inside Apple’s software organization, called Proactive Intelligence, began experimenting with ChatGPT. The group rewired an internal version of Siri they were testing so it hooked directly into ChatGPT, bypassing all of Siri’s old architecture, said a person involved in the effort. This allowed Siri for the first time to understand complicated directions and carry out tasks.
+In a demo for Apple software leader Craig Federighi and other executives, the team showed how a user could use the assistant to, for example, schedule and organize a date with a spouse.
+The demos impressed Federighi sufficiently that he approved the project, leading to some of the initial stages of building Apple Intelligence, the umbrella term for a collection of AI features Apple announced in 2024. To keep its efforts secret, Apple moved the team off the company’s main campus and into a satellite office in Cupertino, Calif., said the person involved.
+But in the spring of 2025, it announced a delay to the Siri upgrade, saying it would take longer than initially expected. At last year’s developer conference, Apple largely avoided the topic of AI altogether.
+The internal demo was built on top of ChatGPT, but at the time, Apple was still committed to building its models in-house. However, internal fighting over the technical direction of those models
+caused an embarrassing delay
+to the Siri upgrade in the spring of 2025. At last year’s developer conference, Apple largely avoided the topic of AI altogether.
+In some cases, developers are dragging their feet at taking advantage of the new Siri. In China, for example, Apple has been encouraging app developers to integrate with the new Siri (the company is still seeking regulatory approval to launch both the overhauled assistant and Apple Intelligence in the country). However, some of those developers are hesitant to do so because they’re concerned it could lead to Apple imposing fees on their apps, said people familiar with the talks.
+Apple has told some of the developers it won’t charge a commission in the early stages of the partnership, but it also told them it hasn’t ruled out introducing one later. (That could be a tough sell in China, where Apple has already faced pushback from major internet companies over its commission model.) Among the Chinese developers Apple is courting to integrate their apps with the new Siri are Baidu, Alibaba and Tencent, according to employees at those companies.
+Still, it will take time to determine whether most users prefer to access agentic AI through Siri or directly through apps on their home screens. Either way, some AI executives believe Apple could play an important role in making agents appealing for mainstream audiences, as it did with digital music in the early 2000s.
+“There’s literally going to be millions of agents,” said Sophia Velastegui, who previously ran parts of Microsoft’s AI business and worked on platform architecture at Apple.
+“How do you know what’s good? How do you know what’s secure?” asked Velastegui, who is now CEO of AI advisory firm Velastegui Ventures. “I think there’s a great opportunity there to be the agent store.”"
+Can Crypto Beat the Banks and Win Over Washington?,2026-05-13T15:00:21Z,Ken Brown,https://www.theinformation.com/newsletters/the-information-finance/can-crypto-beat-banks-win-washington,"This is a critical week for the crypto industry. The most important crypto law ever to hit Congress is about to take a big step forward, and with the crypto market in the doldrums, the timing couldn’t be better.
+This could be the last chance for the long-delayed bill to become law, as vacations and election season suck up much of the rest of the year on the congressional schedule. If it fails, the crypto industry will have wasted the opportunity of a lifetime to get a set of generally friendly rules enshrined into law.
+The law, known as the Clarity Act, has been stuck in the Senate for months. The Senate Banking Committee is likely to approve it this week before a full Senate vote. The House will then need to vote on the Senate bill, a process that could stretch into summer.
+Here’s why the law matters. Everyone in crypto flinches when they remember the Biden administration’s bashing of the industry. Never mind that FTX collapsed in the middle of it. The industry wants real rules, preferably friendly ones, that will prevent what it feels were arbitrary prosecutions. Real rules will also draw mainstream financial firms deeper into the industry, creating profits for those already there.
+In its current form, the law would give Washington’s two big financial regulators, the Securities and Exchange Commission and the Commodity Futures Trading Commission, specific areas of authority over crypto and set clear rules on crypto  issuance, trading and custody. The bill would also tweak rules for stablecoins, though that part is still unsettled. The end result would be crypto markets that look more like traditional markets for stocks and commodities.
+To get the bill through Congress, crypto backers will need to overcome two big hurdles. First, crypto remains as wild and risky as it was when FTX collapsed. Investors who piled into last year’s crypto rally have been hammered by a
+drawn-out downturn
+. There have
+been scams
+,
+kidnappings
+, a
+big crypto hack
+just last month,
+possible sanctions and anti–money-laundering violations
+, and a
+crazy crash
+that led to the liquidation of $10 billion in crypto.
+In prediction markets, which are often funded with crypto, my colleagues Michael Roddan and Yueqi Yang have reported about
+insider trading
+and
+a lack of transparency at some companies
+. The crypto investments of President Donald Trump’s family have generated
+howls about corruption
+. The current version of the bill has dropped an ethics provision that was under consideration, and that could be a deal killer for Democrats.
+The result of all this is that mainstream support for crypto is slim. In a
+poll this month
+for crypto media company CoinDesk, just 30% of voters had a favorable view of crypto. On the flip side, Trump supports the bill, and Congress is stocked with lawmakers who received hundreds of millions of dollars in crypto campaign donations in 2024.
+The bill’s second big hurdle is the banking industry, one of the most influential groups in Washington. The fight is over stablecoins—cryptocurrencies typically pegged to the dollar—and whether they can pay interest to their holders. Stablecoins typically maintain their value by holding safe assets such as U.S. Treasurys, and they want to pass the interest they earn on to their investors.
+Banks, especially small and midsize ones, are terrified that if that happens, their customers will move their deposits to stablecoins to earn higher interest rates. Customer deposits fund loans, often to small businesses, and banks argue that lending could fall significantly if stablecoins drain deposits.
+If this fight sounds vaguely familiar, that’s because it is. Last year, Congress passed a stablecoin law that explicitly banned the issuers of stablecoins from paying interest. It took about a minute for the crypto industry to find a workaround and let platforms pay “rewards” instead. Banks are now rightfully skeptical that a deal brokered by two senators will not have another loophole.
+The big question is whether the banks will use their immense lobbying power—think of the thousands of local banks, small business owners and farmers—to tank the bill. The crypto industry will fight back with threats to use its campaign war chest, worth hundreds of millions of dollars, to swat down any member of Congress who fails to support it.
+There are good reasons to root for the crypto bill. It would provide regulatory certainty, which would draw more mainstream finance companies into the industry, and it might help reign in some of crypto’s worst excesses. If it fails, though, the big losers will be crypto backers, who may never see this chance again."
+How Anthropic Could Take an OpenAI Supplier Off The Table,2026-05-13T14:00:21Z,Laura Mandaro,https://www.theinformation.com/newsletters/ai-agenda/anthropic-take-openai-supplier-table,"Is a big AI model maker about to take out a supplier to its archrival? That seems possible if a deal we reported on late Tuesday reaches the finish line.
+Anthropic
+is in talks to buy developer tools startup
+Stainless
+for at least $300 million,
+according to Stephanie and Katie
+. The New York startup makes
+software development kits
+that make it easier for developers to build applications from a company’s AI models, which they typically access through an
+application programming interface
+. Those kits are in demand as the differences between models fade, making it more important for them to distinguish themselves by showing how easy they are to access. Stainless’ customers include
+OpenAI
+,
+Google
+and Anthropic.
+If Anthropic goes through with the deal, however, it’s not clear the first two will stick around. Instead, they’d have to look for alternative suppliers or create their own SDKs.
+That’s in fact what OpenAI had done before becoming a customer of Stainless. But these SDKs were difficult to maintain, OpenAI engineers have said. And according to a testimonial on Stainless’ site, customers also complained. In the words of one OpenAI engineer featured on the site: “The developer experience was lacking.”
+Dropping a supplier—or customer—after a rival agrees to buy them is a pattern we’ve already seen a few times in the past year, as the tech companies jousting for AI supremacy snap up smaller startups for talent or to bolt on tech. The acquirers’ rivals don’t always see the rationale for continuing to do business with a company controlled by a competitor.
+For instance, last year about this time, OpenAI agreed to buy the startup
+Windsurf
+for $3 billion, Bloomberg reported. Shortly after,
+Windsurf said Anthropic
+—which supplied the coding agent startup with AI models to run its AI agents—cut off Windsurf’s direct access to Anthropic’s models. Anthropic’s co-founder and chief science officer,
+Jared Kaplan, later
+explained that  “I think it would be odd for us to be selling Claude to OpenAI.”
+(In the end, OpenAI
+didn’t end up buying Windsurf because
+, in part, some of the smaller startup’s staff were worried it would be forced to share their technology with OpenAI-backer
+Microsoft
+.)
+Then in June,
+Meta
+said it was planning to buy 49% of data labeling startup
+Scale AI
+. Days later,
+a spokesperson told us that OpenAI
+, a rival to Meta, would phase out Scale for data labeling.
+One exception, so far, is
+Cursor
+:
+Elon
+Musk’s xAI
+(now part of
+SpaceX
+) has agreed to buy the coding startup, which relies on Anthropic and OpenAI models, as well as its own. But even though Cursor is getting closer to Musk, including by sending its employees to meet
+with xAI staff as we reported last week
+, there are no recent signs Anthropic and OpenAI are moving to cut off Cursor’s API access—yet. That may be because Cursor is an important customer of both firms!
+As for Stainless, we don’t have any reason to believe Anthropic is interested in the startup simply to spite OpenAI. But it can’t hurt. The rivalry between the two has intensified as Anthropic’s
+Claude Code
+and
+Cowork
+agents have taken off, likely pushing Anthropic’s monthly revenue past OpenAI’s—and prompting OpenAI
+executives to privately lash out at Anthropic
+. (For more on how Anthropic is winning a share of corporate wallets,
+read this
+.)
+Now on to Rocket for
+what else is going on…
+Policy Watch
+The
+House Oversight Committee
+has
+opened an investigation
+into
+OpenAI
+CEO
+Sam Altman’s
+personal investments and their ties to OpenAI’s commercial partnerships. At the same time, 10 Republican attorneys general—including from Florida, Montana, Nebraska, Iowa, Arkansas and West Virginia and Louisiana—also asked the
+Securities and Exchange Commission
+to review OpenAI’s governance.
+Court Watch
+OpenAI
+CEO
+Sam Altman
+testified Tuesday
+in
+Elon Musk’s
+lawsuit against him and OpenAI. Altman faced repeated attacks on his honesty during cross examination as he tried to defend his leadership of OpenAI and his efforts to fulfill its original mission of ensuring that advanced AI benefits humanity.
+Altman addressed one of the most seemingly damning pieces of evidence against him: a 2017 email in which he wrote to Musk, “I remain enthusiastic about the non-profit structure.” Altman composed the email two years before OpenAI proceeded with establishing a for profit subsidiary. Altman said that he was and still is enthusiastic about OpenAI’s nonprofit, but his remarks were not a commitment to Musk.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+The charitable foundation tied to
+Nvidia
+CEO
+Jensen Huang
+and his wife,
+Lori Huang
+, has
+agreed to rent
+Nvidia graphics processing units from
+CoreWeave
+, which it plans to donate to artificial intelligence developers, according to Nvidia’s annual report.
+The Huang Foundation
+has donated $108 million in “GPU compute time grants” to date, according to the report, which was made public Tuesday.
+Madison
+and
+Spencer Huang
+, the daughter and son of
+Nvidia
+CEO
+Jensen Huang
+, who both work at Nvidia, each
+earned over $1 million
+last year.
+Junyang Lin
+, the former lead researcher of
+Alibaba’s Qwen
+models who left the firm earlier this year, is seeking to raise several hundred million dollars for his new AI lab, The Information
+reported
+. The new lab will likely be valued at around $2 billion after the funding round and Chinese venture capital firms
+Gaorong Ventures
+and
+HongShan
+are in talks to fund the lab.
+Exaforce
+, which uses AI to detect cyberattacks, raised $125 million at a $725 million valuation in a Series B funding round, with participation from
+HarbourVest
+,
+Peak XV
+,
+Mayfield
+,
+Khosla Ventures
+and
+Seligman Ventures
+.
+Havoc
+, which develops software to coordinate autonomous military vehicles, raised $100 million in a Series A funding round, from investors including
+CCM Capital Markets
+,
+Clear Street LLC
+,
+Cobalt Capital
+,
+Boardman Bay Capital
+Management
+,
+Meet Perry
+,
+Mute Ventures
+,
+Soren Ventures
+,
+SAIC
+and
+JA Green
+.
+Monaco
+, a San Francisco-based startup that develops AI agents for sales, raised $50 million in Series B funding led by
+Benchmark
+.
+Embat
+, a Madrid, Spain-based startup that develops AI-powered treasury management software, raised $33 million in Series B funding led by
+Cathay Innovation
+.
+Judgment Labs
+, an AI agent evaluation startup, raised $32 million in combined seed and Series A funding rounds from
+Lightspeed Venture Partners
+and
+Greenoaks Capital
+, The Information
+reported
+.
+Google
+is
+considering using SpaceX
+or another rocket launch to launch its experimental orbital data centers, the Wall Street Journal reported on Tuesday.
+Anthropic
+released several new “plugins” to integrate with legal software and instruct
+Claude
+to perform legal tasks, such as helping a lawyer prepare for a deposition. Anthropic also updated its website to warn investors that a number of private and secondary investment platforms that offer access to shares in the AI company are not allowed to do so.
+SAP
+reached an
+agreement with Anthropic
+that will make it easier for SAP customers to build agents using the startup’s
+Claude
+models through a deeper integration between their respective products. Until now, SAP customers have had to build their own software to connect Claude to SAP applications and to
+Joule
+, the company’s AI assistant.
+Google
+plans to hire hundreds of engineers to help customers start using its business-focused AI products,
+The Information reported
+. Google’s new “forward deployed engineers” will form a new team within
+Google Cloud
+, the unit’s chief,
+Thomas Kurian
+, said on LinkedIn on Tuesday.
+Google
+will start offering
+buy now, pay later services
+Affirm
+and
+Klarna
+for AI-powered shopping transactions in its
+Gemini
+app and its AI search mode, the rival fintechs announced on Tuesday.
+Adaption
+, a neolab founded by
+Sara Hooker
+, who previously worked as VP of AI research at
+Cohere
+, announced a new product called
+AutoScientist
+that helps models learn specific capabilities quickly by using an automated approach to conventional fine-tuning."
+Anthropic Flexes Pricing Power as Its Customers Willingly Eat the Cost,2026-05-13T13:00:42Z,Aaron Holmes,https://www.theinformation.com/articles/anthropic-flexes-pricing-power-customers-willingly-eat-cost,"Anthropic’s revenue growth is unprecedented. Newer
+Anthropic
+customers such as PagerDuty are a big part of the reason.
+Eric Johnson, chief information officer at PagerDuty, which helps software engineers respond to tech outages, said he is bracing for volatile costs as his company’s 1,200 employees start using Anthropic’s AI coding and other tools to speed up software development and other tasks.
+“I am preparing myself to be surprised” by the bills, he said. “We believe that there’s a lot of value here. Unfortunately, it’s fairly new technology, so there’s some open questions that we’re gonna be working through” around its costs and getting a return on the investment.
+Businesses whose employees are heavy users of Anthropic’s Claude products are likely to pay significantly more for them, as the company
+changed its pricing model
+to charge enterprise customers based on the amount of AI they use rather than just charge flat fees. Anthropic has said it is using a
+new version of a technology called a tokenizer
+for its latest AI models, which could also contribute to the increased costs paid by customers.
+Many technology firms and other large Anthropic customers say they plan to eat the soaring costs as they try to boost productivity among software engineers and salespeople by automating certain tasks.
+Anthropic’s revenue pace is skyrocketing, reaching $30 billion in annualized sales as of early April,
+nearly triple its rate at year end
+, as its products improve and catch on with developers and other white-collar workers, including
+“tokenmaxxing” employees at companies such as Meta
+. Anthropic is now roughly on par with its older archrival,
+OpenAI
+, in terms of revenue per month. However, both companies’ growth and increased costs has pressured their gross profit margins.
+Some of Anthropic’s growth is due to its close ties with legacy tech giants.
+Microsoft
+, for instance, has quietly become one of Anthropic’s top customers and was recently on pace to spend nearly $500 million a year for Anthropic AI to power Microsoft products. Microsoft as well as
+Amazon
+and
+Google
+also resell Anthropic’s models to their cloud customers, further boosting Anthropic’s gross revenue.
+NinjaOne, a $7 billion–valuation IT services firm, is one such cloud customer. Joel Carusone, its senior vice president of data and AI, said the firm’s roughly 700 engineers are increasingly using Anthropic’s Claude Code through Amazon Web Services rather than Microsoft’s GitHub AI coding tool, for performance reasons. (AI coding tools for that many engineers would likely cost at least $150,000 a year based on the lowest subscription tiers for such products.) Carusone said he’s switching even more engineers to Claude Code as GitHub changes to consumption-based pricing in June.
+Other software firms that buy services directly from Anthropic are increasingly wedded to its technology.
+A year ago, IT services firm Workato bought licenses to Anthropic’s Claude chatbot for all of its more than 1,300 employees. Internal usage of Claude spiked in the past three months after teams started using Claude to build AI agents, such as one that gathers customer spending data to draft outreach emails and update the company’s Salesforce database on its customers, according to CIO Carter Busse.
+Since November, the average number of sessions—or times employees use Claude—has quadrupled, he said. He declined to say how much Workato spends on the product but said he’s currently willing to eat the costs while employees experiment. He added that Workato estimates using the AI tools has boosted sales by as much as $1 million in the first quarter of 2026. (A Workato spokesperson declined to state total revenue for the quarter but said the company’s annual recurring revenue is over $100 million.)
+The costs have been unpredictable in other ways. Busse said that in just one day last month, an employee’s AI agent went rogue and consumed far more tokens than the company would have budgeted for one person. Busse attributed the issue to “bad code” and said Workato patched the issue.
+Monitoring Claude Usage
+Spikes in spending are even more stressful for large, publicly traded firms,
+some of which say it is depressing their margins
+.
+Kellie Romack, CIO of
+ServiceNow
+, a major IT and human resources software provider with nearly 30,000 employees, said it used up its annual budget for Anthropic tools in the first several months of the year. She echoed
+comments from Uber Chief Technology Officer Praveen Neppalli Naga
+, who ran into a similar issue. Romack said she recently met with ServiceNow Chief Financial Officer Gina Mastantuono to figure out how to contain costs so employees can keep using their Claude Enterprise accounts for the rest of the year.
+“It’s a really hard problem,” Romack said. “She’s worried, I’m worried, and we’re working together to go figure this out.”
+ServiceNow declined to specify its AI budget or cost savings from using Anthropic’s coding tools, but said they have helped teams quickly develop new tools for customers and AI agents for internal purposes, such as helping salespeople prepare for customer meetings.
+Romack has assigned a member of her team to monitor employees’ daily Anthropic usage so the company can pin down what’s causing the cost spikes and tell staff to slow down if needed.
+“You have to do it daily or the spend gets out of control,” she said.
+Johnson, the PagerDuty CIO, said he hopes the Claude tools will act like an operating system, allowing staffers across sales and engineering teams to develop applications that use data from different systems, such as Salesforce and Jira. He said each department will be responsible for managing its Claude spending, and the company will reassess its spending on the tools after six to nine months.
+“We want people to do some level of experimenting,” he said.
+‘Holy Cow’
+Others aren’t so sure if Anthropic is worth the cost right now. Scot LeVan, CIO of Connecticut-based IT services firm Telaid, said he was shocked when the cost of his Claude Enterprise account for 30 employees tripled between March and April. Employees have been using AI agents developed with Claude Code for administrative tasks such as creating spreadsheets and generating reports from those spreadsheets. But as they hit AI usage limits in their subscription plans, Anthropic began charging additional fees.
+The unexpected jump is giving him pause about trying to convince Telaid’s CEO to roll out Claude to roughly 300 more employees.
+“It’s hard to build an ROI case when you don’t know what the costs are,” he said, using the abbreviation for return on investment. “And then when the bill comes in, I’m like, holy cow.”
+One small software startup is finding creative ways to avoid soaring costs. Novaworks, which sells AI tools for human resources teams, has Claude Team subscriptions for its small team and uses Claude Code to develop software for customers, such as an AI agent that helps onboard new employees.
+Novaworks has employees first ask Claude Code to produce a plan for how it will develop an AI agent, then build on that plan in parts, adding new features as needed, said Chief Technology Officer Eswar Vandanapu. That approach consumes far fewer tokens than if Claude Code built the AI agent in one fell swoop, he said.
+“We put in all of these restrictions so that what we generate as the AI code and how we test it is very controlled,” he said."
